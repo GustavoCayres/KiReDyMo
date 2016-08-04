@@ -1,0 +1,17 @@
+class TranscriptionRegion:
+    """ Organizes the properties of each transcript region,
+        allowing different transcription speeds for each transcription region. """
+
+    def __init__(self, start_position, end_position, speed, delay):
+        self.start_position = start_position    # beginning of transcription
+        self.end_position = end_position        # ending of transcription
+        self.speed = speed                      # speed of transcription (in bases per second)
+        self.delay = delay                      # time between consecutive transcriptions in this region
+
+    def begin_transcription(self):
+        pass
+        # initiate a variable representing the current spot of the transcription
+
+    def continue_transcription(self):
+        pass
+        # update the variable previously created, taking in account the speed, ending position and delay

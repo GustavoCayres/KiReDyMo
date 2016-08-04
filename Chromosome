@@ -1,0 +1,21 @@
+class Chromosome:
+    """Class containing basic data on the chromosomes"""
+
+    def __init__(self, replication_origin, transcription_regions, length):
+        self.replication_origin = replication_origin            # position of the replication origins
+        self.transcription_regions = transcription_regions      # regions of RNA transcription on the DNA
+        self.length = length                                    # length of the chromosome
+
+    def select_origin(self):
+        """ Randomly selects the replication origin for the process """
+        """ FOR NOW, SELECTS THE ONLY REPLICATION ORIGIN """
+        return self.replication_origin
+
+    def begin_replication(self):
+        pass
+        # creates a variable marking the selected replication origin
+
+    def continue_replication(self):
+        pass
+        # updates the previous variable taking into account the SPEED OF REPLICATION, length of the chromosome
+        # and COLLISIONS!
