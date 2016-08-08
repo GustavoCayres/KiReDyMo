@@ -1,6 +1,9 @@
+from TranscriptionRegion import TranscriptionRegion
+
+
 class Chromosome:
-    """ Class containing basic data on the chromosomes """
-    """ Also control the replication process """
+    """ Class containing data on the chromosome """
+    """ Also controls the basic functions of the replication process. """
 
     def __init__(self, code, replication_origins, transcription_regions, length):
         self.code = code                                        # chromosome's identification
@@ -12,6 +15,11 @@ class Chromosome:
         """ Randomly selects the replication origin for the process """
         """ FOR NOW, SELECTS THE ONLY REPLICATION ORIGIN """
         return self.replication_origins[0]
+
+    def add_transcription_region(self, coordinates, speed, delay):
+        """ Marks a new transcription region in this chromosome """
+        new_region = TranscriptionRegion(self.code, coordinates, speed, delay)
+        self.transcription_regions.append(new_region)
 
     def begin_replication(self):
         pass
