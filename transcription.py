@@ -15,8 +15,12 @@ class Transcription:
         self.current_position = self.region.transcription_start
 
     def step(self):
+        """ Takes a step in this transcription, taking into account the region's boundaries. """
+
         if self.delay_wait > 0:
             self.delay_wait -= 1
+            if self.delay_wait == 0:
+                self.current_position = self.region.transcription_start
             return
 
         # calculating the direction transcription should occur in this region
@@ -27,5 +31,5 @@ class Transcription:
         if (direction * new_position) < (direction * self.region.transcription_end):
             self.current_position = new_position
         else:
-            self.current_position = self.region.transcription_end
+            self.current_position = None    # end of transcription removes the machinery
             self.delay_wait = self.region.delay

@@ -34,16 +34,15 @@ def main():
 
     # chromosome setup
     chromosome = Chromosome(1, [5], [], 10, 1)
-    chromosome.add_transcription_region(6, 7, 1, 10)
+    chromosome.add_transcription_region(9, 2, 1, 10)
 
     # simulation setup
     simulation = Simulation(chromosome)
     simulation.begin()
 
-    number_of_steps = 10
+    number_of_steps = 50
     while number_of_steps > 0:
-        print(simulation.replication.left_fork)
-        print(simulation.replication.right_fork)
+        print(simulation.transcriptions[0].current_position)
 
         simulation.step()
         number_of_steps -= 1
