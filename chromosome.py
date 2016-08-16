@@ -1,4 +1,4 @@
-from .transcription_region import TranscriptionRegion
+from transcription_region import TranscriptionRegion
 
 
 class Chromosome:
@@ -16,10 +16,10 @@ class Chromosome:
         self.transcription_regions = transcription_regions      # regions of RNA transcription on the DNA
         self.length = length                                    # length of the chromosome
 
-    def add_transcription_region(self, coordinates, speed, delay):
+    def add_transcription_region(self, transcription_start, transcription_end, speed, delay):
         """ Marks a new transcription region in this chromosome """
 
-        new_region = TranscriptionRegion(self.code, coordinates, speed, delay)
+        new_region = TranscriptionRegion(self.code, transcription_start, transcription_end, speed, delay)
         self.transcription_regions.append(new_region)
 
     def select_origin(self):
