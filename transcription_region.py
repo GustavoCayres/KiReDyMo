@@ -10,10 +10,3 @@ class TranscriptionRegion:
         self.speed = speed                                # speed of transcription (in bases per second)
         self.delay = delay                                # time between consecutive transcriptions in this region
 
-    def adjusted_transcription_speed(self):
-        """ Speed of the transcription process, taking in account the direction of the movement. """
-
-        speed = self.speed
-        if self.transcription_start > self.transcription_end:
-            speed *= -1
-        return speed

@@ -1,46 +1,33 @@
 from chromosome import Chromosome
+from replication import Replication
+from transcription import Transcription
 
 
 class Simulation:
-    """ Class responsible for controlling the steps of the replication process. """
+    """ Class controlling the overall progress of the simulation. """
 
     def __init__(self, chromosome):
         self.chromosome = chromosome
-        self.replication_origin = None
-        self.replication_left_fork = None
-        self.replication_right_fork = None
-        self.transcriptions_current_positions = {}   # key is the transcription region,
-        # value is the integer representing the position
-
-    def begin_replication(self):
-        """ Begin the replication process, which consists in choosing an origin and starting the transcription
-         process in each transcription region. """
-
-        self.replication_origin = self.chromosome.select_origin()
-        self.replication_left_fork = self.replication_right_fork = self.replication_origin
-        self.begin_transcriptions()
-
-    def begin_transcriptions(self):
-        """ Begin transcription in each transcription region. """
-
+        self.replication = Replication(self.chromosome)
+        self.transcriptions = []
         for transcription_region in self.chromosome.transcription_regions:
-            key = transcription_region
-            self.transcriptions_current_positions[key] = transcription_region.transcription_start
+            self.transcriptions.append(Transcription(transcription_region))
+
+    def begin(self):
+        """ Begins the simulation, activating the replication and all the transcriptions. """
+
+        self.replication.begin()
+        for transcription in self.transcriptions:
+            transcription.begin()
 
     def step(self):
         """ Move one step forward in the simulation, updating the position of each machinery (both for replication and
         for transcription). """
 
-        self.replication_left_fork -= self.chromosome.replication_speed
-        if self.replication_left_fork < 0:      # verifies if the left replication ended
-            self.replication_left_fork = 0
+        self.replication.step()
 
-        self.replication_right_fork += self.chromosome.replication_speed
-        if self.replication_right_fork >= self.chromosome.length:      # verifies if the right replication ended
-            self.replication_right_fork = self.chromosome.length - 1
-
-        for key in self.transcriptions_current_positions:                        # each key is a transcription region
-            self.transcriptions_current_positions[key] += key.adjusted_transcription_speed()
+        for transcription in self.transcriptions:
+            transcription.step()
 
 
 def main():
