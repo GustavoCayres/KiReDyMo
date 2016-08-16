@@ -3,15 +3,13 @@ from .transcription_region import TranscriptionRegion
 
 class Chromosome:
     """ Class containing data on the chromosome """
-    """ Also controls the basic functions of the replication process. """
+    """ Also provides basic information to the replication process. """
 
     def __init__(self, code, replication_origins, transcription_regions, length):
         """ A chromosome named 'code' consists of two parallel DNA strands with length 'length', therefore it has bases
         numbered from 0 to 'length'-1. """
-        """ It's replication origins are tuples of 2 integers stored in the list 'replication origins';
-         the first integer represents the position of first base, whereas the last integer represents the position of
-         the last base + 1.
-        It's transcription regions are objects stored in the same way as the replication origins. """
+        """ It's replication origins are integers stored in the list 'replication origins';
+        It's transcription regions are classes of their own. """
 
         self.code = code                                        # chromosome's identification
         self.replication_origins = replication_origins          # position of the replication origins
@@ -29,3 +27,8 @@ class Chromosome:
 
         chosen_index = 0              # In the future, it'll be selected as a random variable of some distribution
         return self.replication_origins[chosen_index]
+
+    def replication_speed(self):
+        """ Returns the speed of the replication in this chromosome. """
+
+        return 1

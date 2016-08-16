@@ -21,6 +21,13 @@ class Simulation:
         """ Begin transcription in each transcription region. """
 
         for transcription_region in self.chromosome.transcription_regions:
-            transcription_region.begin_transcription()
             key = transcription_region
             self.transcriptions_current_positions[key] = transcription_region.starting_base()
+
+    def step(self):
+        """ Move one step forward in the simulation, updating the position of each machinery (both for replication and
+        for transcription """
+
+        self.replication_left_fork -= self.chromosome.replication_speed()
+        self.replication_right_fork += self.chromosome.replication_speed()
+        pass
