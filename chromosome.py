@@ -5,7 +5,7 @@ class Chromosome:
     """ Class containing data on the chromosome """
     """ Also provides basic information to the replication process. """
 
-    def __init__(self, code, replication_origins, transcription_regions, length):
+    def __init__(self, code, replication_origins, transcription_regions, length, replication_speed):
         """ A chromosome named 'code' consists of two parallel DNA strands with length 'length', therefore it has bases
         numbered from 0 to 'length'-1. """
         """ It's replication origins are integers stored in the list 'replication origins';
@@ -15,6 +15,7 @@ class Chromosome:
         self.replication_origins = replication_origins          # position of the replication origins
         self.transcription_regions = transcription_regions      # regions of RNA transcription on the DNA
         self.length = length                                    # length of the chromosome
+        self.speed = replication_speed
 
     def add_transcription_region(self, transcription_start, transcription_end, speed, delay):
         """ Marks a new transcription region in this chromosome """
@@ -27,8 +28,3 @@ class Chromosome:
 
         chosen_index = 0              # In the future, it'll be selected as a random variable of some distribution
         return self.replication_origins[chosen_index]
-
-    def replication_speed(self):
-        """ Returns the speed of the replication in this chromosome. """
-
-        return 1
