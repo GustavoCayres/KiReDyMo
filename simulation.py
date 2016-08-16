@@ -32,21 +32,15 @@ class Simulation:
         for transcription). """
 
         self.replication_left_fork -= self.chromosome.replication_speed
+        if self.replication_left_fork < 0:      # verifies if the left replication ended
+            self.replication_left_fork = 0
+
         self.replication_right_fork += self.chromosome.replication_speed
+        if self.replication_right_fork >= self.chromosome.length:      # verifies if the right replication ended
+            self.replication_right_fork = self.chromosome.length - 1
+
         for key in self.transcriptions_current_positions:                        # each key is a transcription region
             self.transcriptions_current_positions[key] += key.adjusted_transcription_speed()
-
-    def validate_state(self):
-        """ Tests the bounds of the simulation, such as chromosome's and transcription regions' lengths. """
-
-        valid = True
-        for region, position in self.transcriptions_current_positions.items():
-            if position < region.transcription_start or position > region.transcription_end:
-                valid = False
-
-
-        return valid
-        # return (self.replication_left_fork >= 0) and (self.replication_right_fork < self.chromosome.length)
 
 
 def main():
@@ -59,12 +53,13 @@ def main():
     simulation = Simulation(chromosome)
     simulation.begin_replication()
 
-
-    i = 0
-    while i < 5:
+    number_of_steps = 10
+    while number_of_steps > 0:
         print(simulation.replication_left_fork)
+        print(simulation.replication_right_fork)
+
         simulation.step()
-        i += 1
+        number_of_steps -= 1
 
 if __name__ == "__main__":
     main()
