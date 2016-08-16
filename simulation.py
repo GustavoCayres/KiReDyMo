@@ -38,12 +38,12 @@ def main():
 
     # simulation setup
     simulation = Simulation(chromosome)
-    simulation.begin_replication()
+    simulation.begin()
 
     number_of_steps = 10
     while number_of_steps > 0:
-        print(simulation.replication_left_fork)
-        print(simulation.replication_right_fork)
+        print(simulation.replication.left_fork)
+        print(simulation.replication.right_fork)
 
         simulation.step()
         number_of_steps -= 1

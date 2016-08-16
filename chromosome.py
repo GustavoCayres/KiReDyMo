@@ -15,7 +15,7 @@ class Chromosome:
         self.replication_origins = replication_origins          # position of the replication origins
         self.transcription_regions = transcription_regions      # regions of RNA transcription on the DNA
         self.length = length                                    # length of the chromosome
-        self.speed = replication_speed
+        self.replication_speed = replication_speed
 
     def add_transcription_region(self, transcription_start, transcription_end, speed, delay):
         """ Marks a new transcription region in this chromosome """
