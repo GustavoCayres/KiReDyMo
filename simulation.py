@@ -35,7 +35,7 @@ class Simulation:
 def main():
 
     # chromosome setup
-    chromosome = Chromosome(1, [5], [], 10, 1)
+    chromosome = Chromosome(1, [5], [], 10, 1, 5)
     chromosome.add_transcription_region(9, 2, 1, 10)
 
     # simulation setup
@@ -45,7 +45,8 @@ def main():
     number_of_steps = 50
     while number_of_steps > 0:
         print(simulation.transcriptions[0].current_position)
-
+        print(simulation.replication.left_fork)
+        print(simulation.replication.right_fork)
         simulation.step()
         number_of_steps -= 1
 

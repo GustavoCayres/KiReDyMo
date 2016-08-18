@@ -8,6 +8,9 @@ class Collision:
     def verify_collision(replication, transcription):
         """ Verifies whether there is an imminent collision between a transcription and a replication. """
 
+        if transcription.current_position is None:
+            return None, None
+
         added_speed = transcription.region.speed + replication.chromosome.replication_speed
         subtracted_speed = replication.chromosome.replication_speed - transcription.region.speed
         if transcription.direction > 0:
