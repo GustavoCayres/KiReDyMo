@@ -1,6 +1,7 @@
 from chromosome import Chromosome
 from replication import Replication
 from transcription import Transcription
+from collision import Collision
 
 
 class Simulation:
@@ -24,8 +25,9 @@ class Simulation:
         """ Move one step forward in the simulation, updating the position of each machinery (both for replication and
         for transcription). """
 
-        self.replication.step()
+        Collision.resolve_collisions(self.replication, self.transcriptions)
 
+        self.replication.step()
         for transcription in self.transcriptions:
             transcription.step()
 

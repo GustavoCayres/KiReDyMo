@@ -9,4 +9,3 @@ class TranscriptionRegion:
         self.transcription_end = transcription_end        # coordinate of the transcription's end (closed interval)
         self.speed = speed                                # speed of transcription (in bases per second)
         self.delay = delay                                # time between consecutive transcriptions in this region
-

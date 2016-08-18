@@ -6,6 +6,8 @@ class Replication:
         self.origin = None
         self.left_fork = None
         self.right_fork = None
+        self.left_repair_wait = 0
+        self.right_repair_wait = 0
 
     def begin(self):
         """ Begins the replication process, which consists in choosing an origin and starting the transcription
@@ -17,10 +19,24 @@ class Replication:
     def step(self):
         """ Takes a step in the replication, taking into account the chromosome's boundaries. """
 
-        self.left_fork -= self.chromosome.replication_speed
-        if self.left_fork < 0:  # verifies if the left replication ended
-            self.left_fork = 0
+        if self.left_repair_wait > 0:
+            self.left_repair_wait -= 1
+        else:
+            self.left_fork -= self.chromosome.replication_speed
+            if self.left_fork < 0:                                    # verifies if the left replication ended
+                self.left_fork = 0
 
-        self.right_fork += self.chromosome.replication_speed
-        if self.right_fork >= self.chromosome.length:  # verifies if the right replication ended
-            self.right_fork = self.chromosome.length - 1
+        if self.right_repair_wait > 0:
+            self.right_repair_wait -= 1
+        else:
+            self.right_fork += self.chromosome.replication_speed
+            if self.right_fork >= self.chromosome.length:            # verifies if the right replication ended
+                self.right_fork = self.chromosome.length - 1
+
+    def pause(self, fork):
+        """ Pauses the replication for a certain duration to allow repairs. """
+
+        if fork == "left":
+            self.left_repair_wait = self.chromosome.repair_duration + 1    # compensates the step taken after the pause
+        else:
+            self.right_repair_wait = self.chromosome.repair_duration + 1
