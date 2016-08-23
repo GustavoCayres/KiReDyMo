@@ -15,7 +15,7 @@ class Chromosome:
         self.replication_origins = replication_origins          # array with position of the replication origins
         self.transcription_regions = transcription_regions      # array with regions of RNA transcription on the DNA
         self.length = length                                    # int with length of the chromosome
-        self.replication_speed = replication_speed              # int with speed of the replication's forks
+        self.replication_speed = replication_speed              # int with speed of the replication's forks (bases/s)
         self.repair_duration = repair_duration                  # int with the duration of pauses after head collisions
 
     def add_transcription_region(self, transcription_start, transcription_end, speed, delay):

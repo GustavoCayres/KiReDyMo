@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from chromosome import Chromosome
 from replication import Replication
 from transcription import Transcription
@@ -35,19 +37,18 @@ class Simulation:
 def main():
 
     # chromosome setup
-    chromosome = Chromosome(1, [5], [], 10, 1, 5)
-    chromosome.add_transcription_region(9, 2, 1, 10)
+    chromosome = Chromosome("c_test1", [200000], [], 550000, 50, 10)
+    chromosome.add_transcription_region(20000, 30000, 30, 20)
 
     # simulation setup
     simulation = Simulation(chromosome)
     simulation.begin()
 
-    number_of_steps = 50
+    number_of_steps = 50000
     while number_of_steps > 0:
-        print(simulation.transcriptions[0].current_position)
-        print(simulation.replication.left_fork)
-        print(simulation.replication.right_fork)
         simulation.step()
+        print(simulation.replication.left_fork, simulation.replication.right_fork)
+        print("--------------------------------------------")
         number_of_steps -= 1
 
 if __name__ == "__main__":

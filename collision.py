@@ -14,15 +14,23 @@ class Collision:
         added_speed = transcription.region.speed + replication.chromosome.replication_speed
         subtracted_speed = replication.chromosome.replication_speed - transcription.region.speed
         if transcription.direction > 0:
-            if 0 < replication.left_fork - transcription.current_position <= added_speed:
-                return "left", "head"
-            if 0 < transcription.current_position - replication.right_fork <= subtracted_speed:
-                return "right", "tail"
+            if replication.left_fork is not None:
+                if 0 < replication.left_fork - transcription.current_position <= added_speed:
+                    print("Collision!!")
+                    return "left", "head"
+            if replication.right_fork is not None:
+                if 0 < transcription.current_position - replication.right_fork <= subtracted_speed:
+                    print("Collision!!")
+                    return "right", "tail"
         else:
-            if 0 < transcription.current_position - replication.right_fork <= added_speed:
-                return "right", "head"
-            if 0 < replication.left_fork - transcription.current_position <= subtracted_speed:
-                return "left", "tail"
+            if replication.right_fork is not None:
+                if 0 < transcription.current_position - replication.right_fork <= added_speed:
+                    print("Collision!!")
+                    return "right", "head"
+            if replication.left_fork is not None:
+                if 0 < replication.left_fork - transcription.current_position <= subtracted_speed:
+                    print("Collision!!")
+                    return "left", "tail"
         return None, None
 
     @staticmethod
