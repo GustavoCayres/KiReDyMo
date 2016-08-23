@@ -36,4 +36,3 @@ class Transcription:
 
         self.current_position = None       # end of transcription removes the machinery
         self.delay_wait = self.region.delay + 1       # compensates the step taken after the end
-

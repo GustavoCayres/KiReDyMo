@@ -11,12 +11,12 @@ class Chromosome:
         """ It's replication origins are integers stored in the list 'replication origins';
         It's transcription regions are classes of their own. """
 
-        self.code = code                                        # chromosome's identification
-        self.replication_origins = replication_origins          # position of the replication origins
-        self.transcription_regions = transcription_regions      # regions of RNA transcription on the DNA
-        self.length = length                                    # length of the chromosome
-        self.replication_speed = replication_speed
-        self.repair_duration = repair_duration
+        self.code = code                                        # string with chromosome's identification
+        self.replication_origins = replication_origins          # array with position of the replication origins
+        self.transcription_regions = transcription_regions      # array with regions of RNA transcription on the DNA
+        self.length = length                                    # int with length of the chromosome
+        self.replication_speed = replication_speed              # int with speed of the replication's forks
+        self.repair_duration = repair_duration                  # int with the duration of pauses after head collisions
 
     def add_transcription_region(self, transcription_start, transcription_end, speed, delay):
         """ Marks a new transcription region in this chromosome """
