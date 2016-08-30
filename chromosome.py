@@ -18,6 +18,24 @@ class Chromosome:
         self.replication_speed = replication_speed              # int with speed of the replication's forks (bases/s)
         self.repair_duration = repair_duration                  # int with the duration of pauses after head collisions
 
+    def __str__(self):
+
+        list_representation = list()
+        list_representation.append("Chromosome: " + self.code)
+        list_representation.append("Origins: " + str(self.replication_origins))
+        list_representation.append("Length: " + str(self.length))
+        list_representation.append("Replication Speed: " + str(self.replication_speed))
+        list_representation.append("Repair Duration: " + str(self.repair_duration))
+        list_representation.append("Transcription Regions: ")
+
+        regions = ""
+        for region in self.transcription_regions:
+
+            regions += str(region)
+        list_representation.append(regions)
+
+        return "\n".join(list_representation)
+
     def add_transcription_region(self, transcription_start, transcription_end, speed, delay):
         """ Marks a new transcription region in this chromosome """
 

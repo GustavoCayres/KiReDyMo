@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 
-from chromosome import Chromosome
 from replication import Replication
 from transcription import Transcription
 from collision import Collision
+from xml_import import XmlImport
 
 
 class Simulation:
@@ -37,19 +37,17 @@ class Simulation:
 def main():
 
     # chromosome setup
-    chromosome = Chromosome("c_test1", [200000], [], 550000, 50, 10)
-    chromosome.add_transcription_region(20000, 30000, 30, 20)
+    chromosome = XmlImport.import_chromosome("chromosome6.xml")
 
     # simulation setup
     simulation = Simulation(chromosome)
     simulation.begin()
-
-    number_of_steps = 50000
-    while number_of_steps > 0:
+    steps = 0
+    while simulation.replication.left_fork is not None or simulation.replication.right_fork is not None:
         simulation.step()
+        steps += 1
         print(simulation.replication.left_fork, simulation.replication.right_fork)
         print("--------------------------------------------")
-        number_of_steps -= 1
-
+    print("Total steps: ", steps)
 if __name__ == "__main__":
     main()
