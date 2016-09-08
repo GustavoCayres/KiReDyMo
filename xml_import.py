@@ -8,6 +8,7 @@ class XmlImport:
     @staticmethod
     def import_chromosome(file):
         """ Imports the chromosomes transcription regions from XML file 'file'. """
+
         chromosome = Chromosome("c_test1", [20000], [], 65000, 50, 10)
         tree = ETree.parse(file)
         root = tree.getroot()

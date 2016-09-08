@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+from chromosome import Chromosome
 from replication import Replication
 from transcription import Transcription
 from collision import Collision
@@ -37,7 +38,10 @@ class Simulation:
 def main():
 
     # chromosome setup
-    chromosome = XmlImport.import_chromosome("chromosome6.xml")
+    chromosome = Chromosome('c1', [5], [], 10, 4, 2)
+    chromosome.add_transcription_region(2, 3, 1, 10)
+    chromosome.add_transcription_region(8, 7, 1, 10)
+    print(chromosome)
 
     # simulation setup
     simulation = Simulation(chromosome)
