@@ -1,0 +1,740 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<response>
+<recordset id='8ce870ca84d7f0a475f9775f5d6cd0ff' count='147' type='Gene'>
+<record id='CFAC1_060005700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060005700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 9,341 - 11,761 (-)]]></field>
+
+</record>
+<record id='CFAC1_060005800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060005800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 12,562 - 15,492 (-)]]></field>
+
+</record>
+<record id='CFAC1_060005900'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060005900]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 16,475 - 17,212 (+)]]></field>
+
+</record>
+<record id='CFAC1_060006000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060006000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 18,299 - 19,525 (+)]]></field>
+
+</record>
+<record id='CFAC1_060006100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060006100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 20,726 - 21,871 (+)]]></field>
+
+</record>
+<record id='CFAC1_060006200'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060006200]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 23,024 - 24,028 (+)]]></field>
+
+</record>
+<record id='CFAC1_060006300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060006300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 24,876 - 26,096 (+)]]></field>
+
+</record>
+<record id='CFAC1_060006400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060006400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 26,703 - 29,336 (+)]]></field>
+
+</record>
+<record id='CFAC1_060006500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060006500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 29,968 - 32,139 (+)]]></field>
+
+</record>
+<record id='CFAC1_060006600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060006600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 33,307 - 35,070 (+)]]></field>
+
+</record>
+<record id='CFAC1_060006700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060006700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 36,262 - 37,041 (+)]]></field>
+
+</record>
+<record id='CFAC1_060006800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060006800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 38,083 - 40,848 (+)]]></field>
+
+</record>
+<record id='CFAC1_060006900'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060006900]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 41,172 - 44,171 (+)]]></field>
+
+</record>
+<record id='CFAC1_060007000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060007000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 44,810 - 45,358 (+)]]></field>
+
+</record>
+<record id='CFAC1_060007100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060007100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 46,172 - 46,573 (+)]]></field>
+
+</record>
+<record id='CFAC1_060007200'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060007200]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 47,255 - 48,199 (+)]]></field>
+
+</record>
+<record id='CFAC1_060007300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060007300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 48,914 - 51,088 (+)]]></field>
+
+</record>
+<record id='CFAC1_060007400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060007400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 51,875 - 52,426 (+)]]></field>
+
+</record>
+<record id='CFAC1_060007500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060007500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 52,990 - 54,951 (+)]]></field>
+
+</record>
+<record id='CFAC1_060007600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060007600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 55,514 - 56,251 (+)]]></field>
+
+</record>
+<record id='CFAC1_060007700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060007700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 57,355 - 59,037 (+)]]></field>
+
+</record>
+<record id='CFAC1_060007800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060007800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 60,797 - 61,960 (+)]]></field>
+
+</record>
+<record id='CFAC1_060007900'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060007900]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 62,910 - 63,836 (+)]]></field>
+
+</record>
+<record id='CFAC1_060008000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060008000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 64,929 - 67,037 (+)]]></field>
+
+</record>
+<record id='CFAC1_060008100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060008100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 69,895 - 70,359 (+)]]></field>
+
+</record>
+<record id='CFAC1_060008200'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060008200]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 70,908 - 71,156 (+)]]></field>
+
+</record>
+<record id='CFAC1_060008300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060008300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 72,121 - 73,188 (+)]]></field>
+
+</record>
+<record id='CFAC1_060008400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060008400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 73,986 - 76,436 (+)]]></field>
+
+</record>
+<record id='CFAC1_060008500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060008500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 77,059 - 79,908 (+)]]></field>
+
+</record>
+<record id='CFAC1_060008600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060008600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 81,038 - 82,378 (+)]]></field>
+
+</record>
+<record id='CFAC1_060008700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060008700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 93,097 - 99,273 (+)]]></field>
+
+</record>
+<record id='CFAC1_060008800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060008800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 101,988 - 105,026 (+)]]></field>
+
+</record>
+<record id='CFAC1_060008900'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060008900]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 106,079 - 107,995 (+)]]></field>
+
+</record>
+<record id='CFAC1_060009000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060009000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 108,498 - 109,493 (+)]]></field>
+
+</record>
+<record id='CFAC1_060009100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060009100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 112,461 - 117,620 (+)]]></field>
+
+</record>
+<record id='CFAC1_060009200'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060009200]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 118,882 - 119,790 (+)]]></field>
+
+</record>
+<record id='CFAC1_060009300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060009300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 123,900 - 127,514 (+)]]></field>
+
+</record>
+<record id='CFAC1_060009400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060009400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 131,243 - 134,515 (+)]]></field>
+
+</record>
+<record id='CFAC1_060009500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060009500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 138,490 - 139,452 (+)]]></field>
+
+</record>
+<record id='CFAC1_060009600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060009600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 141,204 - 142,400 (+)]]></field>
+
+</record>
+<record id='CFAC1_060009700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060009700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 144,896 - 145,996 (+)]]></field>
+
+</record>
+<record id='CFAC1_060009800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060009800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 148,752 - 150,020 (+)]]></field>
+
+</record>
+<record id='CFAC1_060009900'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060009900]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 153,534 - 154,487 (+)]]></field>
+
+</record>
+<record id='CFAC1_060010000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060010000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 158,128 - 159,153 (+)]]></field>
+
+</record>
+<record id='CFAC1_060010100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060010100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 161,958 - 164,042 (+)]]></field>
+
+</record>
+<record id='CFAC1_060010200'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060010200]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 166,678 - 170,934 (+)]]></field>
+
+</record>
+<record id='CFAC1_060010300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060010300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 171,698 - 172,027 (+)]]></field>
+
+</record>
+<record id='CFAC1_060010400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060010400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 172,869 - 173,198 (+)]]></field>
+
+</record>
+<record id='CFAC1_060010500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060010500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 174,555 - 179,729 (+)]]></field>
+
+</record>
+<record id='CFAC1_060010600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060010600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 184,882 - 188,049 (+)]]></field>
+
+</record>
+<record id='CFAC1_060010700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060010700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 192,274 - 193,557 (+)]]></field>
+
+</record>
+<record id='CFAC1_060010800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060010800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 194,258 - 197,320 (+)]]></field>
+
+</record>
+<record id='CFAC1_060010900'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060010900]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 197,906 - 201,004 (+)]]></field>
+
+</record>
+<record id='CFAC1_060011000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060011000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 202,513 - 205,335 (+)]]></field>
+
+</record>
+<record id='CFAC1_060011100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060011100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 206,069 - 207,811 (+)]]></field>
+
+</record>
+<record id='CFAC1_060011200'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060011200]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 209,999 - 211,741 (+)]]></field>
+
+</record>
+<record id='CFAC1_060011300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060011300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 214,576 - 215,668 (+)]]></field>
+
+</record>
+<record id='CFAC1_060011400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060011400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 217,875 - 219,632 (+)]]></field>
+
+</record>
+<record id='CFAC1_060011500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060011500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 224,633 - 231,709 (+)]]></field>
+
+</record>
+<record id='CFAC1_060011600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060011600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 232,925 - 235,507 (+)]]></field>
+
+</record>
+<record id='CFAC1_060011700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060011700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 236,411 - 242,512 (+)]]></field>
+
+</record>
+<record id='CFAC1_060011800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060011800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 243,355 - 244,545 (+)]]></field>
+
+</record>
+<record id='CFAC1_060011900'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060011900]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 244,746 - 244,821 (+)]]></field>
+
+</record>
+<record id='CFAC1_060012000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060012000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 246,368 - 250,204 (+)]]></field>
+
+</record>
+<record id='CFAC1_060012100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060012100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 250,952 - 253,186 (+)]]></field>
+
+</record>
+<record id='CFAC1_060012200'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060012200]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 254,770 - 255,774 (+)]]></field>
+
+</record>
+<record id='CFAC1_060012300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060012300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 256,815 - 257,849 (+)]]></field>
+
+</record>
+<record id='CFAC1_060012400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060012400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 258,479 - 259,009 (+)]]></field>
+
+</record>
+<record id='CFAC1_060012500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060012500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 259,899 - 263,645 (+)]]></field>
+
+</record>
+<record id='CFAC1_060012600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060012600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 264,114 - 265,331 (+)]]></field>
+
+</record>
+<record id='CFAC1_060012700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060012700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 266,839 - 267,891 (+)]]></field>
+
+</record>
+<record id='CFAC1_060012800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060012800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 268,678 - 271,911 (+)]]></field>
+
+</record>
+<record id='CFAC1_060012900'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060012900]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 272,634 - 273,572 (+)]]></field>
+
+</record>
+<record id='CFAC1_060013000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060013000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 274,586 - 276,424 (+)]]></field>
+
+</record>
+<record id='CFAC1_060013100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060013100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 278,560 - 281,454 (+)]]></field>
+
+</record>
+<record id='CFAC1_060013200'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060013200]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 284,613 - 287,060 (+)]]></field>
+
+</record>
+<record id='CFAC1_060013300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060013300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 288,066 - 289,733 (+)]]></field>
+
+</record>
+<record id='CFAC1_060014300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060014300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 339,916 - 341,460 (-)]]></field>
+
+</record>
+<record id='CFAC1_060014400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060014400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 348,337 - 350,262 (-)]]></field>
+
+</record>
+<record id='CFAC1_060014500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060014500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 354,478 - 356,619 (-)]]></field>
+
+</record>
+<record id='CFAC1_060014600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060014600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 361,206 - 365,264 (-)]]></field>
+
+</record>
+<record id='CFAC1_060014700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060014700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 370,927 - 374,109 (-)]]></field>
+
+</record>
+<record id='CFAC1_060014800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060014800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 377,604 - 380,525 (-)]]></field>
+
+</record>
+<record id='CFAC1_060014900'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060014900]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 383,908 - 385,239 (-)]]></field>
+
+</record>
+<record id='CFAC1_060015000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060015000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 388,089 - 389,639 (-)]]></field>
+
+</record>
+<record id='CFAC1_060015100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060015100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 391,358 - 394,798 (-)]]></field>
+
+</record>
+<record id='CFAC1_060015200'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060015200]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 396,268 - 400,889 (-)]]></field>
+
+</record>
+<record id='CFAC1_060015400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060015400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 404,697 - 405,401 (-)]]></field>
+
+</record>
+<record id='CFAC1_060015500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060015500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 406,018 - 406,986 (-)]]></field>
+
+</record>
+<record id='CFAC1_060015600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060015600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 409,667 - 410,596 (-)]]></field>
+
+</record>
+<record id='CFAC1_060015700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060015700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 411,793 - 413,619 (-)]]></field>
+
+</record>
+<record id='CFAC1_060015800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060015800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 414,382 - 419,456 (-)]]></field>
+
+</record>
+<record id='CFAC1_060016000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060016000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 421,189 - 423,291 (-)]]></field>
+
+</record>
+<record id='CFAC1_060016100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060016100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 424,063 - 429,854 (-)]]></field>
+
+</record>
+<record id='CFAC1_060016300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060016300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 432,953 - 434,167 (-)]]></field>
+
+</record>
+<record id='CFAC1_060016400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060016400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 435,063 - 435,653 (-)]]></field>
+
+</record>
+<record id='CFAC1_060016500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060016500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 436,439 - 439,375 (-)]]></field>
+
+</record>
+<record id='CFAC1_060016600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060016600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 440,067 - 443,967 (-)]]></field>
+
+</record>
+<record id='CFAC1_060016700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060016700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 444,834 - 478,994 (-)]]></field>
+
+</record>
+<record id='CFAC1_060017800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060017800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 483,290 - 484,174 (-)]]></field>
+
+</record>
+<record id='CFAC1_060017900'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060017900]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 485,144 - 485,452 (-)]]></field>
+
+</record>
+<record id='CFAC1_060018000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060018000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 486,279 - 488,378 (-)]]></field>
+
+</record>
+<record id='CFAC1_060018100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060018100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 489,046 - 491,148 (-)]]></field>
+
+</record>
+<record id='CFAC1_060018200'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060018200]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 491,855 - 492,991 (-)]]></field>
+
+</record>
+<record id='CFAC1_060018300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060018300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 493,738 - 494,064 (-)]]></field>
+
+</record>
+<record id='CFAC1_060018400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060018400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 494,892 - 495,218 (-)]]></field>
+
+</record>
+<record id='CFAC1_060018500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060018500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 495,678 - 498,242 (-)]]></field>
+
+</record>
+<record id='CFAC1_060018600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060018600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 499,038 - 500,870 (-)]]></field>
+
+</record>
+<record id='CFAC1_060018700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060018700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 502,083 - 503,633 (-)]]></field>
+
+</record>
+<record id='CFAC1_060018800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060018800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 504,746 - 508,285 (-)]]></field>
+
+</record>
+<record id='CFAC1_060018900'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060018900]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 511,757 - 513,910 (-)]]></field>
+
+</record>
+<record id='CFAC1_060019000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060019000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 515,146 - 516,696 (-)]]></field>
+
+</record>
+<record id='CFAC1_060019100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060019100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 518,016 - 518,453 (-)]]></field>
+
+</record>
+<record id='CFAC1_060019200'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060019200]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 519,079 - 521,421 (-)]]></field>
+
+</record>
+<record id='CFAC1_060019300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060019300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 523,010 - 523,570 (-)]]></field>
+
+</record>
+<record id='CFAC1_060019400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060019400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 524,871 - 525,431 (-)]]></field>
+
+</record>
+<record id='CFAC1_060019500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060019500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 526,575 - 527,351 (-)]]></field>
+
+</record>
+<record id='CFAC1_060019600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060019600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 528,307 - 529,698 (-)]]></field>
+
+</record>
+<record id='CFAC1_060019700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060019700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 530,667 - 536,702 (-)]]></field>
+
+</record>
+<record id='CFAC1_060019800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060019800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 537,422 - 538,644 (-)]]></field>
+
+</record>
+<record id='CFAC1_060020000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060020000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 539,529 - 541,292 (-)]]></field>
+
+</record>
+<record id='CFAC1_060020100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060020100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 542,040 - 543,071 (-)]]></field>
+
+</record>
+<record id='CFAC1_060020200'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060020200]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 544,214 - 544,858 (+)]]></field>
+
+</record>
+<record id='CFAC1_060020300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060020300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 545,335 - 546,456 (+)]]></field>
+
+</record>
+<record id='CFAC1_060020400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060020400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 547,177 - 547,545 (+)]]></field>
+
+</record>
+<record id='CFAC1_060020500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060020500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 547,725 - 548,711 (+)]]></field>
+
+</record>
+<record id='CFAC1_060020600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060020600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 549,494 - 550,162 (+)]]></field>
+
+</record>
+<record id='CFAC1_060020700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060020700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 550,979 - 551,755 (+)]]></field>
+
+</record>
+<record id='CFAC1_060020800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060020800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 552,723 - 553,214 (+)]]></field>
+
+</record>
+<record id='CFAC1_060020900'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060020900]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 553,876 - 555,282 (+)]]></field>
+
+</record>
+<record id='CFAC1_060021000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060021000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 558,119 - 560,497 (+)]]></field>
+
+</record>
+<record id='CFAC1_060021100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060021100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 562,375 - 563,559 (+)]]></field>
+
+</record>
+<record id='CFAC1_060021200'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060021200]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 565,585 - 568,020 (+)]]></field>
+
+</record>
+<record id='CFAC1_060021300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060021300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 571,038 - 571,601 (+)]]></field>
+
+</record>
+<record id='CFAC1_060021400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060021400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 574,966 - 575,616 (+)]]></field>
+
+</record>
+<record id='CFAC1_060021500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060021500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 580,774 - 583,173 (+)]]></field>
+
+</record>
+<record id='CFAC1_060021600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060021600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 584,373 - 585,326 (+)]]></field>
+
+</record>
+<record id='CFAC1_060021700'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060021700]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 586,283 - 588,745 (+)]]></field>
+
+</record>
+<record id='CFAC1_060021800'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060021800]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 589,385 - 591,061 (+)]]></field>
+
+</record>
+<record id='CFAC1_060021900'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060021900]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 592,081 - 593,490 (+)]]></field>
+
+</record>
+<record id='CFAC1_060022000'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060022000]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 594,666 - 595,634 (+)]]></field>
+
+</record>
+<record id='CFAC1_060022100'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060022100]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 596,325 - 597,869 (+)]]></field>
+
+</record>
+<record id='CFAC1_060022200'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060022200]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 598,424 - 601,432 (+)]]></field>
+
+</record>
+<record id='CFAC1_060022300'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060022300]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 604,369 - 605,163 (+)]]></field>
+
+</record>
+<record id='CFAC1_060022400'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060022400]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 606,571 - 607,560 (+)]]></field>
+
+</record>
+<record id='CFAC1_060022500'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060022500]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 608,053 - 609,066 (+)]]></field>
+
+</record>
+<record id='CFAC1_060022600'>
+<field name='primary_key' title='Gene ID'><![CDATA[CFAC1_060022600]]></field>
+<field name='dynamic_location' title='Genomic Location(s)'><![CDATA[CfaC1_06: 611,710 - 613,296 (+)]]></field>
+
+</record>
+</recordset>
+</response>
