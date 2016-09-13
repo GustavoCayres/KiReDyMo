@@ -34,7 +34,7 @@ class Replication:
             self.right_repair_wait -= 1
         else:
             self.right_fork += self.chromosome.replication_speed
-            if self.right_fork >= self.chromosome.length:            # verifies if the right replication ended
+            if self.right_fork >= self.chromosome.length:             # verifies if the right replication ended
                 self.right_fork = None
 
     def pause(self, fork):

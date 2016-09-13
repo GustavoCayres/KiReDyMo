@@ -1,8 +1,9 @@
 import unittest
-from chromosome import Chromosome
-from transcription_region import TranscriptionRegion
-from transcription import Transcription
-from replication import Replication
+from source.chromosome import Chromosome
+from source.transcription_region import TranscriptionRegion
+from source.transcription import Transcription
+from source.replication import Replication
+from source.simulation import Simulation
 
 
 class TestChromosomeMethods(unittest.TestCase):
@@ -127,6 +128,21 @@ class TestReplicationMethods(unittest.TestCase):
         self.replication.step()
         self.assertEqual(self.replication.left_fork, 4)
         self.assertEqual(self.replication.right_fork, 7)
+
+
+class TestSimulationMethods(unittest.TestCase):
+
+    def setUp(self):
+        self.chromosome = Chromosome("c1", [5], [], 8, 1, 5)
+        self.chromosome.add_transcription_region(2, 3, 1, 10)
+        self.chromosome.add_transcription_region(8, 7, 1, 10)
+        self.simulation = Simulation(self.chromosome)
+
+    def test_begin(self):
+        self.simulation.begin()
+        self.assertEqual(self.simulation.replication.origin, 5)
+        self.assertEqual(self.simulation.transcriptions[0].current_position, 2)
+        self.assertEqual(self.simulation.transcriptions[1].current_position, 8)
 
 if __name__ == '__main__':
     unittest.main()

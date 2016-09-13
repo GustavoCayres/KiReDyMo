@@ -1,4 +1,4 @@
-from transcription_region import TranscriptionRegion
+from .transcription_region import TranscriptionRegion
 import re
 
 
@@ -50,8 +50,8 @@ class Chromosome:
         return self.replication_origins[chosen_index]
 
     # ongoing
+    """
     def add_origins(self, file_name):
-        """ Adds replication origins to this chromosome from a .wig file. """
 
         file = open(file_name, 'r')
         origin_value =
@@ -68,3 +68,4 @@ class Chromosome:
         if wig_header is None:
             print("Chromosome code not found in .wig file.")
             return
+        """

@@ -1,10 +1,9 @@
 #!/usr/bin/env python
 
-from chromosome import Chromosome
-from replication import Replication
-from transcription import Transcription
-from collision import Collision
-from xml_import import XmlImport
+from .chromosome import Chromosome
+from .replication import Replication
+from .transcription import Transcription
+from .collision import Collision
 
 
 class Simulation:
