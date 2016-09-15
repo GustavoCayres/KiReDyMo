@@ -75,7 +75,9 @@ class DatabaseSeed:
         """ Insert an organism with the specified name. """
 
         cursor = self.connection.cursor()
-        cursor.execute("INSERT INTO TABLE Organisms VALUES (?)", organism_name)
+
+        organism = (organism_name,)
+        cursor.execute("INSERT INTO Organisms VALUES (?)", organism)
 
         self.connection.commit()
 
@@ -142,7 +144,7 @@ class DatabaseSeed:
         self.connection.commit()
         file.close()
 
-    def close_connection(self):
+    def close(self):
         self.connection.close()
 
     def insert_replication_origins(self, origin, chromosome_code):
@@ -156,12 +158,13 @@ class DatabaseSeed:
         self.connection.commit()
 
 
-def main():
+def test():
     xml = DatabaseSeed('simulation_db.sqlite')
     xml.create_tables()
+    xml.insert_organism("homem")
     xml.insert_chromosomes("chromosome1.txt", 10, 10)
     xml.insert_replication_origins(20, "crazy")
-    xml.close_connection()
+    xml.close()
 
 if __name__ == "__main__":
-    main()
+    test()
