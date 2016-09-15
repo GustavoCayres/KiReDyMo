@@ -40,7 +40,7 @@ class Chromosome:
     def add_transcription_region(self, transcription_start, transcription_end, speed, delay):
         """ Marks a new transcription region in this chromosome. """
 
-        new_region = TranscriptionRegion(self.code, transcription_start, transcription_end, speed, delay)
+        new_region = TranscriptionRegion(transcription_start, transcription_end, speed, delay)
         self.transcription_regions.append(new_region)
 
     def select_origin(self):

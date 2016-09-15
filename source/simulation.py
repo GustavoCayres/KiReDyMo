@@ -36,6 +36,7 @@ class Simulation:
 
 def main():
 
+    # TODO: Seed the database with a toy organism.
     # chromosome setup
     chromosome = Chromosome('c1', [5], [], 10, 4, 2)
     chromosome.add_transcription_region(2, 3, 1, 10)
@@ -52,5 +53,6 @@ def main():
         print(simulation.replication.left_fork, simulation.replication.right_fork)
         print("--------------------------------------------")
     print("Total steps: ", steps)
+
 if __name__ == "__main__":
     main()

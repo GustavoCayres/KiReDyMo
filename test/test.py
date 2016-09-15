@@ -17,7 +17,6 @@ class TestChromosomeMethods(unittest.TestCase):
         self.assertIsInstance(self.chromosome.transcription_regions, list)
         transcription_region = self.chromosome.transcription_regions[0]
         self.assertIsInstance(transcription_region, TranscriptionRegion)
-        self.assertEqual(transcription_region.chromosome_code, "c1")
         self.assertEqual(transcription_region.transcription_start, 2)
         self.assertEqual(transcription_region.transcription_end, 5)
         self.assertEqual(transcription_region.speed, 2)
@@ -31,7 +30,7 @@ class TestTranscriptionBasicMethods(unittest.TestCase):
     """ Basic tests. """
 
     def setUp(self):
-        self.transcription_region = TranscriptionRegion("c1", 2, 5, 3, 10)
+        self.transcription_region = TranscriptionRegion(2, 5, 3, 10)
         self.transcription = Transcription(self.transcription_region)
         self.transcription.begin()
 
@@ -53,7 +52,7 @@ class TestTranscriptionStepMethod(unittest.TestCase):
     def test_intermediate_step(self):
         """ Tests a step in an intermediate point of the transcription. """
 
-        self.transcription_region = TranscriptionRegion("c1", 10, 2, 3, 15)
+        self.transcription_region = TranscriptionRegion(10, 2, 3, 15)
         self.transcription = Transcription(self.transcription_region)
         self.transcription.begin()
         self.assertEqual(self.transcription.direction, -1)
@@ -64,7 +63,7 @@ class TestTranscriptionStepMethod(unittest.TestCase):
     def test_end_step(self):
         """ Tests a step that leads to ending the transcription. """
 
-        self.transcription_region = TranscriptionRegion("c1", 2, 5, 3, 10)
+        self.transcription_region = TranscriptionRegion(2, 5, 3, 10)
         self.transcription = Transcription(self.transcription_region)
         self.transcription.begin()
         self.assertEqual(self.transcription.direction, 1)
@@ -75,7 +74,7 @@ class TestTranscriptionStepMethod(unittest.TestCase):
     def test_consecutive_steps(self):
         """ Tests taking a step during the delay. """
 
-        self.transcription_region = TranscriptionRegion("c1", 2, 5, 2, 10)
+        self.transcription_region = TranscriptionRegion(2, 5, 2, 10)
         self.transcription = Transcription(self.transcription_region)
         self.transcription.begin()
         self.assertEqual(self.transcription.direction, 1)
