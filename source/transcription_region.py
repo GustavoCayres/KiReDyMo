@@ -10,4 +10,4 @@ class TranscriptionRegion:
         self.delay = delay                                # time between consecutive transcriptions in this region
 
     def __str__(self):
-        return "(" + str(self.transcription_start) + " " + str(self.transcription_end) + ")"
+        return "(" + str(self.transcription_start) + ", " + str(self.transcription_end) + ")"

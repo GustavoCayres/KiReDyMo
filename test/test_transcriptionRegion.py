@@ -3,21 +3,15 @@ from source.transcription_region import TranscriptionRegion
 
 
 class TestTranscriptionRegion(TestCase):
-    """ Basic tests. """
-
     def setUp(self):
-        self.transcription_region = TranscriptionRegion(2, 5, 3, 10)
-        self.transcription = Transcription(self.transcription_region)
-        self.transcription.begin()
+        self.transcription_region = TranscriptionRegion(20, 80, 5, 7)
 
-    def test_begin(self):
-        self.assertEqual(self.transcription.current_position, 2)
+    def test___init__(self):
+        self.assertEqual(self.transcription_region.transcription_start, 20)
+        self.assertEqual(self.transcription_region.transcription_end, 80)
+        self.assertEqual(self.transcription_region.speed, 5)
+        self.assertEqual(self.transcription_region.delay, 7)
 
-    def test_step(self):
-        # Look for specific class.
-        pass
-
-    def test_finish(self):
-        self.transcription.finish()
-        self.assertIsNone(self.transcription.current_position)
-        self.assertEqual(self.transcription.delay_wait, 11)
+    def test___str__(self):
+        converted_region = str(self.transcription_region)
+        self.assertEqual(converted_region, "(20, 80)")

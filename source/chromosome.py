@@ -19,7 +19,6 @@ class Chromosome:
         self.repair_duration = repair_duration                  # int with the duration of pauses after head collisions
 
     def __str__(self):
-
         list_representation = list()
         list_representation.append("Chromosome: " + self.code)
         list_representation.append("Origins: " + str(self.replication_origins))
