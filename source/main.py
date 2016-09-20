@@ -7,7 +7,6 @@ import sys
 
 
 def main(organism_name, database_path):
-
     # chromosome setup
     db = DatabaseImport(database_path)
     chromosome = db.import_chromosome_by_organism(organism_name)

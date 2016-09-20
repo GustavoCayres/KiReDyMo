@@ -24,7 +24,7 @@ class Simulation:
         """ Move one step forward in the simulation, updating the position of each machinery (both for replication and
         for transcription). """
 
-        Collision.resolve_collisions(self.replication, self.transcriptions)
+        Collision.resolve(self.replication, self.transcriptions)
 
         self.replication.step()
         for transcription in self.transcriptions:
