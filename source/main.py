@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+# Run with python3 -m source.main 'Trypanosoma test' db/simulation_db.sqlite
 
 from .simulation import Simulation
 from db.database_import import DatabaseImport
@@ -7,9 +8,7 @@ import sys
 
 def main(organism_name, database_path):
 
-    # TODO: Seed the database with a toy organism.
     # chromosome setup
-    print(database_path)
     db = DatabaseImport(database_path)
     chromosome = db.import_chromosome_by_organism(organism_name)
     print(chromosome)

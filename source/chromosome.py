@@ -1,5 +1,4 @@
 from .transcription_region import TranscriptionRegion
-import re
 
 
 class Chromosome:
@@ -48,24 +47,3 @@ class Chromosome:
 
         chosen_index = 0              # In the future, it'll be selected as a random variable of some distribution
         return self.replication_origins[chosen_index]
-
-    # ongoing
-    """
-    def add_origins(self, file_name):
-
-        file = open(file_name, 'r')
-        origin_value =
-        should_read_values = False
-        for line in file:
-            reg = re.search('(?<=chrom=)\w+', line)
-            if reg is not None:
-                if reg.group(0) == self.code:
-                    should_read_values = True
-                else:
-                    should_read_values = False
-            elif should_read_values:
-
-        if wig_header is None:
-            print("Chromosome code not found in .wig file.")
-            return
-        """

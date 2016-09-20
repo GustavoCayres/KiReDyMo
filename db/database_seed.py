@@ -158,13 +158,16 @@ class DatabaseSeed:
         self.connection.commit()
 
 
-def test():
-    xml = DatabaseSeed('simulation_db.sqlite')
-    xml.create_tables()
-    xml.insert_organism("homem")
-    xml.insert_chromosomes("chromosome1.txt", 10, 10)
-    xml.insert_replication_origins(20, "crazy")
-    xml.close()
+def main():
+    # Seed the database with a toy organism.
+
+    db = DatabaseSeed('simulation_db.sqlite')
+    db.create_tables()
+    db.insert_organism("Trypanosoma test")
+    db.insert_chromosomes("trypanosoma_test_chromosome1.txt", 10, 10)
+    db.insert_replication_origins(10, "TtChr1")
+    db.insert_transcription_regions("TtChr1_regions.txt", 10, 10)
+    db.close()
 
 if __name__ == "__main__":
-    test()
+    main()
