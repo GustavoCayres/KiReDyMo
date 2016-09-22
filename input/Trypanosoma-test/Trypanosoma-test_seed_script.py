@@ -4,7 +4,7 @@
 from db.database_seed import DatabaseSeed
 
 
-db = DatabaseSeed('simulation_db.sqlite')
+db = DatabaseSeed('db/simulation_db.sqlite')
 db.drop_tables()
 db.create_tables()
 db.insert_organism("Trypanosoma test")

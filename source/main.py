@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Run with python3 -m source.main 'Trypanosoma test' db/simulation_db.sqlite
+# Run with python3 -m source.main 'Organism name' db/simulation_db.sqlite
 
 from .simulation import Simulation
 from db.database_import import DatabaseImport
@@ -16,7 +16,8 @@ def main(organism_name, database_path):
     sys.stdout = open(file_location, 'w')
 
     # simulation setup
-    print(chromosome + "\n")
+    print(chromosome)
+    print()
     simulation = Simulation(chromosome)
     simulation.begin()
     steps = 0
