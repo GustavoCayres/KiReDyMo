@@ -10,8 +10,13 @@ def main(organism_name, database_path):
     # chromosome setup
     db = DatabaseImport(database_path)
     chromosome = db.import_chromosome_by_organism(organism_name)
-    print(chromosome)
+
+    # output setup
+    file_location = "output/" + organism_name.replace(' ', '-') + "_results.txt"
+    sys.stdout = open(file_location, 'w')
+
     # simulation setup
+    print(chromosome + "\n")
     simulation = Simulation(chromosome)
     simulation.begin()
     steps = 0
@@ -21,6 +26,8 @@ def main(organism_name, database_path):
         print(simulation.replication.left_fork, simulation.replication.right_fork)
         print("--------------------------------------------")
     print("Total steps: ", steps)
+
+    sys.stdout.close()
 
 if __name__ == "__main__":
     main(sys.argv[1], sys.argv[2])

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sqlite3
 
 
@@ -9,11 +10,6 @@ class DatabaseSeed:
     def create_tables(self):
         cursor = self.connection.cursor()
         cursor.executescript("""
-            DROP TABLE IF EXISTS TranscriptionRegions;
-            DROP TABLE IF EXISTS Organisms;
-            DROP TABLE IF EXISTS ReplicationOrigins;
-            DROP TABLE IF EXISTS Chromosomes;
-
             CREATE TABLE Organisms (
                 name VARCHAR (30) PRIMARY KEY
             );
@@ -147,18 +143,3 @@ class DatabaseSeed:
 
         replication_origin = (int(origin), chromosome_code)
         cursor.execute("INSERT INTO ReplicationOrigins VALUES (?, ?)", replication_origin)
-
-
-def main():
-    # Seed the database with a toy organism.
-
-    db = DatabaseSeed('simulation_db.sqlite')
-    db.create_tables()
-    db.insert_organism("Trypanosoma test")
-    db.insert_chromosomes("trypanosoma_test_chromosome1.txt", 2, 2)
-    db.insert_replication_origins(10, "TtChr1")
-    db.insert_transcription_regions("TtChr1_regions.txt", 1, 200)
-    db.close()
-
-if __name__ == "__main__":
-    main()
