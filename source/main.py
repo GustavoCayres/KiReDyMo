@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # Run with python3 -m source.main 'Organism name' db/simulation_db.sqlite
 
-from .simulation import Simulation
-from db.database_import import DatabaseImport
+from source.simulation_modules.simulation import Simulation
+from source.db_modules.database_import import DatabaseImport
 import sys
 
 

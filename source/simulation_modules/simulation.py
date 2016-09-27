@@ -1,6 +1,6 @@
-from .replication import Replication
-from .transcription import Transcription
-from .collision import Collision
+from source.simulation_modules.replication import Replication
+from source.simulation_modules.transcription import Transcription
+from source.simulation_modules.collision import Collision
 
 
 class Simulation:

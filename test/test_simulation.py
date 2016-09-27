@@ -1,6 +1,6 @@
 from unittest import TestCase
-from source.chromosome import Chromosome
-from source.simulation import Simulation
+from source.simulation_modules.chromosome import Chromosome
+from source.simulation_modules.simulation import Simulation
 
 
 class TestSimulation(TestCase):

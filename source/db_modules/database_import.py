@@ -1,6 +1,6 @@
 import sqlite3
-from source.chromosome import Chromosome
-from source.transcription_region import TranscriptionRegion
+from source.simulation_modules.chromosome import Chromosome
+from source.simulation_modules.transcription_region import TranscriptionRegion
 
 
 class DatabaseImport:
