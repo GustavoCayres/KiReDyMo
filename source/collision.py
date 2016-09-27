@@ -9,6 +9,9 @@ class Collision:
             return position1
 
         collision_time = (position2 - position1)/(speed1 - speed2)
+        if collision_time < 0:
+            print("Error during collision calculation. Verify the speed of the system's parts.")
+            exit(1)
 
         return int(position1 + collision_time*speed1)
 
@@ -55,7 +58,7 @@ class Collision:
         for transcription in transcriptions:
             fork, kind = Collision.verify(replication, transcription)
             if kind == "tail":
-                transcription.finish()
+                transcription.collapse()
             elif kind == "head":
-                transcription.finish()
+                transcription.collapse()
                 replication.pause(fork)

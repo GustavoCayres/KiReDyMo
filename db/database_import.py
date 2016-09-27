@@ -31,7 +31,7 @@ class DatabaseImport:
     # TODO: Allow import of multiple chromosomes.
     def import_chromosome_by_organism(self, organism_name):
         cursor = self.connection.cursor()
-        cursor.execute("SELECT * FROM Chromosomes")
+        cursor.execute("SELECT * FROM Chromosomes WHERE Chromosomes.organism_name = ?", (organism_name,))
         chromosome = cursor.fetchall()
 
         code = chromosome[0][0]

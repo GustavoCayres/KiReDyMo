@@ -52,4 +52,4 @@ class TestTranscription(TestCase):
     def test_finish(self):
         self.transcription.finish()
         self.assertIsNone(self.transcription.current_position)
-        self.assertEqual(self.transcription.delay_wait, 11)
+        self.assertEqual(self.transcription.delay_wait, 10)

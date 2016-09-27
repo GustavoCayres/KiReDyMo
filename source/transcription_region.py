@@ -1,7 +1,6 @@
 class TranscriptionRegion:
     """ Organizes the properties of each transcript region,
         allowing different transcription speeds for each transcription region. """
-    """ Also controls the transcription process. """
 
     def __init__(self, transcription_start, transcription_end, speed, delay):
         self.transcription_start = transcription_start    # coordinate of the transcription's beginning
