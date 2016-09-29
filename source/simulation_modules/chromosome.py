@@ -40,9 +40,3 @@ class Chromosome:
 
         new_region = TranscriptionRegion(transcription_start, transcription_end, speed, delay)
         self.transcription_regions.append(new_region)
-
-    def select_origin(self):
-        """ Randomly selects the replication origin for the process. """
-
-        chosen_index = 0              # In the future, it'll be selected as a random variable of some distribution
-        return self.replication_origins[chosen_index]

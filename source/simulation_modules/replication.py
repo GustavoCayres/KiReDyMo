@@ -9,11 +9,17 @@ class Replication:
         self.left_repair_wait = 0
         self.right_repair_wait = 0
 
+    def select_origin(self):
+        """ Randomly selects the replication origin for the process. """
+
+        chosen_index = 0              # In the future, it'll be selected as a random variable of some distribution
+        return self.chromosome.replication_origins[chosen_index]
+
     def begin(self):
         """ Begins the replication process, which consists in choosing an origin and starting the transcription
          process in each transcription region. """
 
-        self.origin = self.chromosome.select_origin()
+        self.origin = self.select_origin()
         self.left_fork = self.right_fork = self.origin
 
     def step(self):

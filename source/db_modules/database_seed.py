@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import sqlite3
+import re
 
 
 class DatabaseSeed:
@@ -132,14 +133,23 @@ class DatabaseSeed:
 
         file.close()
 
-    def close(self):
-        self.connection.commit()
-        self.connection.close()
-
-    def insert_replication_origins(self, origin, chromosome_code):
+    # TODO: Work with wig data.
+    def insert_replication_origins(self, file_name, origin, chromosome_code):
         """ Insert a replication origin with the specified origin position in the specified chromosome. """
 
         cursor = self.connection.cursor()
+        file = open(file_name, 'r')
+
+        wig_data = {}
+
+        for line in file:
+            if line.startswith("fixedStep"):
+                chromosome_code = re.search('(?<="chrom=")\w+').group(0)
+
 
         replication_origin = (int(origin), chromosome_code)
         cursor.execute("INSERT INTO ReplicationOrigins VALUES (?, ?)", replication_origin)
+
+    def close(self):
+        self.connection.commit()
+        self.connection.close()

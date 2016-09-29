@@ -1,8 +1,10 @@
+import unittest
 from unittest import TestCase
 from source.db_modules.database_seed import DatabaseSeed
 from source.db_modules.database_import import DatabaseImport
 
 
+@unittest.skip("ORM Filler test")
 class TestDatabaseImport(TestCase):
     def setUp(self):
         db = DatabaseSeed('./test_db/test_db.sqlite')
