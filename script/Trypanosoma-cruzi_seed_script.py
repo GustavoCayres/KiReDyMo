@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 # Run with: python3 -m input.Trypanosoma-cruzi.Trypanosoma-cruzi_seed_script
 
-from source.db_modules.database_seed import DatabaseSeed
 import sys
+
+from source.db_modules.database_management import DatabaseCreate
 
 
 def main(database_name):
-    db = DatabaseSeed(database_name)
+    db = DatabaseCreate(database_name)
     db.drop_tables()
     db.create_tables()
     db.insert_organism("T. cruzi CL Brener Esmeraldo-like")

@@ -1,15 +1,19 @@
 #!/usr/bin/env python3
 # Run with python3 -m source.main 'Organism name' db/simulation_db.sqlite
 
-from source.simulation_modules.simulation import Simulation
-from source.db_modules.database_import import DatabaseImport
 import sys
 
+from source.models.base_model import db
+from source.models.chromosome import Chromosome
+from source.simulation_modules.simulation import Simulation
 
-def main(organism_name, database_path):
+
+def main(organism_name):
+
+    db.connect()
+
     # chromosome setup
-    db = DatabaseImport(database_path)
-    chromosome = db.import_chromosome_by_organism(organism_name)
+    chromosome = Chromosome.select().where(Chromosome.organism_name == organism_name)
 
     # output setup
     file_location = "output/" + organism_name.replace(' ', '-') + "_results.txt"
@@ -31,4 +35,4 @@ def main(organism_name, database_path):
     sys.stdout.close()
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    main(sys.argv[1])

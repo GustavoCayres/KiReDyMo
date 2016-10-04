@@ -1,5 +1,6 @@
 from unittest import TestCase
-from source.simulation_modules.transcription_region import TranscriptionRegion
+
+from source.models.transcription_region import TranscriptionRegion
 
 
 class TestTranscriptionRegion(TestCase):
@@ -7,8 +8,8 @@ class TestTranscriptionRegion(TestCase):
         self.transcription_region = TranscriptionRegion(20, 80, 5, 7)
 
     def test___init__(self):
-        self.assertEqual(self.transcription_region.transcription_start, 20)
-        self.assertEqual(self.transcription_region.transcription_end, 80)
+        self.assertEqual(self.transcription_region.start, 20)
+        self.assertEqual(self.transcription_region.end, 80)
         self.assertEqual(self.transcription_region.speed, 5)
         self.assertEqual(self.transcription_region.delay, 7)
 

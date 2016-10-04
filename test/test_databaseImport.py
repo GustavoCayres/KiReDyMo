@@ -1,13 +1,15 @@
 import unittest
 from unittest import TestCase
-from source.db_modules.database_seed import DatabaseSeed
-from source.db_modules.database_import import DatabaseImport
+
+from source.models.database_import import DatabaseImport
+
+from source.db_modules.database_management import DatabaseCreate
 
 
 @unittest.skip("ORM Filler test")
 class TestDatabaseImport(TestCase):
     def setUp(self):
-        db = DatabaseSeed('./test_db/test_db.sqlite')
+        db = DatabaseCreate('./test_db/test_db.sqlite')
         db.drop_tables()
         db.create_tables()
         db.insert_organism("Test organism")
@@ -33,7 +35,7 @@ class TestDatabaseImport(TestCase):
         self.fail()
 
     def tearDown(self):
-        db = DatabaseSeed('./test_db/test_db.sqlite')
+        db = DatabaseCreate('./test_db/test_db.sqlite')
         db.drop_tables()
         db.close()
 

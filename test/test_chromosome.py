@@ -1,6 +1,7 @@
 from unittest import TestCase
-from source.simulation_modules.chromosome import Chromosome
-from source.simulation_modules.transcription_region import TranscriptionRegion
+
+from source.models.chromosome import Chromosome
+from source.models.transcription_region import TranscriptionRegion
 
 
 class TestChromosome(TestCase):
@@ -25,8 +26,8 @@ class TestChromosome(TestCase):
         self.assertIsInstance(self.chromosome.transcription_regions, list)
         transcription_region = self.chromosome.transcription_regions[0]
         self.assertIsInstance(transcription_region, TranscriptionRegion)
-        self.assertEqual(transcription_region.transcription_start, 2)
-        self.assertEqual(transcription_region.transcription_end, 5)
+        self.assertEqual(transcription_region.start, 2)
+        self.assertEqual(transcription_region.end, 5)
         self.assertEqual(transcription_region.speed, 2)
         self.assertEqual(transcription_region.delay, 10)
 

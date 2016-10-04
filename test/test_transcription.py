@@ -1,6 +1,7 @@
 from unittest import TestCase
+
+from source.models.transcription_region import TranscriptionRegion
 from source.simulation_modules.transcription import Transcription
-from source.simulation_modules.transcription_region import TranscriptionRegion
 
 
 class TestTranscription(TestCase):

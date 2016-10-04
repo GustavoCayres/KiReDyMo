@@ -1,9 +1,10 @@
 from unittest import TestCase
+
+from source.models.chromosome import Chromosome
+from source.models.transcription_region import TranscriptionRegion
 from source.simulation_modules.collision import Collision
-from source.simulation_modules.transcription import Transcription
-from source.simulation_modules.transcription_region import TranscriptionRegion
-from source.simulation_modules.chromosome import Chromosome
 from source.simulation_modules.replication import Replication
+from source.simulation_modules.transcription import Transcription
 
 
 class TestCollision(TestCase):
