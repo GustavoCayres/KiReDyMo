@@ -12,10 +12,16 @@ def create_tables():
 
 
 def drop_tables():
-    pass
+    db.connect()
+    db.drop_tables([Chromosome, Organism, TranscriptionRegion, ReplicationOrigin])
+
+
+def close():
+    db.close()
 
 
 def insert_organism(organism_name):
+    db.connect()
     Organism.create(name=organism_name)
 
 
