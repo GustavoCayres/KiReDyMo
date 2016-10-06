@@ -8,12 +8,12 @@ class Transcription:
         self.region = transcription_region
         self.delay_wait = 0                                 # remaining time to wait the delay of this transcription
         self.current_position = None                        # current position of this transcription
-        self.direction = math.copysign(1, self.region.transcription_end - self.region.transcription_start)
+        self.direction = math.copysign(1, self.region.end - self.region.start)
 
     def begin(self):
         """ Begins transcription in this transcription region. """
 
-        self.current_position = self.region.transcription_start
+        self.current_position = self.region.start
 
     def step(self):
         """ Takes a step in this transcription, taking into account the region's boundaries. """
@@ -24,7 +24,7 @@ class Transcription:
         new_position = self.current_position + (self.direction * self.region.speed)
 
         # If the transcription did not reach the region's boundaries.
-        if (self.direction * new_position) < (self.direction * self.region.transcription_end):
+        if (self.direction * new_position) < (self.direction * self.region.end):
             self.current_position = new_position
         # Else, the transcription is over.
         else:

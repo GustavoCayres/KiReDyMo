@@ -6,8 +6,11 @@ from .chromosome import Chromosome
 
 class ReplicationOrigin(BaseModel):
 
-    origin = IntegerField()
-    chromosome = ForeignKeyField(Chromosome, related_name="origins")
+    position = IntegerField()
+    chromosome = ForeignKeyField(Chromosome, related_name='replication_origins')
+
+    def __str__(self):
+        return str(self.position)
 
     class Meta:
-        primary_key = CompositeKey('origin', 'chromosome')
+        primary_key = CompositeKey('position', 'chromosome')

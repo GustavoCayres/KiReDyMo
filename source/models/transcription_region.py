@@ -12,7 +12,7 @@ class TranscriptionRegion(BaseModel):
     end = IntegerField()
     speed = IntegerField()
     delay = IntegerField()
-    chromosome = ForeignKeyField(Chromosome, related_name="transcription_regions")
+    chromosome = ForeignKeyField(Chromosome, related_name='transcription_regions')
 
     class Meta:
         primary_key = CompositeKey('start', 'end', 'chromosome')

@@ -1,10 +1,12 @@
 Chromosome: TtChr1
-Origins: [10]
+Organism: Trypanosoma test
+Origins: 
+10 
 Length: 20
 Replication Speed: 2
 Repair Duration: 2
 Transcription Regions: 
-(2, 6)(12, 16)(9, 7)(18, 17)
+(2, 6) (12, 16) (9, 7) (18, 17) 
 
 Tail Collision!!
 8 12

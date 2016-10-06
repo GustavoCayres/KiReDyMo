@@ -1,19 +1,18 @@
 #!/usr/bin/env python3
-# Run with python3 -m source.main 'Organism name' db/simulation_db.sqlite
+# Run with python3 -m source.main 'Organism name'
 
 import sys
 
-from source.models.base_model import db
 from source.models.chromosome import Chromosome
 from source.simulation_modules.simulation import Simulation
+from source.models.replication_origin import ReplicationOrigin
+from source.models.transcription_region import TranscriptionRegion
 
 
 def main(organism_name):
 
-    db.connect()
-
     # chromosome setup
-    chromosome = Chromosome.select().where(Chromosome.organism_name == organism_name)
+    chromosome = Chromosome.get(Chromosome.organism == organism_name)
 
     # output setup
     file_location = "output/" + organism_name.replace(' ', '-') + "_results.txt"

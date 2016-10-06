@@ -12,15 +12,15 @@ class Replication:
     def select_origin(self):
         """ Randomly selects the replication origin for the process. """
 
-        chosen_index = 0              # In the future, it'll be selected as a random variable of some distribution
-        return self.chromosome.replication_origins[chosen_index]
+        # In the future, it'll be selected as a random variable of some distribution
+        self.origin = self.chromosome.replication_origins.get()
 
     def begin(self):
         """ Begins the replication process, which consists in choosing an origin and starting the transcription
          process in each transcription region. """
 
-        self.origin = self.select_origin()
-        self.left_fork = self.right_fork = self.origin
+        self.select_origin()
+        self.left_fork = self.right_fork = self.origin.position
 
     def step(self):
         """ Takes a step in the replication, taking into account the chromosome's boundaries. """

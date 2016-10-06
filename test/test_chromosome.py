@@ -1,10 +1,16 @@
 from unittest import TestCase
 
+from source.db_modules.database_management import *
 from source.models.chromosome import Chromosome
 from source.models.transcription_region import TranscriptionRegion
 
 
 class TestChromosome(TestCase):
+    @classmethod
+    def setUpClass(cls):
+        set_database("test/test_db/test_db.sqlite")
+        # continua nos próximos capítulos
+
     def setUp(self):
         self.chromosome = Chromosome("c1", [5, 7], [], 20, 1, 4)
 
@@ -33,3 +39,8 @@ class TestChromosome(TestCase):
 
     def test_select_origin(self):
         self.assertEqual(self.chromosome.select_origin(), 5)
+
+    @classmethod
+    def tearDownClass(cls):
+        drop_tables()
+        close()
