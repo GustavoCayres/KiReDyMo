@@ -3,19 +3,19 @@ from unittest import TestCase
 
 from source.models.database_import import DatabaseImport
 
-from source.db_modules.database_management import DatabaseCreate
+from source.db_modules.database_wrapper import DatabaseCreate
 
 
-@unittest.skip("ORM Filler test")
+@unittest.skip("ORM Filler tests")
 class TestDatabaseImport(TestCase):
     def setUp(self):
         db = DatabaseCreate('./test_db/test_db.sqlite')
         db.drop_tables()
         db.create_tables()
         db.insert_organism("Test organism")
-        db.insert_chromosomes("./test_input/Test-organism_chromosome1.txt", 2, 2)
-        db.insert_replication_origins(10, "ToChr1")
-        db.insert_transcription_regions("./test_input/ToChr1_regions.txt", 1, 150)
+        db.insert_chromosomes("./test_models/Test-organism_chromosome1.txt", 2, 2)
+        db.insert_replication_origin(10, "ToChr1")
+        db.insert_transcription_regions("./test_models/ToChr1_regions.txt", 1, 150)
         db.close()
 
         self.db = DatabaseImport('./test_db/test_db.sqlite')

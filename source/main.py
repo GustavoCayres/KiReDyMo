@@ -5,8 +5,6 @@ import sys
 
 from source.models.chromosome import Chromosome
 from source.simulation_modules.simulation import Simulation
-from source.models.replication_origin import ReplicationOrigin
-from source.models.transcription_region import TranscriptionRegion
 
 
 def main(organism_name):
