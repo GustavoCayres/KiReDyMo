@@ -1,3 +1,6 @@
+from source.models.replication_origin import ReplicationOrigin
+
+
 class Replication:
     """ Controls the replication process of a chromosome. """
 
@@ -13,7 +16,7 @@ class Replication:
         """ Randomly selects the replication origin for the process. """
 
         # In the future, it'll be selected as a random variable of some distribution
-        self.origin = self.chromosome.replication_origins.get()
+        self.origin = self.chromosome.replication_origins.order_by(ReplicationOrigin.position).get()
 
     def begin(self):
         """ Begins the replication process, which consists in choosing an origin and starting the transcription

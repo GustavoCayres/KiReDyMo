@@ -31,8 +31,16 @@ def insert_replication_origin(position, chromosome):
     ReplicationOrigin.insert(position=position, chromosome=chromosome).execute()
 
 
+def insert_transcription_region(start, end, speed, delay, chromosome):
+    TranscriptionRegion.insert(start=start, end=end, speed=speed, delay=delay, chromosome=chromosome).execute()
+
+
 def get_chromosome_by_code(code):
     return Chromosome.get(Chromosome.code == code)
+
+
+def get_transcription_region_by_chromosome(chromosome_code):
+    return TranscriptionRegion.get(TranscriptionRegion.chromosome == chromosome_code)
 
 
 def insert_transcription_regions(file_name, speed, delay):
