@@ -5,7 +5,7 @@ from source.db_modules.database_wrapper import *
 class TestTranscriptionRegion(TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.transcription_region = get_transcription_region_by_chromosome("c1")
+        cls.transcription_region = get_transcription_regions_by_chromosome("c1")[1]
 
     def test___str__(self):
         converted_region = str(self.transcription_region)

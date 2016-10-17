@@ -26,7 +26,6 @@ class Collision:
         transcription_speed = transcription.region.speed
         added_speed = replication_speed + transcription_speed
         subtracted_speed = replication_speed - transcription_speed
-
         if transcription.direction > 0:
             if replication.left_fork is not None:
                 if 0 < replication.left_fork - transcription.current_position <= added_speed:
