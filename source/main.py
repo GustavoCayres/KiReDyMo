@@ -5,6 +5,7 @@ import sys
 
 from source.models.chromosome import Chromosome
 from source.simulation_modules.simulation import Simulation
+from source.models.transcription_region import TranscriptionRegion
 
 
 def main(organism_name):
@@ -16,9 +17,10 @@ def main(organism_name):
     file_location = "output/" + organism_name.replace(' ', '-') + "_results.txt"
     sys.stdout = open(file_location, 'w')
 
-    # simulation setup
-    print(chromosome)
-    print()
+    # print simulated chromosome
+    print(chromosome + "\n")
+
+    # setup simulation
     simulation = Simulation(chromosome)
     simulation.begin()
     steps = 0
