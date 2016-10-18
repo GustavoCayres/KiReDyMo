@@ -1,6 +1,4 @@
-from peewee import *
-
-from .base_model import BaseModel
+from source.models.base_model import *
 from .chromosome import Chromosome
 
 
