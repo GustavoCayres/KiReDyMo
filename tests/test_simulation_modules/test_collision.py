@@ -1,4 +1,5 @@
 from unittest import TestCase
+import math
 from source.db_modules.database_wrapper import *
 from source.simulation_modules.collision import Collision
 from source.simulation_modules.replication import Replication
@@ -22,7 +23,7 @@ class TestCollision(TestCase):
         self.replication.begin()
 
     def test_position(self):
-        self.assertEqual(Collision.position(1, 5, 77, 5), 1)              # Equal velocities don't lead to collision.
+        self.assertEqual(Collision.position(1, 5, 77, 5), math.inf)              # Equal velocities don't lead to collision.
         self.assertEqual(Collision.position(0, 100, 100, -100), 50)       # Opposite directions.
         self.assertEqual(Collision.position(0, 100, 10, 50), 20)          # Same direction.
 

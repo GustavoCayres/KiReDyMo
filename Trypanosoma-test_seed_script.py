@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 # Run with: python3 Trypanosoma-test_seed_script.py
-
-
 from source.db_modules.database_wrapper import *
 
 
