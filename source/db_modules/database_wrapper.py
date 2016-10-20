@@ -51,34 +51,32 @@ def get_replication_origin_by_chromosome(chromosome_code):
         order_by(ReplicationOrigin.position).get()
 
 
-def insert_transcription_regions(file_name, speed, delay):
-    """ Imports the chromosome's transcription regions from txt file 'file_name'. """
+def insert_transcription_regions_from_file(file_name, speed, delay):
+    """ Imports the chromosome's transcription regions from txt file 'file_name'.
+        The file format must be:
+        [Gene ID]   [Transcript ID] [Organism]  [Genomic Location(s)]
+        where the separation are TABs.                                            """
 
-    file = open(file_name, 'r')
+    with open(file_name, 'r') as file:
+        header_line_as_list = next(file).split("\t")
+        data_index = -1                 # let's find what column holds our desired data
+        for index, tag in enumerate(header_line_as_list):
+            if tag == "[Genomic Location(s)]":
+                data_index = index
 
-    chromosome = ''
-    end = -1
-    start = -1
-    speed = int(speed)
-    delay = int(delay)
+        for line in file:
+            line_as_list = line.split("\t")
+            data = line_as_list[data_index].split()
 
-    for line in file:
-        if line.startswith("Genomic Location(s): "):
-            line_list = line.split()
-
-            chromosome = line_list[2].replace(':', '')
-            start = int(line_list[3].replace(',', ''))
-            end = int(line_list[5].replace(',', ''))
-
-            direction = line_list[6]
+            chromosome = data[0].replace(':', '')
+            start = int(data[1].replace(',', ''))
+            end = int(data[3].replace(',', ''))
+            direction = data[4]
             if direction == "(-)":
                 start, end = end, start
 
-        elif line.startswith("--"):          # finished reading a region
-            TranscriptionRegion.insert(start=start, end=end, chromosome=chromosome,
-                                       speed=speed, delay=delay).execute()
-
-    file.close()
+            TranscriptionRegion.insert(start=start, end=end, chromosome=chromosome, speed=int(speed), delay=int(delay))\
+                .execute()
 
 
 def insert_chromosomes(file_name, replication_speed, repair_duration):
@@ -110,5 +108,3 @@ def insert_chromosomes(file_name, replication_speed, repair_duration):
                               repair_duration=repair_duration, organism=organism).execute()
 
     file.close()
-
-# TODO: Work with wig data.
