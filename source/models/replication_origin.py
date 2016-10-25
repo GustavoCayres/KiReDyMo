@@ -1,5 +1,5 @@
 from source.models.base_model import *
-from .chromosome import Chromosome
+from source.models.chromosome import Chromosome
 
 
 class ReplicationOrigin(BaseModel):

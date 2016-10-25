@@ -1,7 +1,0 @@
-Sequence ID: TtChr1
-Length: 20
-Organism: Trypanosoma test
-
-
-------------------------------------------------------------
-

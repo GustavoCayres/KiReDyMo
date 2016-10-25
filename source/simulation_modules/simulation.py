@@ -1,7 +1,8 @@
+import random
+
+from source.simulation_modules.collision import Collision
 from source.simulation_modules.replication import Replication
 from source.simulation_modules.transcription import Transcription
-from source.simulation_modules.collision import Collision
-import random
 
 
 class Simulation:
