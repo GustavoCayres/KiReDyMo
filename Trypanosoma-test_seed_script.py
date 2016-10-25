@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # Run with: python3 Trypanosoma-test_seed_script.py
-from source.db_modules.database_wrapper import *
+from source.db_modules.database_insert import insert_chromosome, insert_replication_origin, insert_chromosomes
+from source.db_modules.database_create import *
 
 
 drop_tables()

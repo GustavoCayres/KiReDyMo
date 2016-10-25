@@ -5,7 +5,6 @@ import sys
 
 from source.models.chromosome import Chromosome
 from source.simulation_modules.simulation import Simulation
-from source.models.transcription_region import TranscriptionRegion
 import random
 
 
@@ -19,7 +18,7 @@ def main(organism_name):
 
     for chromosome in Chromosome.select().where(Chromosome.organism == organism_name):
         # run simulation
-        Simulation.start(chromosome)
+        Simulation.run(chromosome)
 
     print("Total Duration: " + str(Simulation.total_duration))
     sys.stdout.close()

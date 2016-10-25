@@ -1,24 +1,6 @@
-#!/usr/bin/env python3
-from source.models.base_model import db
 from source.models.chromosome import Chromosome
-from source.models.transcription_region import TranscriptionRegion
 from source.models.replication_origin import ReplicationOrigin
-
-
-def connect():
-    db.connect()
-
-
-def create_tables():
-    db.create_tables([Chromosome, TranscriptionRegion, ReplicationOrigin], safe=True)
-
-
-def drop_tables():
-    db.drop_tables([Chromosome, TranscriptionRegion, ReplicationOrigin], safe=True)
-
-
-def close():
-    db.close()
+from source.models.transcription_region import TranscriptionRegion
 
 
 def insert_chromosome(code, length, replication_speed, repair_duration, organism):
@@ -33,22 +15,6 @@ def insert_replication_origin(position, chromosome):
 
 def insert_transcription_region(start, end, speed, delay, chromosome):
     TranscriptionRegion.insert(start=start, end=end, speed=speed, delay=delay, chromosome=chromosome).execute()
-
-
-def get_chromosome_by_code(code):
-    return Chromosome.get(Chromosome.code == code)
-
-
-def get_transcription_regions_by_chromosome(chromosome_code):
-    transcription_regions = []
-    for transcription_region in TranscriptionRegion.select().where(TranscriptionRegion.chromosome == chromosome_code):
-        transcription_regions.append(transcription_region)
-    return transcription_regions
-
-
-def get_replication_origin_by_chromosome(chromosome_code):
-    return ReplicationOrigin.select().where(ReplicationOrigin.chromosome == chromosome_code).\
-        order_by(ReplicationOrigin.position).get()
 
 
 def insert_transcription_regions_from_file(file_name, speed, delay):

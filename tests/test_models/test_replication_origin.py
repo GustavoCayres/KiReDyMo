@@ -1,5 +1,6 @@
 from unittest import TestCase
-from source.db_modules.database_wrapper import *
+
+from source.db_modules.database_get import get_replication_origin_by_chromosome
 
 
 class TestTranscriptionRegion(TestCase):

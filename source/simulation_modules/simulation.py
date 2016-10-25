@@ -34,9 +34,10 @@ class Simulation:
             transcription.step()
 
     @staticmethod
-    def start(chromosome):
+    def run(chromosome):
         simulation = Simulation(chromosome)
-        starting_step = simulation.decide_starting_step()
+        starting_step = simulation.decide_starting_step(.3)
+
         # print simulated chromosome
         print(str(chromosome) + "\n")
 
@@ -57,9 +58,9 @@ class Simulation:
             Simulation.total_duration = steps
 
     @staticmethod
-    def decide_starting_step():
+    def decide_starting_step(start_probability):
         starting_step = 1
-        while random.random() >= .3:
+        while random.random() >= start_probability:
             starting_step += 1
 
         return starting_step
