@@ -7,8 +7,8 @@ class Replication:
     def __init__(self, chromosome):
         self.chromosome = chromosome
         self.origin = None
-        self.left_fork = None
-        self.right_fork = None
+        self.left_fork = -1
+        self.right_fork = -1
         self.left_repair_wait = 0
         self.right_repair_wait = 0
 

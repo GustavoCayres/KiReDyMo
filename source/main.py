@@ -29,7 +29,6 @@ def main(organism_name):
         # run simulation
         Simulation.run(chromosome)
 
-    print("Total Duration: " + str(Simulation.total_duration))
     sys.stdout.close()
 
 if __name__ == "__main__":

@@ -8,9 +8,11 @@ def insert_chromosome(code, length, replication_speed, repair_duration, organism
                       repair_duration=repair_duration, organism=organism).execute()
 
 
-def insert_replication_origin(position, chromosome):
-    """ Insert a replication origin with the specified origin position in the specified chromosome. """
-    ReplicationOrigin.insert(position=position, chromosome=chromosome).execute()
+def insert_replication_origin(**kwargs):
+    """ Insert a replication origin with the specifieds
+    {position, start_probability, chromosome}
+    into the specified chromosome. """
+    ReplicationOrigin.insert(kwargs).execute()
 
 
 def insert_transcription_region(start, end, speed, delay, chromosome):
@@ -69,32 +71,32 @@ def insert_transcription_regions_from_file(file_name, speed, delay):
     insert_genes_as_regions(genes)
 
 
-def insert_chromosomes(file_name, replication_speed, repair_duration):
-    """ Imports the chromosomes from txt file 'file_name'. """
+def insert_chromosomes_from_file(file_name, replication_speed, repair_duration):
+    """ Imports the chromosomes from txt file 'file_name'.
+        The file format contain columns with headers [Length], [Description] and [Sequence ID]
+        where the separation are TABs.                                                          """
 
-    file = open(file_name, 'r')
+    with open(file_name, 'r') as file:
+        header_line_as_list = next(file).split("\t")
+        code_index = -1         # let's find what column holds our desired data
+        length_index = -1
+        organism_index = -1
+        for index, tag in enumerate(header_line_as_list):
+            if tag == "[Length]":
+                length_index = index
+            elif tag == "[Sequence ID]":
+                code_index = index
+            elif tag == "[Description]":
+                organism_index = index
 
-    code = ''
-    length = -1
-    organism = ''
-    replication_speed = int(replication_speed)
-    repair_duration = int(repair_duration)
+        chromosome_amount = 0
+        for line in file:
+            chromosome_amount += 1
+            line_as_list = line.split("\t")
 
-    for line in file:
-        if line.startswith("Sequence ID: "):
-            line_list = line.split(': ')
-            code = line_list[1].strip('\n')
-
-        elif line.startswith("Length: "):
-            line_list = line.split()
-            length = int(line_list[1].replace(',', ''))
-
-        elif line.startswith("Organism: "):
-            line_list = line.split(' ', 1)
-            organism = line_list[1].strip('\n')
-
-        elif line.startswith("--"):  # finished reading a chromosome
+            length = line_as_list[length_index].replace(',', '')
+            code = line_as_list[code_index]
+            organism = line_as_list[organism_index]
             Chromosome.insert(code=code, length=length, replication_speed=replication_speed,
                               repair_duration=repair_duration, organism=organism).execute()
-
-    file.close()
+    return chromosome_amount
