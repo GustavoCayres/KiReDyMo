@@ -1,8 +1,9 @@
-import random
-
 from source.simulation_modules.collision import Collision
+from source.simulation_modules.encounter import Encounter
 from source.simulation_modules.replication import Replication
 from source.simulation_modules.transcription import Transcription
+# noinspection PyUnresolvedReferences
+from source.models.replication_origin import ReplicationOrigin
 
 
 class Simulation:
@@ -10,7 +11,11 @@ class Simulation:
 
     def __init__(self, chromosome):
         self.chromosome = chromosome
-        self.replication = Replication(self.chromosome)
+
+        self.replications = []
+        for replication_origin in self.chromosome.replication_origins:
+            self.replications.append(Replication(replication_origin))
+
         self.transcriptions = []
         for transcription_region in self.chromosome.transcription_regions:
             self.transcriptions.append(Transcription(transcription_region))
@@ -18,7 +23,9 @@ class Simulation:
     def begin(self):
         """ Begins the simulation, activating the replication and all the transcriptions. """
 
-        self.replication.begin()
+        for replication in self.replications:
+            replication.begin()
+
         for transcription in self.transcriptions:
             transcription.begin()
 
@@ -26,11 +33,19 @@ class Simulation:
         """ Move one step forward in the simulation, updating the position of each machinery (both for replication and
         for transcription). """
 
-        Collision.resolve(self.replication, self.transcriptions)
+        Encounter.resolve(self.replications)
 
-        self.replication.step()
+        done = True
+        for replication in self.replications:
+            Collision.resolve(replication, self.transcriptions)
+            replication.step()
+            if replication.left_fork is not None or replication.right_fork is not None:
+                done = False
+
         for transcription in self.transcriptions:
             transcription.step()
+
+        return done
 
     @staticmethod
     def run(chromosome):
@@ -41,17 +56,10 @@ class Simulation:
 
         simulation.begin()
         steps = 1
-        while simulation.replication.left_fork is not None or simulation.replication.right_fork is not None:
+        done = False
+        while not done:
             steps += 1
-            simulation.step()
-            print(simulation.replication.left_fork, simulation.replication.right_fork)
+            done = simulation.step()
+            print(simulation.replications[0].left_fork, simulation.replications[0].right_fork)
             print("--------------------------------------------")
         print("Duration: " + str(steps) + "\n")
-
-    @staticmethod
-    def decide_starting_step(start_probability):
-        starting_step = 1
-        while random.random() >= start_probability:
-            starting_step += 1
-
-        return starting_step

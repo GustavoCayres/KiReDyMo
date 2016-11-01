@@ -1,7 +1,0 @@
-Sequence ID: TcChr1-S
-Length: 77,958
-Organism: Trypanosoma cruzi CL Brener Esmeraldo-like
-
-
-------------------------------------------------------------
-

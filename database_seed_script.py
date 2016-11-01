@@ -8,7 +8,6 @@ drop_tables()
 create_tables()
 
 chromosome_amount = insert_chromosomes_from_file("input/Tcruzi_chromosomes.txt", 67, 2)
-chromosome_amount = 2
 for i in range(1, chromosome_amount + 1):
     index = str(i)
     file_path = "input/TcChr" + index + "-S_regions.txt"

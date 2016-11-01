@@ -68,7 +68,8 @@ def insert_transcription_regions_from_file(file_name, speed, delay):
             direction = data[4]
             genes.append((int(start), int(end), int(speed), int(delay), chromosome, direction))
 
-    insert_genes_as_regions(genes)
+    if len(genes) > 0:
+        insert_genes_as_regions(genes)
 
 
 def insert_chromosomes_from_file(file_name, replication_speed, repair_duration):

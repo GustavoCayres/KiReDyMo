@@ -1,29 +1,26 @@
-from source.models.replication_origin import ReplicationOrigin
+import random
 
 
 class Replication:
     """ Controls the replication process of a chromosome. """
 
-    def __init__(self, chromosome):
-        self.chromosome = chromosome
-        self.origin = None
+    def __init__(self, origin):
+        self.chromosome = origin.chromosome
+        self.origin = origin
         self.left_fork = -1
         self.right_fork = -1
         self.left_repair_wait = 0
         self.right_repair_wait = 0
 
-    def select_origin(self):
-        """ Randomly selects the replication origin for the process. """
-
-        # In the future, it'll be selected as a random variable of some distribution
-        self.origin = self.chromosome.replication_origins.order_by(ReplicationOrigin.position).get()
-
     def begin(self):
-        """ Begins the replication process, which consists in choosing an origin and starting the transcription
-         process in each transcription region. """
 
-        self.select_origin()
-        self.left_fork = self.right_fork = self.origin.position
+        self.left_fork, self.right_fork = self.trigger_origin()
+
+    def trigger_origin(self):
+        if self.left_fork is None and self.right_fork is None:
+            if random.random() < self.origin.start_probability:
+                return self.origin.position, self.origin.position
+        return self.left_fork, self.right_fork
 
     def step(self):
         """ Takes a step in the replication, taking into account the chromosome's boundaries. """
@@ -45,6 +42,8 @@ class Replication:
             self.right_fork += self.chromosome.replication_speed
             if self.right_fork >= self.chromosome.length:             # verifies if the right replication ended
                 self.right_fork = None
+
+        self.left_fork, self.right_fork = self.trigger_origin()
 
     def pause(self, fork):
         """ Pauses the replication for a certain duration to allow repairs. """

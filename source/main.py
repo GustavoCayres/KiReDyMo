@@ -19,13 +19,13 @@ def help_if_no_arguments():
 
 
 def main(organism_name):
-    # output setup
-    file_location = "output/" + organism_name.replace(' ', '-') + "_results.txt"
-    sys.stdout = open(file_location, 'w')
-
     random.seed()
 
     for chromosome in Chromosome.select().where(Chromosome.organism == organism_name):
+        # output setup
+        file_location = "output/" + chromosome.code + "_results.txt"
+        sys.stdout = open(file_location, 'w')
+
         # run simulation
         Simulation.run(chromosome)
 
