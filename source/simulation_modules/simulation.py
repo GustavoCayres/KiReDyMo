@@ -23,9 +23,6 @@ class Simulation:
     def begin(self):
         """ Begins the simulation, activating the replication and all the transcriptions. """
 
-        for replication in self.replications:
-            replication.begin()
-
         for transcription in self.transcriptions:
             transcription.begin()
 

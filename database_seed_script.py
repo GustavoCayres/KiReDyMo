@@ -14,5 +14,7 @@ for i in range(1, chromosome_amount + 1):
     insert_transcription_regions_from_file(file_path, 30, 150)
     file_path = "TcChr" + index + "-S"
     insert_replication_origin(position=0, start_probability=.5, chromosome=file_path)
+    insert_replication_origin(position=10000, start_probability=.5, chromosome=file_path)
+
 
 print("Database seeded.")

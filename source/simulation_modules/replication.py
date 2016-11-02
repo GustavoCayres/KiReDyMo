@@ -7,23 +7,23 @@ class Replication:
     def __init__(self, origin):
         self.chromosome = origin.chromosome
         self.origin = origin
-        self.left_fork = -1
-        self.right_fork = -1
+        self.triggered = False
+        self.left_fork = None
+        self.right_fork = None
         self.left_repair_wait = 0
         self.right_repair_wait = 0
 
-    def begin(self):
-
-        self.left_fork, self.right_fork = self.trigger_origin()
-
     def trigger_origin(self):
-        if self.left_fork is None and self.right_fork is None:
-            if random.random() < self.origin.start_probability:
+        if not self.triggered:
+            # if random.random() < self.origin.start_probability:
+                self.triggered = True
                 return self.origin.position, self.origin.position
         return self.left_fork, self.right_fork
 
     def step(self):
         """ Takes a step in the replication, taking into account the chromosome's boundaries. """
+
+        self.left_fork, self.right_fork = self.trigger_origin()
 
         if self.left_fork is None:
             pass
@@ -42,8 +42,6 @@ class Replication:
             self.right_fork += self.chromosome.replication_speed
             if self.right_fork >= self.chromosome.length:             # verifies if the right replication ended
                 self.right_fork = None
-
-        self.left_fork, self.right_fork = self.trigger_origin()
 
     def pause(self, fork):
         """ Pauses the replication for a certain duration to allow repairs. """
