@@ -22,7 +22,6 @@ def main(organism_name):
     random.seed()
 
     for chromosome in Chromosome.select().where(Chromosome.organism == organism_name).order_by(Chromosome.code):
-        print(chromosome.code)
         # output setup
         file_location = "output/" + chromosome.code + "_results.txt"
         sys.stdout = open(file_location, 'w')

@@ -21,10 +21,9 @@ class Chromosome(BaseModel):
             origins += str(origin) + " "
         text.append(origins)
 
-        text.append("Length: " + str(self.length))
-        text.append("Replication Speed: " + str(self.replication_speed))
-        text.append("Repair Duration: " + str(self.repair_duration))
-
+        text.append("Length: " + str(self.length) + " bases")
+        text.append("Replication Speed: " + str(self.replication_speed) + " b/s")
+        text.append("Repair Duration: " + str(self.repair_duration) + " s")
         text.append("Transcription Regions: ")
         regions = ""
         for region in self.transcription_regions:

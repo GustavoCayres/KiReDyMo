@@ -1,0 +1,27 @@
+## KyReDyMo
+
+### Dependências
+
+* **Peewee**
+
+> Peewee é a ORM utilizada através das classes do modelo. Pode ser facilmente instalada facilmente através do * pip *:
+
+> ** pip install peewee **
+
+> Caso o pip não esteja instalado em seu Linux, você pode instalá-lo utilizando um gerenciador de pacotes.
+> No Debian/Ubuntu, execute:
+
+> ** sudo apt-get pip3 install **
+
+### Execução
+
+Para realizar uma simulação, execute:
+
+> ** ./main.py <Nome Do Organism> **
+
+Caso você não saiba os organismos que compõem o banco de dados atualmente, rode o executável sem argumentos
+para receber uma lista dos organismos disponíveis.
+
+O resulta da simulação de cada cromossomo estará no diretório * output/ *, em um arquivo com formato:
+
+> > *<código do cromossomo>_results.txt*

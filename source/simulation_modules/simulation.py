@@ -36,7 +36,7 @@ class Simulation:
         for replication in self.replications:
             Collision.resolve(replication, self.transcriptions)
             replication.step()
-            if replication.left_fork is not None or replication.right_fork is not None:
+            if replication.triggered and not (replication.left_fork is None and replication.right_fork is None):
                 done = False
 
         for transcription in self.transcriptions:
@@ -57,6 +57,4 @@ class Simulation:
         while not done:
             steps += 1
             done = simulation.step()
-            print(simulation.replications[0].left_fork, simulation.replications[0].right_fork)
-            print("--------------------------------------------")
         print("Duration: " + str(steps) + "\n")
