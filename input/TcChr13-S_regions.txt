@@ -1,1 +1,171 @@
-[Gene ID]	[Transcript ID]	[Organism]	[Genomic Location(s)]
+[Gene ID]	[Transcript ID]	[Organism]	[Genomic Location(s)]	[Product Description]	
+TcCLB.413605.10	TcCLB.413605.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 270,190 - 272,937 (+)	kinesin, putative	
+TcCLB.422507.10	TcCLB.422507.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 556,857 - 557,429 (+)	glycine dehydrogenase [decarboxylating], putative	
+TcCLB.432027.9	TcCLB.432027.9:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 288,172 - 288,753 (+)	hypothetical protein, conserved	
+TcCLB.503853.10	TcCLB.503853.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 274,154 - 276,640 (+)	hypothetical protein, conserved	
+TcCLB.506857.10	TcCLB.506857.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 157,080 - 158,540 (-)	glycogen synthase kinase-3 alpha, putative	
+TcCLB.506857.100	TcCLB.506857.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 176,689 - 177,243 (-)	endoplasmatic reticulum retrieval protein, putative	
+TcCLB.506857.110	TcCLB.506857.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 178,065 - 179,207 (-)	hypothetical protein, conserved	
+TcCLB.506857.120	TcCLB.506857.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 179,600 - 179,818 (-)	hypothetical protein, conserved	
+TcCLB.506857.20	TcCLB.506857.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 159,151 - 159,960 (-)	pyrroline-5-carboxylate reductase, putative	
+TcCLB.506857.30	TcCLB.506857.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 160,394 - 161,920 (-)	hypothetical protein, conserved	
+TcCLB.506857.40	TcCLB.506857.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 162,283 - 163,446 (-)	hypothetical protein, conserved	
+TcCLB.506857.50	TcCLB.506857.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 164,141 - 166,258 (-)	hypothetical protein, conserved	
+TcCLB.506857.60	TcCLB.506857.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 166,768 - 168,036 (-)	peptidyl-prolyl cis-trans isomerase, putative	
+TcCLB.506857.70	TcCLB.506857.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 168,462 - 170,501 (-)	hypothetical protein, conserved	
+TcCLB.506857.80	TcCLB.506857.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 171,000 - 173,435 (-)	kinesin, putative	
+TcCLB.506857.90	TcCLB.506857.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 174,820 - 176,133 (-)	proteasome regulatory ATPase subunit 1, putative	
+TcCLB.506859.10	TcCLB.506859.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 181,529 - 182,203 (-)	ubiquitin-conjugating enzyme E2, putative	
+TcCLB.506859.100	TcCLB.506859.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 197,644 - 198,018 (-)	hypothetical protein, conserved	
+TcCLB.506859.110	TcCLB.506859.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 198,893 - 199,783 (-)	3'a2rel-related protein, putative	
+TcCLB.506859.120	TcCLB.506859.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 200,125 - 201,792 (-)	hypothetical protein	
+TcCLB.506859.130	TcCLB.506859.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 202,000 - 202,881 (-)	hypothetical protein, conserved	
+TcCLB.506859.150	TcCLB.506859.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 203,117 - 207,511 (-)	hypothetical protein	
+TcCLB.506859.160	TcCLB.506859.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 207,726 - 210,446 (-)	hypothetical protein, conserved	
+TcCLB.506859.170	TcCLB.506859.170:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 212,678 - 214,288 (-)	cytoskeleton associated protein, putative	
+TcCLB.506859.180	TcCLB.506859.180:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 215,741 - 216,856 (-)	cytoskeleton associated protein, putative	
+TcCLB.506859.20	TcCLB.506859.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 182,833 - 184,158 (-)	proteasome regulatory ATPase subunit 5, putative	
+TcCLB.506859.204	TcCLB.506859.204:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 222,790 - 224,112 (-)	hypothetical protein, conserved	
+TcCLB.506859.230	TcCLB.506859.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 229,793 - 231,118 (-)	hypothetical protein, conserved	
+TcCLB.506859.240	TcCLB.506859.240:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 235,926 - 237,500 (-)	hypothetical protein, conserved	
+TcCLB.506859.249	TcCLB.506859.249:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 238,458 - 238,820 (-)	hypothetical protein, conserved	
+TcCLB.506859.30	TcCLB.506859.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 185,141 - 186,613 (-)	hypothetical protein	
+TcCLB.506859.4	TcCLB.506859.4:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 179,919 - 180,542 (-)	N-acetyltransferase, putative (fragment)	
+TcCLB.506859.49	TcCLB.506859.49:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 186,937 - 190,455 (-)	hypothetical protein, conserved	
+TcCLB.506859.70	TcCLB.506859.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 191,103 - 192,518 (-)	guide RNA associated protein, GAP2, putative	
+TcCLB.506859.80	TcCLB.506859.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 193,825 - 195,870 (-)	hypothetical protein, conserved	
+TcCLB.506859.90	TcCLB.506859.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 196,682 - 197,179 (-)	prefoldin, putative	
+TcCLB.506861.10	TcCLB.506861.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 419,573 - 422,299 (+)	ATP-dependent DEAD/H RNA helicase, putative	
+TcCLB.506861.20	TcCLB.506861.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 422,979 - 424,697 (+)	hypothetical protein, conserved	
+TcCLB.506861.30	TcCLB.506861.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 425,022 - 425,564 (+)	60S ribosomal protein L14, putative	
+TcCLB.506861.39	TcCLB.506861.39:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 425,878 - 426,000 (+)	dephospho-CoA kinase, putative (fragment)	
+TcCLB.506863.10	TcCLB.506863.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 426,918 - 429,797 (+)	alanyl-tRNA synthetase, putative	
+TcCLB.506863.20	TcCLB.506863.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 430,408 - 431,544 (+)	hypothetical protein	
+TcCLB.506863.30	TcCLB.506863.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 431,875 - 432,642 (+)	hypothetical protein, conserved	
+TcCLB.506863.4	TcCLB.506863.4:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 426,208 - 426,576 (+)	dephospho-CoA kinase, putative	
+TcCLB.506863.40	TcCLB.506863.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 434,392 - 435,336 (+)	hypothetical protein, conserved	
+TcCLB.506863.50	TcCLB.506863.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 435,728 - 436,732 (+)	ribosomal RNA processing protein 45, putative	
+TcCLB.506863.60	TcCLB.506863.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 436,875 - 438,926 (+)	hypothetical protein, conserved	
+TcCLB.506863.70	TcCLB.506863.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 439,393 - 443,592 (+)	hypothetical protein, conserved	
+TcCLB.506863.80	TcCLB.506863.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 445,045 - 447,042 (+)	serine/threonine protein phosphatase, putative	
+TcCLB.508085.10	TcCLB.508085.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 39,445 - 40,110 (-)	GMP synthase, putative	
+TcCLB.508085.20	TcCLB.508085.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 38,093 - 38,941 (-)	hypothetical protein, conserved	
+TcCLB.508321.11	TcCLB.508321.11:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 143,082 - 143,402 (-)	histone H2A, putative (fragment)	
+TcCLB.508321.21	TcCLB.508321.21:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 144,230 - 144,637 (-)	histone H2A, putative	
+TcCLB.508321.30	TcCLB.508321.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 146,112 - 146,489 (-)	hypothetical protein, conserved	
+TcCLB.508321.40	TcCLB.508321.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 147,480 - 150,938 (-)	Tripartite attachment complex protein 102	
+TcCLB.508321.50	TcCLB.508321.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 151,405 - 152,772 (-)	hypothetical protein, conserved	
+TcCLB.508321.60	TcCLB.508321.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 153,206 - 155,146 (-)	hypothetical protein, conserved	
+TcCLB.508323.100	TcCLB.508323.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 404,365 - 405,012 (-)	I/6 autoantigen, putative	
+TcCLB.508323.110	TcCLB.508323.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 405,235 - 406,602 (-)	hypothetical protein, conserved	
+TcCLB.508323.120	TcCLB.508323.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 406,877 - 407,662 (-)	hypothetical protein, conserved	
+TcCLB.508323.190	TcCLB.508323.190:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 416,902 - 418,032 (+)	serine/threonine protein phosphatase, putative	
+TcCLB.508323.199	TcCLB.508323.199:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 418,245 - 419,291 (+)	ATP-dependent DEAD/H RNA helicase, putative (fragment)	
+TcCLB.508323.20	TcCLB.508323.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 389,831 - 391,618 (-)	hypothetical protein, conserved	
+TcCLB.508323.30	TcCLB.508323.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 392,444 - 393,250 (-)	hypothetical protein, conserved	
+TcCLB.508323.40	TcCLB.508323.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 393,673 - 394,701 (-)	hypothetical protein, conserved	
+TcCLB.508323.50	TcCLB.508323.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 394,978 - 396,270 (-)	hypothetical protein, conserved	
+TcCLB.508323.60	TcCLB.508323.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 396,574 - 397,023 (-)	centrin-4, putative	
+TcCLB.508323.70	TcCLB.508323.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 397,518 - 397,967 (-)	centrin-4, putative	
+TcCLB.508323.80	TcCLB.508323.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 398,348 - 399,139 (-)	aquaporin, putative	
+TcCLB.508323.84	TcCLB.508323.84:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 399,506 - 399,844 (-)	peptidyl-prolyl cis-trans isomerase, putative	
+TcCLB.508323.9	TcCLB.508323.9:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 388,131 - 389,169 (-)	farnesyl pyrophosphate synthase, putative	
+TcCLB.508323.90	TcCLB.508323.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 401,701 - 402,948 (-)	hypothetical protein, conserved	
+TcCLB.508323.94	TcCLB.508323.94:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 403,119 - 403,814 (-)	cyclophilin, putative	
+TcCLB.508325.101	TcCLB.508325.101:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 505,665 - 506,144 (+)	hypothetical protein, conserved	
+TcCLB.508325.110	TcCLB.508325.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 506,411 - 506,824 (+)	hypothetical protein, conserved	
+TcCLB.508325.130	TcCLB.508325.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 508,707 - 509,726 (+)	protein kinase, putative	
+TcCLB.508325.150	TcCLB.508325.150:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 510,032 - 513,235 (+)	glycine dehydrogenase (pseudogene), putative	
+TcCLB.508325.160	TcCLB.508325.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 514,706 - 517,648 (+)	retrotransposon hot spot (RHS) protein, putative	
+TcCLB.508325.180	TcCLB.508325.180:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 518,895 - 521,339 (+)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.508325.20	TcCLB.508325.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 477,242 - 478,396 (+)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.508325.220	TcCLB.508325.220:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 527,258 - 528,607 (+)	beta galactofuranosyl glycosyltransferase (pseudogene), putative	
+TcCLB.508325.230	TcCLB.508325.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 531,416 - 535,975 (+)	trans-sialidase, Group IV, putative	
+TcCLB.508325.25	TcCLB.508325.25:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 478,712 - 479,759 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.508325.250	TcCLB.508325.250:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 537,908 - 540,094 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.508325.270	TcCLB.508325.270:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 542,011 - 543,960 (+)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.508325.290	TcCLB.508325.290:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 545,198 - 547,726 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.508325.30	TcCLB.508325.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 480,062 - 490,459 (+)	dispersed gene family protein 1 (DGF-1), putative	
+TcCLB.508325.300	TcCLB.508325.300:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 551,027 - 551,440 (+)	hypothetical protein, conserved	
+TcCLB.508325.310	TcCLB.508325.310:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 552,836 - 553,138 (+)	hypothetical protein, conserved	
+TcCLB.508325.320	TcCLB.508325.320:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 553,262 - 554,281 (+)	protein kinase, putative	
+TcCLB.508325.340	TcCLB.508325.340:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 554,591 - 556,753 (+)	glycine dehydrogenase [decarboxylating] (pseudogene), putative	
+TcCLB.508325.60	TcCLB.508325.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 494,066 - 496,864 (+)	retrotransposon hot spot (RHS) protein, putative	
+TcCLB.508325.80	TcCLB.508325.80:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 500,945 - 503,101 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.508325.90	TcCLB.508325.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 503,606 - 504,169 (+)	hypothetical protein	
+TcCLB.510165.10	TcCLB.510165.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 34,505 - 35,380 (-)	heat shock protein DNAJ, putative	
+TcCLB.510165.110	TcCLB.510165.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 12,986 - 16,147 (-)	retrotransposon hot spot (RHS) protein, putative	
+TcCLB.510165.20	TcCLB.510165.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 33,343 - 34,152 (-)	DNA repair protein, putative	
+TcCLB.510165.30	TcCLB.510165.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 30,464 - 32,917 (-)	hypothetical protein, conserved	
+TcCLB.510165.40	TcCLB.510165.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 28,406 - 30,172 (-)	hypothetical protein, conserved	
+TcCLB.510165.50	TcCLB.510165.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 27,305 - 28,174 (-)	hypothetical protein, conserved	
+TcCLB.510165.54	TcCLB.510165.54:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 26,836 - 27,120 (-)	hypothetical protein, conserved	
+TcCLB.510165.60	TcCLB.510165.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 23,873 - 25,069 (-)	expression site-associated gene (ESAG-like) protein, putative	
+TcCLB.510165.70	TcCLB.510165.70:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 21,687 - 23,504 (-)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.510165.90	TcCLB.510165.90:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 18,309 - 20,468 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.510521.10	TcCLB.510521.10:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 240,224 - 240,763 (-)	NADH-cytochrome b5 reductase (pseudogene), putative	
+TcCLB.510523.10	TcCLB.510523.10:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 241,311 - 243,251 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510523.20	TcCLB.510523.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 243,546 - 244,472 (-)	hypothetical protein, conserved	
+TcCLB.510523.29	TcCLB.510523.29:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 244,963 - 245,484 (+)	hypothetical protein, conserved (fragment)	
+TcCLB.510525.10	TcCLB.510525.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 245,852 - 246,871 (+)	protein kinase, putative	
+TcCLB.510525.100	TcCLB.510525.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 259,873 - 260,280 (+)	histone H2A, putative	
+TcCLB.510525.110	TcCLB.510525.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 260,635 - 261,042 (+)	histone H2A, putative	
+TcCLB.510525.120	TcCLB.510525.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 261,322 - 263,343 (+)	hypothetical protein, conserved	
+TcCLB.510525.130	TcCLB.510525.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 263,643 - 265,049 (+)	Present in the outer mitochondrial membrane proteome 33	
+TcCLB.510525.139	TcCLB.510525.139:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 265,447 - 266,438 (+)	protein kinase, putative	
+TcCLB.510525.20	TcCLB.510525.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 248,319 - 249,155 (+)	hypothetical protein, conserved	
+TcCLB.510525.30	TcCLB.510525.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 249,532 - 250,764 (+)	hypothetical protein, conserved	
+TcCLB.510525.40	TcCLB.510525.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 251,192 - 251,530 (+)	hypothetical protein, conserved	
+TcCLB.510525.50	TcCLB.510525.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 252,438 - 254,516 (+)	hypothetical protein, conserved	
+TcCLB.510525.60	TcCLB.510525.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 255,517 - 256,764 (+)	hypothetical protein, conserved	
+TcCLB.510525.70	TcCLB.510525.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 257,087 - 258,091 (+)	hypothetical protein, conserved	
+TcCLB.510525.80	TcCLB.510525.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 258,350 - 258,757 (+)	histone H2A, putative	
+TcCLB.510525.90	TcCLB.510525.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 259,112 - 259,519 (+)	histone H2A, putative	
+TcCLB.510527.9	TcCLB.510527.9:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 268,214 - 270,087 (+)	kinesin, putative	
+TcCLB.510529.10	TcCLB.510529.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 277,960 - 278,895 (+)	hypothetical protein, conserved	
+TcCLB.510529.20	TcCLB.510529.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 279,540 - 281,459 (+)	F-box and WD40 domain containing protein	
+TcCLB.510529.30	TcCLB.510529.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 283,405 - 286,863 (+)	hypothetical protein, conserved	
+TcCLB.510529.39	TcCLB.510529.39:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 287,698 - 288,071 (+)	hypothetical protein, conserved	
+TcCLB.510531.10	TcCLB.510531.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 289,822 - 291,276 (+)	hypothetical protein, conserved	
+TcCLB.510531.100	TcCLB.510531.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 312,973 - 315,978 (+)	hypothetical protein, conserved	
+TcCLB.510531.109	TcCLB.510531.109:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 316,739 - 320,008 (+)	dynein heavy chain, cytosolic, putative (fragment)	
+TcCLB.510531.20	TcCLB.510531.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 292,436 - 293,743 (+)	hypothetical protein, conserved	
+TcCLB.510531.30	TcCLB.510531.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 294,629 - 297,769 (+)	hypothetical protein, conserved	
+TcCLB.510531.40	TcCLB.510531.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 298,123 - 299,958 (+)	hypothetical protein, conserved	
+TcCLB.510531.50	TcCLB.510531.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 300,762 - 303,029 (+)	hypothetical protein, conserved	
+TcCLB.510531.54	TcCLB.510531.54:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 304,206 - 304,502 (+)	small nuclear ribonucleoprotein, putative	
+TcCLB.510531.60	TcCLB.510531.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 305,360 - 308,623 (+)	hypothetical protein, conserved	
+TcCLB.510531.70	TcCLB.510531.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 309,475 - 310,005 (+)	hypothetical protein, conserved	
+TcCLB.510531.90	TcCLB.510531.90:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 310,390 - 311,964 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510533.10	TcCLB.510533.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 323,133 - 332,420 (+)	Cytoplasmic dynein 1 heavy chain (DYNC1H1), putative	
+TcCLB.510533.100	TcCLB.510533.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 347,453 - 347,944 (+)	hypothetical protein, conserved	
+TcCLB.510533.110	TcCLB.510533.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 348,432 - 350,828 (-)	hypothetical protein, conserved	
+TcCLB.510533.120	TcCLB.510533.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 351,346 - 353,682 (-)	translation initiation factor IF-2, putative	
+TcCLB.510533.130	TcCLB.510533.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 355,367 - 356,467 (-)	hypothetical protein, conserved	
+TcCLB.510533.150	TcCLB.510533.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 357,305 - 361,198 (-)	hypothetical protein	
+TcCLB.510533.160	TcCLB.510533.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 361,712 - 364,156 (-)	hypothetical protein, conserved	
+TcCLB.510533.170	TcCLB.510533.170:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 365,161 - 366,675 (-)	hypothetical protein, conserved	
+TcCLB.510533.180	TcCLB.510533.180:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 367,598 - 368,467 (-)	microtubule-associated protein 1A/1B, light chain 3, putative	
+TcCLB.510533.190	TcCLB.510533.190:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 369,285 - 370,757 (-)	hypothetical protein, conserved	
+TcCLB.510533.20	TcCLB.510533.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 332,758 - 333,882 (+)	hypothetical protein, conserved	
+TcCLB.510533.210	TcCLB.510533.210:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 372,612 - 381,908 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510533.220	TcCLB.510533.220:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 383,589 - 385,385 (-)	hypothetical protein, conserved	
+TcCLB.510533.230	TcCLB.510533.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 386,095 - 387,141 (-)	palmitoyl acyltransferase 11, putative	
+TcCLB.510533.40	TcCLB.510533.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 335,167 - 336,465 (+)	Mu-adaptin 1, putative	
+TcCLB.510533.50	TcCLB.510533.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 337,143 - 338,843 (+)	hypothetical protein, conserved	
+TcCLB.510533.60	TcCLB.510533.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 339,556 - 340,659 (+)	hypothetical protein, conserved	
+TcCLB.510533.70	TcCLB.510533.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 340,909 - 342,591 (+)	protein kinase, putative	
+TcCLB.510533.80	TcCLB.510533.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 343,301 - 343,933 (+)	hypothetical protein, conserved	
+TcCLB.510533.90	TcCLB.510533.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 344,187 - 347,117 (+)	hypothetical protein, conserved	
+TcCLB.510535.10	TcCLB.510535.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 450,247 - 452,484 (+)	hypothetical protein, conserved	
+TcCLB.510535.100	TcCLB.510535.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 473,174 - 474,175 (+)	cysteine peptidase C (CPC), putative	
+TcCLB.510535.109	TcCLB.510535.109:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 476,586 - 477,141 (+)	trans-sialidase, putative	
+TcCLB.510535.20	TcCLB.510535.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 453,100 - 461,118 (+)	hypothetical protein, conserved	
+TcCLB.510535.30	TcCLB.510535.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 461,454 - 462,848 (+)	hypothetical protein	
+TcCLB.510535.40	TcCLB.510535.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 463,154 - 464,782 (+)	hypothetical protein, conserved	
+TcCLB.510535.50	TcCLB.510535.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 464,985 - 465,962 (+)	hypothetical protein	
+TcCLB.510535.60	TcCLB.510535.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 466,333 - 467,343 (+)	ccr4-not transcription complex subunit	
+TcCLB.510535.64	TcCLB.510535.64:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 468,125 - 468,418 (+)	hypothetical protein, conserved	
+TcCLB.510535.70	TcCLB.510535.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 469,149 - 470,834 (+)	hypothetical protein, conserved	
+TcCLB.510535.80	TcCLB.510535.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 471,335 - 472,192 (+)	hypothetical protein, conserved	
+TcCLB.510535.90	TcCLB.510535.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr13-S: 472,452 - 472,814 (+)	hypothetical protein, conserved	

@@ -12,6 +12,8 @@ class Simulation:
     def __init__(self, chromosome):
         self.chromosome = chromosome
 
+        self.current_step = None
+
         self.replications = []
         for replication_origin in self.chromosome.replication_origins:
             self.replications.append(Replication(replication_origin))
@@ -23,6 +25,8 @@ class Simulation:
     def begin(self):
         """ Begins the simulation, activating the replication and all the transcriptions. """
 
+        self.current_step = 0
+
         for transcription in self.transcriptions:
             transcription.begin()
 
@@ -30,13 +34,15 @@ class Simulation:
         """ Move one step forward in the simulation, updating the position of each machinery (both for replication and
         for transcription). """
 
+        self.current_step += 1
+
         Encounter.resolve(self.replications)
 
         done = True
         for replication in self.replications:
             Collision.resolve(replication, self.transcriptions)
-            replication.step()
-            if replication.triggered and not (replication.left_fork is None and replication.right_fork is None):
+            replication.step(self.current_step)
+            if not replication.triggered or not (replication.left_fork is None and replication.right_fork is None):
                 done = False
 
         for transcription in self.transcriptions:
@@ -44,17 +50,13 @@ class Simulation:
 
         return done
 
-    @staticmethod
-    def run(chromosome):
-        simulation = Simulation(chromosome)
+    def run(self):
 
         # print simulated chromosome
-        print(str(chromosome) + "\n")
+        print(str(self.chromosome) + "\n")
 
-        simulation.begin()
-        steps = 1
+        self.begin()
         done = False
         while not done:
-            steps += 1
-            done = simulation.step()
-        print("Duration: " + str(steps) + "\n")
+            done = self.step()
+        print("Duration: " + str(self.current_step) + "\n")

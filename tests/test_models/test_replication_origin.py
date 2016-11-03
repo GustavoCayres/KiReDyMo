@@ -1,13 +1,14 @@
 from unittest import TestCase
-
-from source.db_modules.database_get import get_replication_origin_by_chromosome
+from source.models.replication_origin import ReplicationOrigin
 
 
 class TestTranscriptionRegion(TestCase):
-    @classmethod
-    def setUpClass(cls):
-        cls.replication_origin = get_replication_origin_by_chromosome("c1")
+
+    def setUp(self):
+        self.query = ReplicationOrigin.select().where(ReplicationOrigin.chromosome == "c1")
 
     def test___str__(self):
-        converted_origin = str(self.replication_origin)
-        self.assertEqual(converted_origin, "5")
+        replication_origins = set()
+        for origin in self.query:
+            replication_origins |= {str(origin)}
+        self.assertSetEqual({'0', '7'}, replication_origins)

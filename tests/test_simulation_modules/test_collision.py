@@ -5,6 +5,7 @@ from source.db_modules.database_get import get_chromosome_by_code, get_transcrip
 from source.simulation_modules.collision import Collision
 from source.simulation_modules.replication import Replication
 from source.simulation_modules.transcription import Transcription
+from source.models.replication_origin import ReplicationOrigin
 
 
 class TestCollision(TestCase):
@@ -20,8 +21,7 @@ class TestCollision(TestCase):
         self.transcriptions.append(Transcription(self.transcription_regions[1]))
         self.transcriptions[1].begin()
 
-        self.replication = Replication(self.chromosome)
-        self.replication.begin()
+        self.replication = Replication(ReplicationOrigin.select().where(ReplicationOrigin.position == 5).get())
 
     def test_position(self):
         self.assertEqual(Collision.position(1, 5, 77, 5), math.inf)       # Equal velocities don't lead to collision.

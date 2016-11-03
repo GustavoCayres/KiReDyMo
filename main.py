@@ -27,9 +27,11 @@ def main(organism_name):
         sys.stdout = open(file_location, 'w')
 
         # run simulation
-        Simulation.run(chromosome)
+        simulation = Simulation(chromosome)
+        simulation.run()
 
     sys.stdout.close()
+
 
 if __name__ == "__main__":
     help_if_no_arguments()
