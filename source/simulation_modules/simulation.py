@@ -10,25 +10,16 @@ class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
     def __init__(self, chromosome):
-        self.chromosome = chromosome
-
-        self.current_step = None
-
-        self.replications = []
-        for replication_origin in self.chromosome.replication_origins:
-            self.replications.append(Replication(replication_origin))
-
-        self.transcriptions = []
-        for transcription_region in self.chromosome.transcription_regions:
-            self.transcriptions.append(Transcription(transcription_region))
-
-    def begin(self):
-        """ Begins the simulation, activating the replication and all the transcriptions. """
 
         self.current_step = 0
 
-        for transcription in self.transcriptions:
-            transcription.begin()
+        self.replications = []
+        for replication_origin in chromosome.replication_origins:
+            self.replications.append(Replication(replication_origin))
+
+        self.transcription_regions = [[x, 0] for x in chromosome.transcription_regions]
+
+        self.transcriptions = []
 
     def step(self):
         """ Move one step forward in the simulation, updating the position of each machinery (both for replication and
@@ -45,17 +36,21 @@ class Simulation:
             if not replication.triggered or not (replication.left_fork is None and replication.right_fork is None):
                 done = False
 
+        self.transcriptions[:] = [x for x in self.transcriptions if x.current_position is not None]
+
         for transcription in self.transcriptions:
-            transcription.step()
+                transcription.step()
+
+        for item in self.transcription_regions:
+            if item[1] == 0:
+                self.transcriptions.append(Transcription(item[0]))
+                item[1] = item[0].delay
+            else:
+                item[1] -= 1
 
         return done
 
     def run(self):
-
-        # print simulated chromosome
-        print(str(self.chromosome) + "\n")
-
-        self.begin()
         done = False
         while not done:
             done = self.step()

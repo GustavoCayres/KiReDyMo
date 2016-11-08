@@ -3,9 +3,8 @@ from source.models.replication_origin import ReplicationOrigin
 from source.models.transcription_region import TranscriptionRegion
 
 
-def insert_chromosome(code, length, replication_speed, repair_duration, organism):
-    Chromosome.insert(code=code, length=length, replication_speed=replication_speed,
-                      repair_duration=repair_duration, organism=organism).execute()
+def insert_chromosome(code, length, replication_speed, organism):
+    Chromosome.insert(code=code, length=length, replication_speed=replication_speed, organism=organism).execute()
 
 
 def insert_replication_origin(**kwargs):
@@ -72,7 +71,7 @@ def insert_transcription_regions_from_file(file_name, speed, delay):
         insert_genes_as_regions(genes)
 
 
-def insert_chromosomes_from_file(file_name, replication_speed, repair_duration):
+def insert_chromosomes_from_file(file_name, replication_speed):
     """ Imports the chromosomes from txt file 'file_name'.
         The file format contain columns with headers [Length], [Description] and [Sequence ID]
         where the separation are TABs.                                                          """
@@ -98,6 +97,6 @@ def insert_chromosomes_from_file(file_name, replication_speed, repair_duration):
             length = line_as_list[length_index].replace(',', '')
             code = line_as_list[code_index]
             organism = line_as_list[organism_index]
-            Chromosome.insert(code=code, length=length, replication_speed=replication_speed,
-                              repair_duration=repair_duration, organism=organism).execute()
+            Chromosome.insert(code=code, length=length, replication_speed=replication_speed, organism=organism)\
+                .execute()
     return chromosome_amount

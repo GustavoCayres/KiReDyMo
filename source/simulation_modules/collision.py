@@ -30,7 +30,7 @@ class Collision:
         subtracted_speed = replication_speed - transcription_speed
 
         if transcription.direction > 0:
-            if replication.left_fork is not None:
+            if replication.left_fork is not None and replication.left_repair_wait == 0:
                 if 0 < replication.left_fork - transcription.current_position <= added_speed:
                     final_position = Collision.position(replication.left_fork, -replication_speed,
                                                         transcription.current_position, transcription_speed)
@@ -40,7 +40,7 @@ class Collision:
                     replication.left_fork = final_position
                     print("Head collision with transcription machinery around base " + str(final_position))
                     return "left", "head"
-            if replication.right_fork is not None:
+            if replication.right_fork is not None and replication.right_repair_wait == 0:
                 if 0 < transcription.current_position - replication.right_fork <= subtracted_speed:
                     final_position = Collision.position(replication.right_fork, replication_speed,
                                                         transcription.current_position, transcription_speed)
@@ -50,7 +50,7 @@ class Collision:
                     print("Tail collision with transcription machinery around base " + str(final_position))
                     return "right", "tail"
         else:
-            if replication.right_fork is not None:
+            if replication.right_fork is not None and replication.right_repair_wait == 0:
                 if 0 < transcription.current_position - replication.right_fork <= added_speed:
                     final_position = Collision.position(replication.right_fork, replication_speed,
                                                         transcription.current_position, -transcription_speed)
@@ -60,7 +60,7 @@ class Collision:
                     replication.right_fork = final_position
                     print("Head collision with transcription machinery around base " + str(final_position))
                     return "right", "head"
-            if replication.left_fork is not None:
+            if replication.left_fork is not None and replication.left_repair_wait == 0:
                 if 0 < replication.left_fork - transcription.current_position <= subtracted_speed:
                     final_position = Collision.position(replication.left_fork, -replication_speed,
                                                         transcription.current_position, -transcription_speed)
@@ -78,7 +78,7 @@ class Collision:
         for transcription in transcriptions:
             fork, kind = Collision.verify(replication, transcription)
             if kind == "tail":
-                transcription.collapse()
+                transcription.finish()
             elif kind == "head":
-                transcription.collapse()
+                transcription.finish()
                 replication.pause(fork)

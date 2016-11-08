@@ -26,28 +26,28 @@ class Replication:
 
         self.left_fork, self.right_fork = self.trigger_origin(current_step)
 
-        if self.left_fork is None:
-            pass
-        elif self.left_repair_wait > 0:
-            self.left_repair_wait -= 1
-        else:
-            self.left_fork -= self.chromosome.replication_speed
-            if self.left_fork < 0:                                    # verifies if the left replication ended
-                self.left_fork = None
+        if self.left_fork is not None:
+            if self.left_repair_wait > 0:
+                self.left_repair_wait -= 1
+            else:
+                self.left_fork -= self.chromosome.replication_speed
+                if self.left_fork < 0:                                    # verifies if the left replication ended
+                    self.left_fork = None
 
-        if self.right_fork is None:
-            pass
-        elif self.right_repair_wait > 0:
-            self.right_repair_wait -= 1
-        else:
-            self.right_fork += self.chromosome.replication_speed
-            if self.right_fork >= self.chromosome.length:             # verifies if the right replication ended
-                self.right_fork = None
+        if self.right_fork is not None:
+            if self.right_repair_wait > 0:
+                self.right_repair_wait -= 1
+            else:
+                self.right_fork += self.chromosome.replication_speed
+                if self.right_fork >= self.chromosome.length:             # verifies if the right replication ended
+                    self.right_fork = None
 
     def pause(self, fork):
         """ Pauses the replication for a certain duration to allow repairs. """
 
+        repair_duration = random.randint(1, 8*3600)
+
         if fork == "left":
-            self.left_repair_wait = self.chromosome.repair_duration + 1    # compensates the step taken after the pause
+            self.left_repair_wait = repair_duration + 1    # compensates the step taken after the pause
         else:
-            self.right_repair_wait = self.chromosome.repair_duration + 1
+            self.right_repair_wait = repair_duration + 1
