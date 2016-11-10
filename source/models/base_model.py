@@ -1,4 +1,4 @@
-from peewee import *
+from dependecies.peewee import *
 
 db = SqliteDatabase("db/simulation_db.sqlite")
 

@@ -14,7 +14,7 @@ def main(organism_name):
 
     p = Pool(cpu_count())          # create a thread for each processor
     p.map(simulate, [chromosome for chromosome
-                     in Chromosome.select().where(Chromosome.organism == organism_name)])
+                     in Chromosome.select().where(Chromosome.organism == organism_name and Chromosome.code == "TcChr1-S")])
 
 
 if __name__ == "__main__":

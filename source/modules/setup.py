@@ -22,18 +22,18 @@ def arguments(argument_list):
 
 
 def simulate(chromosome):
-
-    # print simulated chromosome
-    print(str(chromosome) + "\n")
-    
     db.connect()
+
     # output setup
     file_location = "output/" + chromosome.code + "_results.txt"
     sys.stdout = open(file_location, 'w')
 
+    # print simulated chromosome
+    print(str(chromosome) + "\n")
 
     # run simulations
     for replication_repair_duration in range(0, 8*3600, 8*360):
+        print("hey!")
         simulation = Simulation(chromosome, replication_repair_duration)
         simulation.run()
     db.close()
