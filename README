@@ -2,16 +2,7 @@
 
 ### Dependências
 
-* **Peewee**
-
-> Peewee é a ORM utilizada através das classes do modelo. Pode ser facilmente instalada facilmente através do * pip *:
-
-> ** pip install peewee **
-
-> Caso o pip não esteja instalado em seu Linux, você pode instalá-lo utilizando um gerenciador de pacotes.
-> No Debian/Ubuntu, execute:
-
-> ** sudo apt-get pip3 install **
+**Nenhuma!**
 
 ### Execução
 
