@@ -2,7 +2,17 @@ from source.models.chromosome import Chromosome
 from source.models.transcription_region import TranscriptionRegion
 from source.simulation_modules.simulation import Simulation
 import sys
+import os
+import errno
 from source.models.base_model import *
+
+
+def create_folder(path):
+    try:
+        os.makedirs(path)
+    except OSError as exception:
+        if exception.errno != errno.EEXIST:
+            raise
 
 
 def arguments(argument_list):

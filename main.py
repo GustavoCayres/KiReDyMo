@@ -5,7 +5,7 @@ import random
 import sys
 
 from source.models.chromosome import Chromosome
-from source.modules.setup import arguments, simulate
+from source.modules.setup import arguments, simulate, create_folder
 from multiprocessing import Pool, cpu_count
 
 

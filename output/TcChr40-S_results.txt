@@ -1,0 +1,92 @@
+Chromosome: TcChr40-S
+Organism: Trypanosoma cruzi CL Brener Esmeraldo-like
+Origins: 
+1018379 
+Length: 2036759 bases
+Replication Speed: 67 b/s
+Transcription Regions: 
+(40620, 35100) (44590, 50382) (441961, 55610) (445214, 635152) (721113, 640361) (787050, 921456) (940675, 922281) (943175, 1145362) (1181813, 1146423) (1182499, 1280903) (1308124, 1281221) (1311763, 1319926) (1336502, 1324179) (1337152, 1365596) (1413348, 1369569) (1416424, 1474036) (1487286, 1475913) (1488235, 1499180) (1560119, 1505442) (1560959, 1561666) (1582508, 1561962) (1584191, 1601313) (1616033, 1605283) (1618934, 1648331) (1703679, 1652343) (1703993, 1723165) (1723878, 1723267) (1724123, 1735953) (1909057, 1736502) 
+
+Origin at position 1018379 activated at 16
+Head collision with transcription machinery around base 966724
+Head collision with transcription machinery around base 1151718
+Head collision with transcription machinery around base 948800
+Head collision with transcription machinery around base 1153731
+Head collision with transcription machinery around base 1153918
+Head collision with transcription machinery around base 1170015
+Head collision with transcription machinery around base 1170393
+Head collision with transcription machinery around base 914491
+Tail collision with transcription machinery around base 1183025
+Head collision with transcription machinery around base 909247
+Tail collision with transcription machinery around base 1237403
+Head collision with transcription machinery around base 1289812
+Head collision with transcription machinery around base 1300678
+Head collision with transcription machinery around base 1303375
+Head collision with transcription machinery around base 897783
+Head collision with transcription machinery around base 883130
+Head collision with transcription machinery around base 1334192
+Head collision with transcription machinery around base 875697
+Tail collision with transcription machinery around base 1363889
+Head collision with transcription machinery around base 1379583
+Head collision with transcription machinery around base 1383551
+Head collision with transcription machinery around base 861608
+Head collision with transcription machinery around base 856919
+Head collision with transcription machinery around base 1396175
+Head collision with transcription machinery around base 836798
+Head collision with transcription machinery around base 1411890
+Head collision with transcription machinery around base 827177
+Tail collision with transcription machinery around base 1449489
+Head collision with transcription machinery around base 807914
+Head collision with transcription machinery around base 1523806
+Head collision with transcription machinery around base 791554
+Tail collision with transcription machinery around base 682251
+Head collision with transcription machinery around base 1529451
+Head collision with transcription machinery around base 628336
+Head collision with transcription machinery around base 1530223
+Head collision with transcription machinery around base 624397
+Head collision with transcription machinery around base 1548904
+Head collision with transcription machinery around base 1559054
+Head collision with transcription machinery around base 1576207
+Head collision with transcription machinery around base 606187
+Head collision with transcription machinery around base 605259
+Head collision with transcription machinery around base 1615796
+Head collision with transcription machinery around base 590135
+Tail collision with transcription machinery around base 1646902
+Head collision with transcription machinery around base 1666800
+Head collision with transcription machinery around base 1681290
+Head collision with transcription machinery around base 583986
+Head collision with transcription machinery around base 572739
+Head collision with transcription machinery around base 1698764
+Head collision with transcription machinery around base 1751475
+Head collision with transcription machinery around base 567189
+Head collision with transcription machinery around base 1756442
+Head collision with transcription machinery around base 551236
+Head collision with transcription machinery around base 531466
+Head collision with transcription machinery around base 1764174
+Head collision with transcription machinery around base 525745
+Head collision with transcription machinery around base 515169
+Head collision with transcription machinery around base 497683
+Head collision with transcription machinery around base 1769363
+Head collision with transcription machinery around base 1776169
+Head collision with transcription machinery around base 487364
+Head collision with transcription machinery around base 1796592
+Head collision with transcription machinery around base 1816066
+Head collision with transcription machinery around base 469108
+Head collision with transcription machinery around base 448501
+Head collision with transcription machinery around base 1827208
+Head collision with transcription machinery around base 1841201
+Head collision with transcription machinery around base 445816
+Tail collision with transcription machinery around base 392659
+Tail collision with transcription machinery around base 338281
+Tail collision with transcription machinery around base 283902
+Head collision with transcription machinery around base 1851973
+Tail collision with transcription machinery around base 229523
+Tail collision with transcription machinery around base 175145
+Tail collision with transcription machinery around base 120766
+Tail collision with transcription machinery around base 66387
+Head collision with transcription machinery around base 1870058
+Head collision with transcription machinery around base 1877496
+Head collision with transcription machinery around base 1897783
+Head collision with transcription machinery around base 1902503
+Duration: 568867
+

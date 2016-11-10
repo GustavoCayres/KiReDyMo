@@ -1,0 +1,38 @@
+Chromosome: TcChr28-S
+Organism: Trypanosoma cruzi CL Brener Esmeraldo-like
+Origins: 
+426616 
+Length: 853233 bases
+Replication Speed: 67 b/s
+Transcription Regions: 
+(40877, 101) (41553, 206230) (315559, 211883) (316282, 316746) (399193, 316862) (400944, 435815) (464293, 436782) (467105, 571409) (608315, 578298) (608475, 608837) (628319, 611617) (635849, 683678) 
+
+Origin at position 426616 activated at 76
+Head collision with transcription machinery around base 410417
+Head collision with transcription machinery around base 451106
+Head collision with transcription machinery around base 463364
+Tail collision with transcription machinery around base 352174
+Tail collision with transcription machinery around base 309486
+Tail collision with transcription machinery around base 481492
+Tail collision with transcription machinery around base 255107
+Tail collision with transcription machinery around base 535870
+Head collision with transcription machinery around base 579896
+Head collision with transcription machinery around base 190840
+Head collision with transcription machinery around base 181344
+Head collision with transcription machinery around base 172999
+Head collision with transcription machinery around base 596666
+Head collision with transcription machinery around base 159829
+Head collision with transcription machinery around base 625595
+Head collision with transcription machinery around base 148939
+Tail collision with transcription machinery around base 666979
+Head collision with transcription machinery around base 130402
+Head collision with transcription machinery around base 130305
+Head collision with transcription machinery around base 117573
+Head collision with transcription machinery around base 98032
+Head collision with transcription machinery around base 80571
+Head collision with transcription machinery around base 77698
+Head collision with transcription machinery around base 61103
+Head collision with transcription machinery around base 52904
+Head collision with transcription machinery around base 45975
+Duration: 183736
+

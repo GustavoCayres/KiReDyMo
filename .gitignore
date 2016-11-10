@@ -2,4 +2,3 @@
 *.pyo
 *.coverage
 htmlcov
-output/*

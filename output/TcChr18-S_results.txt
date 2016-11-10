@@ -1,0 +1,30 @@
+Chromosome: TcChr18-S
+Organism: Trypanosoma cruzi CL Brener Esmeraldo-like
+Origins: 
+327540 
+Length: 655081 bases
+Replication Speed: 67 b/s
+Transcription Regions: 
+(180022, 118) (189335, 286105) (348181, 290183) (353552, 371082) (388745, 372988) (392790, 412929) (426818, 417205) (430704, 436968) (453651, 440959) (456034, 479869) (504309, 482166) (506094, 518865) (568387, 525035) (570902, 577387) (588625, 579334) (588855, 622717) (640981, 628903) (641559, 645572) (654356, 647869) 
+
+Origin at position 327540 activated at 7
+Head collision with transcription machinery around base 341693
+Head collision with transcription machinery around base 232182
+Head collision with transcription machinery around base 386998
+Head collision with transcription machinery around base 387583
+Tail collision with transcription machinery around base 402118
+Head collision with transcription machinery around base 452012
+Head collision with transcription machinery around base 230954
+Tail collision with transcription machinery around base 457556
+Head collision with transcription machinery around base 488797
+Head collision with transcription machinery around base 214992
+Head collision with transcription machinery around base 530136
+Head collision with transcription machinery around base 541057
+Head collision with transcription machinery around base 202015
+Head collision with transcription machinery around base 560017
+Tail collision with transcription machinery around base 174575
+Tail collision with transcription machinery around base 120197
+Tail collision with transcription machinery around base 65818
+Tail collision with transcription machinery around base 11439
+Duration: 73860
+

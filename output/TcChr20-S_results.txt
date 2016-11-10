@@ -1,0 +1,29 @@
+Chromosome: TcChr20-S
+Organism: Trypanosoma cruzi CL Brener Esmeraldo-like
+Origins: 
+328399 
+Length: 656799 bases
+Replication Speed: 67 b/s
+Transcription Regions: 
+(116509, 3197) (118182, 434263) (457142, 436270) (460870, 565383) (613809, 565949) (615354, 616628) (637205, 617640) (642618, 654962) 
+
+Origin at position 328399 activated at 20
+Head collision with transcription machinery around base 437693
+Head collision with transcription machinery around base 183570
+Head collision with transcription machinery around base 446402
+Head collision with transcription machinery around base 163747
+Head collision with transcription machinery around base 149866
+Head collision with transcription machinery around base 449344
+Head collision with transcription machinery around base 143315
+Tail collision with transcription machinery around base 489609
+Tail collision with transcription machinery around base 543987
+Head collision with transcription machinery around base 576288
+Head collision with transcription machinery around base 126970
+Head collision with transcription machinery around base 123573
+Tail collision with transcription machinery around base 94212
+Tail collision with transcription machinery around base 39833
+Head collision with transcription machinery around base 596381
+Head collision with transcription machinery around base 605269
+Head collision with transcription machinery around base 633627
+Duration: 124142
+
