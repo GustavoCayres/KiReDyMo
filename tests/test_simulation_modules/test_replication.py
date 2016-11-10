@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from source.db_modules.database_get import get_chromosome_by_code
+from source.modules.database_get import get_chromosome_by_code
 from source.simulation_modules.replication import Replication
 
 

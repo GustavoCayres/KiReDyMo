@@ -1,1 +1,879 @@
-[Gene ID]	[Transcript ID]	[Organism]	[Genomic Location(s)]
+[Gene ID]	[Transcript ID]	[Organism]	[Genomic Location(s)]	[Product Description]	
+TcCLB.425435.10	TcCLB.425435.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,005,142 - 1,006,971 (+)	trans-sialidase, putative (fragment)	
+TcCLB.435601.10	TcCLB.435601.10.1	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,325,364 - 2,326,647 (+)	trans-sialidase, putative (fragment)	
+TcCLB.439245.10	TcCLB.439245.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 439,953 - 440,408 (-)	mucin TcMUCII, putative (fragment)	
+TcCLB.439307.19	TcCLB.439307.19:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,280,776 - 2,281,128 (-)	hypothetical protein, conserved	
+TcCLB.439307.9	TcCLB.439307.9:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,279,388 - 2,279,809 (-)	hypothetical protein, conserved	
+TcCLB.447847.10	TcCLB.447847.10:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,355,799 - 2,356,776 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.447847.19	TcCLB.447847.19:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,358,530 - 2,360,044 (+)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.454787.10	TcCLB.454787.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,124,246 - 2,124,488 (-)	mucin TcMUC, putative	
+TcCLB.454787.20	TcCLB.454787.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,122,762 - 2,123,061 (-)	elongation factor 1-gamma (EF-1-gamma, pseudogene), putative	
+TcCLB.473619.9	TcCLB.473619.9:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 34,219 - 35,520 (-)	dispersed gene family protein 1 (DGF-1), putative (fragment)	
+TcCLB.503501.14	TcCLB.503501.14:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,942,577 - 1,943,209 (+)	mucin TcMUCII, putative	
+TcCLB.503501.30	TcCLB.503501.30:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,939,308 - 1,940,411 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.503501.50	TcCLB.503501.50:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,935,421 - 1,937,904 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.503501.60	TcCLB.503501.60:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,934,389 - 1,934,883 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.503501.7	TcCLB.503501.7:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,943,758 - 1,944,141 (+)	Mucin-associated surface protein (MASP) (fragment)	
+TcCLB.503501.70	TcCLB.503501.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,933,010 - 1,933,792 (+)	Mucin-associated surface protein (MASP) (fragment)	
+TcCLB.503503.15	TcCLB.503503.15:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,912,541 - 1,913,278 (-)	hypothetical protein (pseudogene)	
+TcCLB.503503.30	TcCLB.503503.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,910,773 - 1,911,441 (-)	mucin TcMUCII, putative	
+TcCLB.503503.40	TcCLB.503503.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,909,353 - 1,910,201 (-)	Mucin-associated surface protein (MASP), subgroup S033	
+TcCLB.503761.20	TcCLB.503761.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 610,935 - 612,782 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.503761.30	TcCLB.503761.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 614,912 - 615,493 (+)	mucin TcMUCII, putative	
+TcCLB.503761.40	TcCLB.503761.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 616,022 - 616,879 (+)	Mucin-associated surface protein (MASP), subgroup S002	
+TcCLB.503761.50	TcCLB.503761.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 617,478 - 617,801 (-)	hypothetical protein	
+TcCLB.503819.10	TcCLB.503819.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,211,216 - 2,211,920 (-)	hypothetical protein, conserved	
+TcCLB.503819.20	TcCLB.503819.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,212,311 - 2,213,117 (-)	DNA-directed RNA polymerase III subunit, putative	
+TcCLB.503819.30	TcCLB.503819.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,214,203 - 2,215,636 (-)	eukaryotic translation initiation factor 2 subunit, putative	
+TcCLB.503859.10	TcCLB.503859.10:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,416,213 - 1,418,066 (+)	syntaxin binding protein (pseudogene), putative	
+TcCLB.503859.25	TcCLB.503859.25:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,414,038 - 1,414,979 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.503859.40	TcCLB.503859.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,412,150 - 1,413,484 (+)	Mucin-associated surface protein (MASP), subgroup S091	
+TcCLB.503859.45	TcCLB.503859.45:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,410,949 - 1,411,596 (+)	mucin TcMUCII, putative	
+TcCLB.503859.50	TcCLB.503859.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,410,049 - 1,410,504 (+)	hypothetical protein	
+TcCLB.503859.60	TcCLB.503859.60:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,409,552 - 1,409,968 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.503867.10	TcCLB.503867.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 82,022 - 82,756 (+)	hypothetical protein, conserved	
+TcCLB.503867.20	TcCLB.503867.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 80,019 - 80,858 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.503867.5	TcCLB.503867.5:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 82,926 - 83,234 (+)	hypothetical protein, conserved	
+TcCLB.503875.10	TcCLB.503875.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 331,444 - 332,130 (-)	Mucin-associated surface protein (MASP)	
+TcCLB.503875.30	TcCLB.503875.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 327,488 - 328,768 (-)	Mucin-associated surface protein (MASP), subgroup S025	
+TcCLB.503875.40	TcCLB.503875.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 326,541 - 326,936 (+)	hypothetical protein	
+TcCLB.503977.15	TcCLB.503977.15:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,112,008 - 2,113,129 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.503977.30	TcCLB.503977.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,113,736 - 2,114,467 (-)	Mucin-associated surface protein (MASP), subgroup S034	
+TcCLB.503977.40	TcCLB.503977.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,114,982 - 2,115,566 (-)	mucin TcMUCII, putative	
+TcCLB.503977.50	TcCLB.503977.50:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,117,696 - 2,119,405 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.503977.70	TcCLB.503977.70:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,120,788 - 2,122,182 (-)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.503977.79	TcCLB.503977.79:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,122,463 - 2,122,659 (-)	elongation factor 1-gamma (EF-1-gamma), putative	
+TcCLB.504005.10	TcCLB.504005.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 91,555 - 92,310 (+)	endonuclease III, putative	
+TcCLB.504005.20	TcCLB.504005.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 90,507 - 91,265 (+)	N-Acetyl-D-glucosaminylphosphatidylinositol de-N-acetylase, putative	
+TcCLB.504005.29	TcCLB.504005.29:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 89,466 - 90,164 (+)	hypothetical protein, conserved	
+TcCLB.504005.3	TcCLB.504005.3:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 94,183 - 95,990 (+)	RNA helicase, putative	
+TcCLB.504005.40	TcCLB.504005.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 88,034 - 89,014 (+)	hypothetical protein, conserved	
+TcCLB.504005.50	TcCLB.504005.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 85,920 - 87,788 (+)	hypothetical protein, conserved	
+TcCLB.504005.54	TcCLB.504005.54:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 84,876 - 85,199 (+)	hypothetical protein, conserved	
+TcCLB.504005.6	TcCLB.504005.6:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 92,642 - 93,016 (+)	RNA-binding protein, putative	
+TcCLB.504005.60	TcCLB.504005.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 83,879 - 84,610 (+)	hypothetical protein, conserved	
+TcCLB.504039.110	TcCLB.504039.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 653,971 - 654,282 (+)	hypothetical protein	
+TcCLB.504039.120	TcCLB.504039.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 649,876 - 650,505 (-)	mucin TcMUCII, putative	
+TcCLB.504039.130	TcCLB.504039.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 647,746 - 649,350 (-)	Mucin-associated surface protein (MASP), subgroup S121	
+TcCLB.504039.140	TcCLB.504039.140:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 646,296 - 647,282 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.504039.160	TcCLB.504039.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 642,765 - 643,595 (-)	Mucin-associated surface protein (MASP), subgroup S061	
+TcCLB.504039.170	TcCLB.504039.170:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 639,102 - 640,295 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.504039.175	TcCLB.504039.175:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 636,009 - 637,526 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.504039.180	TcCLB.504039.180:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 632,190 - 633,557 (+)	Mucin-associated surface protein (MASP), subgroup S001	
+TcCLB.504039.200	TcCLB.504039.200:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 628,091 - 629,335 (-)	Mucin-associated surface protein (MASP), subgroup S008	
+TcCLB.504039.210	TcCLB.504039.210:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 627,234 - 627,545 (-)	hypothetical protein	
+TcCLB.504039.230	TcCLB.504039.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 623,000 - 623,863 (+)	Mucin-associated surface protein (MASP), subgroup S002	
+TcCLB.504039.240	TcCLB.504039.240:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 621,803 - 622,513 (+)	mucin TcMUCII, putative	
+TcCLB.504039.25	TcCLB.504039.25:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 671,708 - 673,048 (+)	syntaxin binding protein (pseudogene), putative	
+TcCLB.504039.250	TcCLB.504039.250:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 617,939 - 620,074 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.504039.50	TcCLB.504039.50:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 667,467 - 670,094 (+)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.504039.57	TcCLB.504039.57:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 662,260 - 663,114 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.504039.70	TcCLB.504039.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 660,264 - 660,815 (-)	hypothetical protein	
+TcCLB.504039.80	TcCLB.504039.80:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 658,569 - 659,702 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.504039.90	TcCLB.504039.90:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 656,906 - 658,000 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.504039.99	TcCLB.504039.99:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 655,800 - 656,372 (+)	mucin TcMUCII (pseudogene), putative	
+TcCLB.504083.20	TcCLB.504083.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,323,705 - 2,325,261 (+)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.504219.10	TcCLB.504219.10:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,561,258 - 1,561,752 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.504219.40	TcCLB.504219.40:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,558,235 - 1,560,715 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.504219.50	TcCLB.504219.50:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,556,133 - 1,557,311 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.504219.70	TcCLB.504219.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,554,634 - 1,554,981 (-)	mucin TcMUC, putative (fragment)	
+TcCLB.504239.10	TcCLB.504239.10:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,093,180 - 2,094,121 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.504239.100	TcCLB.504239.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,081,918 - 2,082,607 (-)	mucin TcMUCII, putative	
+TcCLB.504239.110	TcCLB.504239.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,080,507 - 2,081,355 (-)	Mucin-associated surface protein (MASP), subgroup S004	
+TcCLB.504239.115	TcCLB.504239.115:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,078,368 - 2,078,829 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.504239.120	TcCLB.504239.120:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,075,668 - 2,077,797 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.504239.140	TcCLB.504239.140:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,073,437 - 2,074,708 (-)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.504239.150	TcCLB.504239.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,070,123 - 2,070,947 (-)	hypothetical protein	
+TcCLB.504239.161	TcCLB.504239.161:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,068,532 - 2,069,392 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.504239.171	TcCLB.504239.171:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,067,425 - 2,067,976 (+)	mucin TcMUCII, putative	
+TcCLB.504239.180	TcCLB.504239.180:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,063,853 - 2,065,268 (+)	surface protease GP63, putative	
+TcCLB.504239.195	TcCLB.504239.195:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,061,080 - 2,062,225 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.504239.20	TcCLB.504239.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,091,055 - 2,091,750 (-)	mucin TcMUCII, putative	
+TcCLB.504239.210	TcCLB.504239.210:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,059,296 - 2,059,844 (+)	hypothetical protein	
+TcCLB.504239.220	TcCLB.504239.220:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,056,686 - 2,058,209 (-)	mucin-associated surface protein (MASP52)	
+TcCLB.504239.230	TcCLB.504239.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,054,069 - 2,054,734 (-)	hypothetical protein	
+TcCLB.504239.240	TcCLB.504239.240:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,051,877 - 2,053,277 (-)	mucin-associated surface protein (MASP, pseudogene), putative	
+TcCLB.504239.260	TcCLB.504239.260:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,048,281 - 2,050,620 (-)	trans-sialidase, Group V, putative	
+TcCLB.504239.270	TcCLB.504239.270:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,046,013 - 2,046,738 (-)	hypothetical protein	
+TcCLB.504239.280	TcCLB.504239.280:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,043,965 - 2,045,128 (-)	90 kDa surface protein, putative	
+TcCLB.504239.290	TcCLB.504239.290:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,042,571 - 2,043,434 (-)	Mucin-associated surface protein (MASP), subgroup S002	
+TcCLB.504239.30	TcCLB.504239.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,089,121 - 2,090,497 (-)	Mucin-associated surface protein (MASP), subgroup S009	
+TcCLB.504239.330	TcCLB.504239.330:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,032,299 - 2,034,005 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.504239.340	TcCLB.504239.340:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,029,623 - 2,030,201 (-)	mucin TcMUCII, putative	
+TcCLB.504239.350	TcCLB.504239.350:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,027,874 - 2,029,082 (-)	Mucin-associated surface protein (MASP), subgroup S099	
+TcCLB.504239.365	TcCLB.504239.365:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,026,400 - 2,027,167 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.504239.380	TcCLB.504239.380:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,025,506 - 2,026,309 (-)	hypothetical protein	
+TcCLB.504239.390	TcCLB.504239.390:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,023,768 - 2,025,123 (-)	syntaxin binding protein (pseudogene), putative	
+TcCLB.504239.40	TcCLB.504239.40:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,087,622 - 2,088,347 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.504239.401	TcCLB.504239.401:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,022,243 - 2,022,860 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.504239.410	TcCLB.504239.410:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,020,752 - 2,021,354 (-)	mucin TcMUCII, putative	
+TcCLB.504239.420	TcCLB.504239.420:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,019,330 - 2,020,178 (-)	Mucin-associated surface protein (MASP), subgroup S004	
+TcCLB.504239.434	TcCLB.504239.434:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,016,813 - 2,017,943 (-)	trans-sialidase, putative (fragment)	
+TcCLB.504239.80	TcCLB.504239.80:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,084,498 - 2,086,357 (-)	syntaxin binding protein (pseudogene), putative	
+TcCLB.504239.90	TcCLB.504239.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,083,552 - 2,084,046 (-)	hypothetical protein, conserved	
+TcCLB.505025.10	TcCLB.505025.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 400,275 - 401,021 (-)	Mucin-associated surface protein (MASP)	
+TcCLB.505025.100	TcCLB.505025.100:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 381,053 - 381,646 (+)	mucin TcMUCII (pseudogene), putative	
+TcCLB.505025.110	TcCLB.505025.110:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 377,078 - 378,940 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.505025.130	TcCLB.505025.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 375,253 - 375,897 (+)	Mucin-associated surface protein (MASP), subgroup S105	
+TcCLB.505025.137	TcCLB.505025.137:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 374,062 - 374,682 (+)	mucin TcMUCII, putative	
+TcCLB.505025.141	TcCLB.505025.141:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 372,167 - 372,637 (+)	hypothetical protein	
+TcCLB.505025.144	TcCLB.505025.144:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 367,761 - 368,690 (-)	hypothetical protein, conserved	
+TcCLB.505025.147	TcCLB.505025.147:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 366,578 - 367,264 (-)	hypothetical protein	
+TcCLB.505025.150	TcCLB.505025.150:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 364,049 - 365,860 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.505025.20	TcCLB.505025.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 397,205 - 398,887 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.505025.30	TcCLB.505025.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 394,403 - 395,098 (-)	mucin TcMUCII, putative	
+TcCLB.505025.40	TcCLB.505025.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 392,384 - 393,856 (-)	Mucin-associated surface protein (MASP)	
+TcCLB.505025.50	TcCLB.505025.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 389,875 - 390,327 (-)	hypothetical protein	
+TcCLB.505025.60	TcCLB.505025.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 387,752 - 388,750 (-)	90 kDa surface protein, putative	
+TcCLB.505025.70	TcCLB.505025.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 386,100 - 387,188 (-)	Mucin-associated surface protein (MASP), subgroup S025	
+TcCLB.505025.80	TcCLB.505025.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 385,159 - 385,959 (-)	hypothetical protein, conserved	
+TcCLB.505025.90	TcCLB.505025.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 382,214 - 383,794 (+)	Mucin-associated surface protein (MASP), subgroup S082	
+TcCLB.506499.10	TcCLB.506499.10:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,552,367 - 1,552,861 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506499.100	TcCLB.506499.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,532,690 - 1,533,448 (+)	hypothetical protein	
+TcCLB.506499.105	TcCLB.506499.105:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,529,110 - 1,530,591 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.506499.110	TcCLB.506499.110:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,527,883 - 1,528,548 (+)	mucin TcMUCII (pseudogene), putative	
+TcCLB.506499.120	TcCLB.506499.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,525,558 - 1,526,106 (-)	hypothetical protein	
+TcCLB.506499.130	TcCLB.506499.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,524,819 - 1,525,376 (-)	hypothetical protein	
+TcCLB.506499.140	TcCLB.506499.140:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,522,857 - 1,524,263 (+)	Mucin-associated surface protein (MASP), subgroup S079	
+TcCLB.506499.149	TcCLB.506499.149:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,521,722 - 1,522,297 (+)	mucin TcMUCII, putative	
+TcCLB.506499.160	TcCLB.506499.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,517,795 - 1,518,868 (-)	Mucin-associated surface protein (MASP), subgroup S030	
+TcCLB.506499.170	TcCLB.506499.170:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,514,173 - 1,516,533 (-)	trans-sialidase, Group V, putative	
+TcCLB.506499.180	TcCLB.506499.180:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,511,897 - 1,512,529 (-)	hypothetical protein	
+TcCLB.506499.190	TcCLB.506499.190:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,509,876 - 1,511,615 (-)	90 kDa surface protein, putative	
+TcCLB.506499.200	TcCLB.506499.200:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,506,616 - 1,507,467 (-)	hypothetical protein	
+TcCLB.506499.210	TcCLB.506499.210:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,504,257 - 1,505,678 (+)	Mucin-associated surface protein (MASP), subgroup S097	
+TcCLB.506499.215	TcCLB.506499.215:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,503,590 - 1,503,991 (+)	elongation factor 1-gamma (EF-1-gamma, pseudogene), putative	
+TcCLB.506499.220	TcCLB.506499.220:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,501,187 - 1,502,362 (+)	90 kDa surface protein, putative	
+TcCLB.506499.230	TcCLB.506499.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,500,022 - 1,500,372 (+)	hypothetical protein	
+TcCLB.506499.30	TcCLB.506499.30:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,549,562 - 1,551,829 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.506499.40	TcCLB.506499.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,547,420 - 1,548,736 (-)	Mucin-associated surface protein (MASP), subgroup S077	
+TcCLB.506499.50	TcCLB.506499.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,546,485 - 1,546,916 (-)	hypothetical protein	
+TcCLB.506499.60	TcCLB.506499.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,544,604 - 1,544,990 (-)	hypothetical protein	
+TcCLB.506499.70	TcCLB.506499.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,540,978 - 1,541,649 (-)	mucin TcMUCII, putative	
+TcCLB.506499.80	TcCLB.506499.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,539,560 - 1,540,405 (-)	Mucin-associated surface protein (MASP), subgroup S033	
+TcCLB.506499.90	TcCLB.506499.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,534,140 - 1,535,465 (+)	90 kDa surface protein, putative	
+TcCLB.506501.10	TcCLB.506501.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,493,559 - 1,494,962 (-)	Mucin-associated surface protein (MASP), subgroup S009	
+TcCLB.506501.100	TcCLB.506501.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,475,535 - 1,476,230 (-)	hypothetical protein	
+TcCLB.506501.105	TcCLB.506501.105:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,474,979 - 1,475,404 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.506501.110	TcCLB.506501.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,473,666 - 1,474,427 (+)	Mucin-associated surface protein (MASP), subgroup S111	
+TcCLB.506501.120	TcCLB.506501.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,472,456 - 1,473,130 (+)	mucin TcMUCII, putative	
+TcCLB.506501.131	TcCLB.506501.131:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,470,963 - 1,471,595 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506501.141	TcCLB.506501.141:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,468,707 - 1,470,557 (+)	syntaxin binding protein (pseudogene), putative	
+TcCLB.506501.150	TcCLB.506501.150:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,466,620 - 1,467,507 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.506501.160	TcCLB.506501.160:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,464,810 - 1,465,946 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.506501.170	TcCLB.506501.170:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,463,646 - 1,464,254 (+)	mucin TcMUCII, putative	
+TcCLB.506501.177	TcCLB.506501.177:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,461,213 - 1,462,223 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506501.184	TcCLB.506501.184:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,458,433 - 1,459,767 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.506501.190	TcCLB.506501.190:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,457,246 - 1,457,890 (+)	mucin TcMUCII, putative	
+TcCLB.506501.20	TcCLB.506501.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,492,385 - 1,492,858 (-)	surface protease GP63, putative	
+TcCLB.506501.210	TcCLB.506501.210:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,453,422 - 1,455,083 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.506501.220	TcCLB.506501.220:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,450,965 - 1,452,059 (+)	Mucin-associated surface protein (MASP), subgroup S008	
+TcCLB.506501.230	TcCLB.506501.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,447,573 - 1,448,091 (-)	mucin TcMUCII, putative	
+TcCLB.506501.240	TcCLB.506501.240:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,446,237 - 1,447,013 (-)	Mucin-associated surface protein (MASP), subgroup S104	
+TcCLB.506501.255	TcCLB.506501.255:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,444,765 - 1,445,532 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.506501.27	TcCLB.506501.27:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,489,395 - 1,490,819 (-)	syntaxin binding protein (pseudogene), putative	
+TcCLB.506501.270	TcCLB.506501.270:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,441,517 - 1,443,526 (-)	syntaxin binding protein (pseudogene), putative	
+TcCLB.506501.275	TcCLB.506501.275:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,440,615 - 1,441,250 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506501.280	TcCLB.506501.280:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,439,215 - 1,439,745 (-)	mucin TcMUCII, putative	
+TcCLB.506501.290	TcCLB.506501.290:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,437,626 - 1,438,669 (-)	Mucin-associated surface protein (MASP), subgroup S030	
+TcCLB.506501.300	TcCLB.506501.300:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,435,637 - 1,436,530 (-)	hypothetical protein	
+TcCLB.506501.310	TcCLB.506501.310:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,434,166 - 1,434,480 (+)	hypothetical protein	
+TcCLB.506501.329	TcCLB.506501.329:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,432,851 - 1,433,648 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.506501.34	TcCLB.506501.34:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,487,991 - 1,488,563 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506501.341	TcCLB.506501.341:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,429,318 - 1,430,208 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.506501.350	TcCLB.506501.350:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,428,093 - 1,428,734 (+)	Mucin-associated surface protein (MASP), subgroup S105	
+TcCLB.506501.370	TcCLB.506501.370:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,422,539 - 1,422,979 (+)	hypothetical protein	
+TcCLB.506501.380	TcCLB.506501.380:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,421,220 - 1,422,032 (+)	Mucin-associated surface protein (MASP), subgroup S067	
+TcCLB.506501.390	TcCLB.506501.390:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,420,101 - 1,420,673 (+)	mucin TcMUCII, putative	
+TcCLB.506501.40	TcCLB.506501.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,486,369 - 1,487,064 (-)	mucin TcMUCII, putative	
+TcCLB.506501.401	TcCLB.506501.401:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,418,595 - 1,419,212 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506501.5	TcCLB.506501.5:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,495,692 - 1,496,156 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.506501.50	TcCLB.506501.50:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,484,941 - 1,485,789 (-)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.506501.59	TcCLB.506501.59:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,482,571 - 1,483,092 (-)	hypothetical protein	
+TcCLB.506501.70	TcCLB.506501.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,480,762 - 1,481,322 (-)	mucin TcMUCII, putative	
+TcCLB.506501.80	TcCLB.506501.80:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,478,512 - 1,480,218 (-)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.506501.90	TcCLB.506501.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,476,453 - 1,476,851 (-)	hypothetical protein	
+TcCLB.506523.9	TcCLB.506523.9:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 306,168 - 311,779 (+)	dispersed gene family protein 1 (DGF-1), putative	
+TcCLB.506597.20	TcCLB.506597.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,002,520 - 1,003,395 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.506597.30	TcCLB.506597.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,001,410 - 1,001,979 (+)	mucin TcMUCII, putative	
+TcCLB.506597.33	TcCLB.506597.33:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 999,574 - 1,000,155 (+)	hypothetical protein	
+TcCLB.506597.36	TcCLB.506597.36:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 995,089 - 995,832 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506597.40	TcCLB.506597.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 990,858 - 993,191 (-)	trans-sialidase, Group V, putative	
+TcCLB.506597.51	TcCLB.506597.51:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 989,029 - 989,439 (-)	hypothetical protein	
+TcCLB.506597.9	TcCLB.506597.9:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,004,691 - 1,005,041 (+)	trans-sialidase, putative (fragment)	
+TcCLB.506599.10	TcCLB.506599.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 769,364 - 769,780 (+)	elongation factor 1-gamma (EF-1-gamma), putative	
+TcCLB.506599.100	TcCLB.506599.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 748,862 - 749,602 (-)	Mucin-associated surface protein (MASP), subgroup S068	
+TcCLB.506599.120	TcCLB.506599.120:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 745,381 - 747,465 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.506599.130	TcCLB.506599.130:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 742,947 - 743,660 (-)	mucin TcMUCII (pseudogene), putative	
+TcCLB.506599.150	TcCLB.506599.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 741,516 - 742,418 (-)	Mucin-associated surface protein (MASP), subgroup S080	
+TcCLB.506599.170	TcCLB.506599.170:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 736,463 - 737,758 (+)	Mucin-associated surface protein (MASP), subgroup S008	
+TcCLB.506599.189	TcCLB.506599.189:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 734,867 - 735,451 (+)	mucin TcMUCII, putative	
+TcCLB.506599.210	TcCLB.506599.210:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 730,422 - 731,234 (+)	Mucin-associated surface protein (MASP), subgroup S061	
+TcCLB.506599.224	TcCLB.506599.224:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 729,363 - 729,959 (+)	mucin TcMUCII, putative	
+TcCLB.506599.240	TcCLB.506599.240:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 725,125 - 726,501 (-)	Mucin-associated surface protein (MASP), subgroup S064	
+TcCLB.506599.250	TcCLB.506599.250:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 720,618 - 722,183 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.506599.270	TcCLB.506599.270:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 717,791 - 718,372 (-)	mucin TcMUCII, putative	
+TcCLB.506599.280	TcCLB.506599.280:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 715,987 - 717,168 (-)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.506599.3	TcCLB.506599.3:tRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 770,950 - 771,024 (+)	tRNA-Ala:anticodon CGC	
+TcCLB.506599.30	TcCLB.506599.30:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 768,050 - 768,811 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.506599.300	TcCLB.506599.300:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 712,764 - 713,183 (+)	hypothetical protein	
+TcCLB.506599.310	TcCLB.506599.310:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 711,059 - 712,249 (+)	Mucin-associated surface protein (MASP), subgroup S043	
+TcCLB.506599.315	TcCLB.506599.315:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 707,994 - 709,505 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506599.320	TcCLB.506599.320:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 706,751 - 707,296 (+)	hypothetical protein	
+TcCLB.506599.330	TcCLB.506599.330:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 704,282 - 705,562 (+)	Mucin-associated surface protein (MASP), subgroup S001	
+TcCLB.506599.35	TcCLB.506599.35:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 764,961 - 766,484 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506599.350	TcCLB.506599.350:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 698,387 - 698,962 (-)	mucin TcMUCII, putative	
+TcCLB.506599.360	TcCLB.506599.360:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 696,583 - 697,764 (-)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.506599.380	TcCLB.506599.380:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 693,356 - 693,775 (+)	hypothetical protein	
+TcCLB.506599.390	TcCLB.506599.390:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 691,540 - 692,835 (+)	Mucin-associated surface protein (MASP), subgroup S008	
+TcCLB.506599.395	TcCLB.506599.395:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 690,926 - 691,255 (+)	elongation factor 1-gamma (EF-1-gamma, pseudogene), putative	
+TcCLB.506599.40	TcCLB.506599.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 763,795 - 764,469 (+)	hypothetical protein	
+TcCLB.506599.400	TcCLB.506599.400:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 687,517 - 689,616 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.506599.420	TcCLB.506599.420:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 683,826 - 684,782 (+)	Mucin-associated surface protein (MASP), subgroup S117	
+TcCLB.506599.430	TcCLB.506599.430:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 682,675 - 683,253 (+)	mucin TcMUCII, putative	
+TcCLB.506599.445	TcCLB.506599.445:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 681,486 - 681,800 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506599.50	TcCLB.506599.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 761,364 - 762,518 (+)	Mucin-associated surface protein (MASP), subgroup S001	
+TcCLB.506599.6	TcCLB.506599.6:tRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 770,813 - 770,884 (+)	tRNA-Arg:anticodon CCG	
+TcCLB.506599.70	TcCLB.506599.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 755,460 - 756,041 (-)	mucin TcMUCII, putative	
+TcCLB.506599.80	TcCLB.506599.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 753,717 - 754,898 (-)	Mucin-associated surface protein (MASP), subgroup S008	
+TcCLB.506599.9	TcCLB.506599.9:tRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 770,634 - 770,706 (-)	tRNA-Phe:anticodon GAA	
+TcCLB.506599.91	TcCLB.506599.91:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 752,246 - 752,839 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.506601.11	TcCLB.506601.11:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 681,184 - 681,384 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506601.21	TcCLB.506601.21:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 678,919 - 680,310 (+)	syntaxin binding protein (pseudogene), putative	
+TcCLB.506601.31	TcCLB.506601.31:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 676,746 - 677,663 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.506601.40	TcCLB.506601.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 674,870 - 676,159 (+)	Mucin-associated surface protein (MASP), subgroup S008	
+TcCLB.506601.51	TcCLB.506601.51:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 673,725 - 674,303 (+)	mucin TcMUCII (pseudogene), putative	
+TcCLB.506603.20	TcCLB.506603.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 608,822 - 609,586 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.506603.29	TcCLB.506603.29:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 608,259 - 608,558 (+)	elongation factor 1-gamma (EF-1-gamma, pseudogene), putative	
+TcCLB.506603.35	TcCLB.506603.35:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 604,902 - 606,833 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.506603.40	TcCLB.506603.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 600,009 - 602,339 (+)	trans-sialidase, Group V, putative	
+TcCLB.506603.43	TcCLB.506603.43:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 598,603 - 599,535 (+)	hypothetical protein	
+TcCLB.506603.46	TcCLB.506603.46:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 597,366 - 598,130 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506603.50	TcCLB.506603.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 594,424 - 594,840 (-)	elongation factor 1-gamma (EF-1-gamma), putative	
+TcCLB.506603.60	TcCLB.506603.60:tRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 593,498 - 593,570 (+)	tRNA-Phe:anticodon GAA	
+TcCLB.506653.10	TcCLB.506653.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 463,968 - 464,768 (+)	trans-sialidase, putative	
+TcCLB.506653.40	TcCLB.506653.40:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 466,540 - 468,765 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.506653.50	TcCLB.506653.50:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 470,092 - 470,415 (+)	elongation factor 1-gamma (EF-1-gamma, pseudogene), putative	
+TcCLB.506655.20	TcCLB.506655.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 540,471 - 542,453 (-)	polyubiquitin (pseudogene), putative	
+TcCLB.506655.7	TcCLB.506655.7:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 538,998 - 539,816 (-)	phospholipid-transporting ATPase, putative (fragment)	
+TcCLB.506753.100	TcCLB.506753.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,306,215 - 2,306,583 (-)	hypothetical protein, conserved	
+TcCLB.506753.110	TcCLB.506753.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,305,675 - 2,306,025 (-)	cytochrome b5-like protein, putative	
+TcCLB.506753.120	TcCLB.506753.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,301,778 - 2,304,273 (-)	J-binding protein	
+TcCLB.506753.130	TcCLB.506753.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,300,700 - 2,301,074 (-)	hypothetical protein, conserved	
+TcCLB.506753.140	TcCLB.506753.140:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,299,953 - 2,300,381 (-)	hypothetical protein, conserved	
+TcCLB.506753.15	TcCLB.506753.15:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,320,534 - 2,321,637 (+)	dispersed gene family protein 1 (DGF-1, pseudogene), putative	
+TcCLB.506753.150	TcCLB.506753.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,299,040 - 2,299,453 (-)	hypothetical protein, conserved	
+TcCLB.506753.160	TcCLB.506753.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,297,564 - 2,298,601 (-)	hypothetical protein, conserved	
+TcCLB.506753.164	TcCLB.506753.164:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,296,966 - 2,297,355 (-)	hypothetical protein, conserved	
+TcCLB.506753.170	TcCLB.506753.170:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,295,779 - 2,296,537 (-)	ubiquinone biosynthesis protein-like protein, putative	
+TcCLB.506753.180	TcCLB.506753.180:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,295,083 - 2,295,472 (-)	hypothetical protein, conserved	
+TcCLB.506753.190	TcCLB.506753.190:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,292,657 - 2,294,261 (-)	hypothetical protein, conserved	
+TcCLB.506753.200	TcCLB.506753.200:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,290,357 - 2,292,270 (-)	hypothetical protein, conserved	
+TcCLB.506753.210	TcCLB.506753.210:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,288,612 - 2,290,144 (-)	hypothetical protein, conserved	
+TcCLB.506753.220	TcCLB.506753.220:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,287,653 - 2,288,300 (-)	hypothetical protein, conserved	
+TcCLB.506753.230	TcCLB.506753.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,284,374 - 2,287,226 (-)	hypothetical protein, conserved	
+TcCLB.506753.240	TcCLB.506753.240:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,282,280 - 2,282,858 (-)	hypothetical protein, conserved	
+TcCLB.506753.249	TcCLB.506753.249:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,281,229 - 2,281,746 (-)	hypothetical protein, conserved	
+TcCLB.506753.30	TcCLB.506753.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,319,219 - 2,320,244 (-)	hypothetical protein	
+TcCLB.506753.40	TcCLB.506753.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,318,461 - 2,319,063 (-)	hypothetical protein, conserved	
+TcCLB.506753.50	TcCLB.506753.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,315,974 - 2,318,235 (-)	hypothetical protein, conserved	
+TcCLB.506753.60	TcCLB.506753.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,314,756 - 2,315,724 (-)	GDP-mannose transporter, putative	
+TcCLB.506753.70	TcCLB.506753.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,314,026 - 2,314,523 (-)	Radial spoke protein 11	
+TcCLB.506753.80	TcCLB.506753.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,312,665 - 2,313,690 (-)	hypothetical protein, conserved	
+TcCLB.506753.90	TcCLB.506753.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,307,233 - 2,312,125 (-)	hypothetical protein, conserved	
+TcCLB.506755.10	TcCLB.506755.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,276,099 - 2,277,769 (-)	hypothetical protein, conserved	
+TcCLB.506755.100	TcCLB.506755.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,258,248 - 2,259,057 (-)	hypothetical protein, conserved	
+TcCLB.506755.110	TcCLB.506755.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,256,024 - 2,257,703 (-)	hypothetical protein, conserved	
+TcCLB.506755.120	TcCLB.506755.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,252,940 - 2,255,072 (-)	hypothetical protein, conserved	
+TcCLB.506755.130	TcCLB.506755.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,252,074 - 2,252,583 (-)	hypothetical protein, conserved	
+TcCLB.506755.140	TcCLB.506755.140:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,245,634 - 2,251,603 (-)	ATP-dependent helicase, putative	
+TcCLB.506755.150	TcCLB.506755.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,244,486 - 2,245,406 (-)	hypothetical protein, conserved	
+TcCLB.506755.160	TcCLB.506755.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,240,575 - 2,244,219 (-)	AAA ATPase, putative	
+TcCLB.506755.170	TcCLB.506755.170:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,236,788 - 2,239,754 (-)	hypothetical protein, conserved	
+TcCLB.506755.180	TcCLB.506755.180:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,235,243 - 2,236,532 (-)	hypothetical protein, conserved	
+TcCLB.506755.190	TcCLB.506755.190:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,232,091 - 2,234,424 (-)	hypothetical protein, conserved	
+TcCLB.506755.20	TcCLB.506755.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,273,482 - 2,275,260 (-)	paraflagellar rod component, putative	
+TcCLB.506755.200	TcCLB.506755.200:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,229,696 - 2,230,247 (-)	hypothetical protein, conserved	
+TcCLB.506755.210	TcCLB.506755.210:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,227,765 - 2,229,354 (-)	hypothetical protein, conserved	
+TcCLB.506755.220	TcCLB.506755.220:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,225,252 - 2,227,435 (-)	hypothetical protein, conserved	
+TcCLB.506755.230	TcCLB.506755.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,224,016 - 2,224,885 (-)	hypothetical protein, conserved	
+TcCLB.506755.240	TcCLB.506755.240:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,223,109 - 2,223,579 (-)	hypothetical protein, conserved	
+TcCLB.506755.250	TcCLB.506755.250:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,222,068 - 2,222,526 (-)	mitochondrial import inner membrane translocase subunit TIM17, putative	
+TcCLB.506755.260	TcCLB.506755.260:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,220,484 - 2,221,164 (-)	mitochondrial RNA-binding protein 2, putative	
+TcCLB.506755.270	TcCLB.506755.270:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,218,184 - 2,219,032 (-)	hypothetical protein, conserved	
+TcCLB.506755.279	TcCLB.506755.279:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,216,147 - 2,216,906 (-)	hypothetical protein, conserved	
+TcCLB.506755.30	TcCLB.506755.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,271,021 - 2,272,091 (-)	hypothetical protein, conserved	
+TcCLB.506755.40	TcCLB.506755.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,269,694 - 2,270,554 (-)	hypothetical protein, conserved	
+TcCLB.506755.5	TcCLB.506755.5:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,278,522 - 2,279,286 (-)	hypothetical protein, conserved	
+TcCLB.506755.50	TcCLB.506755.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,268,694 - 2,269,431 (-)	hypothetical protein, conserved	
+TcCLB.506755.60	TcCLB.506755.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,266,296 - 2,267,873 (-)	hypothetical protein, conserved	
+TcCLB.506755.70	TcCLB.506755.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,264,780 - 2,265,700 (-)	hypothetical protein, conserved	
+TcCLB.506755.74	TcCLB.506755.74:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,263,589 - 2,264,572 (-)	mitochondrial carrier protein, putative	
+TcCLB.506755.80	TcCLB.506755.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,261,321 - 2,262,301 (-)	hypothetical protein	
+TcCLB.506755.90	TcCLB.506755.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,259,613 - 2,260,566 (-)	hypothetical protein, conserved	
+TcCLB.506757.10	TcCLB.506757.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,208,071 - 2,210,068 (-)	phospholipid:diacylglycerol acyltransferase, putative	
+TcCLB.506757.100	TcCLB.506757.100:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,181,870 - 2,184,398 (-)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.506757.120	TcCLB.506757.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,178,147 - 2,180,588 (-)	trans-sialidase, Group V, putative	
+TcCLB.506757.129	TcCLB.506757.129:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,173,505 - 2,174,413 (-)	mucin-associated surface protein (MASP, pseudogene), putative	
+TcCLB.506757.150	TcCLB.506757.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,168,422 - 2,169,297 (+)	Mucin-associated surface protein (MASP), subgroup S002	
+TcCLB.506757.20	TcCLB.506757.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,206,566 - 2,207,765 (-)	hypothetical protein, conserved	
+TcCLB.506757.30	TcCLB.506757.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,204,025 - 2,205,404 (-)	hypothetical protein, conserved	
+TcCLB.506757.50	TcCLB.506757.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,202,343 - 2,202,990 (-)	Mucin-associated surface protein (MASP), subgroup S103	
+TcCLB.506757.60	TcCLB.506757.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,198,634 - 2,201,057 (-)	trans-sialidase, Group V, putative	
+TcCLB.506757.70	TcCLB.506757.70:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,192,474 - 2,194,888 (-)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.506757.90	TcCLB.506757.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,188,577 - 2,191,081 (-)	trans-sialidase, Group II, putative	
+TcCLB.506759.10	TcCLB.506759.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,162,977 - 2,163,288 (+)	hypothetical protein	
+TcCLB.506759.130	TcCLB.506759.130:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,144,312 - 2,144,974 (-)	hypothetical protein (pseudogene)	
+TcCLB.506759.140	TcCLB.506759.140:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,142,210 - 2,143,382 (-)	90 kDa surface protein, putative	
+TcCLB.506759.150	TcCLB.506759.150:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,139,692 - 2,140,726 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506759.160	TcCLB.506759.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,137,771 - 2,138,352 (-)	mucin TcMUCII, putative	
+TcCLB.506759.170	TcCLB.506759.170:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,136,065 - 2,137,207 (-)	Mucin-associated surface protein (MASP), subgroup S008	
+TcCLB.506759.190	TcCLB.506759.190:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,132,963 - 2,134,858 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.506759.20	TcCLB.506759.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,161,639 - 2,162,466 (+)	Mucin-associated surface protein (MASP), subgroup S061	
+TcCLB.506759.210	TcCLB.506759.210:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,130,250 - 2,130,876 (-)	mucin TcMUCII, putative	
+TcCLB.506759.220	TcCLB.506759.220:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,128,233 - 2,129,705 (-)	Mucin-associated surface protein (MASP)	
+TcCLB.506759.230	TcCLB.506759.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,125,983 - 2,126,663 (-)	hypothetical protein	
+TcCLB.506759.31	TcCLB.506759.31:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,157,838 - 2,159,133 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.506759.40	TcCLB.506759.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,156,019 - 2,157,389 (+)	Mucin-associated surface protein (MASP), subgroup S064	
+TcCLB.506759.50	TcCLB.506759.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,154,485 - 2,154,802 (+)	hypothetical protein	
+TcCLB.506759.70	TcCLB.506759.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,152,117 - 2,152,710 (-)	mucin TcMUCII, putative	
+TcCLB.506759.80	TcCLB.506759.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,150,759 - 2,151,652 (-)	Mucin-associated surface protein (MASP), subgroup S059	
+TcCLB.506759.90	TcCLB.506759.90:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,146,916 - 2,149,462 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.506761.11	TcCLB.506761.11:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,932,552 - 1,932,905 (+)	Mucin-associated surface protein (MASP) (fragment)	
+TcCLB.506761.19	TcCLB.506761.19:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,931,470 - 1,932,015 (+)	mucin TcMUCII, putative	
+TcCLB.506761.40	TcCLB.506761.40:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,925,107 - 1,925,877 (-)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.506761.47	TcCLB.506761.47:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,920,904 - 1,921,473 (-)	mucin TcMUCII, putative	
+TcCLB.506761.54	TcCLB.506761.54:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,919,474 - 1,920,331 (-)	mucin-associated surface protein (MASP, pseudogene), putative	
+TcCLB.506763.110	TcCLB.506763.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,887,786 - 1,890,947 (-)	trans-sialidase, Group VII, putative	
+TcCLB.506763.121	TcCLB.506763.121:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,886,256 - 1,886,579 (-)	elongation factor 1-gamma (EF-1-gamma, pseudogene), putative	
+TcCLB.506763.130	TcCLB.506763.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,884,423 - 1,885,991 (-)	Mucin-associated surface protein (MASP), subgroup S123	
+TcCLB.506763.140	TcCLB.506763.140:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,882,050 - 1,882,439 (-)	hypothetical protein	
+TcCLB.506763.150	TcCLB.506763.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,879,185 - 1,880,588 (-)	Mucin-associated surface protein (MASP), subgroup S079	
+TcCLB.506763.160	TcCLB.506763.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,878,236 - 1,878,655 (-)	hypothetical protein	
+TcCLB.506763.190	TcCLB.506763.190:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,870,641 - 1,871,216 (+)	mucin TcMUCII, putative	
+TcCLB.506763.210	TcCLB.506763.210:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,868,307 - 1,868,855 (-)	hypothetical protein	
+TcCLB.506763.234	TcCLB.506763.234:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,865,636 - 1,867,030 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.506763.260	TcCLB.506763.260:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,861,267 - 1,862,763 (-)	Mucin-associated surface protein (MASP), subgroup S001	
+TcCLB.506763.270	TcCLB.506763.270:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,857,348 - 1,859,852 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506763.280	TcCLB.506763.280:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,854,422 - 1,855,873 (-)	Mucin-associated surface protein (MASP), subgroup S097	
+TcCLB.506763.290	TcCLB.506763.290:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,850,192 - 1,850,809 (-)	mucin TcMUCII, putative	
+TcCLB.506763.30	TcCLB.506763.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,904,309 - 1,905,082 (-)	Mucin-associated surface protein (MASP), subgroup S061	
+TcCLB.506763.330	TcCLB.506763.330:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,841,376 - 1,842,221 (+)	Mucin-associated surface protein (MASP), subgroup S004	
+TcCLB.506763.340	TcCLB.506763.340:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,840,178 - 1,840,810 (+)	mucin TcMUCII, putative	
+TcCLB.506763.35	TcCLB.506763.35:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,900,344 - 1,901,873 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506763.350	TcCLB.506763.350:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,838,677 - 1,839,399 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506763.361	TcCLB.506763.361:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,836,411 - 1,838,279 (+)	syntaxin binding protein (pseudogene), putative	
+TcCLB.506763.370	TcCLB.506763.370:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,835,719 - 1,836,393 (-)	hypothetical protein	
+TcCLB.506763.4	TcCLB.506763.4:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,906,963 - 1,908,432 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.506763.40	TcCLB.506763.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,899,511 - 1,900,104 (-)	hypothetical protein	
+TcCLB.506763.50	TcCLB.506763.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,897,875 - 1,898,756 (-)	Mucin-associated surface protein (MASP), subgroup S082	
+TcCLB.506763.80	TcCLB.506763.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,893,637 - 1,894,275 (-)	mucin TcMUCII, putative	
+TcCLB.506763.90	TcCLB.506763.90:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,892,222 - 1,893,091 (-)	mucin-associated surface protein (MASP, pseudogene), putative	
+TcCLB.506765.10	TcCLB.506765.10:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,707,056 - 1,709,527 (-)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.506765.40	TcCLB.506765.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,703,299 - 1,705,791 (-)	trans-sialidase, Group II, putative	
+TcCLB.506765.43	TcCLB.506765.43:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,700,340 - 1,700,993 (-)	hypothetical protein	
+TcCLB.506765.46	TcCLB.506765.46:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,698,259 - 1,699,149 (-)	mucin-associated surface protein (MASP, pseudogene), putative	
+TcCLB.506765.49	TcCLB.506765.49:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,696,858 - 1,697,490 (+)	hypothetical protein	
+TcCLB.506765.50	TcCLB.506765.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,693,627 - 1,694,274 (+)	Mucin-associated surface protein (MASP), subgroup S103	
+TcCLB.506765.58	TcCLB.506765.58:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,690,528 - 1,692,789 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.506765.66	TcCLB.506765.66:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,689,494 - 1,689,988 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506765.74	TcCLB.506765.74:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,687,044 - 1,687,805 (+)	Mucin-associated surface protein (MASP), subgroup S027	
+TcCLB.506765.80	TcCLB.506765.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,685,914 - 1,686,468 (+)	mucin TcMUCII, putative	
+TcCLB.506767.10	TcCLB.506767.10:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,684,301 - 1,685,044 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506767.110	TcCLB.506767.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,659,543 - 1,660,433 (-)	Mucin-associated surface protein (MASP), subgroup S002	
+TcCLB.506767.119	TcCLB.506767.119:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,658,077 - 1,658,775 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.506767.123	TcCLB.506767.123:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,655,434 - 1,656,795 (-)	syntaxin binding protein (pseudogene), putative	
+TcCLB.506767.127	TcCLB.506767.127:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,653,853 - 1,654,554 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506767.130	TcCLB.506767.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,652,444 - 1,653,046 (-)	mucin TcMUCII, putative	
+TcCLB.506767.140	TcCLB.506767.140:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,651,012 - 1,651,899 (-)	Mucin-associated surface protein (MASP), subgroup S080	
+TcCLB.506767.155	TcCLB.506767.155:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,648,858 - 1,649,316 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506767.170	TcCLB.506767.170:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,645,894 - 1,648,278 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.506767.183	TcCLB.506767.183:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,644,292 - 1,645,182 (-)	mucin-associated surface protein (MASP, pseudogene), putative	
+TcCLB.506767.196	TcCLB.506767.196:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,642,802 - 1,643,722 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.506767.209	TcCLB.506767.209:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,639,682 - 1,641,529 (-)	syntaxin binding protein (pseudogene), putative	
+TcCLB.506767.21	TcCLB.506767.21:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,682,050 - 1,683,897 (+)	syntaxin binding protein (pseudogene), putative	
+TcCLB.506767.215	TcCLB.506767.215:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,638,649 - 1,639,290 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506767.220	TcCLB.506767.220:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,637,185 - 1,637,787 (-)	mucin TcMUCII, putative	
+TcCLB.506767.230	TcCLB.506767.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,635,753 - 1,636,607 (-)	Mucin-associated surface protein (MASP), subgroup S004	
+TcCLB.506767.240	TcCLB.506767.240:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,631,120 - 1,631,767 (+)	Mucin-associated surface protein (MASP), subgroup S103	
+TcCLB.506767.250	TcCLB.506767.250:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,628,014 - 1,630,104 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.506767.280	TcCLB.506767.280:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,624,217 - 1,626,838 (+)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.506767.31	TcCLB.506767.31:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,680,060 - 1,680,779 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.506767.310	TcCLB.506767.310:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,617,786 - 1,620,101 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.506767.317	TcCLB.506767.317:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,615,157 - 1,615,897 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506767.324	TcCLB.506767.324:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,609,563 - 1,610,144 (+)	mucin TcMUCII, putative	
+TcCLB.506767.340	TcCLB.506767.340:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,604,628 - 1,605,950 (+)	Mucin-associated surface protein (MASP), subgroup S074	
+TcCLB.506767.360	TcCLB.506767.360:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,603,452 - 1,604,078 (+)	mucin TcMUCII, putative	
+TcCLB.506767.371	TcCLB.506767.371:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,601,916 - 1,602,575 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506767.381	TcCLB.506767.381:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,599,656 - 1,601,044 (+)	syntaxin binding protein (pseudogene), putative	
+TcCLB.506767.389	TcCLB.506767.389:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,597,476 - 1,598,429 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.506767.40	TcCLB.506767.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,678,525 - 1,679,298 (+)	Mucin-associated surface protein (MASP), subgroup S104	
+TcCLB.506767.400	TcCLB.506767.400:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,596,047 - 1,596,892 (+)	Mucin-associated surface protein (MASP), subgroup S004	
+TcCLB.506767.410	TcCLB.506767.410:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,594,245 - 1,594,811 (+)	hypothetical protein	
+TcCLB.506767.5	TcCLB.506767.5:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,685,527 - 1,685,667 (+)	Mucin-associated surface protein (MASP) (fragment)	
+TcCLB.506767.50	TcCLB.506767.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,677,395 - 1,677,970 (+)	mucin TcMUCII, putative	
+TcCLB.506767.60	TcCLB.506767.60:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,674,791 - 1,675,978 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.506767.70	TcCLB.506767.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,672,462 - 1,673,448 (+)	Mucin-associated surface protein (MASP), subgroup S072	
+TcCLB.506767.74	TcCLB.506767.74:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,671,336 - 1,671,935 (+)	mucin TcMUCII (pseudogene), putative	
+TcCLB.506767.80	TcCLB.506767.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,667,435 - 1,667,842 (-)	hypothetical protein	
+TcCLB.506767.90	TcCLB.506767.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,665,656 - 1,665,967 (-)	hypothetical protein	
+TcCLB.506769.10	TcCLB.506769.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,589,958 - 1,590,299 (-)	hypothetical protein	
+TcCLB.506769.120	TcCLB.506769.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,564,014 - 1,564,778 (-)	Mucin-associated surface protein (MASP), subgroup S068	
+TcCLB.506769.20	TcCLB.506769.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,589,025 - 1,589,372 (-)	hypothetical protein	
+TcCLB.506769.30	TcCLB.506769.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,586,846 - 1,588,249 (-)	Mucin-associated surface protein (MASP), subgroup S079	
+TcCLB.506769.35	TcCLB.506769.35:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,585,912 - 1,586,349 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.506769.4	TcCLB.506769.4:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,591,840 - 1,592,913 (-)	mucin-associated surface protein (MASP, pseudogene), putative	
+TcCLB.506769.40	TcCLB.506769.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,579,062 - 1,580,315 (+)	hypothetical protein	
+TcCLB.506769.50	TcCLB.506769.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,578,312 - 1,578,872 (+)	mucin TcMUCII, putative	
+TcCLB.506769.55	TcCLB.506769.55:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,576,474 - 1,577,049 (+)	hypothetical protein	
+TcCLB.506769.60	TcCLB.506769.60:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,573,841 - 1,574,689 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.506769.65	TcCLB.506769.65:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,572,588 - 1,573,130 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.506769.70	TcCLB.506769.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,570,405 - 1,570,983 (-)	mucin TcMUCII, putative	
+TcCLB.506769.80	TcCLB.506769.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,569,024 - 1,569,863 (-)	Mucin-associated surface protein (MASP), subgroup S037	
+TcCLB.506769.90	TcCLB.506769.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,567,459 - 1,568,049 (-)	surface protease GP63, putative	
+TcCLB.507283.10	TcCLB.507283.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 563,163 - 565,358 (-)	trans-sialidase, Group V, putative	
+TcCLB.507283.39	TcCLB.507283.39:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 558,669 - 560,447 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.507483.20	TcCLB.507483.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 546,706 - 547,332 (-)	ef-hand protein 5, putative	
+TcCLB.507483.30	TcCLB.507483.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 548,581 - 549,204 (-)	calmodulin, putative	
+TcCLB.507483.39	TcCLB.507483.39:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 549,733 - 550,182 (-)	calmodulin	
+TcCLB.507483.4	TcCLB.507483.4:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 543,777 - 546,332 (-)	polyubiquitin (pseudogene), putative	
+TcCLB.507483.50	TcCLB.507483.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 551,521 - 551,970 (-)	calmodulin	
+TcCLB.507483.60	TcCLB.507483.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 552,600 - 555,845 (-)	translation-associated element 2, putative	
+TcCLB.507483.80	TcCLB.507483.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 556,650 - 558,362 (-)	O-phosphoseryl-tRNA(Sec) selenium transferase, putative	
+TcCLB.507953.10	TcCLB.507953.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,337,478 - 1,338,740 (-)	trans-sialidase, Group V, putative	
+TcCLB.507953.100	TcCLB.507953.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,322,082 - 1,324,430 (+)	trans-sialidase, Group V, putative	
+TcCLB.507953.110	TcCLB.507953.110:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,318,300 - 1,320,804 (+)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.507953.130	TcCLB.507953.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,317,290 - 1,317,694 (-)	hypothetical protein	
+TcCLB.507953.140	TcCLB.507953.140:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,311,887 - 1,314,205 (+)	trans-sialidase, Group V, putative	
+TcCLB.507953.150	TcCLB.507953.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,306,323 - 1,306,751 (-)	hypothetical protein	
+TcCLB.507953.170	TcCLB.507953.170:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,299,637 - 1,300,713 (+)	hypothetical protein	
+TcCLB.507953.180	TcCLB.507953.180:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,298,663 - 1,299,223 (+)	mucin TcMUCII, putative	
+TcCLB.507953.185	TcCLB.507953.185:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,296,388 - 1,297,239 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.507953.190	TcCLB.507953.190:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,295,896 - 1,296,225 (+)	hypothetical protein	
+TcCLB.507953.20	TcCLB.507953.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,335,600 - 1,335,911 (-)	hypothetical protein	
+TcCLB.507953.200	TcCLB.507953.200:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,293,595 - 1,294,764 (+)	90 kDa surface protein, putative	
+TcCLB.507953.210	TcCLB.507953.210:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,292,116 - 1,292,754 (+)	hypothetical protein	
+TcCLB.507953.30	TcCLB.507953.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,334,871 - 1,335,494 (-)	hypothetical protein	
+TcCLB.507953.40	TcCLB.507953.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,333,217 - 1,334,059 (-)	Mucin-associated surface protein (MASP), subgroup S004	
+TcCLB.507953.50	TcCLB.507953.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,332,370 - 1,332,672 (-)	hypothetical protein	
+TcCLB.507953.60	TcCLB.507953.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,329,554 - 1,330,207 (-)	hypothetical protein	
+TcCLB.507953.70	TcCLB.507953.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,327,977 - 1,329,137 (+)	90 kDa surface protein, putative	
+TcCLB.507953.80	TcCLB.507953.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,326,369 - 1,327,169 (+)	hypothetical protein	
+TcCLB.507955.20	TcCLB.507955.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,289,624 - 1,290,307 (+)	Mucin-associated surface protein (MASP), subgroup S001	
+TcCLB.507957.10	TcCLB.507957.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,286,318 - 1,287,718 (-)	Mucin-associated surface protein (MASP), subgroup S064	
+TcCLB.507957.100	TcCLB.507957.100:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,272,119 - 1,272,961 (-)	mucin-associated surface protein (MASP, pseudogene), putative	
+TcCLB.507957.140	TcCLB.507957.140:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,268,484 - 1,270,871 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.507957.150	TcCLB.507957.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,266,495 - 1,267,766 (-)	Mucin-associated surface protein (MASP), subgroup S074	
+TcCLB.507957.160	TcCLB.507957.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,261,557 - 1,262,420 (+)	Mucin-associated surface protein (MASP), subgroup S017	
+TcCLB.507957.179	TcCLB.507957.179:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,256,520 - 1,257,866 (+)	Mucin-associated surface protein (MASP), subgroup S001	
+TcCLB.507957.200	TcCLB.507957.200:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,252,076 - 1,253,659 (-)	Mucin-associated surface protein (MASP), subgroup S001	
+TcCLB.507957.210	TcCLB.507957.210:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,249,373 - 1,249,825 (-)	hypothetical protein	
+TcCLB.507957.220	TcCLB.507957.220:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,246,854 - 1,248,251 (-)	Mucin-associated surface protein (MASP), subgroup S078	
+TcCLB.507957.229	TcCLB.507957.229:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,242,540 - 1,243,238 (-)	mucin TcMUCII, putative	
+TcCLB.507957.240	TcCLB.507957.240:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,241,022 - 1,241,990 (-)	Mucin-associated surface protein (MASP), subgroup S112	
+TcCLB.507957.260	TcCLB.507957.260:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,237,968 - 1,239,680 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.507957.270	TcCLB.507957.270:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,235,211 - 1,235,855 (-)	mucin TcMUCI, putative	
+TcCLB.507957.280	TcCLB.507957.280:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,233,818 - 1,234,663 (-)	Mucin-associated surface protein (MASP), subgroup S004	
+TcCLB.507957.29	TcCLB.507957.29:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,284,860 - 1,285,729 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.507957.290	TcCLB.507957.290:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,232,977 - 1,233,312 (-)	hypothetical protein	
+TcCLB.507957.300	TcCLB.507957.300:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,227,118 - 1,227,756 (-)	Mucin-associated surface protein (MASP), subgroup S105	
+TcCLB.507957.304	TcCLB.507957.304:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,225,625 - 1,226,536 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.507957.310	TcCLB.507957.310:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,224,426 - 1,225,127 (+)	hypothetical protein	
+TcCLB.507957.320	TcCLB.507957.320:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,222,181 - 1,222,996 (-)	Mucin-associated surface protein (MASP), subgroup S068	
+TcCLB.507957.334	TcCLB.507957.334:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,217,665 - 1,218,003 (+)	Mucin-associated surface protein (MASP)	
+TcCLB.507957.36	TcCLB.507957.36:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,281,723 - 1,283,576 (-)	syntaxin binding protein (pseudogene), putative	
+TcCLB.507957.43	TcCLB.507957.43:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,280,680 - 1,281,318 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.507957.50	TcCLB.507957.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,279,111 - 1,279,824 (-)	mucin TcMUCII, putative	
+TcCLB.507957.60	TcCLB.507957.60:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,277,676 - 1,278,533 (-)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.507957.90	TcCLB.507957.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,273,459 - 1,274,037 (-)	mucin TcMUCII, putative	
+TcCLB.507959.110	TcCLB.507959.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,065,394 - 1,066,488 (-)	Mucin-associated surface protein (MASP), subgroup S008	
+TcCLB.507959.120	TcCLB.507959.120:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,062,492 - 1,064,030 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.507959.140	TcCLB.507959.140:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,059,636 - 1,060,193 (-)	mucin TcMUCII, putative	
+TcCLB.507959.170	TcCLB.507959.170:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,052,240 - 1,053,526 (-)	Mucin-associated surface protein (MASP), subgroup S130	
+TcCLB.507959.180	TcCLB.507959.180:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,048,699 - 1,050,768 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.507959.200	TcCLB.507959.200:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,046,480 - 1,047,061 (-)	mucin TcMUCII, putative	
+TcCLB.507959.210	TcCLB.507959.210:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,044,807 - 1,045,955 (-)	Mucin-associated surface protein (MASP), subgroup S010	
+TcCLB.507959.224	TcCLB.507959.224:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,042,650 - 1,044,095 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.507959.240	TcCLB.507959.240:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,039,872 - 1,041,965 (-)	syntaxin binding protein (pseudogene), putative	
+TcCLB.507959.250	TcCLB.507959.250:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,037,734 - 1,038,285 (-)	mucin TcMUCII, putative	
+TcCLB.507959.260	TcCLB.507959.260:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,036,331 - 1,037,158 (-)	Mucin-associated surface protein (MASP), subgroup S001	
+TcCLB.507959.270	TcCLB.507959.270:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,032,121 - 1,032,696 (-)	mucin TcMUCII, putative	
+TcCLB.507959.280	TcCLB.507959.280:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,030,524 - 1,031,567 (-)	Mucin-associated surface protein (MASP), subgroup S008	
+TcCLB.507959.290	TcCLB.507959.290:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,027,065 - 1,027,472 (+)	hypothetical protein	
+TcCLB.507959.300	TcCLB.507959.300:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,025,604 - 1,026,521 (+)	Mucin-associated surface protein (MASP), subgroup S082	
+TcCLB.507959.310	TcCLB.507959.310:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,024,453 - 1,025,055 (+)	mucin TcMUCII, putative	
+TcCLB.507959.323	TcCLB.507959.323:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,020,873 - 1,022,858 (+)	syntaxin binding protein (pseudogene), putative	
+TcCLB.507959.336	TcCLB.507959.336:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,018,500 - 1,020,272 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.507959.350	TcCLB.507959.350:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,016,742 - 1,017,962 (+)	Mucin-associated surface protein (MASP), subgroup S032	
+TcCLB.507959.41	TcCLB.507959.41:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,077,559 - 1,078,119 (+)	mucin TcMUCII, putative	
+TcCLB.507959.80	TcCLB.507959.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,070,561 - 1,071,784 (+)	Mucin-associated surface protein (MASP), subgroup S034	
+TcCLB.507959.90	TcCLB.507959.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,069,351 - 1,069,989 (+)	mucin TcMUCII, putative	
+TcCLB.507961.10	TcCLB.507961.10:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,014,583 - 1,015,761 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.507981.10	TcCLB.507981.10:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 362,869 - 363,942 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.507981.20	TcCLB.507981.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 360,191 - 360,949 (-)	hypothetical protein	
+TcCLB.507981.30	TcCLB.507981.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 358,383 - 359,369 (-)	hypothetical protein	
+TcCLB.507981.40	TcCLB.507981.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 357,987 - 358,292 (-)	hypothetical protein	
+TcCLB.507981.51	TcCLB.507981.51:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 355,143 - 355,916 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.507981.61	TcCLB.507981.61:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 354,050 - 354,796 (-)	hypothetical protein	
+TcCLB.507983.10	TcCLB.507983.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 348,857 - 353,296 (-)	dispersed gene family protein 1 (DGF-1), putative (fragment)	
+TcCLB.507985.20	TcCLB.507985.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 339,421 - 342,240 (-)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.507985.30	TcCLB.507985.30:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 337,892 - 338,434 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.507987.10	TcCLB.507987.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 336,679 - 337,788 (-)	trans-sialidase, putative	
+TcCLB.507987.20	TcCLB.507987.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 333,733 - 334,491 (-)	hypothetical protein	
+TcCLB.507987.30	TcCLB.507987.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 332,233 - 332,931 (-)	Mucin-associated surface protein (MASP) (fragment)	
+TcCLB.508081.10	TcCLB.508081.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 987,176 - 987,733 (-)	Mucin-associated surface protein (MASP)	
+TcCLB.508081.110	TcCLB.508081.110:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 965,515 - 967,593 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.508081.20	TcCLB.508081.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 984,710 - 985,522 (-)	hypothetical protein	
+TcCLB.508081.30	TcCLB.508081.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 982,858 - 983,808 (-)	Mucin-associated surface protein (MASP), subgroup S117	
+TcCLB.508081.40	TcCLB.508081.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 980,400 - 981,065 (-)	hypothetical protein	
+TcCLB.508081.50	TcCLB.508081.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 978,543 - 979,496 (-)	Mucin-associated surface protein (MASP), subgroup S117	
+TcCLB.508081.60	TcCLB.508081.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 976,091 - 976,756 (-)	hypothetical protein	
+TcCLB.508081.70	TcCLB.508081.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 974,237 - 975,187 (-)	Mucin-associated surface protein (MASP), subgroup S117	
+TcCLB.508081.80	TcCLB.508081.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 971,773 - 972,438 (-)	hypothetical protein	
+TcCLB.508081.90	TcCLB.508081.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 969,914 - 970,864 (-)	Mucin-associated surface protein (MASP), subgroup S117	
+TcCLB.508083.10	TcCLB.508083.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 961,756 - 963,531 (-)	Present in the outer mitochondrial membrane proteome 10	
+TcCLB.508083.20	TcCLB.508083.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 958,918 - 960,315 (-)	hypothetical protein, conserved	
+TcCLB.508083.5	TcCLB.508083.5:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 963,940 - 964,308 (-)	elongation factor 1-gamma (EF-1-gamma, pseudogene), putative	
+TcCLB.508225.20	TcCLB.508225.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,347,587 - 2,350,211 (+)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.508225.4	TcCLB.508225.4:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,351,474 - 2,352,753 (+)	trans-sialidase, putative	
+TcCLB.508227.10	TcCLB.508227.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,108,303 - 2,108,845 (-)	hypothetical protein	
+TcCLB.508227.20	TcCLB.508227.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,106,601 - 2,107,470 (-)	Mucin-associated surface protein (MASP), subgroup S017	
+TcCLB.508227.30	TcCLB.508227.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,102,468 - 2,103,139 (-)	mucin TcMUCII, putative	
+TcCLB.508227.40	TcCLB.508227.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,100,936 - 2,101,952 (-)	Mucin-associated surface protein (MASP), subgroup S034	
+TcCLB.508227.51	TcCLB.508227.51:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,099,445 - 2,100,077 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.508229.10	TcCLB.508229.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,015,673 - 2,016,710 (-)	trans-sialidase, putative	
+TcCLB.508229.20	TcCLB.508229.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,013,333 - 2,014,286 (-)	hypothetical protein	
+TcCLB.508229.30	TcCLB.508229.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,011,711 - 2,012,553 (-)	Mucin-associated surface protein (MASP), subgroup S002	
+TcCLB.508229.40	TcCLB.508229.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,008,033 - 2,010,450 (-)	trans-sialidase, Group V, putative	
+TcCLB.508229.50	TcCLB.508229.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,006,500 - 2,006,850 (-)	hypothetical protein	
+TcCLB.508229.60	TcCLB.508229.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,002,797 - 2,005,961 (-)	trans-sialidase, Group VII, putative	
+TcCLB.508681.11	TcCLB.508681.11:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 305,283 - 306,062 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.508681.20	TcCLB.508681.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 304,620 - 305,183 (-)	hypothetical protein	
+TcCLB.508681.31	TcCLB.508681.31:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 295,942 - 296,784 (+)	hypothetical protein	
+TcCLB.508681.40	TcCLB.508681.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 292,800 - 294,962 (+)	dispersed gene family protein 1 (DGF-1), putative	
+TcCLB.508683.9	TcCLB.508683.9:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 290,166 - 292,699 (+)	dispersed gene family protein 1 (DGF-1), putative	
+TcCLB.508685.9	TcCLB.508685.9:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 287,897 - 290,064 (+)	dispersed gene family protein 1 (DGF-1), putative	
+TcCLB.508687.11	TcCLB.508687.11:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 282,868 - 283,587 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.508687.20	TcCLB.508687.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 279,111 - 281,858 (+)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.508687.25	TcCLB.508687.25:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 276,891 - 277,739 (+)	hypothetical protein	
+TcCLB.508687.30	TcCLB.508687.30:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 269,074 - 269,718 (-)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.508687.39	TcCLB.508687.39:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 267,563 - 267,976 (-)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.508687.48	TcCLB.508687.48:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 265,986 - 266,465 (-)	hypothetical protein	
+TcCLB.508687.57	TcCLB.508687.57:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 264,472 - 265,005 (-)	hypothetical protein	
+TcCLB.508687.66	TcCLB.508687.66:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 262,903 - 263,382 (-)	hypothetical protein	
+TcCLB.508773.9	TcCLB.508773.9:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 31,484 - 34,118 (-)	dispersed gene family protein 1 (DGF-1), putative	
+TcCLB.508775.20	TcCLB.508775.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 39,177 - 41,471 (-)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.508775.30	TcCLB.508775.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 44,338 - 54,831 (-)	dispersed gene family protein 1 (DGF-1), putative	
+TcCLB.508775.33	TcCLB.508775.33:snoRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 55,370 - 55,436 (-)	C/D small nucleolar RNA (snoRNA), TB8C3C3, 3' partial	
+TcCLB.508775.35	TcCLB.508775.35:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 55,923 - 56,420 (-)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.508775.40	TcCLB.508775.40:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 58,898 - 60,946 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.508775.60	TcCLB.508775.60:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 61,929 - 65,270 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.508775.70	TcCLB.508775.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 68,564 - 72,487 (-)	dispersed gene family protein 1 (DGF-1), putative	
+TcCLB.508777.10	TcCLB.508777.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 212,168 - 214,192 (+)	hypothetical protein, conserved	
+TcCLB.508777.100	TcCLB.508777.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 233,917 - 234,966 (+)	cyclin 1	
+TcCLB.508777.110	TcCLB.508777.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 235,421 - 237,871 (+)	hypothetical protein, conserved	
+TcCLB.508777.120	TcCLB.508777.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 238,452 - 239,990 (+)	hypothetical protein, conserved	
+TcCLB.508777.130	TcCLB.508777.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 240,606 - 243,065 (+)	hypothetical protein, conserved	
+TcCLB.508777.140	TcCLB.508777.140:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 243,571 - 245,112 (+)	palmitoyl acyltransferase 5, putative	
+TcCLB.508777.150	TcCLB.508777.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 245,552 - 247,441 (+)	hypothetical protein	
+TcCLB.508777.160	TcCLB.508777.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 247,841 - 250,357 (+)	hypothetical protein, conserved	
+TcCLB.508777.170	TcCLB.508777.170:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 251,160 - 252,179 (+)	hypothetical protein, conserved	
+TcCLB.508777.180	TcCLB.508777.180:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 252,528 - 252,974 (+)	prefoldin subunit 2, putative	
+TcCLB.508777.190	TcCLB.508777.190:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 253,525 - 254,574 (+)	hypothetical protein, conserved	
+TcCLB.508777.20	TcCLB.508777.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 214,850 - 215,944 (+)	hypothetical protein, conserved	
+TcCLB.508777.200	TcCLB.508777.200:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 254,965 - 255,945 (+)	hypothetical protein, conserved	
+TcCLB.508777.205	TcCLB.508777.205:tRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 256,463 - 256,536 (-)	tRNA-Ile:anticodon AAT	
+TcCLB.508777.210	TcCLB.508777.210:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 258,641 - 259,162 (-)	hypothetical protein	
+TcCLB.508777.220	TcCLB.508777.220:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 260,141 - 260,566 (-)	hypothetical protein	
+TcCLB.508777.230	TcCLB.508777.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 261,665 - 262,186 (-)	hypothetical protein	
+TcCLB.508777.30	TcCLB.508777.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 216,524 - 218,920 (+)	Flagellum attachment zone protein 3	
+TcCLB.508777.40	TcCLB.508777.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 220,494 - 224,021 (+)	leucine-rich repeat protein, putative	
+TcCLB.508777.50	TcCLB.508777.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 224,864 - 226,480 (+)	hypothetical protein	
+TcCLB.508777.60	TcCLB.508777.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 226,950 - 227,936 (+)	hypothetical protein, conserved	
+TcCLB.508777.70	TcCLB.508777.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 228,344 - 228,973 (+)	hypothetical protein, conserved	
+TcCLB.508777.80	TcCLB.508777.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 229,633 - 230,391 (+)	hypothetical protein, conserved	
+TcCLB.508777.90	TcCLB.508777.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 231,031 - 233,535 (+)	ATP-dependent DNA helicase, putative	
+TcCLB.509079.10	TcCLB.509079.10:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 435,297 - 437,504 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.509079.20	TcCLB.509079.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 438,689 - 439,534 (-)	Mucin-associated surface protein (MASP), subgroup S004	
+TcCLB.509081.10	TcCLB.509081.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 443,308 - 443,931 (+)	elongation factor 1-gamma (EF-1-gamma), putative	
+TcCLB.509081.100	TcCLB.509081.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 451,995 - 452,612 (+)	mucin TcMUCII, putative	
+TcCLB.509081.110	TcCLB.509081.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 453,177 - 454,349 (+)	Mucin-associated surface protein (MASP), subgroup S007	
+TcCLB.509081.130	TcCLB.509081.130:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 455,712 - 457,415 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.509081.140	TcCLB.509081.140:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 459,570 - 460,277 (+)	mucin TcMUCII, putative	
+TcCLB.509081.150	TcCLB.509081.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 460,829 - 461,974 (+)	Mucin-associated surface protein (MASP), subgroup S001	
+TcCLB.509081.166	TcCLB.509081.166:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 463,267 - 463,863 (+)	trans-sialidase, putative (fragment)	
+TcCLB.509081.20	TcCLB.509081.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 444,157 - 445,437 (+)	Mucin-associated surface protein (MASP), subgroup S122	
+TcCLB.509081.40	TcCLB.509081.40:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 445,976 - 446,968 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.509081.5	TcCLB.509081.5:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 441,451 - 442,140 (+)	Mucin-associated surface protein (MASP)	
+TcCLB.509081.60	TcCLB.509081.60:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 448,188 - 450,062 (+)	syntaxin binding protein (pseudogene), putative	
+TcCLB.509081.80	TcCLB.509081.80:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 450,451 - 451,284 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.509083.9	TcCLB.509083.9:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 523,485 - 524,288 (-)	ATP-dependent DEAD/H RNA helicase, putative	
+TcCLB.510011.9	TcCLB.510011.9:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,497,068 - 1,497,988 (+)	Mucin-associated surface protein (MASP), subgroup S015	
+TcCLB.510013.100	TcCLB.510013.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,392,597 - 1,393,016 (+)	hypothetical protein	
+TcCLB.510013.110	TcCLB.510013.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,391,459 - 1,392,058 (+)	mucin TcMUCII, putative	
+TcCLB.510013.120	TcCLB.510013.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,387,629 - 1,389,746 (+)	surface protease GP63, putative	
+TcCLB.510013.13	TcCLB.510013.13:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,407,410 - 1,409,269 (+)	syntaxin binding protein (pseudogene), putative	
+TcCLB.510013.150	TcCLB.510013.150:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,384,861 - 1,386,264 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.510013.170	TcCLB.510013.170:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,381,346 - 1,381,990 (-)	Mucin-associated surface protein (MASP), subgroup S001	
+TcCLB.510013.180	TcCLB.510013.180:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,379,274 - 1,379,804 (-)	hypothetical protein	
+TcCLB.510013.190	TcCLB.510013.190:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,378,327 - 1,379,076 (-)	hypothetical protein	
+TcCLB.510013.200	TcCLB.510013.200:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,376,456 - 1,377,619 (-)	90 kDa surface protein, putative	
+TcCLB.510013.230	TcCLB.510013.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,371,413 - 1,372,261 (+)	Mucin-associated surface protein (MASP), subgroup S002	
+TcCLB.510013.240	TcCLB.510013.240:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,367,977 - 1,368,555 (-)	mucin TcMUCII, putative	
+TcCLB.510013.26	TcCLB.510013.26:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,405,419 - 1,406,150 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.510013.260	TcCLB.510013.260:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,366,322 - 1,367,491 (-)	Mucin-associated surface protein (MASP), subgroup S008	
+TcCLB.510013.270	TcCLB.510013.270:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,362,776 - 1,365,043 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.510013.290	TcCLB.510013.290:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,361,035 - 1,361,937 (-)	Mucin-associated surface protein (MASP), subgroup S080	
+TcCLB.510013.300	TcCLB.510013.300:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,356,881 - 1,357,417 (-)	mucin TcMUCII, putative	
+TcCLB.510013.310	TcCLB.510013.310:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,354,634 - 1,356,346 (-)	Mucin-associated surface protein (MASP), subgroup S119	
+TcCLB.510013.320	TcCLB.510013.320:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,353,689 - 1,354,108 (-)	hypothetical protein	
+TcCLB.510013.330	TcCLB.510013.330:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,350,433 - 1,351,182 (-)	hypothetical protein	
+TcCLB.510013.40	TcCLB.510013.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,403,372 - 1,404,649 (+)	Mucin-associated surface protein (MASP), subgroup S074	
+TcCLB.510013.50	TcCLB.510013.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,401,394 - 1,402,563 (+)	trans-sialidase, Group IV, putative	
+TcCLB.510013.59	TcCLB.510013.59.1	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,399,245 - 1,400,489 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.510013.70	TcCLB.510013.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,398,122 - 1,398,991 (+)	Mucin-associated surface protein (MASP), subgroup S079	
+TcCLB.510015.10	TcCLB.510015.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,346,585 - 1,347,187 (-)	hypothetical protein	
+TcCLB.510015.20	TcCLB.510015.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,345,826 - 1,346,554 (-)	mucin TcMUCII, putative	
+TcCLB.510015.30	TcCLB.510015.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,343,381 - 1,345,315 (-)	Mucin-associated surface protein (MASP), subgroup S033	
+TcCLB.510015.40	TcCLB.510015.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,341,258 - 1,341,605 (-)	hypothetical protein	
+TcCLB.510015.5	TcCLB.510015.5:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,347,993 - 1,348,976 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510015.50	TcCLB.510015.50:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,339,676 - 1,340,056 (-)	mucin TcMUC (pseudogene), putative	
+TcCLB.510017.15	TcCLB.510017.15:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,213,929 - 1,214,888 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.510017.30	TcCLB.510017.30:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,212,651 - 1,213,379 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.510017.40	TcCLB.510017.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,211,533 - 1,212,108 (+)	mucin TcMUCII, putative	
+TcCLB.510017.50	TcCLB.510017.50:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,207,731 - 1,209,413 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.510017.59	TcCLB.510017.59:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,204,937 - 1,206,373 (+)	Mucin-associated surface protein (MASP)	
+TcCLB.510019.10	TcCLB.510019.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,204,091 - 1,204,819 (+)	mucin TcMUCII, putative	
+TcCLB.510019.30	TcCLB.510019.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,200,867 - 1,202,333 (+)	Mucin-associated surface protein (MASP)	
+TcCLB.510021.10	TcCLB.510021.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,199,621 - 1,200,244 (+)	mucin TcMUCII, putative	
+TcCLB.510021.100	TcCLB.510021.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,181,541 - 1,182,146 (-)	mucin TcMUCII, putative	
+TcCLB.510021.109	TcCLB.510021.109:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,179,847 - 1,180,986 (-)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.510021.120	TcCLB.510021.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,173,581 - 1,176,004 (+)	trans-sialidase, Group V, putative	
+TcCLB.510021.130	TcCLB.510021.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,171,051 - 1,172,370 (+)	Mucin-associated surface protein (MASP), subgroup S074	
+TcCLB.510021.140	TcCLB.510021.140:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,169,873 - 1,170,502 (+)	mucin TcMUCII (pseudogene), putative	
+TcCLB.510021.150	TcCLB.510021.150:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,167,506 - 1,168,438 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510021.160	TcCLB.510021.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,164,810 - 1,165,967 (+)	90 kDa surface protein, putative	
+TcCLB.510021.180	TcCLB.510021.180:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,158,613 - 1,161,129 (+)	trans-sialidase, Group V, putative	
+TcCLB.510021.185	TcCLB.510021.185:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,156,136 - 1,156,879 (+)	hypothetical protein	
+TcCLB.510021.190	TcCLB.510021.190:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,153,227 - 1,153,631 (-)	hypothetical protein	
+TcCLB.510021.20	TcCLB.510021.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,195,219 - 1,196,112 (+)	Mucin-associated surface protein (MASP), subgroup S047	
+TcCLB.510021.200	TcCLB.510021.200:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,149,983 - 1,150,552 (-)	mucin TcMUCII, putative	
+TcCLB.510021.210	TcCLB.510021.210:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,148,565 - 1,149,443 (-)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.510021.220	TcCLB.510021.220:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,144,757 - 1,147,282 (-)	trans-sialidase, Group V, putative	
+TcCLB.510021.30	TcCLB.510021.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,191,744 - 1,192,370 (-)	mucin TcMUCII, putative	
+TcCLB.510021.50	TcCLB.510021.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,190,349 - 1,191,200 (-)	Mucin-associated surface protein (MASP), subgroup S017	
+TcCLB.510021.60	TcCLB.510021.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,187,834 - 1,188,592 (-)	hypothetical protein	
+TcCLB.510021.80	TcCLB.510021.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,186,053 - 1,187,141 (-)	90 kDa surface protein, putative	
+TcCLB.510021.90	TcCLB.510021.90:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,183,589 - 1,184,701 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510023.10	TcCLB.510023.10:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,140,566 - 1,141,564 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510023.20	TcCLB.510023.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,138,561 - 1,139,142 (-)	mucin TcMUCII, putative	
+TcCLB.510023.30	TcCLB.510023.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,137,476 - 1,138,081 (-)	Mucin-associated surface protein (MASP) (fragment)	
+TcCLB.510025.100	TcCLB.510025.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,116,176 - 1,117,420 (-)	Mucin-associated surface protein (MASP), subgroup S074	
+TcCLB.510025.113	TcCLB.510025.113:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,114,712 - 1,115,404 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.510025.126	TcCLB.510025.126:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,111,593 - 1,113,407 (-)	syntaxin binding protein (pseudogene), putative	
+TcCLB.510025.139	TcCLB.510025.139:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,110,463 - 1,111,161 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510025.14	TcCLB.510025.14:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,133,601 - 1,134,323 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510025.150	TcCLB.510025.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,109,041 - 1,109,679 (-)	mucin TcMUCII, putative	
+TcCLB.510025.160	TcCLB.510025.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,107,152 - 1,108,489 (-)	Mucin-associated surface protein (MASP), subgroup S091	
+TcCLB.510025.165	TcCLB.510025.165:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,104,710 - 1,105,684 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510025.170	TcCLB.510025.170:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,102,635 - 1,103,282 (-)	mucin TcMUCII, putative	
+TcCLB.510025.180	TcCLB.510025.180:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,100,917 - 1,102,062 (-)	Mucin-associated surface protein (MASP), subgroup S010	
+TcCLB.510025.191	TcCLB.510025.191:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,099,434 - 1,100,474 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.510025.20	TcCLB.510025.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,132,212 - 1,132,814 (-)	mucin TcMUCII, putative	
+TcCLB.510025.200	TcCLB.510025.200:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,096,303 - 1,098,165 (-)	syntaxin binding protein (pseudogene), putative	
+TcCLB.510025.205	TcCLB.510025.205:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,095,195 - 1,095,896 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510025.210	TcCLB.510025.210:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,093,786 - 1,094,415 (-)	mucin TcMUCII, putative	
+TcCLB.510025.220	TcCLB.510025.220:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,092,411 - 1,093,238 (-)	Mucin-associated surface protein (MASP), subgroup S032	
+TcCLB.510025.230	TcCLB.510025.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,090,244 - 1,090,594 (-)	hypothetical protein	
+TcCLB.510025.250	TcCLB.510025.250:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,087,291 - 1,089,708 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.510025.260	TcCLB.510025.260:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,085,297 - 1,086,604 (-)	Mucin-associated surface protein (MASP), subgroup S074	
+TcCLB.510025.30	TcCLB.510025.30:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,130,438 - 1,131,697 (-)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.510025.50	TcCLB.510025.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,126,764 - 1,129,346 (-)	trans-sialidase, Group V, putative	
+TcCLB.510025.60	TcCLB.510025.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,124,525 - 1,125,325 (-)	hypothetical protein	
+TcCLB.510025.7	TcCLB.510025.7:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,134,713 - 1,136,590 (-)	syntaxin binding protein (pseudogene), putative	
+TcCLB.510025.70	TcCLB.510025.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,122,540 - 1,123,712 (-)	90 kDa surface protein, putative	
+TcCLB.510025.80	TcCLB.510025.80:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,120,029 - 1,121,483 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510025.90	TcCLB.510025.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,117,975 - 1,118,634 (-)	mucin TcMUCII, putative	
+TcCLB.510059.10	TcCLB.510059.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 344,585 - 348,754 (-)	dispersed gene family protein 1 (DGF-1), putative	
+TcCLB.510061.11	TcCLB.510061.11:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 324,018 - 324,695 (-)	Mucin-associated surface protein (MASP)	
+TcCLB.510061.20	TcCLB.510061.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 321,336 - 321,821 (-)	hypothetical protein	
+TcCLB.510061.30	TcCLB.510061.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 318,503 - 321,121 (+)	trans-sialidase, Group V, putative	
+TcCLB.510061.40	TcCLB.510061.40:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 315,381 - 317,768 (+)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.510061.60	TcCLB.510061.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 311,880 - 312,431 (+)	dispersed gene family protein 1 (DGF-1), putative	
+TcCLB.510157.10	TcCLB.510157.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,009,469 - 1,010,563 (+)	Mucin-associated surface protein (MASP), subgroup S022	
+TcCLB.510157.20	TcCLB.510157.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,008,736 - 1,009,158 (-)	hypothetical protein, conserved	
+TcCLB.510157.5	TcCLB.510157.5:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,011,834 - 1,012,175 (+)	trans-sialidase, putative (fragment)	
+TcCLB.510159.10	TcCLB.510159.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 592,224 - 593,162 (-)	hypothetical protein, conserved	
+TcCLB.510159.19	TcCLB.510159.19:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 589,164 - 591,890 (-)	hypothetical protein, conserved (fragment)	
+TcCLB.510161.10	TcCLB.510161.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 581,990 - 588,739 (-)	hypothetical protein, conserved	
+TcCLB.510161.20	TcCLB.510161.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 578,277 - 581,657 (-)	hypothetical protein, conserved	
+TcCLB.510163.10	TcCLB.510163.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 575,300 - 576,403 (-)	hypothetical protein, conserved	
+TcCLB.510163.20	TcCLB.510163.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 573,509 - 574,744 (-)	elongation factor 1-gamma (EF-1-gamma), putative	
+TcCLB.510163.30	TcCLB.510163.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 572,488 - 573,246 (-)	Mucin-associated surface protein (MASP), subgroup S008	
+TcCLB.510163.40	TcCLB.510163.40:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 570,709 - 571,767 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.510163.60	TcCLB.510163.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 566,338 - 568,671 (-)	trans-sialidase, Group V, putative	
+TcCLB.510365.10	TcCLB.510365.10:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,354,525 - 2,355,697 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.510367.10	TcCLB.510367.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,334,792 - 2,345,195 (+)	dispersed gene family protein 1 (DGF-1), putative	
+TcCLB.510367.20	TcCLB.510367.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,330,257 - 2,332,647 (+)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.510367.30	TcCLB.510367.30:snoRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,334,122 - 2,334,187 (+)	C/D small nucleolar RNA (snoRNA), TB8C3C3, 3' partial	
+TcCLB.510369.10	TcCLB.510369.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,096,334 - 2,097,143 (-)	Mucin-associated surface protein (MASP), subgroup S061	
+TcCLB.510371.10	TcCLB.510371.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,999,607 - 2,001,175 (-)	Mucin-associated surface protein (MASP), subgroup S123	
+TcCLB.510371.100	TcCLB.510371.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,979,472 - 1,980,611 (+)	Mucin-associated surface protein (MASP), subgroup S008	
+TcCLB.510371.110	TcCLB.510371.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,978,270 - 1,978,893 (+)	mucin TcMUCII, putative	
+TcCLB.510371.120	TcCLB.510371.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,973,874 - 1,974,665 (+)	Mucin-associated surface protein (MASP), subgroup S068	
+TcCLB.510371.130	TcCLB.510371.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,972,666 - 1,973,331 (+)	mucin TcMUCII, putative	
+TcCLB.510371.141	TcCLB.510371.141:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,970,468 - 1,971,247 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510371.30	TcCLB.510371.30:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,997,150 - 1,998,160 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510371.35	TcCLB.510371.35:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,995,820 - 1,996,821 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510371.40	TcCLB.510371.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,994,967 - 1,995,335 (-)	hypothetical protein	
+TcCLB.510371.5	TcCLB.510371.5:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 2,001,443 - 2,001,757 (-)	elongation factor 1-gamma (EF-1-gamma, pseudogene), putative	
+TcCLB.510371.50	TcCLB.510371.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,993,261 - 1,994,130 (-)	Mucin-associated surface protein (MASP), subgroup S017	
+TcCLB.510371.61	TcCLB.510371.61:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,991,754 - 1,992,695 (-)	surface protease GP63 (pseudogene), putative	
+TcCLB.510371.70	TcCLB.510371.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,988,282 - 1,989,097 (-)	Mucin-associated surface protein (MASP), subgroup S061	
+TcCLB.510371.80	TcCLB.510371.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,987,328 - 1,987,747 (-)	hypothetical protein	
+TcCLB.510371.90	TcCLB.510371.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,981,915 - 1,984,371 (+)	trans-sialidase, Group V, putative	
+TcCLB.510373.10	TcCLB.510373.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,967,703 - 1,968,764 (+)	Mucin-associated surface protein (MASP), subgroup S025	
+TcCLB.510373.100	TcCLB.510373.100:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,947,362 - 1,948,936 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510373.110	TcCLB.510373.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,946,005 - 1,946,841 (+)	hypothetical protein	
+TcCLB.510373.119	TcCLB.510373.119:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,944,244 - 1,944,921 (+)	Mucin-associated surface protein (MASP)	
+TcCLB.510373.20	TcCLB.510373.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,966,264 - 1,966,887 (+)	hypothetical protein	
+TcCLB.510373.30	TcCLB.510373.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,962,827 - 1,963,999 (+)	90 kDa surface protein, putative	
+TcCLB.510373.40	TcCLB.510373.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,960,989 - 1,962,116 (+)	hypothetical protein	
+TcCLB.510373.50	TcCLB.510373.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,958,452 - 1,958,868 (+)	hypothetical protein	
+TcCLB.510373.60	TcCLB.510373.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,956,215 - 1,957,918 (+)	Mucin-associated surface protein (MASP), subgroup S119	
+TcCLB.510373.70	TcCLB.510373.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,955,171 - 1,955,674 (+)	mucin TcMUCII, putative	
+TcCLB.510373.80	TcCLB.510373.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,953,760 - 1,954,077 (+)	hypothetical protein	
+TcCLB.510373.90	TcCLB.510373.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,950,669 - 1,951,553 (+)	Mucin-associated surface protein (MASP), subgroup S079	
+TcCLB.510375.10	TcCLB.510375.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,832,667 - 1,833,554 (+)	Mucin-associated surface protein (MASP), subgroup S047	
+TcCLB.510375.20	TcCLB.510375.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,829,569 - 1,831,872 (+)	trans-sialidase (pseudogene), putative	
+TcCLB.510375.30	TcCLB.510375.30:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,828,535 - 1,829,029 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510375.40	TcCLB.510375.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,826,156 - 1,826,815 (+)	Mucin-associated surface protein (MASP)	
+TcCLB.510375.5	TcCLB.510375.5:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,834,274 - 1,834,969 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.510377.10	TcCLB.510377.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,822,929 - 1,825,289 (+)	trans-sialidase, Group V, putative	
+TcCLB.510377.100	TcCLB.510377.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,801,591 - 1,802,439 (+)	Mucin-associated surface protein (MASP), subgroup S033	
+TcCLB.510377.110	TcCLB.510377.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,800,459 - 1,801,028 (+)	hypothetical protein	
+TcCLB.510377.120	TcCLB.510377.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,799,492 - 1,800,187 (+)	hypothetical protein	
+TcCLB.510377.134	TcCLB.510377.134:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,796,725 - 1,798,125 (+)	Mucin-associated surface protein (MASP), subgroup S001	
+TcCLB.510377.150	TcCLB.510377.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,793,264 - 1,793,869 (-)	mucin TcMUCII, putative	
+TcCLB.510377.190	TcCLB.510377.190:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,784,156 - 1,784,731 (-)	mucin TcMUCII, putative	
+TcCLB.510377.200	TcCLB.510377.200:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,782,749 - 1,783,621 (-)	Mucin-associated surface protein (MASP), subgroup S002	
+TcCLB.510377.210	TcCLB.510377.210:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,779,240 - 1,781,501 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.510377.220	TcCLB.510377.220:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,777,100 - 1,778,404 (-)	mucin-associated surface protein (MASP, pseudogene), putative	
+TcCLB.510377.250	TcCLB.510377.250:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,772,775 - 1,773,473 (-)	mucin TcMUCII (pseudogene), putative	
+TcCLB.510377.260	TcCLB.510377.260:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,771,256 - 1,772,230 (-)	Mucin-associated surface protein (MASP), subgroup S112	
+TcCLB.510377.270	TcCLB.510377.270:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,764,399 - 1,767,155 (-)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.510377.30	TcCLB.510377.30:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,820,808 - 1,821,686 (+)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.510377.300	TcCLB.510377.300:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,760,854 - 1,763,115 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.510377.310	TcCLB.510377.310:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,759,145 - 1,760,020 (-)	Mucin-associated surface protein (MASP) (pseudogene)	
+TcCLB.510377.330	TcCLB.510377.330:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,755,496 - 1,757,922 (-)	trans-sialidase, Group V, putative	
+TcCLB.510377.340	TcCLB.510377.340:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,752,562 - 1,753,437 (-)	hypothetical protein	
+TcCLB.510377.350	TcCLB.510377.350:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,750,310 - 1,751,668 (+)	Mucin-associated surface protein (MASP), subgroup S009	
+TcCLB.510377.370	TcCLB.510377.370:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,749,048 - 1,749,740 (+)	mucin TcMUCII, putative	
+TcCLB.510377.390	TcCLB.510377.390:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,744,339 - 1,745,136 (+)	Mucin-associated surface protein (MASP), subgroup S068	
+TcCLB.510377.400	TcCLB.510377.400:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,743,146 - 1,743,790 (+)	mucin TcMUCII, putative	
+TcCLB.510377.405	TcCLB.510377.405:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,740,776 - 1,741,738 (+)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510377.410	TcCLB.510377.410:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,738,602 - 1,739,252 (+)	mucin TcMUCII, putative	
+TcCLB.510377.420	TcCLB.510377.420:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,735,146 - 1,736,342 (+)	surface protease GP63, putative	
+TcCLB.510377.430	TcCLB.510377.430:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,732,098 - 1,733,432 (+)	Mucin-associated surface protein (MASP), subgroup S087	
+TcCLB.510377.439	TcCLB.510377.439:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,730,895 - 1,731,530 (+)	mucin TcMUCII, putative	
+TcCLB.510377.450	TcCLB.510377.450:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,726,380 - 1,727,273 (+)	Mucin-associated surface protein (MASP), subgroup S047	
+TcCLB.510377.475	TcCLB.510377.475:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,717,607 - 1,718,350 (-)	hypothetical protein, conserved (pseudogene)	
+TcCLB.510377.50	TcCLB.510377.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,814,429 - 1,816,759 (+)	trans-sialidase, Group V, putative	
+TcCLB.510377.500	TcCLB.510377.500:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,714,289 - 1,715,707 (-)	trans-sialidase (pseudogene), putative	
+TcCLB.510377.61	TcCLB.510377.61:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,811,647 - 1,812,528 (+)	hypothetical protein, conserved	
+TcCLB.510377.70	TcCLB.510377.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,806,064 - 1,806,636 (+)	mucin TcMUCII, putative	
+TcCLB.510379.10	TcCLB.510379.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,713,736 - 1,714,185 (-)	trans-sialidase, putative	
+TcCLB.510379.20	TcCLB.510379.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 1,711,027 - 1,711,509 (-)	hypothetical protein (fragment)	
+TcCLB.510995.9	TcCLB.510995.9:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 283,691 - 286,931 (+)	dispersed gene family protein 1 (DGF-1), putative	
+TcCLB.511119.10	TcCLB.511119.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 7,990 - 12,312 (-)	dispersed gene family protein 1 (DGF-1), putative (fragment)	
+TcCLB.511121.11	TcCLB.511121.11:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 14,986 - 17,724 (-)	retrotransposon hot spot (RHS) protein, putative (fragment)	
+TcCLB.511121.20	TcCLB.511121.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 17,861 - 18,214 (-)	hypothetical protein	
+TcCLB.511121.30	TcCLB.511121.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 21,901 - 22,362 (-)	hypothetical protein	
+TcCLB.511123.11	TcCLB.511123.11:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 22,904 - 24,379 (-)	trans-sialidase, putative (fragment)	
+TcCLB.511123.20	TcCLB.511123.20:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 25,624 - 28,437 (-)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+TcCLB.511123.40	TcCLB.511123.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 30,834 - 31,382 (-)	dispersed gene family protein 1 (DGF-1), putative	
+TcCLB.511125.9	TcCLB.511125.9:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 72,588 - 78,813 (-)	dispersed gene family protein 1 (DGF-1), putative	
+TcCLB.511127.10	TcCLB.511127.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 97,826 - 98,548 (+)	RNA-binding protein 5, putative	
+TcCLB.511127.100	TcCLB.511127.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 119,463 - 121,868 (+)	catalytic subunit of the vacuolar transporter chaperone 4, putative	
+TcCLB.511127.110	TcCLB.511127.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 122,665 - 124,137 (+)	ATP-dependent protease ATPase subunit HslU2	
+TcCLB.511127.120	TcCLB.511127.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 124,596 - 126,881 (+)	cysteine peptidase, Clan CA, family C19, putative	
+TcCLB.511127.140	TcCLB.511127.140:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 128,076 - 130,694 (+)	DNA replication licensing factor MCM4, putative	
+TcCLB.511127.150	TcCLB.511127.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 130,978 - 132,828 (+)	hypothetical protein, conserved	
+TcCLB.511127.160	TcCLB.511127.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 133,250 - 134,695 (+)	integral membrane transport protein, putative	
+TcCLB.511127.180	TcCLB.511127.180:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 136,233 - 137,897 (+)	hypothetical protein, conserved	
+TcCLB.511127.190	TcCLB.511127.190:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 138,664 - 140,142 (+)	hypothetical protein, conserved	
+TcCLB.511127.20	TcCLB.511127.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 102,824 - 104,572 (+)	flagellar pocket cytoskeletal protein bilbo1	
+TcCLB.511127.200	TcCLB.511127.200:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 140,759 - 143,680 (+)	kinesin, putative	
+TcCLB.511127.210	TcCLB.511127.210:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 143,927 - 144,532 (+)	hypothetical protein, conserved	
+TcCLB.511127.220	TcCLB.511127.220:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 145,040 - 147,406 (+)	cdc2-related kinase 12	
+TcCLB.511127.230	TcCLB.511127.230:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 149,130 - 151,793 (+)	hypothetical protein, conserved	
+TcCLB.511127.240	TcCLB.511127.240:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 154,265 - 154,702 (+)	hypothetical protein, conserved	
+TcCLB.511127.250	TcCLB.511127.250:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 154,926 - 155,822 (+)	hypothetical protein, conserved	
+TcCLB.511127.260	TcCLB.511127.260:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 156,579 - 159,206 (+)	DNA photolyase, putative	
+TcCLB.511127.270	TcCLB.511127.270:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 159,499 - 159,972 (+)	ankyrin repeat protein, putative	
+TcCLB.511127.274	TcCLB.511127.274:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 161,230 - 161,988 (+)	hypothetical protein, conserved	
+TcCLB.511127.280	TcCLB.511127.280:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 162,444 - 163,673 (+)	hypothetical protein, conserved	
+TcCLB.511127.290	TcCLB.511127.290:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 163,798 - 167,784 (+)	hypothetical protein, conserved	
+TcCLB.511127.30	TcCLB.511127.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 105,472 - 106,056 (+)	hypothetical protein, conserved	
+TcCLB.511127.300	TcCLB.511127.300:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 168,733 - 170,337 (+)	hypothetical protein, conserved	
+TcCLB.511127.320	TcCLB.511127.320:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 173,090 - 174,538 (+)	kinetoplastid kinetochore protein 10, putative	
+TcCLB.511127.330	TcCLB.511127.330:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 177,522 - 178,994 (+)	kinetoplastid kinetochore protein 19, putative	
+TcCLB.511127.340	TcCLB.511127.340:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 181,797 - 184,349 (+)	tyrosine phosphatase, putative	
+TcCLB.511127.350	TcCLB.511127.350:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 185,429 - 186,718 (+)	hypothetical protein, conserved	
+TcCLB.511127.360	TcCLB.511127.360:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 189,499 - 191,484 (+)	Bardet-Biedl syndrome 8 protein	
+TcCLB.511127.369	TcCLB.511127.369:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 191,819 - 193,138 (+)	hypothetical protein, conserved	
+TcCLB.511127.380	TcCLB.511127.380:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 193,290 - 195,932 (+)	hypothetical protein, conserved	
+TcCLB.511127.390	TcCLB.511127.390:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 197,146 - 203,688 (+)	hypothetical protein, conserved	
+TcCLB.511127.40	TcCLB.511127.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 106,320 - 107,117 (+)	hypothetical protein	
+TcCLB.511127.400	TcCLB.511127.400:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 204,333 - 206,333 (+)	serine/threonine protein phosphatase, putative	
+TcCLB.511127.410	TcCLB.511127.410:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 207,587 - 209,416 (+)	hypothetical protein, conserved	
+TcCLB.511127.420	TcCLB.511127.420:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 209,727 - 210,887 (+)	hypothetical protein, conserved	
+TcCLB.511127.429	TcCLB.511127.429:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 211,256 - 212,066 (+)	hypothetical protein, conserved	
+TcCLB.511127.5	TcCLB.511127.5:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 97,076 - 97,378 (+)	RNA helicase, putative	
+TcCLB.511127.50	TcCLB.511127.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 107,361 - 109,388 (+)	hypothetical protein, conserved	
+TcCLB.511127.60	TcCLB.511127.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 109,845 - 112,538 (+)	kinesin, putative	
+TcCLB.511127.70	TcCLB.511127.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 113,364 - 114,971 (+)	hypothetical protein, conserved	
+TcCLB.511127.74	TcCLB.511127.74:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 115,391 - 115,672 (+)	hypothetical protein, conserved	
+TcCLB.511127.80	TcCLB.511127.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 116,128 - 117,288 (+)	hypothetical protein, conserved	
+TcCLB.511127.90	TcCLB.511127.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 117,707 - 118,606 (+)	hypothetical protein, conserved	
+TcCLB.511553.10	TcCLB.511553.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 402,665 - 403,510 (+)	Mucin-associated surface protein (MASP), subgroup S004	
+TcCLB.511553.100	TcCLB.511553.100:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 414,518 - 415,690 (+)	Mucin-associated surface protein (MASP), subgroup S007	
+TcCLB.511553.120	TcCLB.511553.120:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 417,173 - 419,233 (+)	surface protease GP63, putative	
+TcCLB.511553.130	TcCLB.511553.130:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 420,860 - 421,453 (+)	mucin TcMUCII, putative	
+TcCLB.511553.140	TcCLB.511553.140:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 422,017 - 423,600 (+)	Mucin-associated surface protein (MASP), subgroup S082	
+TcCLB.511553.150	TcCLB.511553.150:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 425,952 - 427,043 (-)	Mucin-associated surface protein (MASP), subgroup S025	
+TcCLB.511553.160	TcCLB.511553.160:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 427,779 - 428,633 (-)	90 kDa surface protein, putative	
+TcCLB.511553.180	TcCLB.511553.180:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 429,457 - 430,215 (-)	hypothetical protein	
+TcCLB.511553.200	TcCLB.511553.200:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 432,293 - 433,774 (-)	Mucin-associated surface protein (MASP)	
+TcCLB.511553.209	TcCLB.511553.209:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 434,327 - 435,022 (-)	mucin TcMUC (pseudogene), putative	
+TcCLB.511553.30	TcCLB.511553.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 405,529 - 406,809 (+)	Mucin-associated surface protein (MASP), subgroup S122	
+TcCLB.511553.45	TcCLB.511553.45:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 407,363 - 408,301 (+)	surface protease GP63 (pseudogene), putative	
+TcCLB.511553.5	TcCLB.511553.5.1	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 401,124 - 401,940 (+)	trans-sialidase, putative (pseudogene) (fragment)	
+TcCLB.511553.60	TcCLB.511553.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 408,633 - 409,340 (+)	hypothetical protein	
+TcCLB.511553.71	TcCLB.511553.71:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 409,607 - 410,947 (+)	syntaxin binding protein (pseudogene), putative	
+TcCLB.511553.80	TcCLB.511553.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 411,857 - 412,312 (+)	hypothetical protein, conserved	
+TcCLB.511553.90	TcCLB.511553.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 413,337 - 413,954 (+)	mucin TcMUCII, putative	
+TcCLB.511555.10	TcCLB.511555.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 470,810 - 471,532 (+)	Mucin-associated surface protein (MASP)	
+TcCLB.511555.110	TcCLB.511555.110:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 490,625 - 502,147 (-)	hypothetical protein, conserved	
+TcCLB.511555.20	TcCLB.511555.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 471,993 - 473,876 (-)	hypothetical protein, conserved	
+TcCLB.511555.30	TcCLB.511555.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 474,137 - 475,207 (-)	hypothetical protein, conserved	
+TcCLB.511555.40	TcCLB.511555.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 475,602 - 476,417 (-)	cleavage and polyadenylation specificity factor 30 kDa subunit, putative	
+TcCLB.511555.50	TcCLB.511555.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 476,703 - 477,722 (-)	hypothetical protein, conserved	
+TcCLB.511555.60	TcCLB.511555.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 478,522 - 484,035 (-)	ubiquitin ligase, putative	
+TcCLB.511555.80	TcCLB.511555.80:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 485,049 - 486,062 (-)	ribonucleoside-diphosphate reductase small chain, putative	
+TcCLB.511555.90	TcCLB.511555.90:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 487,439 - 489,694 (-)	acyl-CoA binding protein, putative	
+TcCLB.511557.10	TcCLB.511557.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 503,244 - 505,388 (-)	oligopeptidase b	
+TcCLB.511557.20	TcCLB.511557.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 505,913 - 506,620 (-)	hypothetical protein, conserved	
+TcCLB.511557.29	TcCLB.511557.29:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 506,907 - 507,980 (-)	hypothetical protein	
+TcCLB.511557.40	TcCLB.511557.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 508,125 - 510,422 (-)	hypothetical protein, conserved	
+TcCLB.511557.50	TcCLB.511557.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 511,560 - 519,041 (-)	Present in the outer mitochondrial membrane proteome 17	
+TcCLB.511557.60	TcCLB.511557.60:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 519,719 - 520,288 (-)	hypothetical protein, conserved	
+TcCLB.511557.64	TcCLB.511557.64:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 520,604 - 521,305 (-)	hypothetical protein	
+TcCLB.511557.70	TcCLB.511557.70:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 521,652 - 522,998 (-)	hypothetical protein, conserved	
+TcCLB.511559.10	TcCLB.511559.10:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 525,693 - 526,175 (+)	Present in the outer mitochondrial membrane proteome 17 (fragment)	
+TcCLB.511559.20	TcCLB.511559.20:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 526,467 - 527,651 (-)	hypothetical protein, conserved	
+TcCLB.511559.30	TcCLB.511559.30:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 528,162 - 528,821 (-)	ras-related GTP-binding protein, putative	
+TcCLB.511559.34	TcCLB.511559.34:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 529,217 - 529,501 (-)	hypothetical protein, conserved	
+TcCLB.511559.40	TcCLB.511559.40:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 529,984 - 531,303 (-)	hypothetical protein, conserved	
+TcCLB.511559.50	TcCLB.511559.50:mRNA	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 532,654 - 534,075 (-)	hypothetical protein, conserved	
+TcCLB.511559.70	TcCLB.511559.70:pseudogenic_transcript	T. cruzi CL Brener Esmeraldo-like	TcChr41-S: 535,642 - 538,896 (-)	phospholipid transporting ATPase-like protein (pseudogene), putative	

@@ -9,13 +9,13 @@ from source.models.replication_origin import ReplicationOrigin
 class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
-    def __init__(self, chromosome):
+    def __init__(self, chromosome, replication_repair_duration):
 
         self.current_step = 0
 
         self.replications = []
         for replication_origin in chromosome.replication_origins:
-            self.replications.append(Replication(replication_origin))
+            self.replications.append(Replication(replication_origin, replication_repair_duration))
 
         self.transcription_regions = [[x, 0] for x in chromosome.transcription_regions]
 

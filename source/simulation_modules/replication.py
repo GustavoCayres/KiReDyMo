@@ -4,7 +4,7 @@ import random
 class Replication:
     """ Controls the replication process of a chromosome. """
 
-    def __init__(self, origin):
+    def __init__(self, origin, repair_duration):
         self.chromosome = origin.chromosome
         self.origin = origin
         self.triggered = False
@@ -12,6 +12,7 @@ class Replication:
         self.right_fork = None
         self.left_repair_wait = 0
         self.right_repair_wait = 0
+        self.repair_duration = repair_duration
 
     def trigger_origin(self, current_step):
         if not self.triggered:
@@ -45,9 +46,7 @@ class Replication:
     def pause(self, fork):
         """ Pauses the replication for a certain duration to allow repairs. """
 
-        repair_duration = random.randint(1, 8*3600)
-
         if fork == "left":
-            self.left_repair_wait = repair_duration + 1    # compensates the step taken after the pause
+            self.left_repair_wait = self.repair_duration + 1    # compensates the step taken after the pause
         else:
-            self.right_repair_wait = repair_duration + 1
+            self.right_repair_wait = self.repair_duration + 1

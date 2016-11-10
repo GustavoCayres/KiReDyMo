@@ -1,17 +1,25 @@
 from source.models.chromosome import Chromosome
 from source.models.replication_origin import ReplicationOrigin
 from source.models.transcription_region import TranscriptionRegion
+import math
 
 
 def insert_chromosome(code, length, replication_speed, organism):
     Chromosome.insert(code=code, length=length, replication_speed=replication_speed, organism=organism).execute()
 
 
-def insert_replication_origin(**kwargs):
+def insert_replication_origins(chromosome_code):
     """ Insert a replication origin with the specifieds
     {position, start_probability, chromosome}
     into the specified chromosome. """
-    ReplicationOrigin.insert(kwargs).execute()
+    chromosome = Chromosome.select().where(Chromosome.code == chromosome_code).get()
+    d = chromosome.length
+    v = chromosome.replication_speed
+    ts = 8*3600                          # duration of S phase
+    minimum_origin_amount = math.ceil(d/(2*v*ts))
+    origin_position = int(d/(1 + minimum_origin_amount))
+    for i in range(1, minimum_origin_amount + 1):
+        ReplicationOrigin.insert(chromosome=chromosome_code, start_probability=.1, position=i*origin_position).execute()
 
 
 def insert_transcription_region(start, end, speed, delay, chromosome):
