@@ -10,6 +10,7 @@ from multiprocessing import Pool, cpu_count
 
 
 def main(organism_name):
+    create_folder("./output/")
     random.seed()
 
     p = Pool(cpu_count())          # create a thread for each processor
