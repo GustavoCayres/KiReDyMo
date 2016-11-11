@@ -5,12 +5,12 @@ import random
 import sys
 
 from source.models.chromosome import Chromosome
-from source.modules.setup import arguments, simulate, create_folder
+from source.modules.setup import arguments, simulate
 from multiprocessing import Pool, cpu_count
 
 
 def main(organism_name):
-    create_folder("./output/")
+
     random.seed()
 
     p = Pool(cpu_count())          # create a thread for each processor

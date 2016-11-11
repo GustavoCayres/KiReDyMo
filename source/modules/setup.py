@@ -41,6 +41,7 @@ def simulate(chromosome):
     db.connect()
 
     # output setup
+    create_folder("./output/")
     file_location = "output/" + chromosome.code + "_results.txt"
     sys.stdout = open(file_location, 'w')
 
@@ -52,7 +53,7 @@ def simulate(chromosome):
     # run simulations
     i = 0
     for replication_repair_duration in range(0, 8*3600, 8*360):
-        for transcription_start_delay in range(10, 2000, 200):
+        for transcription_start_delay in range(2000, 10, -200):
             simulation = Simulation(chromosome, replication_repair_duration, transcription_start_delay)
             simulation_duration, head_collisions, tail_collisions = simulation.run()
             i += 1
