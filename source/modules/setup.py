@@ -31,6 +31,12 @@ def arguments(argument_list):
         exit(1)
 
 
+def print_simulation_results(*args):
+    for data in args:
+        print(data, end='\t')
+    print()
+
+
 def simulate(chromosome):
     db.connect()
 
@@ -39,12 +45,19 @@ def simulate(chromosome):
     sys.stdout = open(file_location, 'w')
 
     # print simulated chromosome
-    print(str(chromosome) + "\n")
+    print("[Simulation_Number]\t[Simulation_Duration]\t"
+          "[Head_Collision_Amount]\t[Tail_Collision_Amount]\t"
+          "[Replication_Repair_Duration]\t[Transcription_Start_Delay]\t")
 
     # run simulations
+    i = 0
     for replication_repair_duration in range(0, 8*3600, 8*360):
-        print("hey!")
-        simulation = Simulation(chromosome, replication_repair_duration)
-        simulation.run()
+        for transcription_start_delay in range(10, 2000, 200):
+            simulation = Simulation(chromosome, replication_repair_duration, transcription_start_delay)
+            simulation_duration, head_collisions, tail_collisions = simulation.run()
+            i += 1
+            print_simulation_results(i, simulation_duration, head_collisions, tail_collisions,
+                                     replication_repair_duration, transcription_start_delay)
+
     db.close()
     sys.stdout.close()

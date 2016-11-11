@@ -18,7 +18,7 @@ class Replication:
         if not self.triggered:
             if random.random() < self.origin.start_probability:
                 self.triggered = True
-                print("Origin at position " + str(self.origin.position) + " activated at " + str(current_step))
+                # print("Origin at position " + str(self.origin.position) + " activated at " + str(current_step))
                 return self.origin.position, self.origin.position
         return self.left_fork, self.right_fork
 

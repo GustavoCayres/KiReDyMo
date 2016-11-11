@@ -9,9 +9,11 @@ from source.models.replication_origin import ReplicationOrigin
 class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
-    def __init__(self, chromosome, replication_repair_duration):
+    def __init__(self, chromosome, replication_repair_duration, transcription_start_delay):
 
         self.current_step = 0
+
+        self.collision_manager = Collision()
 
         self.replications = []
         for replication_origin in chromosome.replication_origins:
@@ -19,6 +21,7 @@ class Simulation:
 
         self.transcription_regions = [[x, 0] for x in chromosome.transcription_regions]
 
+        self.transcription_start_delay = transcription_start_delay
         self.transcriptions = []
 
     def step(self):
@@ -31,7 +34,7 @@ class Simulation:
 
         done = True
         for replication in self.replications:
-            Collision.resolve(replication, self.transcriptions)
+            self.collision_manager.resolve(replication, self.transcriptions)
             replication.step(self.current_step)
             if not replication.triggered or not (replication.left_fork is None and replication.right_fork is None):
                 done = False
@@ -44,7 +47,7 @@ class Simulation:
         for item in self.transcription_regions:
             if item[1] == 0:
                 self.transcriptions.append(Transcription(item[0]))
-                item[1] = item[0].delay
+                item[1] = self.transcription_start_delay
             else:
                 item[1] -= 1
 
@@ -54,4 +57,4 @@ class Simulation:
         done = False
         while not done:
             done = self.step()
-        print("Duration: " + str(self.current_step) + "\n")
+        return self.current_step, self.collision_manager.head_collisions, self.collision_manager.tail_collisions
