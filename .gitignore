@@ -2,5 +2,4 @@
 *.pyo
 *.coverage
 htmlcov
-output/*
 nohup.out
