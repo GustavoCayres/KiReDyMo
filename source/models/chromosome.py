@@ -1,13 +1,13 @@
-from source.models.base_model import *
+class Chromosome:
+    """ Model of each chromosome. """
 
-
-class Chromosome(BaseModel):
-    """ Class containing data on the chromosome """
-
-    code = CharField(max_length=10, primary_key=True)
-    length = IntegerField()
-    replication_speed = IntegerField()
-    organism = CharField(max_length=30)
+    def __init__(self, code, length, replication_speed, organism):
+        self.code = code
+        self.length = length
+        self.replication_speed = replication_speed
+        self.organism = organism
+        self.replication_origins = []
+        self.transcription_regions = []
 
     def __str__(self):
         text = list()

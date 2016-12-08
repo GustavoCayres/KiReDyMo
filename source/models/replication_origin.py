@@ -1,15 +1,8 @@
-from source.models.base_model import *
-from source.models.chromosome import Chromosome
+class ReplicationOrigin:
 
-
-class ReplicationOrigin(BaseModel):
-
-    position = IntegerField()
-    start_probability = FloatField()
-    chromosome = ForeignKeyField(Chromosome, related_name='replication_origins')
-
-    class Meta:
-        primary_key = CompositeKey('position', 'chromosome')
+    def __init__(self, position, start_probability):
+        self.position = position
+        self.start_probability = start_probability
 
     def __str__(self):
         return str(self.position)

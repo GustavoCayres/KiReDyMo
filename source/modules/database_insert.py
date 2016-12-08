@@ -9,7 +9,7 @@ def insert_chromosome(code, length, replication_speed, organism):
 
 
 def insert_replication_origins(chromosome_code):
-    """ Insert a replication origin with the specifieds
+    """ Insert a replication origin with the specified
     {position, start_probability, chromosome}
     into the specified chromosome. """
     chromosome = Chromosome.select().where(Chromosome.code == chromosome_code).get()
