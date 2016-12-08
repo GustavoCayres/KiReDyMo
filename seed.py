@@ -2,7 +2,7 @@
 from source.modules.database import Database
 
 
-db = Database('db/test_db.sqlite')
+db = Database('db/simulation_db.sqlite')
 db.drop_tables()
 db.create_tables()
 
