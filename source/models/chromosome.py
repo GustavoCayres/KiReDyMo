@@ -28,4 +28,4 @@ class Chromosome:
             regions += str(region) + " "
         text.append(regions)
 
-        return "\n".join(text)
+        return "\n".join(text) + "\n"
