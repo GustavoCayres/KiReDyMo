@@ -2,13 +2,9 @@ from unittest import TestCase
 from source.models.replication_origin import ReplicationOrigin
 
 
-class TestTranscriptionRegion(TestCase):
-
+class TestReplicationOrigin(TestCase):
     def setUp(self):
-        self.query = ReplicationOrigin.select().where(ReplicationOrigin.chromosome == "c1")
+        self.origin = ReplicationOrigin(position=10, start_probability=.4)
 
     def test___str__(self):
-        replication_origins = set()
-        for origin in self.query:
-            replication_origins |= {str(origin)}
-        self.assertSetEqual({'0', '7'}, replication_origins)
+        self.assertEqual(str(self.origin), "10")
