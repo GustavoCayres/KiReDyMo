@@ -1,11 +1,23 @@
-import sqlite3
 import math
+import sqlite3
+
+from source.models.chromosome import Chromosome
+from source.models.replication_origin import ReplicationOrigin
+from source.models.transcription_region import TranscriptionRegion
 
 
 class Database:
-
     def __init__(self, database_path):
         self.db = sqlite3.connect(database_path)
+
+    def __enter__(self):
+        return self
+
+    def commit(self):
+        self.db.commit()
+
+    def __exit__(self, exception_type, exception_value, traceback):
+        self.db.close()
 
     def create_tables(self):
         cursor = self.db.cursor()
@@ -28,10 +40,6 @@ class Database:
         cursor.execute('''DROP TABLE IF EXISTS Chromosome''')
         cursor.execute('''DROP TABLE  IF EXISTS ReplicationOrigin''')
         cursor.execute('''DROP TABLE  IF EXISTS TranscriptionRegion''')
-
-    def close(self):
-        self.db.commit()
-        self.db.close()
 
     def insert_chromosomes(self, file_name, replication_speed):
         """ Imports the chromosomes from txt file 'file_name'.
@@ -144,3 +152,34 @@ class Database:
             previous_gene = gene
 
         return regions
+
+    def select_chromosomes(self, organism_name):
+        cursor = self.db.cursor()
+        cursor.execute('''SELECT *
+                          FROM Chromosome
+                          WHERE organism = ?''', (organism_name,))
+        chromosomes = []
+        for t in cursor.fetchall():
+            chromosome = Chromosome(code=t[0], length=t[1], replication_speed=t[2], organism=t[3])
+            cursor.execute('''SELECT *
+                              FROM ReplicationOrigin
+                              WHERE chromosome_code = ? AND chromosome_organism = ?''', (t[0], t[3]))
+            chromosome.replication_origins = [ReplicationOrigin(position=t[0], start_probability=t[1])
+                                              for t in cursor.fetchall()]
+            cursor.execute('''SELECT *
+                              FROM TranscriptionRegion
+                              WHERE chromosome_code = ? AND chromosome_organism = ?''', (t[0], t[3]))
+            chromosome.transcription_regions = [TranscriptionRegion(start=t[0], end=t[1], speed=t[2], delay=t[3])
+                                                for t in cursor.fetchall()]
+            chromosomes.append(chromosome)
+
+        return chromosomes
+
+    def print_organisms(self):
+        cursor = self.db.cursor()
+        cursor.execute('''SELECT DISTINCT organism
+                          FROM Chromosome''')
+
+        print("\nOrganisms currently in the database are:")
+        for organism in cursor.fetchall():
+            print("\t" + str(organism[0]))

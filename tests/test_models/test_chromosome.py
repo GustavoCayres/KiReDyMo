@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from source.modules.database_get import get_chromosome_by_code
+from source.database_management.database_get import get_chromosome_by_code
 
 
 class TestChromosome(TestCase):

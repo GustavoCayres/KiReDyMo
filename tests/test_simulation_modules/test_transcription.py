@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from source.modules.database_get import get_transcription_regions_by_chromosome
+from source.database_management.database_get import get_transcription_regions_by_chromosome
 from source.simulation_modules.transcription import Transcription
 
 

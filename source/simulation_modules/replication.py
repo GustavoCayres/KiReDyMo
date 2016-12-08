@@ -4,9 +4,10 @@ import random
 class Replication:
     """ Controls the replication process of a chromosome. """
 
-    def __init__(self, origin, repair_duration):
-        self.chromosome = origin.chromosome
+    def __init__(self, origin, chromosome_length, replication_speed, repair_duration):
         self.origin = origin
+        self.replication_speed = replication_speed
+        self.chromosome_length = chromosome_length
         self.triggered = False
         self.left_fork = None
         self.right_fork = None
@@ -31,7 +32,7 @@ class Replication:
             if self.left_repair_wait > 0:
                 self.left_repair_wait -= 1
             else:
-                self.left_fork -= self.chromosome.replication_speed
+                self.left_fork -= self.replication_speed
                 if self.left_fork < 0:                                    # verifies if the left replication ended
                     self.left_fork = None
 
@@ -39,8 +40,8 @@ class Replication:
             if self.right_repair_wait > 0:
                 self.right_repair_wait -= 1
             else:
-                self.right_fork += self.chromosome.replication_speed
-                if self.right_fork >= self.chromosome.length:             # verifies if the right replication ended
+                self.right_fork += self.replication_speed
+                if self.right_fork >= self.chromosome_length:             # verifies if the right replication ended
                     self.right_fork = None
 
     def pause(self, fork):

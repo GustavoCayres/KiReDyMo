@@ -28,7 +28,7 @@ class Collision:
         if transcription.current_position is None:
             return None, None
 
-        replication_speed = replication.chromosome.replication_speed
+        replication_speed = replication.replication_speed
         transcription_speed = transcription.region.speed
         added_speed = replication_speed + transcription_speed
         subtracted_speed = replication_speed - transcription_speed

@@ -2,8 +2,6 @@ from source.simulation_modules.collision import Collision
 from source.simulation_modules.encounter import Encounter
 from source.simulation_modules.replication import Replication
 from source.simulation_modules.transcription import Transcription
-# noinspection PyUnresolvedReferences
-from source.models.replication_origin import ReplicationOrigin
 
 
 class Simulation:
@@ -17,7 +15,8 @@ class Simulation:
 
         self.replications = []
         for replication_origin in chromosome.replication_origins:
-            self.replications.append(Replication(replication_origin, replication_repair_duration))
+            self.replications.append(Replication(replication_origin, chromosome.length,
+                                                 chromosome.replication_speed, replication_repair_duration))
 
         self.transcription_regions = [[x, 0] for x in chromosome.transcription_regions]
 

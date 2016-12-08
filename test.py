@@ -3,10 +3,10 @@ import sys
 import os
 import subprocess
 
-from source.modules.database_insert import *
+from source.database_management.database_insert import *
 from source.models.base_model import BaseModel
 BaseModel.set_database("tests/test_db/test_db.sqlite")
-from source.modules.database import *
+from source.database_management.database import *
 
 # prepare test database
 drop_tables()
