@@ -1,13 +1,10 @@
 from unittest import TestCase
-
-from source.database_management.database_get import get_transcription_regions_by_chromosome
+from source.models.transcription_region import TranscriptionRegion
 
 
 class TestTranscriptionRegion(TestCase):
-    @classmethod
-    def setUpClass(cls):
-        cls.transcription_region = get_transcription_regions_by_chromosome("c1")[1]
+    def setUp(self):
+        self.transcription_region = TranscriptionRegion(start=13, end=16, delay=30, speed=1)
 
     def test___str__(self):
-        converted_region = str(self.transcription_region)
-        self.assertEqual(converted_region, "(13, 16)")
+        self.assertEqual(str(self.transcription_region), "(13, 16)")

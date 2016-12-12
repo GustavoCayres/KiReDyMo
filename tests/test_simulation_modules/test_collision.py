@@ -1,27 +1,26 @@
 import math
 from unittest import TestCase
 
-from source.database_management.database_get import get_chromosome_by_code, get_transcription_regions_by_chromosome
+from source.models.replication_origin import ReplicationOrigin
 from source.simulation_modules.collision import Collision
 from source.simulation_modules.replication import Replication
 from source.simulation_modules.transcription import Transcription
-from source.models.replication_origin import ReplicationOrigin
+from source.models.chromosome import Chromosome
+from source.models.transcription_region import TranscriptionRegion
 
 
 class TestCollision(TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.chromosome = get_chromosome_by_code("c1")
-        cls.transcription_regions = get_transcription_regions_by_chromosome("c1")
+        cls.chromosome = Chromosome(code="c1", length=20, organism="TtChr1", replication_speed=5)
+        cls.chromosome.transcription_regions.append(TranscriptionRegion(start=2, end=6, speed=2, delay=10))
+        cls.chromosome.transcription_regions.append(TranscriptionRegion(start=12, end=16, speed=2, delay=10))
+        cls.chromosome.transcription_regions.append(TranscriptionRegion(start=9, end=7, speed=2, delay=10))
+        cls.chromosome.transcription_regions.append(TranscriptionRegion(start=18, end=17, speed=2, delay=10))
 
     def setUp(self):
-        self.transcriptions = []
-        self.transcriptions.append(Transcription(self.transcription_regions[0]))
-        self.transcriptions[0].begin()
-        self.transcriptions.append(Transcription(self.transcription_regions[1]))
-        self.transcriptions[1].begin()
-
-        self.replication = Replication(ReplicationOrigin.select().where(ReplicationOrigin.position == 5).get())
+        self.transcriptions = [Transcription(region) for region in self.chromosome.transcription_regions]
+        self.replications = [Transcription(region) for region in self.chromosome.transcription_regions]
 
     def test_position(self):
         self.assertEqual(Collision.position(1, 5, 77, 5), math.inf)       # Equal velocities don't lead to collision.

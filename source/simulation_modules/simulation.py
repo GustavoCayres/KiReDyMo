@@ -1,24 +1,24 @@
 from source.simulation_modules.collision import Collision
 from source.simulation_modules.encounter import Encounter
-from source.simulation_modules.replication import Replication
-from source.simulation_modules.transcription import Transcription
+from source.simulation_modules.replication_trigger import ReplicationTrigger
+from source.simulation_modules.transcription_trigger import TranscriptionTrigger
 
 
 class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
     def __init__(self, chromosome, replication_repair_duration, transcription_start_delay):
-
         self.current_step = 0
-
         self.collision_manager = Collision()
+        self.encounter_manager = Encounter(chromosome.length)
+        self.chromosome = chromosome
 
+        self.replication_triggers = \
+            [ReplicationTrigger(origin, chromosome.replication_speed, replication_repair_duration)
+             for origin in chromosome.replication_origins]
         self.replications = []
-        for replication_origin in chromosome.replication_origins:
-            self.replications.append(Replication(replication_origin, chromosome.length,
-                                                 chromosome.replication_speed, replication_repair_duration))
 
-        self.transcription_regions = [[x, 0] for x in chromosome.transcription_regions]
+        self.transcription_triggers = [TranscriptionTrigger(region) for region in chromosome.transcription_regions]
 
         self.transcription_start_delay = transcription_start_delay
         self.transcriptions = []
@@ -27,28 +27,26 @@ class Simulation:
         """ Move one step forward in the simulation, updating the position of each machinery (both for replication and
         for transcription). """
 
-        self.current_step += 1
-
-        Encounter.resolve(self.replications)
-
-        done = True
+        for trigger in self.transcription_triggers:
+            transcription = trigger.try_to_start()
+            self.transcriptions.append(transcription) if transcription is not None else None
+        for trigger in self.replication_triggers:
+            replication = trigger.try_to_start()
+            self.replications.append(replication) if replication is not None else None
+        done = self.encounter_manager.resolve(self.replications)
         for replication in self.replications:
             self.collision_manager.resolve(replication, self.transcriptions)
-            replication.step(self.current_step)
-            if not replication.triggered or not (replication.left_fork is None and replication.right_fork is None):
-                done = False
 
         self.transcriptions[:] = [x for x in self.transcriptions if x.current_position is not None]
+        self.replications[:] = [x for x in self.replications if x.left_fork is not None or x.right_fork is not None]
+
+        for replication in self.replications:
+            replication.step(self.current_step)
 
         for transcription in self.transcriptions:
-                transcription.step()
+            transcription.step()
 
-        for item in self.transcription_regions:
-            if item[1] == 0:
-                self.transcriptions.append(Transcription(item[0]))
-                item[1] = self.transcription_start_delay
-            else:
-                item[1] -= 1
+        self.current_step += 1
 
         return done
 

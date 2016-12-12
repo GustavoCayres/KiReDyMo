@@ -1,3 +1,5 @@
 [Simulation_Number]	[Simulation_Duration]	[Head_Collision_Amount]	[Tail_Collision_Amount]	[Replication_Repair_Duration]	[Transcription_Start_Delay]	
-0	4583	4	0	0	2000	
+Encounter between replication machineries around base 612788
+Encounter between replication machineries around base 12
+0	4577	7	1	0	2000	
 

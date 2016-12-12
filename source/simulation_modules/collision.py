@@ -28,15 +28,14 @@ class Collision:
         if transcription.current_position is None:
             return None, None
 
-        replication_speed = replication.replication_speed
         transcription_speed = transcription.region.speed
-        added_speed = replication_speed + transcription_speed
-        subtracted_speed = replication_speed - transcription_speed
+        added_speed = replication.speed + transcription_speed
+        subtracted_speed = replication.speed - transcription_speed
 
         if transcription.direction > 0:
             if replication.left_fork is not None and replication.left_repair_wait == 0:
                 if 0 < replication.left_fork - transcription.current_position <= added_speed:
-                    final_position = Collision.position(replication.left_fork, -replication_speed,
+                    final_position = Collision.position(replication.left_fork, -replication.speed,
                                                         transcription.current_position, transcription_speed)
                     if final_position > transcription.region.end:
                         return None, None
@@ -46,7 +45,7 @@ class Collision:
                     return "left", "head"
             if replication.right_fork is not None and replication.right_repair_wait == 0:
                 if 0 < transcription.current_position - replication.right_fork <= subtracted_speed:
-                    final_position = Collision.position(replication.right_fork, replication_speed,
+                    final_position = Collision.position(replication.right_fork, replication.speed,
                                                         transcription.current_position, transcription_speed)
                     if final_position > transcription.region.end:
                         return None, None
@@ -56,7 +55,7 @@ class Collision:
         else:
             if replication.right_fork is not None and replication.right_repair_wait == 0:
                 if 0 < transcription.current_position - replication.right_fork <= added_speed:
-                    final_position = Collision.position(replication.right_fork, replication_speed,
+                    final_position = Collision.position(replication.right_fork, replication.speed,
                                                         transcription.current_position, -transcription_speed)
                     if final_position < transcription.region.end:
                         return None, None
@@ -66,7 +65,7 @@ class Collision:
                     return "right", "head"
             if replication.left_fork is not None and replication.left_repair_wait == 0:
                 if 0 < replication.left_fork - transcription.current_position <= subtracted_speed:
-                    final_position = Collision.position(replication.left_fork, -replication_speed,
+                    final_position = Collision.position(replication.left_fork, -replication.speed,
                                                         transcription.current_position, -transcription_speed)
                     if final_position < transcription.region.end:
                         return None, None

@@ -157,7 +157,7 @@ class Database:
         cursor = self.db.cursor()
         cursor.execute('''SELECT *
                           FROM Chromosome
-                          WHERE organism = ?''', (organism_name,))
+                          WHERE organism = ? ''', (organism_name,))
         chromosomes = []
         for t in cursor.fetchall():
             chromosome = Chromosome(code=t[0], length=t[1], replication_speed=t[2], organism=t[3])

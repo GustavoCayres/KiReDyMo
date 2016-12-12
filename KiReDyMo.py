@@ -9,7 +9,7 @@ from source.database_management.database import Database
 from source.simulation_modules.simulation import Simulation
 
 
-def file_at(path):
+def write_file(path):
     folder = path.rsplit('/', 1)[0]
     try:
         os.makedirs(folder)
@@ -20,15 +20,15 @@ def file_at(path):
 
 
 def simulate(chromosome):
-    with file_at("output/" + chromosome.code + "_results.txt") as sys.stdout:
+    with write_file("output/" + chromosome.code + "_results.txt") as sys.stdout:
         print("[Simulation_Number]\t[Simulation_Duration]\t"
               "[Head_Collision_Amount]\t[Tail_Collision_Amount]\t"
               "[Replication_Repair_Duration]\t[Transcription_Start_Delay]\t")
 
         # run simulations
         for i in range(int(sys.argv[2])):
-            for replication_repair_duration in range(0, 8*3600, 8*360):
-                for transcription_start_delay in range(2000, 10, -200):
+            for replication_repair_duration in range(0, 8*3600, 8*3600):
+                for transcription_start_delay in range(2000, 10, -2000):
                     simulation = Simulation(chromosome, replication_repair_duration, transcription_start_delay)
                     simulation_duration, head_collisions, tail_collisions = simulation.run()
                     # print results
@@ -36,7 +36,7 @@ def simulate(chromosome):
                                                               replication_repair_duration, transcription_start_delay))
 
 
-def verify_arguments():
+def parse_arguments():
     with Database("db/simulation.sqlite") as db:
         if len(sys.argv) < 3:  # lacking arguments, therefore present available organisms
             print("Run with: ./KiReDyMo <organism> <number of simulations>")
@@ -48,7 +48,7 @@ def verify_arguments():
 
 def main():
     random.seed()
-    Pool(cpu_count()).map(simulate, verify_arguments())    # run each chromosome in a processor
+    Pool(cpu_count()).map(simulate, parse_arguments())    # run each chromosome in a processor
 
 if __name__ == "__main__":
     main()
