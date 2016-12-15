@@ -10,11 +10,11 @@ class Database:
     def __init__(self, database_path):
         self.db = sqlite3.connect(database_path)
 
-    def __enter__(self):
-        return self
-
     def commit(self):
         self.db.commit()
+
+    def __enter__(self):
+        return self
 
     def __exit__(self, exception_type, exception_value, traceback):
         self.db.close()
@@ -22,10 +22,11 @@ class Database:
     def create_tables(self):
         cursor = self.db.cursor()
         cursor.execute('''CREATE TABLE Chromosome
-                        (code text, length integer not null, replication_speed integer not null, organism text,
+                        (code text, length integer not null, organism text,
                         PRIMARY KEY (code, organism))''')
         cursor.execute('''CREATE TABLE ReplicationOrigin
                         (position integer, start_probability real not null,
+                        replication_speed integer not null, replication_repair_duration integer not null,
                         chromosome_code text, chromosome_organism text,
                         PRIMARY KEY (position, chromosome_code, chromosome_organism)
                         FOREIGN KEY (chromosome_code, chromosome_organism) REFERENCES Chromosome(code, organism))''')
@@ -41,7 +42,7 @@ class Database:
         cursor.execute('''DROP TABLE  IF EXISTS ReplicationOrigin''')
         cursor.execute('''DROP TABLE  IF EXISTS TranscriptionRegion''')
 
-    def insert_chromosomes(self, file_name, replication_speed):
+    def insert_chromosomes(self, file_name):
         """ Imports the chromosomes from txt file 'file_name'.
             The file format contain columns with headers [Length], [Description] and [Sequence ID]
             where the separation are TABs.                                                          """
@@ -67,12 +68,12 @@ class Database:
                 length = line_as_list[length_index].replace(',', '')
                 code = line_as_list[code_index]
                 organism = line_as_list[organism_index]
-                chromosomes.append((code, length, replication_speed, organism))
+                chromosomes.append((code, length, organism))
 
-        cursor.executemany('''INSERT INTO Chromosome VALUES (?, ?, ?, ?)''', chromosomes)
+        cursor.executemany('''INSERT INTO Chromosome VALUES (?, ?, ?)''', chromosomes)
         return len(chromosomes)
 
-    def insert_replication_origins(self, chromosome_code):
+    def insert_replication_origins(self, chromosome_code, replication_speed, replication_repair_duration):
         """ Insert a replication origin with the specified
         {position, start_probability, chromosome}
         into the specified chromosome. """
@@ -80,14 +81,20 @@ class Database:
         cursor = self.db.cursor()
         cursor.execute('''SELECT * FROM Chromosome WHERE code=?''', (chromosome_code,))
         chromosome = cursor.fetchone()
+
         d = chromosome[1]
-        v = chromosome[2]
+        v = replication_speed
         ts = 8 * 3600  # duration of S phase
         minimum_origin_amount = math.ceil(d / (2 * v * ts))
+
         origin_position = int(d / (1 + minimum_origin_amount))
+        origins = []
         for i in range(minimum_origin_amount):
-            cursor.execute('''INSERT INTO ReplicationOrigin VALUES (?, ?, ?, ?)''', ((i + 1) * origin_position, .1,
-                           chromosome_code, chromosome[3]))
+            origins.append(((i + 1) * origin_position, .1, replication_speed,
+                            replication_repair_duration, chromosome_code, chromosome[2]))
+
+        cursor.executemany('''INSERT INTO ReplicationOrigin VALUES (?, ?, ?, ?, ?, ?)''', origins)
+        return len(origins)
 
     def insert_transcription_regions(self, file_name, speed, delay):
         """ Imports the chromosome's transcription regions from txt file 'file_name'.
@@ -160,11 +167,13 @@ class Database:
                           WHERE organism = ? ''', (organism_name,))
         chromosomes = []
         for t in cursor.fetchall():
-            chromosome = Chromosome(code=t[0], length=t[1], replication_speed=t[2], organism=t[3])
+            chromosome = Chromosome(code=t[0], length=t[1], organism=t[3])
             cursor.execute('''SELECT *
                               FROM ReplicationOrigin
                               WHERE chromosome_code = ? AND chromosome_organism = ?''', (t[0], t[3]))
-            chromosome.replication_origins = [ReplicationOrigin(position=t[0], start_probability=t[1])
+            chromosome.replication_origins = [ReplicationOrigin(position=t[0],
+                                                                start_probability=t[1], replication_speed=t[2],
+                                                                replication_repair_duration=t[3])
                                               for t in cursor.fetchall()]
             cursor.execute('''SELECT *
                               FROM TranscriptionRegion

@@ -8,8 +8,8 @@ class Encounter:
     """ Controls the encounter's between two replication machineries. """
 
     def __init__(self, chromosome_length):
-        self.chromosome_start = Replication(ReplicationOrigin(0, None), 0, None)
-        self.chromosome_end = Replication(ReplicationOrigin(chromosome_length - 1, None), 0, None)
+        self.chromosome_start = Replication(ReplicationOrigin(0, None, 0, None))
+        self.chromosome_end = Replication(ReplicationOrigin(chromosome_length - 1, None, 0, None))
 
     @staticmethod
     def verify(replication1, replication2):
@@ -17,18 +17,18 @@ class Encounter:
 
         if replication1.left_fork is not None and replication2.right_fork is not None:
             if 0 < replication1.left_fork - replication2.right_fork <= replication1.speed + replication2.speed:
-                print("Encounter between replication machineries around base " + str(replication1.left_fork))
+                # print("Encounter between replication machineries around base " + str(replication1.left_fork))
                 replication1.left_fork = None
                 replication2.right_fork = None
 
         if replication1.right_fork is not None and replication2.left_fork is not None:
             if 0 < replication2.left_fork - replication1.right_fork <= replication1.speed + replication2.speed:
-                print("Encounter between replication machineries around base " + str(replication1.right_fork))
+                # print("Encounter between replication machineries around base " + str(replication1.right_fork))
                 replication1.right_fork = None
                 replication2.left_fork = None
 
     def resolve(self, replications):
-        """ Verify all possible replication pairs. """
+        """ Verify encouters between all possible replication pairs. """
 
         replications_with_borders = replications[:]
         replications_with_borders.append(self.chromosome_start)

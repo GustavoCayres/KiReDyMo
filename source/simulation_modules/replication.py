@@ -1,15 +1,15 @@
 class Replication:
     """ Controls the replication process of a chromosome. """
 
-    def __init__(self, origin, replication_speed, repair_duration):
-        self.speed = replication_speed
+    def __init__(self, origin):
+        self.speed = origin.replication_speed
         self.left_fork = origin.position
         self.right_fork = origin.position
         self.left_repair_wait = 0
         self.right_repair_wait = 0
-        self.repair_duration = repair_duration
+        self.repair_duration = origin.replication_repair_duration
 
-    def step(self, current_step):
+    def step(self):
         """ Takes a step in the replication, taking into account the chromosome's boundaries. """
 
         if self.left_fork is not None:

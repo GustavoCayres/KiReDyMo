@@ -4,11 +4,8 @@ from source.simulation_modules.replication import Replication
 
 
 class ReplicationTrigger:
-    def __init__(self, replication_origin, replication_speed, repair_duration):
+    def __init__(self, replication_origin):
         self.replication_origin = replication_origin
-
-        self.replication_args = [replication_origin, replication_speed, repair_duration]
-
         self.start_probability = replication_origin.start_probability
         self.replication_started = False
 
@@ -16,4 +13,4 @@ class ReplicationTrigger:
         if not self.replication_started:
             if random.random() < self.replication_origin.start_probability:
                 self.replication_started = True
-                return Replication(*self.replication_args)
+                return Replication(self.replication_origin)

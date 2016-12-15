@@ -13,14 +13,10 @@ class Simulation:
         self.encounter_manager = Encounter(chromosome.length)
         self.chromosome = chromosome
 
-        self.replication_triggers = \
-            [ReplicationTrigger(origin, chromosome.replication_speed, replication_repair_duration)
-             for origin in chromosome.replication_origins]
+        self.replication_triggers = [ReplicationTrigger(origin) for origin in chromosome.replication_origins]
         self.replications = []
 
         self.transcription_triggers = [TranscriptionTrigger(region) for region in chromosome.transcription_regions]
-
-        self.transcription_start_delay = transcription_start_delay
         self.transcriptions = []
 
     def step(self):
@@ -41,7 +37,7 @@ class Simulation:
         self.replications[:] = [x for x in self.replications if x.left_fork is not None or x.right_fork is not None]
 
         for replication in self.replications:
-            replication.step(self.current_step)
+            replication.step()
 
         for transcription in self.transcriptions:
             transcription.step()
