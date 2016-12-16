@@ -25,16 +25,16 @@ class Simulation:
 
         for trigger in self.transcription_triggers:
             transcription = trigger.try_to_start()
-            self.transcriptions.append(transcription) if transcription is not None else None
+            if transcription is not None:
+                self.transcriptions.append(transcription)
         for trigger in self.replication_triggers:
-            replication = trigger.try_to_start()
-            self.replications.append(replication) if replication is not None else None
-        done = self.encounter_manager.resolve(self.replications)
-        for replication in self.replications:
-            self.collision_manager.resolve(replication, self.transcriptions)
+            left_replication, right_replication = trigger.try_to_start()
+            if left_replication is not None and right_replication is not None:
+                self.replications.append(left_replication)
+                self.replications.append(right_replication)
 
-        self.transcriptions[:] = [x for x in self.transcriptions if x.current_position is not None]
-        self.replications[:] = [x for x in self.replications if x.left_fork is not None or x.right_fork is not None]
+        done = self.encounter_manager.resolve(self.replications)
+        self.collision_manager.resolve(self.replications, self.transcriptions)
 
         for replication in self.replications:
             replication.step()

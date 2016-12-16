@@ -1,43 +1,39 @@
 import itertools
 
-from source.models.replication_origin import ReplicationOrigin
-from source.simulation_modules.replication import Replication
-
 
 class Encounter:
     """ Controls the encounter's between two replication machineries. """
 
     def __init__(self, chromosome_length):
-        self.chromosome_start = Replication(ReplicationOrigin(0, None, 0, None))
-        self.chromosome_end = Replication(ReplicationOrigin(chromosome_length - 1, None, 0, None))
+        self.chromosome_length = chromosome_length
+        self.chromosome_start_done = False
+        self.chromosome_end_done = False
+        self.encounters = 0
 
-    @staticmethod
-    def verify(replication1, replication2):
+    def verify(self, replication1, replication2):
         """ Verifies whether there is an imminent encounter between the replications' machineries. """
 
-        if replication1.left_fork is not None and replication2.right_fork is not None:
-            if 0 < replication1.left_fork - replication2.right_fork <= replication1.speed + replication2.speed:
-                # print("Encounter between replication machineries around base " + str(replication1.left_fork))
-                replication1.left_fork = None
-                replication2.right_fork = None
-
-        if replication1.right_fork is not None and replication2.left_fork is not None:
-            if 0 < replication2.left_fork - replication1.right_fork <= replication1.speed + replication2.speed:
-                # print("Encounter between replication machineries around base " + str(replication1.right_fork))
-                replication1.right_fork = None
-                replication2.left_fork = None
+        if replication1.direction != replication2.direction and\
+                abs(replication1.fork_position - replication2.fork_position) <= replication1.speed + replication2.speed:
+            self.encounters += 1
+            replication1.finish()
+            replication2.finish()
 
     def resolve(self, replications):
         """ Verify encouters between all possible replication pairs. """
 
-        replications_with_borders = replications[:]
-        replications_with_borders.append(self.chromosome_start)
-        replications_with_borders.append(self.chromosome_end)
-        for pair in itertools.combinations(replications_with_borders, 2):
+        for pair in itertools.combinations(replications, 2):
             Encounter.verify(*pair)
 
-        self.chromosome_start = replications_with_borders[-2]
-        self.chromosome_end = replications_with_borders[-1]
-        if self.chromosome_start.right_fork is None and self.chromosome_end.left_fork is None:
-            return True
-        return False
+        for replication in replications:
+            if replication.fork_position is not None:
+                if replication.fork_position + replication.direction * replication.speed < 0:
+                    self.chromosome_start_done = True
+                    replication.finish()
+                elif replication.fork_position + replication.direction * replication.speed >= self.chromosome_length:
+                    self.chromosome_end_done = True
+                    replication.finish()
+
+        replications[:] = [x for x in replications if x.fork_position is not None]
+
+        return self.chromosome_start_done and self.chromosome_end_done

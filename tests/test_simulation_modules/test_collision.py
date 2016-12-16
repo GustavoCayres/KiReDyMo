@@ -12,16 +12,16 @@ from source.models.transcription_region import TranscriptionRegion
 class TestCollision(TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.chromosome = Chromosome(code="c1", length=20, organism="TtChr1")
-        cls.chromosome.transcription_regions.append(TranscriptionRegion(start=2, end=6, speed=2, delay=10))
-        cls.chromosome.transcription_regions.append(TranscriptionRegion(start=12, end=16, speed=2, delay=10))
-        cls.chromosome.transcription_regions.append(TranscriptionRegion(start=7, end=9, speed=2, delay=10))
-        cls.chromosome.replication_origins.append(ReplicationOrigin(position=10, start_probability=0.1,
-                                                                    replication_speed=5, replication_repair_duration=5))
+        cls.transcription_regions = [TranscriptionRegion(start=2, end=6, speed=2, delay=10),
+                                   TranscriptionRegion(start=12, end=16, speed=2, delay=10),
+                                   TranscriptionRegion(start=7, end=9, speed=2, delay=10)]
+        cls.replication_origins = ReplicationOrigin(position=10, start_probability=0.1, replication_speed=5,
+                                                      replication_repair_duration=5)
 
     def setUp(self):
-        self.transcriptions = [Transcription(region) for region in self.chromosome.transcription_regions]
-        self.replications = [Replication(origin) for origin in self.chromosome.replication_origins]
+        self.transcriptions = [Transcription(region) for region in self.transcription_regions]
+
+        self.replications = [Replication(replication_origin, -1), Replication(replication_origin, 1) for replication_origin in self.replication_origins]
         self.collision = Collision()
 
     def test_position(self):
@@ -46,5 +46,5 @@ class TestCollision(TestCase):
 
     def test_resolve(self):
         self.collision.resolve(self.replications[0], self.transcriptions)
-        self.assertEqual(self.replications[0].left_repair_wait, 5 + 1)
+        self.assertEqual(self.replications[0].repair_wait, 5 + 1)
         self.assertIsNone(self.transcriptions[2].current_position)

@@ -1,33 +1,25 @@
 class Replication:
     """ Controls the replication process of a chromosome. """
 
-    def __init__(self, origin):
+    def __init__(self, origin, direction):
         self.speed = origin.replication_speed
-        self.left_fork = origin.position
-        self.right_fork = origin.position
-        self.left_repair_wait = 0
-        self.right_repair_wait = 0
+        self.direction = direction
+        self.fork_position = origin.position
+        self.repair_wait = 0
         self.repair_duration = origin.replication_repair_duration
 
     def step(self):
         """ Takes a step in the replication, taking into account the chromosome's boundaries. """
 
-        if self.left_fork is not None:
-            if self.left_repair_wait > 0:
-                self.left_repair_wait -= 1
-            else:
-                self.left_fork -= self.speed
+        if self.repair_wait > 0:
+            self.repair_wait -= 1
+        else:
+            self.fork_position += self.speed * self.direction
 
-        if self.right_fork is not None:
-            if self.right_repair_wait > 0:
-                self.right_repair_wait -= 1
-            else:
-                self.right_fork += self.speed
-
-    def pause(self, fork):
+    def pause(self):
         """ Pauses the replication for a certain duration to allow repairs. """
 
-        if fork == "left":
-            self.left_repair_wait = self.repair_duration + 1    # compensates the step taken after the pause
-        else:
-            self.right_repair_wait = self.repair_duration + 1
+        self.repair_wait = self.repair_duration + 1    # compensates the step taken after the pause
+
+    def finish(self):
+        self.fork_position = None

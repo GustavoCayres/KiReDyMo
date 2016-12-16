@@ -13,4 +13,4 @@ class ReplicationTrigger:
         if not self.replication_started:
             if random.random() < self.replication_origin.start_probability:
                 self.replication_started = True
-                return Replication(self.replication_origin)
+                return Replication(self.replication_origin, -1), Replication(self.replication_origin, 1)
