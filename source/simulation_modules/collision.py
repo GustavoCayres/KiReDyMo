@@ -53,10 +53,10 @@ class Collision:
         for transcription in transcriptions:
             for replication in replications:
                 kind = self.verify(replication, transcription)
-                if kind is not None or transcription.leaving_region():
-                    transcription.finish()
-                    break
                 if kind == "head":
                     replication.pause()
+                if kind is not None or transcription.is_leaving_region():
+                    transcription.finish()
+                    break
 
         transcriptions[:] = [x for x in transcriptions if x.current_position is not None]

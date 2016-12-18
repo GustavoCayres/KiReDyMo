@@ -13,8 +13,12 @@ class Encounter:
     def verify(self, replication1, replication2):
         """ Verifies whether there is an imminent encounter between the replications' machineries. """
 
-        if replication1.direction != replication2.direction and\
-                abs(replication1.fork_position - replication2.fork_position) <= replication1.speed + replication2.speed:
+        if not replication1.is_active() or not replication2.is_active() or\
+                replication1.direction == replication2.direction:
+            return
+
+        if 0 < -replication1.direction * replication1.fork_position +\
+                -replication2.direction * replication2.fork_position <= replication1.speed + replication2.speed:
             self.encounters += 1
             replication1.finish()
             replication2.finish()
@@ -23,7 +27,7 @@ class Encounter:
         """ Verify encouters between all possible replication pairs. """
 
         for pair in itertools.combinations(replications, 2):
-            Encounter.verify(*pair)
+            self.verify(*pair)
 
         for replication in replications:
             if replication.fork_position is not None:

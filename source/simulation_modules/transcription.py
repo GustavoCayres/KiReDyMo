@@ -20,5 +20,5 @@ class Transcription:
 
         self.current_position = None       # end of transcription removes the machinery
 
-    def leaving_region(self):
+    def is_leaving_region(self):
         return self.direction * self.current_position + self.speed > self.direction * self.region.end

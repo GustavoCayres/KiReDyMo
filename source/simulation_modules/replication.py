@@ -8,6 +8,9 @@ class Replication:
         self.repair_wait = 0
         self.repair_duration = origin.replication_repair_duration
 
+    def __str__(self):
+        return "Current position: " + str(self.fork_position)
+
     def step(self):
         """ Takes a step in the replication, taking into account the chromosome's boundaries. """
 
@@ -23,3 +26,6 @@ class Replication:
 
     def finish(self):
         self.fork_position = None
+
+    def is_active(self):
+        return self.fork_position is not None

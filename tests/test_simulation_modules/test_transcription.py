@@ -15,17 +15,16 @@ class TestTranscription(TestCase):
     def test_begin(self):
         self.assertEqual(self.transcription.current_position, 12)
 
-    def test_intermediate_step(self):
+    def test_step(self):
         """ Tests a step in an intermediate point of the transcription. """
 
         self.assertEqual(self.transcription.direction, 1)
         self.transcription.step()
         self.assertEqual(self.transcription.current_position, 14)
 
-    def test_end_step(self):
-        """ Tests a step that leads to ending the transcription. """
-
-        self.assertEqual(self.transcription.direction, 1)
+    def test_leaving_region(self):
+        self.assertFalse(self.transcription.is_leaving_region())
         self.transcription.step()
+        self.assertFalse(self.transcription.is_leaving_region())
         self.transcription.step()
-        self.assertIsNone(self.transcription.current_position)
+        self.assertTrue(self.transcription.is_leaving_region())
