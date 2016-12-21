@@ -7,7 +7,7 @@ from source.simulation_modules.transcription_trigger import TranscriptionTrigger
 class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
-    def __init__(self, chromosome, replication_repair_duration, transcription_start_delay):
+    def __init__(self, chromosome):
         self.current_step = 0
         self.collision_manager = Collision()
         self.encounter_manager = Encounter(chromosome.length)

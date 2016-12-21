@@ -29,7 +29,12 @@ def simulate(chromosome):
         for i in range(int(sys.argv[2])):
             for replication_repair_duration in range(0, 8*3600, 8*3600):
                 for transcription_start_delay in range(2000, 10, -2000):
-                    simulation = Simulation(chromosome, replication_repair_duration, transcription_start_delay)
+                    for region in chromosome.transcription_regions:
+                        setattr(region, 'delay', transcription_start_delay)
+                    for origin in chromosome.replication_origins:
+                        setattr(origin, 'replication_repair_duration', replication_repair_duration)
+
+                    simulation = Simulation(chromosome)
                     simulation_duration, head_collisions, tail_collisions = simulation.run()
                     # print results
                     print("{}\t{}\t{}\t{}\t{}\t{}\t\n".format(i, simulation_duration, head_collisions, tail_collisions,

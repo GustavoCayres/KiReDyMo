@@ -162,25 +162,28 @@ class Database:
 
     def select_chromosomes(self, organism_name):
         cursor = self.db.cursor()
+
         cursor.execute('''SELECT *
                           FROM Chromosome
                           WHERE organism = ? ''', (organism_name,))
-        chromosomes = []
-        for t in cursor.fetchall():
-            chromosome = Chromosome(code=t[0], length=t[1], organism=t[3])
+        chromosomes = [Chromosome(code=t[0], length=t[1], organism=t[2]) for t in cursor.fetchall()]
+
+        for chromosome in chromosomes:
             cursor.execute('''SELECT *
                               FROM ReplicationOrigin
-                              WHERE chromosome_code = ? AND chromosome_organism = ?''', (t[0], t[3]))
+                              WHERE chromosome_code = ? AND chromosome_organism = ?''',
+                           (chromosome.code, chromosome.organism))
             chromosome.replication_origins = [ReplicationOrigin(position=t[0],
                                                                 start_probability=t[1], replication_speed=t[2],
                                                                 replication_repair_duration=t[3])
                                               for t in cursor.fetchall()]
+
             cursor.execute('''SELECT *
                               FROM TranscriptionRegion
-                              WHERE chromosome_code = ? AND chromosome_organism = ?''', (t[0], t[3]))
+                              WHERE chromosome_code = ? AND chromosome_organism = ?''',
+                           (chromosome.code, chromosome.organism))
             chromosome.transcription_regions = [TranscriptionRegion(start=t[0], end=t[1], speed=t[2], delay=t[3])
                                                 for t in cursor.fetchall()]
-            chromosomes.append(chromosome)
 
         return chromosomes
 
