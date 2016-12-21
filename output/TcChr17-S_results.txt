@@ -1,3 +1,0 @@
-[Simulation_Number]	[Simulation_Duration]	[Head_Collision_Amount]	[Tail_Collision_Amount]	[Replication_Repair_Duration]	[Transcription_Start_Delay]	
-0	4866	1	1	0	2000	
-
