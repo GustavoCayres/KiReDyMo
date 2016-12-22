@@ -17,7 +17,7 @@ class TestSimulation(TestCase):
                                                                     replication_speed=5, replication_repair_duration=5))
 
     def setUp(self):
-        self.simulation = Simulation(self.chromosome, 10, 10)
+        self.simulation = Simulation(self.chromosome)
 
     def test_run(self):
         total_steps = self.simulation.run()[0]

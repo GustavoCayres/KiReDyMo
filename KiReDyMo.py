@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import errno
 import os
-import random
 import sys
 from multiprocessing import Pool, cpu_count
 
@@ -52,7 +51,6 @@ def parse_arguments():
 
 
 def main():
-    random.seed()
     Pool(cpu_count()).map(simulate, parse_arguments())    # run each chromosome in a processor
 
 if __name__ == "__main__":
