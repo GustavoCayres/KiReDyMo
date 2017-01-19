@@ -50,4 +50,9 @@ class Simulation:
         done = False
         while not done:
             done = self.step()
-        return self.current_step, self.collision_manager.head_collisions, self.collision_manager.tail_collisions
+        # data for output
+        return self.current_step,\
+            self.collision_manager.head_collisions,\
+            self.collision_manager.tail_collisions,\
+            self.chromosome.replication_origins[0].replication_repair_duration,\
+            self.chromosome.transcription_regions[0].delay
