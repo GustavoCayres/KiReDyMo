@@ -1,9 +1,9 @@
-import math
 import sqlite3
 
 from source.models.chromosome import Chromosome
 from source.models.replication_origin import ReplicationOrigin
 from source.models.transcription_region import TranscriptionRegion
+from source.database_management.origin_generation import *
 
 
 class Database:
@@ -78,22 +78,10 @@ class Database:
         {position, start_probability, chromosome}
         into the specified chromosome. """
 
-        cursor = self.db.cursor()
-        cursor.execute('''SELECT * FROM Chromosome WHERE code=?''', (chromosome_code,))
-        chromosome = cursor.fetchone()
+        chromosome = self.select_chromosomes(code=chromosome_code)[0]
+        origins = generate_origins(chromosome, replication_speed, replication_repair_duration)
 
-        d = chromosome[1]
-        v = replication_speed
-        ts = 8 * 3600  # duration of S phase
-        minimum_origin_amount = math.ceil(d / (2 * v * ts))
-
-        origin_position = int(d / (1 + minimum_origin_amount))
-        origins = []
-        for i in range(minimum_origin_amount):
-            origins.append(((i + 1) * origin_position, .1, replication_speed,
-                            replication_repair_duration, chromosome_code, chromosome[2]))
-
-        cursor.executemany('''INSERT INTO ReplicationOrigin VALUES (?, ?, ?, ?, ?, ?)''', origins)
+        self.db.cursor().executemany('''INSERT INTO ReplicationOrigin VALUES (?, ?, ?, ?, ?, ?)''', origins)
         return len(origins)
 
     def insert_transcription_regions(self, file_name, speed, delay):
@@ -160,12 +148,11 @@ class Database:
 
         return regions
 
-    def select_chromosomes(self, organism_name):
+    def select_chromosomes(self, **kwargs):
         cursor = self.db.cursor()
-
-        cursor.execute('''SELECT *
-                          FROM Chromosome
-                          WHERE organism = ? ''', (organism_name,))
+        for key, value in kwargs.items():
+            query = "SELECT * FROM Chromosome WHERE " + key + " = ?"
+            cursor.execute(query, (value,))
         chromosomes = [Chromosome(code=t[0], length=t[1], organism=t[2]) for t in cursor.fetchall()]
 
         for chromosome in chromosomes:

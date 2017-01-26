@@ -22,3 +22,6 @@ class Transcription:
 
     def is_leaving_region(self):
         return self.direction * self.current_position + self.speed > self.direction * self.region.end
+
+    def is_active(self):
+        return self.current_position is not None

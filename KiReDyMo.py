@@ -50,7 +50,7 @@ def parse_arguments(args):
             exit(1)
         else:
             parsed_args = []
-            for chromosome in db.select_chromosomes(args[1]):
+            for chromosome in db.select_chromosomes(organism=args[1]):
                 parsed_args.append([chromosome, int(args[2])])
             return parsed_args
 

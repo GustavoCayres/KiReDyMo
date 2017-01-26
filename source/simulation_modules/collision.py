@@ -25,7 +25,7 @@ class Collision:
     def verify(self, replication, transcription):
         """ Verifies whether there is an imminent collision between a transcription and a replication. """
 
-        if transcription.current_position is None or replication.fork_position is None:
+        if not transcription.is_active() or not replication.is_active():
             return None
         # treat repair wait = 0
         if 0 < replication.direction * (transcription.current_position - replication.fork_position) <=\
