@@ -55,4 +55,5 @@ class Simulation:
             self.collision_manager.head_collisions,\
             self.collision_manager.tail_collisions,\
             self.chromosome.replication_origins[0].replication_repair_duration,\
-            self.chromosome.transcription_regions[0].delay
+            self.chromosome.transcription_regions[0].delay,\
+            self.chromosome.replication_origins

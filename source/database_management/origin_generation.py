@@ -31,7 +31,7 @@ def generate_randomized_origins(chromosome, replication_speed, replication_repai
         position = random_number_generator.randrange(0, chromosome.length)
         while position in [origin[0] for origin in origins]:
             position = random_number_generator.randrange(0, chromosome.length)
-        origins.append((position, .1, replication_speed,
+        origins.append((position, 1, replication_speed,
                         replication_repair_duration, chromosome.code, chromosome.organism))
 
     return origins
@@ -55,7 +55,7 @@ def generate_randomized_origins_in_inversions(chromosome, replication_speed, rep
         position = random_number_generator.choice(viable_positions)
         while position in [origin[0] for origin in origins]:
             position = random_number_generator.choice(viable_positions)
-        origins.append((position, .1, replication_speed,
+        origins.append((position, 1, replication_speed,
                         replication_repair_duration, chromosome.code, chromosome.organism))
 
     return origins

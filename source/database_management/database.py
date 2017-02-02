@@ -79,7 +79,7 @@ class Database:
         into the specified chromosome. """
 
         chromosome = self.select_chromosomes(code=chromosome_code)[0]
-        origins = generate_origins(chromosome, replication_speed, replication_repair_duration)
+        origins = generate_randomized_origins(chromosome, replication_speed, replication_repair_duration)
 
         self.db.cursor().executemany('''INSERT INTO ReplicationOrigin VALUES (?, ?, ?, ?, ?, ?)''', origins)
         return len(origins)
