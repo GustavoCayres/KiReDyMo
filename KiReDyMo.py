@@ -41,8 +41,9 @@ def simulate(simulation_arguments):
                 parameters.last_simulation_duration = simulation_duration
 
                 # print results
-                print("{}\t{}\t{}\t{}\t{}\t{}\t{}\t\n".format(i+1, simulation_duration, head_collisions,
-                                                              tail_collisions, repair_duration, transcription_delay,
+                print("{}\t{}\t{}\t{}\t{}\t{}\t{}\t\n".format(i+1, simulation_duration,
+                                                              head_collisions, tail_collisions,
+                                                              repair_duration, transcription_delay,
                                                               [str(origin) for origin in origins]))
 
 
