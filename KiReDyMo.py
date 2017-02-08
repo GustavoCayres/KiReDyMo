@@ -9,14 +9,15 @@ from source.simulation_modules.simulation import Simulation
 from source.simulation_modules.parameter_iterator import ParameterIterator
 
 
-def write_file(path):
-    folder = path.rsplit('/', 1)[0]
-    try:
-        os.makedirs(folder)
-    except OSError as exception:
-        if exception.errno != errno.EEXIST:
-            raise
-    return open(path, 'a')
+def open_output(file_name):
+    path = "output/" + file_name
+    output_file = open(path, 'a')
+    if os.path.getsize(path) == 0:
+        print("[Simulation_Duration]\t"
+              "[Head_Collision_Amount]\t[Tail_Collision_Amount]\t"
+              "[Replication_Repair_Duration]\t[Transcription_Start_Delay]\t"
+              "[Origins]\t", file=output_file)
+    return output_file
 
 
 def simulate(simulation_arguments):
@@ -26,13 +27,7 @@ def simulate(simulation_arguments):
 
     parameters = ParameterIterator(chromosome, 8 * 3600, repair_duration_range, transcription_delay_range)
 
-    with write_file("output/" + chromosome.code + "_results.txt") as output_file:
-        print("[Simulation_Duration]\t"
-              "[Head_Collision_Amount]\t[Tail_Collision_Amount]\t"
-              "[Replication_Repair_Duration]\t[Transcription_Start_Delay]\t"
-              "[Origins]\t", file=output_file)
-
-        # run simulations
+    with open_output(chromosome.code + "_results.txt") as output_file:
         for parameter in parameters:
             simulation = Simulation(parameter)
 
@@ -55,7 +50,7 @@ def parse_arguments(file_name):
             transcription_delay_range = [int(x) for x in parameter_file.readline().split()]
 
             parsed_arguments = []
-            for chromosome in db.select_chromosomes(organism=organism_name):
+            for chromosome in db.select_chromosomes(code="TcChr2-S"): # organism=organism_name):
                 parsed_arguments.append([chromosome, repair_duration_range, transcription_delay_range])
             return parsed_arguments
 
@@ -78,6 +73,12 @@ def seed():
 
 
 def main(args):
+    try:
+        os.makedirs("output")
+    except OSError as exception:
+        if exception.errno != errno.EEXIST:
+            raise
+
     for i in range(int(args[2])):
         seed()
         Pool(cpu_count()).map(simulate, parse_arguments(args[1]))    # run each chromosome in a processor
