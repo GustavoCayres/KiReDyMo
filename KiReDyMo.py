@@ -16,7 +16,7 @@ def write_file(path):
     except OSError as exception:
         if exception.errno != errno.EEXIST:
             raise
-    return open(path, 'w')
+    return open(path, 'a')
 
 
 def simulate(simulation_arguments):
@@ -47,16 +47,12 @@ def simulate(simulation_arguments):
                                                       [str(origin) for origin in origins]), file=output_file)
 
 
-def parse_arguments(args):
+def parse_arguments(file_name):
     with Database("db/simulation.sqlite") as db:
-        if len(args) < 2:  # lacking arguments, therefore alert
-            print("Run with: ./KiReDyMo <file_with_parameters>")
-            exit(1)
-        else:
-            with open(args[1]) as parameter_file:
-                organism_name = parameter_file.readline().strip('\n')
-                repair_duration_range = [int(x) for x in parameter_file.readline().split()]
-                transcription_delay_range = [int(x) for x in parameter_file.readline().split()]
+        with open(file_name) as parameter_file:
+            organism_name = parameter_file.readline().strip('\n')
+            repair_duration_range = [int(x) for x in parameter_file.readline().split()]
+            transcription_delay_range = [int(x) for x in parameter_file.readline().split()]
 
             parsed_arguments = []
             for chromosome in db.select_chromosomes(organism=organism_name):
@@ -84,7 +80,10 @@ def seed():
 def main(args):
     for i in range(int(args[2])):
         seed()
-        Pool(cpu_count()).map(simulate, parse_arguments(args))    # run each chromosome in a processor
+        Pool(cpu_count()).map(simulate, parse_arguments(args[1]))    # run each chromosome in a processor
 
 if __name__ == "__main__":
+    if len(sys.argv) < 2:  # lacking arguments, therefore alert
+        print("Run with: ./KiReDyMo <file_with_parameters>")
+        exit(1)
     main(sys.argv)
