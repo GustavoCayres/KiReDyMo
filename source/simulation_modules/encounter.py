@@ -30,7 +30,7 @@ class Encounter:
             self.verify(*pair)
 
         for replication in replications:
-            if replication.fork_position is not None:
+            if replication.is_active():
                 if replication.fork_position + replication.direction * replication.speed < 0:
                     self.chromosome_start_done = True
                     replication.finish()
@@ -38,6 +38,6 @@ class Encounter:
                     self.chromosome_end_done = True
                     replication.finish()
 
-        replications[:] = [x for x in replications if x.fork_position is not None]
+        replications[:] = [x for x in replications if x.is_active()]
 
         return self.chromosome_start_done and self.chromosome_end_done

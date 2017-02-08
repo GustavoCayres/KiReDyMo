@@ -41,5 +41,5 @@ class TestCollision(TestCase):
 
     def test_resolve(self):
         self.collision.resolve(self.replications, self.transcriptions)
-        self.assertEqual(self.replications[0].repair_wait, 5 + 1)
+        self.assertEqual(self.replications[0].current_repair_wait, 5 + 1)
         self.assertEqual(len(self.transcriptions), 1)

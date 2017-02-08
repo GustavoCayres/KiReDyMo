@@ -27,7 +27,7 @@ class Collision:
 
         if not transcription.is_active() or not replication.is_active():
             return None
-        # treat repair wait = 0
+
         if 0 < replication.direction * (transcription.current_position - replication.fork_position) <=\
                 replication.speed - (replication.direction * transcription.direction) * transcription.speed:
             final_position = Collision.position(replication.fork_position,
@@ -53,10 +53,10 @@ class Collision:
         for transcription in transcriptions:
             for replication in replications:
                 kind = self.verify(replication, transcription)
-                if kind == "head":
+                if kind == "head" and replication.speed > 0:
                     replication.pause()
                 if kind is not None or transcription.is_leaving_region():
                     transcription.finish()
                     break
 
-        transcriptions[:] = [x for x in transcriptions if x.current_position is not None]
+        transcriptions[:] = [x for x in transcriptions if x.is_active()]

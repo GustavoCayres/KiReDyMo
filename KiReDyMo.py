@@ -22,8 +22,10 @@ def write_file(path):
 def simulate(simulation_arguments):
     chromosome = simulation_arguments[0]
     number_of_simulations = simulation_arguments[1]
+    repair_duration_range = simulation_arguments[2]
+    transcription_delay_range = simulation_arguments[3]
 
-    parameters = ParameterIterator(chromosome, 8 * 3600, (0, 8 * 3600, 4 * 8 * 360), (2000, 10, 4 * -200))
+    parameters = ParameterIterator(chromosome, 8 * 3600, repair_duration_range, transcription_delay_range)
 
     with write_file("output/" + chromosome.code + "_results.txt") as sys.stdout:
         print("[Simulation_Number]\t[Simulation_Duration]\t"
@@ -56,9 +58,13 @@ def parse_arguments(args):
             with open(args[1]) as parameter_file:
                 organism_name = parameter_file.readline().strip('\n')
                 number_of_simulations = int(parameter_file.readline())
+                repair_duration_range = [int(x) for x in parameter_file.readline().split()]
+                transcription_delay_range = [int(x) for x in parameter_file.readline().split()]
+
             parsed_arguments = []
-            for chromosome in db.select_chromosomes(organism=organism_name):
-                parsed_arguments.append([chromosome, number_of_simulations])
+            for chromosome in db.select_chromosomes(code='TcChr2-S'): #organism=organism_name):
+                parsed_arguments.append([chromosome, number_of_simulations,
+                                         repair_duration_range, transcription_delay_range])
             return parsed_arguments
 
 
