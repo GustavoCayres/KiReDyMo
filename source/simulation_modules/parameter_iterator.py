@@ -12,7 +12,7 @@ class ParameterIterator:
             x = None
             binary_search_range = [self.replication_repair_duration_range[0], self.replication_repair_duration_range[1]]
 
-            for i in range(5):
+            for i in range(10):
                 if self.last_simulation_duration is not None:
                     if self.last_simulation_duration >= self.s_phase_duration:
                         binary_search_range[1] = x
