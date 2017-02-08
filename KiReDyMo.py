@@ -6,7 +6,7 @@ from multiprocessing import Pool, cpu_count
 
 from source.database_management.database import Database
 from source.simulation_modules.simulation import Simulation
-from source.simulation_modules.simulation_parameters import ParameterIterator
+from source.simulation_modules.parameter_iterator import ParameterIterator
 
 
 def write_file(path):
@@ -79,8 +79,6 @@ def seed():
             db.insert_replication_origins(chromosome_code=code, replication_speed=67, replication_repair_duration=20)
 
         db.commit()
-
-    print("Database ready.")
 
 
 def main(args):
