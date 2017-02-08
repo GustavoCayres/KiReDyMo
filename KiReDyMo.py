@@ -48,8 +48,6 @@ def simulate(simulation_arguments):
                                                               repair_duration, transcription_delay,
                                                               [str(origin) for origin in origins]), file=output_file)
 
-                output_file.flush()
-
 
 def parse_arguments(args):
     with Database("db/simulation.sqlite") as db:
