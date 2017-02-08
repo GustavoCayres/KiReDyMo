@@ -27,11 +27,11 @@ def simulate(simulation_arguments):
 
     parameters = ParameterIterator(chromosome, 8 * 3600, repair_duration_range, transcription_delay_range)
 
-    with write_file("output/" + chromosome.code + "_results.txt") as sys.stdout:
+    with write_file("output/" + chromosome.code + "_results.txt") as output_file:
         print("[Simulation_Number]\t[Simulation_Duration]\t"
               "[Head_Collision_Amount]\t[Tail_Collision_Amount]\t"
               "[Replication_Repair_Duration]\t[Transcription_Start_Delay]\t"
-              "[Origins]\t")
+              "[Origins]\t", file=output_file)
 
         # run simulations
         for i in range(number_of_simulations):
@@ -46,9 +46,9 @@ def simulate(simulation_arguments):
                 print("{}\t{}\t{}\t{}\t{}\t{}\t{}\t\n".format(i+1, simulation_duration,
                                                               head_collisions, tail_collisions,
                                                               repair_duration, transcription_delay,
-                                                              [str(origin) for origin in origins]))
+                                                              [str(origin) for origin in origins]), file=output_file)
 
-                sys.stdout.flush()
+                output_file.flush()
 
 
 def parse_arguments(args):
@@ -64,7 +64,7 @@ def parse_arguments(args):
                 transcription_delay_range = [int(x) for x in parameter_file.readline().split()]
 
             parsed_arguments = []
-            for chromosome in db.select_chromosomes(code='TcChr21-S'): #organism=organism_name):
+            for chromosome in db.select_chromosomes(organism=organism_name):
                 parsed_arguments.append([chromosome, number_of_simulations,
                                          repair_duration_range, transcription_delay_range])
             return parsed_arguments
