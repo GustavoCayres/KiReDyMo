@@ -21,32 +21,30 @@ def write_file(path):
 
 def simulate(simulation_arguments):
     chromosome = simulation_arguments[0]
-    number_of_simulations = simulation_arguments[1]
-    repair_duration_range = simulation_arguments[2]
-    transcription_delay_range = simulation_arguments[3]
+    repair_duration_range = simulation_arguments[1]
+    transcription_delay_range = simulation_arguments[2]
 
     parameters = ParameterIterator(chromosome, 8 * 3600, repair_duration_range, transcription_delay_range)
 
     with write_file("output/" + chromosome.code + "_results.txt") as output_file:
-        print("[Simulation_Number]\t[Simulation_Duration]\t"
+        print("[Simulation_Duration]\t"
               "[Head_Collision_Amount]\t[Tail_Collision_Amount]\t"
               "[Replication_Repair_Duration]\t[Transcription_Start_Delay]\t"
               "[Origins]\t", file=output_file)
 
         # run simulations
-        for i in range(number_of_simulations):
-            for parameter in parameters:
-                simulation = Simulation(parameter)
+        for parameter in parameters:
+            simulation = Simulation(parameter)
 
-                simulation_duration, head_collisions, tail_collisions, repair_duration, transcription_delay, origins =\
-                    simulation.run()
-                parameters.last_simulation_duration = simulation_duration
+            simulation_duration, head_collisions, tail_collisions, repair_duration, transcription_delay, origins =\
+                simulation.run()
+            parameters.last_simulation_duration = simulation_duration
 
-                # print results
-                print("{}\t{}\t{}\t{}\t{}\t{}\t{}\t\n".format(i+1, simulation_duration,
-                                                              head_collisions, tail_collisions,
-                                                              repair_duration, transcription_delay,
-                                                              [str(origin) for origin in origins]), file=output_file)
+            # print results
+            print("{}\t{}\t{}\t{}\t{}\t{}\t\n".format(simulation_duration,
+                                                      head_collisions, tail_collisions,
+                                                      repair_duration, transcription_delay,
+                                                      [str(origin) for origin in origins]), file=output_file)
 
 
 def parse_arguments(args):
@@ -57,19 +55,38 @@ def parse_arguments(args):
         else:
             with open(args[1]) as parameter_file:
                 organism_name = parameter_file.readline().strip('\n')
-                number_of_simulations = int(parameter_file.readline())
                 repair_duration_range = [int(x) for x in parameter_file.readline().split()]
                 transcription_delay_range = [int(x) for x in parameter_file.readline().split()]
 
             parsed_arguments = []
             for chromosome in db.select_chromosomes(organism=organism_name):
-                parsed_arguments.append([chromosome, number_of_simulations,
-                                         repair_duration_range, transcription_delay_range])
+                parsed_arguments.append([chromosome, repair_duration_range, transcription_delay_range])
             return parsed_arguments
 
 
+def seed():
+    with Database('db/simulation.sqlite') as db:
+        db.drop_tables()
+        db.create_tables()
+
+        chromosome_amount = db.insert_chromosomes(file_name="input/Tcruzi_chromosomes.txt")
+
+        for i in range(chromosome_amount):
+            index = str(i + 1)
+            file_name = "input/genes/TcChr" + index + "-S_regions.txt"
+            db.insert_transcription_regions(file_name=file_name, speed=30, delay=1000)
+            code = "TcChr" + index + "-S"
+            db.insert_replication_origins(chromosome_code=code, replication_speed=67, replication_repair_duration=20)
+
+        db.commit()
+
+    print("Database ready.")
+
+
 def main(args):
-    Pool(cpu_count()).map(simulate, parse_arguments(args))    # run each chromosome in a processor
+    for i in range(int(args[2])):
+        seed()
+        Pool(cpu_count()).map(simulate, parse_arguments(args))    # run each chromosome in a processor
 
 if __name__ == "__main__":
     main(sys.argv)
