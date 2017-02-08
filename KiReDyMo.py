@@ -48,6 +48,8 @@ def simulate(simulation_arguments):
                                                               repair_duration, transcription_delay,
                                                               [str(origin) for origin in origins]))
 
+                sys.stdout.flush()
+
 
 def parse_arguments(args):
     with Database("db/simulation.sqlite") as db:
@@ -62,7 +64,7 @@ def parse_arguments(args):
                 transcription_delay_range = [int(x) for x in parameter_file.readline().split()]
 
             parsed_arguments = []
-            for chromosome in db.select_chromosomes(code='TcChr2-S'): #organism=organism_name):
+            for chromosome in db.select_chromosomes(code='TcChr21-S'): #organism=organism_name):
                 parsed_arguments.append([chromosome, number_of_simulations,
                                          repair_duration_range, transcription_delay_range])
             return parsed_arguments
