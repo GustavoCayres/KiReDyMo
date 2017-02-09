@@ -50,7 +50,7 @@ def parse_arguments(file_name):
             transcription_delay_range = [int(x) for x in parameter_file.readline().split()]
 
             parsed_arguments = []
-            for chromosome in db.select_chromosomes(code="TcChr2-S"): # organism=organism_name):
+            for chromosome in db.select_chromosomes(organism=organism_name):
                 parsed_arguments.append([chromosome, repair_duration_range, transcription_delay_range])
             return parsed_arguments
 
