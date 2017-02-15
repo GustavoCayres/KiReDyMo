@@ -16,7 +16,7 @@ def open_output(file_name):
         print("[Simulation_Duration]\t"
               "[Head_Collision_Amount]\t[Tail_Collision_Amount]\t"
               "[Replication_Repair_Duration]\t[Transcription_Start_Delay]\t"
-              "[Origins]\t", file=output_file)
+              "[Origins]\t", file=output_file, end='')
     return output_file
 
 
@@ -39,7 +39,8 @@ def simulate(simulation_arguments):
             print("{}\t{}\t{}\t{}\t{}\t{}\t\n".format(simulation_duration,
                                                       head_collisions, tail_collisions,
                                                       repair_duration, transcription_delay,
-                                                      [str(origin) for origin in origins]), file=output_file)
+                                                      [str(origin) for origin in origins]), file=output_file, end='')
+            output_file.flush()
 
 
 def parse_arguments(file_name):
