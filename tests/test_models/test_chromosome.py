@@ -1,4 +1,5 @@
 from unittest import TestCase
+
 from source.models.chromosome import Chromosome
 
 

@@ -1,5 +1,6 @@
 from unittest import TestCase
-from source.models.replication_origin import ReplicationOrigin
+
+from source.models import ReplicationOrigin
 
 
 class TestReplicationOrigin(TestCase):

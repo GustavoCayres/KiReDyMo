@@ -1,9 +1,9 @@
 import sqlite3
 
+from source.database_management.origin_generation import *
 from source.models.chromosome import Chromosome
 from source.models.replication_origin import ReplicationOrigin
 from source.models.transcription_region import TranscriptionRegion
-from source.database_management.origin_generation import *
 
 
 class Database:
@@ -115,8 +115,7 @@ class Database:
                 genes.append((int(start), int(end), int(speed), int(delay), chromosome, organism, direction))
 
         regions = Database.convert_genes_to_regions(genes)
-        cursor.executemany('''INSERT INTO TranscriptionRegion VALUES (?, ?, ?, ?, ?, ?)''',
-                           regions)
+        cursor.executemany('''INSERT INTO TranscriptionRegion VALUES (?, ?, ?, ?, ?, ?)''', regions)
         return len(regions)
 
     @staticmethod
