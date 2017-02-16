@@ -11,6 +11,11 @@ class Chromosome:
     def update_attributes(self, **kwargs):
         for key in kwargs:
             value = kwargs[key]
+            if key == 'replication_origins':
+                self.replication_origins = value
+
+        for key in kwargs:
+            value = kwargs[key]
             if key == 'transcription_start_delay':
                 for region in self.transcription_regions:
                     setattr(region, 'delay', value)

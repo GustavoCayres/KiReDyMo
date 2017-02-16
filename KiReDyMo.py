@@ -20,26 +20,18 @@ def open_output(file_name):
     return output_file
 
 
-def simulate(chromosome):
-    with open_output(chromosome.code + "_results.txt") as output_file:
-        for i in range(int(sys.argv[2])):
-            chromosome.replication_origins = generate_randomized_origins(chromosome, 67, 0)
-            for repair_duration in range(0, 28800, 11520):
-                for transcription_delay in range(10, 2000, 200):
-                    chromosome.update_attributes(transcription_start_delay=transcription_delay,
-                                                 replication_repair_duration=repair_duration)
+def simulate(chromosome, simulation_number):
+    with open("output/" + chromosome.code + "_" + str(simulation_number) + "_results.txt", 'w') as output_file:
+        simulation = Simulation(chromosome)
+        simulation_duration, head_collisions, tail_collisions, repair_duration,\
+            transcription_delay, origins = simulation.run()
 
-                    simulation = Simulation(chromosome)
-                    simulation_duration, head_collisions, tail_collisions, repair_duration,\
-                        transcription_delay, origins = simulation.run()
-
-                    result = "{}\t{}\t{}\t{}\t{}\t{}\t".format(simulation_duration,
-                                                               head_collisions, tail_collisions,
-                                                               repair_duration, transcription_delay,
-                                                               [str(origin) for origin in origins])
-
-                    print(result, file=output_file)
-                    output_file.flush()
+        result = "{}\t{}\t{}\t{}\t{}\t{}\t".format(simulation_duration,
+                                                   head_collisions, tail_collisions,
+                                                   repair_duration, transcription_delay,
+                                                   [str(origin) for origin in origins])
+        print(result, file=output_file)
+        output_file.flush()
 
 
 def parse_arguments(file_name):
@@ -48,22 +40,32 @@ def parse_arguments(file_name):
             organism_name = parameter_file.readline().strip('\n')
 
             parsed_arguments = []
-            for chromosome in db.select_chromosomes(code="TcChr1-S") + db.select_chromosomes(code="TcChr2-S"): #organism=organism_name):
+            for chromosome in db.select_chromosomes(code="TcChr1-S"):    # organism=organism_name):
                 parsed_arguments.append(chromosome)
             return parsed_arguments
 
 
-def main():
+def main(args):
     try:
         os.makedirs("output")
     except OSError as exception:
         if exception.errno != errno.EEXIST:
             raise
 
-    Pool(cpu_count()).map(simulate, parse_arguments(sys.argv[1]))    # run each chromosome in a processor
+    cores = Pool(cpu_count())
+    for chromosome in parse_arguments(args[1]):
+        simulation_counter = 1
+        for replication_origins in generate_randomized_origins(chromosome, int(args[2]), 67, 0):
+            for replication_repair_duration in range(0, 28800, 11520):
+                for transcription_start_delay in range(10, 2000, 200):
+                    chromosome.update_attributes(transcription_start_delay=transcription_start_delay,
+                                                 replication_repair_duration=replication_repair_duration,
+                                                 replication_origins=replication_origins)
+                    cores.apply(simulate, (chromosome, simulation_counter))
+                    simulation_counter += 1
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:  # lacking arguments, therefore alert
-        print("Run with: ./KiReDyMo <file_with_parameters>")
+    if len(sys.argv) < 2:
+        print("Run with: ./KiReDyMo <file_with_parameters>", file=sys.stderr)
         exit(1)
-    main()
+    main(sys.argv)
