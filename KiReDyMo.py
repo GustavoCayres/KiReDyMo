@@ -16,7 +16,7 @@ def open_output(file_name):
         print("[Simulation_Duration]\t"
               "[Head_Collision_Amount]\t[Tail_Collision_Amount]\t"
               "[Replication_Repair_Duration]\t[Transcription_Start_Delay]\t"
-              "[Origins]\t", file=output_file, end='')
+              "[Origins]\t", file=output_file)
     return output_file
 
 
@@ -33,12 +33,12 @@ def simulate(chromosome):
                     simulation_duration, head_collisions, tail_collisions, repair_duration,\
                         transcription_delay, origins = simulation.run()
 
-                    result = "{}\t{}\t{}\t{}\t{}\t{}\t\n".format(simulation_duration,
-                                                                 head_collisions, tail_collisions,
-                                                                 repair_duration, transcription_delay,
-                                                                 [str(origin) for origin in origins])
+                    result = "{}\t{}\t{}\t{}\t{}\t{}\t".format(simulation_duration,
+                                                               head_collisions, tail_collisions,
+                                                               repair_duration, transcription_delay,
+                                                               [str(origin) for origin in origins])
 
-                    print(result, file=output_file, end='')
+                    print(result, file=output_file)
                     output_file.flush()
 
 
