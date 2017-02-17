@@ -9,17 +9,6 @@ from source.parameter_managers.origin_generation import *
 from source.simulation_modules.simulation import Simulation
 
 
-def open_output(file_name):
-    path = "output/" + file_name
-    output_file = open(path, 'a')
-    if os.path.getsize(path) == 0:
-        print("[Simulation_Duration]\t"
-              "[Head_Collision_Amount]\t[Tail_Collision_Amount]\t"
-              "[Replication_Repair_Duration]\t[Transcription_Start_Delay]\t"
-              "[Origins]\t", file=output_file)
-    return output_file
-
-
 def simulate(chromosome, simulation_number):
     with open("output/" + chromosome.code + "_" + str(simulation_number) + "_results.txt", 'w') as output_file:
         simulation = Simulation(chromosome)
