@@ -46,11 +46,12 @@ def main(args):
         simulation_counter = 1
         for replication_origins in generate_randomized_origins(chromosome, int(args[2]), 67, 0):
             for replication_repair_duration in range(0, 28800, 11520):
-                for transcription_start_delay in range(10, 2000, 200):
+                for transcription_start_delay in range(10, 2000, 700):
                     chromosome.update_attributes(transcription_start_delay=transcription_start_delay,
                                                  replication_repair_duration=replication_repair_duration,
                                                  replication_origins=replication_origins)
-                    cores.apply(simulate, (chromosome, simulation_counter))
+                    print(simulation_counter)
+                    cores.apply_async(simulate, (chromosome, simulation_counter))
                     simulation_counter += 1
 
 if __name__ == "__main__":
