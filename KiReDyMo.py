@@ -2,12 +2,32 @@
 import copy
 import errno
 import os
+import re
 import sys
 from multiprocessing import Pool
 
 from source.database_management.database import Database
 from source.parameter_managers.origin_generation import *
 from source.simulation_modules.simulation import Simulation
+
+
+def format_output():
+    for file_name in os.listdir("output"):
+        regex = re.match("(TcChr([0-9]+)-S)_[0-9]", file_name)
+        if regex is not None:
+            output_path = "output/" + regex.group(1) + "_results.txt"
+            with open(output_path, 'a') as output_file:
+                if os.path.getsize(output_path) == 0:
+                    print("[Simulation_Duration]\t"
+                          "[Head_Collision_Amount]\t[Tail_Collision_Amount]\t"
+                          "[Replication_Repair_Duration]\t[Transcription_Start_Delay]\t"
+                          "[Origins]\t", file=output_file)
+
+                file_path = "output/" + file_name
+                with open(file_path, 'r') as partial_file:
+                    output_file.write(partial_file.read())
+
+            os.remove(file_path)
 
 
 def simulate(args):
@@ -59,6 +79,8 @@ def main(args):
                     chromosomes.append((chromosome_copy, simulation_counter))
                     simulation_counter += 1
     cores.map(simulate, chromosomes)
+    format_output()
+
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Run with: ./KiReDyMo <file_with_parameters>", file=sys.stderr)
