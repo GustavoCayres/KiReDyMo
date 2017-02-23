@@ -53,7 +53,7 @@ def parse_arguments(file_name):
             organism_name = parameter_file.readline().strip('\n')
 
             parsed_arguments = []
-            for chromosome in db.select_chromosomes(organism=organism_name):
+            for chromosome in db.select_chromosomes(code="TcChr1-S"):  # organism=organism_name):
                 parsed_arguments.append(chromosome)
             return parsed_arguments
 
@@ -69,15 +69,14 @@ def main(args):
     chromosomes = []
     for chromosome in parse_arguments(args[1]):
         simulation_counter = 1
-        chromosome_copy = copy.deepcopy(chromosome)
         for replication_origins in generate_randomized_origins(chromosome, int(args[2]), 67, 0):
-            chromosome_copy.update_attributes(replication_origins=replication_origins)
+            chromosome.update_attributes(replication_origins=replication_origins)
             for replication_repair_duration in range(0, 10000, 1000):
-                chromosome_copy.update_attributes(replication_repair_duration=replication_repair_duration)
+                chromosome.update_attributes(replication_repair_duration=replication_repair_duration)
                 for transcription_start_delay in range(100, 10000, 1000):
-                    chromosome_copy.update_attributes(transcription_start_delay=transcription_start_delay)
+                    chromosome.update_attributes(transcription_start_delay=transcription_start_delay)
 
-                    chromosomes.append((chromosome_copy, simulation_counter))
+                    chromosomes.append((copy.deepcopy(chromosome), simulation_counter))
                     simulation_counter += 1
 
     cores.map(simulate, chromosomes)

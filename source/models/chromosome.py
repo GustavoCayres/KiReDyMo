@@ -18,10 +18,10 @@ class Chromosome:
             value = kwargs[key]
             if key == 'transcription_start_delay':
                 for region in self.transcription_regions:
-                    setattr(region, 'delay', value)
+                    region.delay = value
             elif key == 'replication_repair_duration':
                 for origin in self.replication_origins:
-                    setattr(origin, 'replication_repair_duration', value)
+                    origin.replication_repair_duration = value
 
     def __str__(self):
         text = list()
