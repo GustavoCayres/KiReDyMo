@@ -6,7 +6,7 @@ import re
 import sys
 from multiprocessing import Pool
 
-from source.database_management.database import Database
+from source.database_managers.database import Database
 from source.parameter_managers.origin_generation import *
 from source.simulation_modules.simulation import Simulation
 
@@ -50,10 +50,10 @@ def simulate(args):
 def parse_arguments(file_name):
     with Database("db/simulation.sqlite") as db:
         with open(file_name) as parameter_file:
-            organism_name = parameter_file.readline().strip('\n')
-
+            query = parameter_file.readline().strip("\n").split('\t')
+            print(query)
             parsed_arguments = []
-            for chromosome in db.select_chromosomes(code="TcChr1-S"):  # organism=organism_name):
+            for chromosome in db.select_chromosomes(**{query[0]: query[1]}):
                 parsed_arguments.append(chromosome)
             return parsed_arguments
 
@@ -69,7 +69,7 @@ def main(args):
     chromosomes = []
     for chromosome in parse_arguments(args[1]):
         simulation_counter = 1
-        for replication_origins in generate_randomized_origins(chromosome, int(args[2]), 67, 0):
+        for replication_origins in generate_randomized_origins_in_inversions(chromosome, int(args[2]), 67, 0):
             chromosome.update_attributes(replication_origins=replication_origins)
             for replication_repair_duration in range(0, 10000, 1000):
                 chromosome.update_attributes(replication_repair_duration=replication_repair_duration)
@@ -78,7 +78,6 @@ def main(args):
 
                     chromosomes.append((copy.deepcopy(chromosome), simulation_counter))
                     simulation_counter += 1
-
     cores.map(simulate, chromosomes)
     format_output()
 

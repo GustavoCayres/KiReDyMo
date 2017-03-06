@@ -1,6 +1,5 @@
 import sqlite3
 
-from source.database_management.origin_generation import *
 from source.models.chromosome import Chromosome
 from source.models.replication_origin import ReplicationOrigin
 from source.models.transcription_region import TranscriptionRegion
@@ -77,9 +76,10 @@ class Database:
         """ Insert a replication origin with the specified
         {position, start_probability, chromosome}
         into the specified chromosome. """
+        """ Currently inserting an invlaid origin that will be replaced during the simulation. """
 
         chromosome = self.select_chromosomes(code=chromosome_code)[0]
-        origins = generate_randomized_origins(chromosome, replication_speed, replication_repair_duration)
+        origins = [(-1, 1, replication_speed, replication_repair_duration, chromosome.code, chromosome.organism)]
 
         self.db.cursor().executemany('''INSERT INTO ReplicationOrigin VALUES (?, ?, ?, ?, ?, ?)''', origins)
         return len(origins)

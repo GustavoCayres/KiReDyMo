@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from source.database_management.database import Database
+from source.database_managers.database import Database
 
 
 with Database('db/simulation.sqlite') as db:
