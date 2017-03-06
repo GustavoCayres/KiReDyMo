@@ -51,7 +51,7 @@ def parse_arguments(file_name):
     with Database("db/simulation.sqlite") as db:
         with open(file_name) as parameter_file:
             query = parameter_file.readline().strip("\n").split('\t')
-            print(query)
+
             parsed_arguments = []
             for chromosome in db.select_chromosomes(**{query[0]: query[1]}):
                 parsed_arguments.append(chromosome)
