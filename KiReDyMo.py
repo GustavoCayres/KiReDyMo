@@ -48,14 +48,17 @@ def simulate(args):
 
 
 def parse_arguments(file_name):
-    with Database("db/simulation.sqlite") as db:
-        with open(file_name) as parameter_file:
-            query = parameter_file.readline().strip("\n").split('\t')
-
-            parsed_arguments = []
+    with open(file_name) as parameter_file:
+        query = parameter_file.readline().strip("\n").split('\t')
+        with Database("db/simulation.sqlite") as db:
+            chromosomes = []
             for chromosome in db.select_chromosomes(**{query[0]: query[1]}):
-                parsed_arguments.append(chromosome)
-            return parsed_arguments
+                chromosomes.append(chromosome)
+        random_origins_amount = int(parameter_file.readline())
+        replication_repair_duration_range = [int(i) for i in parameter_file.readline().strip("\n").split('\t')]
+        transcription_start_delay_range = [int(i) for i in parameter_file.readline().strip("\n").split('\t')]
+
+        return chromosomes, random_origins_amount, replication_repair_duration_range, transcription_start_delay_range
 
 
 def main(args):
@@ -66,19 +69,24 @@ def main(args):
             raise
 
     cores = Pool()
-    chromosomes = []
-    for chromosome in parse_arguments(args[1]):
+    simulation_parameters = []
+
+    chromosomes, random_origins_amount, replication_repair_duration_range, transcription_start_delay_range =\
+        parse_arguments(args[1])
+
+    for chromosome in chromosomes:
         simulation_counter = 1
-        for replication_origins in generate_randomized_origins_in_inversions(chromosome, int(args[2]), 67, 0):
+        for replication_origins in generate_randomized_origins_in_inversions(chromosome, random_origins_amount, 67, 0):
             chromosome.update_attributes(replication_origins=replication_origins)
-            for replication_repair_duration in range(0, 10000, 1000):
+            for replication_repair_duration in range(*replication_repair_duration_range):
                 chromosome.update_attributes(replication_repair_duration=replication_repair_duration)
-                for transcription_start_delay in range(100, 10000, 1000):
+                for transcription_start_delay in range(*transcription_start_delay_range):
                     chromosome.update_attributes(transcription_start_delay=transcription_start_delay)
 
-                    chromosomes.append((copy.deepcopy(chromosome), simulation_counter))
+                    simulation_parameters.append((copy.deepcopy(chromosome), simulation_counter))
                     simulation_counter += 1
-    cores.map(simulate, chromosomes)
+
+    cores.map(simulate, simulation_parameters)
     format_output()
 
 if __name__ == "__main__":
