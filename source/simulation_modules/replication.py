@@ -24,9 +24,8 @@ class Replication:
 
     def pause(self):
         """ Pauses the replication for a certain duration to allow repairs. """
-        """ The unity added to the repair duration compensates the step taken immediately after the pause. """
 
-        self.current_repair_wait = self.origin.replication_repair_duration + 1
+        self.current_repair_wait = self.origin.replication_repair_duration
         self.speed = 0
 
     def finish(self):
