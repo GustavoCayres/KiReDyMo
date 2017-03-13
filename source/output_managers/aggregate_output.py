@@ -19,3 +19,6 @@ def aggregate_output():
                     output_file.write(partial_file.read())
 
             os.remove(file_path)
+
+if __name__ == "__main__":
+    aggregate_output()
