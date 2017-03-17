@@ -26,6 +26,7 @@ def simulate(args):
 
     with open("output/" + chromosome.code + "_" + str(simulation_number) + "_results.txt", 'w') as output_file:
         print(result, file=output_file)
+    print("simulating" + str(simulation_number))
 
 
 def parse_arguments(file_name):

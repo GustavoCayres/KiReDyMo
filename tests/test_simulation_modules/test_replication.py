@@ -30,5 +30,4 @@ class TestReplication(TestCase):
         self.replication.step()
         self.replication.step()
         self.replication.step()
-        self.replication.step()
         self.assertEqual(self.replication.fork_position, 1)

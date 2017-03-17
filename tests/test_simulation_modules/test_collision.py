@@ -39,7 +39,13 @@ class TestCollision(TestCase):
         kind = self.collision.verify(self.replications[0], self.transcriptions[2])
         self.assertEqual(kind, "head")
 
+    def test_collision_with_stopped_replication(self):
+        self.replications[0].pause()
+        self.replications[0].step()
+        self.collision.resolve(self.replications, self.transcriptions)
+        self.assertEqual(self.replications[0].current_repair_wait, 5 - 1)
+
     def test_resolve(self):
         self.collision.resolve(self.replications, self.transcriptions)
-        self.assertEqual(self.replications[0].current_repair_wait, 5 + 1)
+        self.assertEqual(self.replications[0].current_repair_wait, 5)
         self.assertEqual(len(self.transcriptions), 1)
