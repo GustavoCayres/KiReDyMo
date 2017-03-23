@@ -1,0 +1,171 @@
+[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
+LmxM.22.0010	LmxM.22.0010.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 3,158 - 5,086 (-)	hypothetical protein, conserved	
+LmxM.22.0015	LmxM.22.0015.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 9,841 - 10,212 (+)	hypothetical protein (pseudogene)	
+LmxM.22.0020	LmxM.22.0020.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 10,918 - 11,352 (-)	hypothetical protein, unknown function	
+LmxM.22.0030	LmxM.22.0030.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 11,969 - 12,535 (-)	60S ribosomal protein L11 (L5, L16)	
+LmxM.22.0040	LmxM.22.0040.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 13,697 - 14,560 (-)	hypothetical protein, conserved	
+LmxM.22.0050	LmxM.22.0050.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 15,171 - 16,583 (-)	hypothetical protein, conserved	
+LmxM.22.0060	LmxM.22.0060.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 17,963 - 20,281 (-)	transcription factor-like protein	
+LmxM.22.0070	LmxM.22.0070.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 21,189 - 22,058 (-)	hypothetical protein, conserved	
+LmxM.22.0080	LmxM.22.0080.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 24,198 - 25,184 (-)	heat shock protein DNAJ, putative	
+LmxM.22.0090	LmxM.22.0090.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 25,883 - 29,014 (-)	cap guanylyltransferase-methyltransferase 1	
+LmxM.22.0100	LmxM.22.0100.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 42,161 - 42,892 (-)	hypothetical protein, conserved	
+LmxM.22.0110	LmxM.22.0110.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 46,084 - 48,054 (-)	GMP synthase [glutamine-hydrolysing]	
+LmxM.22.0120	LmxM.22.0120.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 49,940 - 50,674 (-)	hypothetical protein, conserved	
+LmxM.22.0130	LmxM.22.0130.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 52,087 - 53,290 (-)	hypothetical protein, conserved	
+LmxM.22.0140	LmxM.22.0140.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 54,737 - 56,107 (-)	hypothetical protein, conserved	
+LmxM.22.0150	LmxM.22.0150.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 57,130 - 58,554 (-)	hypothetical protein, conserved	
+LmxM.22.0160	LmxM.22.0160.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 61,748 - 62,980 (-)	hypothetical protein, conserved	
+LmxM.22.0170	LmxM.22.0170.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 65,761 - 69,312 (-)	hypothetical protein, conserved	
+LmxM.22.0180	LmxM.22.0180.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 73,439 - 74,218 (-)	hypothetical protein, conserved	
+LmxM.22.0190	LmxM.22.0190.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 77,794 - 79,137 (-)	hypothetical protein, conserved	
+LmxM.22.0210	LmxM.22.0210.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 80,644 - 85,257 (-)	hypothetical protein, conserved	
+LmxM.22.0220	LmxM.22.0220.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 86,614 - 89,298 (-)	hypothetical protein, unknown function	
+LmxM.22.0230	LmxM.22.0230.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 96,145 - 97,599 (-)	amino acid permease, putative	
+LmxM.22.0240	LmxM.22.0240.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 98,940 - 99,929 (-)	hypothetical protein, unknown function	
+LmxM.22.0250	LmxM.22.0250.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 102,120 - 102,896 (-)	hypothetical protein, unknown function	
+LmxM.22.0260	LmxM.22.0260.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 107,821 - 108,669 (-)	hypothetical protein, conserved	
+LmxM.22.0270	LmxM.22.0270.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 110,063 - 110,290 (-)	hypothetical protein, conserved	
+LmxM.22.0275	LmxM.22.0275.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 112,578 - 112,961 (-)	hypothetical protein, conserved	
+LmxM.22.0280	LmxM.22.0280.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 114,669 - 117,200 (-)	hypothetical protein, conserved	
+LmxM.22.0290	LmxM.22.0290.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 118,295 - 119,689 (-)	hypothetical protein, conserved	
+LmxM.22.0300	LmxM.22.0300.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 121,114 - 122,802 (-)	hypothetical protein, conserved	
+LmxM.22.0310	LmxM.22.0310.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 124,326 - 126,362 (-)	carnitine palmitoyltransferase-like protein	
+LmxM.22.0320	LmxM.22.0320.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 127,800 - 128,855 (-)	hypothetical protein, conserved	
+LmxM.22.0330	LmxM.22.0330.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 130,462 - 133,656 (-)	hypothetical protein, unknown function	
+LmxM.22.0340	LmxM.22.0340.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 139,763 - 141,136 (-)	methylenetetrahydrofolate dehydrogenase-like protein	
+LmxM.22.0350	LmxM.22.0350.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 141,970 - 142,722 (-)	hypothetical protein, unknown function	
+LmxM.22.0360	LmxM.22.0360.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 143,909 - 144,940 (-)	hypothetical protein, conserved	
+LmxM.22.0370	LmxM.22.0370.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 145,685 - 146,509 (-)	hypothetical protein, unknown function	
+LmxM.22.0380	LmxM.22.0380.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 147,628 - 151,473 (-)	hypothetical protein, conserved	
+LmxM.22.0390	LmxM.22.0390.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 152,481 - 153,836 (-)	DNA primase small subunit, putative	
+LmxM.22.0400	LmxM.22.0400.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 155,547 - 157,709 (-)	hypothetical protein, conserved	
+LmxM.22.0410	LmxM.22.0410.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 161,418 - 164,996 (-)	hypothetical protein, conserved	
+LmxM.22.0420	LmxM.22.0420.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 170,014 - 170,472 (-)	40S ribosomal protein S15, putative	
+LmxM.22.0440	LmxM.22.0440.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 171,507 - 175,367 (-)	hypothetical protein, conserved	
+LmxM.22.0450	LmxM.22.0450.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 177,324 - 178,196 (-)	hypothetical protein, conserved	
+LmxM.22.0460	LmxM.22.0460.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 179,022 - 179,480 (-)	40S ribosomal protein S15, putative	
+LmxM.22.0470	LmxM.22.0470.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 181,140 - 182,402 (-)	hypothetical protein, conserved	
+LmxM.22.0480	LmxM.22.0480.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 183,333 - 184,667 (-)	hypothetical protein, conserved	
+LmxM.22.0490	LmxM.22.0490.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 188,524 - 190,695 (-)	protein kinase, putative	
+LmxM.22.0500	LmxM.22.0500.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 192,854 - 194,404 (-)	hypothetical protein, conserved	
+LmxM.22.0510	LmxM.22.0510.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 195,127 - 196,809 (-)	hypothetical protein, conserved	
+LmxM.22.0520	LmxM.22.0520.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 198,008 - 201,394 (-)	hypothetical protein, conserved	
+LmxM.22.0530	LmxM.22.0530.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 202,670 - 203,986 (-)	hypothetical protein, conserved	
+LmxM.22.0540	LmxM.22.0540.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 204,539 - 207,214 (-)	hypothetical protein, conserved	
+LmxM.22.0560	LmxM.22.0560.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 208,119 - 210,791 (-)	kinesin, putative	
+LmxM.22.0570	LmxM.22.0570.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 212,669 - 213,982 (-)	proteasome regulatory ATPase subunit 1, putative	
+LmxM.22.0580	LmxM.22.0580.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 216,379 - 216,930 (-)	rer1 family-like protein	
+LmxM.22.0590	LmxM.22.0590.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 217,970 - 219,448 (-)	hypothetical protein, conserved	
+LmxM.22.0600	LmxM.22.0600.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 220,130 - 221,611 (-)	hypothetical protein, conserved	
+LmxM.22.0610	LmxM.22.0610.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 224,074 - 224,856 (-)	ubiquitin-conjugating enzyme-like protein	
+LmxM.22.0620	LmxM.22.0620.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 226,998 - 228,332 (-)	proteasome regulatory ATPase subunit 5, putative	
+LmxM.22.0630	LmxM.22.0630.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 229,970 - 233,392 (-)	hypothetical protein, unknown function	
+LmxM.22.0640	LmxM.22.0640.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 237,177 - 242,495 (-)	hypothetical protein, conserved	
+LmxM.22.0650	LmxM.22.0650.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 244,075 - 245,577 (-)	hypothetical protein, conserved	
+LmxM.22.0660	LmxM.22.0660.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 247,069 - 250,377 (-)	glucoamylase-like protein	
+LmxM.22.0670	LmxM.22.0670.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 253,203 - 253,673 (-)	prefoldin 5-like protein	
+LmxM.22.0680	LmxM.22.0680.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 254,534 - 254,833 (-)	hypothetical protein, conserved	
+LmxM.22.0690	LmxM.22.0690.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 256,567 - 258,366 (-)	3'a2rel-related protein	
+LmxM.22.0691	LmxM.22.0691.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 261,285 - 263,609 (-)	A2 protein	
+LmxM.22.0692	LmxM.22.0692.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 265,060 - 267,729 (-)	A2 protein	
+LmxM.22.0700	LmxM.22.0700.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 268,521 - 272,597 (-)	5'a2rel-related protein	
+LmxM.22.0710	LmxM.22.0710.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 274,915 - 276,027 (-)	hypothetical protein, conserved	
+LmxM.22.0720	LmxM.22.0720.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 276,546 - 279,950 (-)	hypothetical protein, conserved	
+LmxM.22.0730	LmxM.22.0730.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 282,206 - 283,456 (-)	cytoskeleton associated protein, putative	
+LmxM.22.0740	LmxM.22.0740.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 291,615 - 293,393 (-)	hypothetical protein, conserved	
+LmxM.22.0750	LmxM.22.0750.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 299,989 - 303,444 (-)	hypothetical protein, conserved	
+LmxM.22.0760	LmxM.22.0760.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 308,918 - 309,280 (-)	hypothetical protein, conserved	
+LmxM.22.0770	LmxM.22.0770.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 311,240 - 312,109 (-)	NADH-cytochrome b5 reductase, putative	
+LmxM.22.0780	LmxM.22.0780.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 313,694 - 314,563 (-)	NADH-cytochrome b5 reductase, putative	
+LmxM.22.0790	LmxM.22.0790.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 315,360 - 317,354 (-)	hypothetical protein, conserved	
+LmxM.22.0800	LmxM.22.0800.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 319,466 - 320,113 (+)	hypothetical protein, conserved	
+LmxM.22.0810	LmxM.22.0810.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 320,855 - 321,970 (+)	protein kinase, putative	
+LmxM.22.0820	LmxM.22.0820.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 325,421 - 328,225 (+)	hypothetical protein, conserved	
+LmxM.22.0850	LmxM.22.0850.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 331,025 - 332,824 (+)	3'a2rel-related protein	
+LmxM.22.0860	LmxM.22.0860.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 334,205 - 338,275 (+)	hypothetical protein, unknown function	
+LmxM.22.0870	LmxM.22.0870.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 340,572 - 341,411 (+)	hypothetical protein, conserved	
+LmxM.22.0880	LmxM.22.0880.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 342,686 - 344,776 (+)	hypothetical protein, conserved	
+LmxM.22.0890	LmxM.22.0890.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 345,857 - 346,225 (+)	hypothetical protein, conserved	
+LmxM.22.0900	LmxM.22.0900.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 348,865 - 351,642 (+)	hypothetical protein, conserved	
+LmxM.22.0910	LmxM.22.0910.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 353,410 - 355,077 (+)	hypothetical protein, conserved	
+LmxM.22.0920	LmxM.22.0920.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 357,287 - 359,875 (+)	hypothetical protein, conserved	
+LmxM.22.0930	LmxM.22.0930.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 361,369 - 363,537 (+)	mitochondrial chaperone, putative	
+LmxM.22.0940	LmxM.22.0940.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 365,194 - 367,398 (+)	mitochondrial chaperone, putative	
+LmxM.22.0950	LmxM.22.0950.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 371,415 - 372,491 (+)	protein kinase, putative	
+LmxM.22.0960	LmxM.22.0960.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 376,863 - 380,534 (+)	kinesin, putative	
+LmxM.22.0970	LmxM.22.0970.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 382,999 - 388,809 (+)	hypothetical protein, conserved	
+LmxM.22.0980	LmxM.22.0980.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 391,817 - 393,943 (+)	F-box and WD40 domain containing protein	
+LmxM.22.0990	LmxM.22.0990.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 394,954 - 398,601 (+)	hypothetical protein, conserved	
+LmxM.22.1000	LmxM.22.1000.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 399,980 - 401,743 (+)	hypothetical protein, conserved	
+LmxM.22.1010	LmxM.22.1010.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 403,942 - 405,708 (+)	hypothetical protein, conserved	
+LmxM.22.1020	LmxM.22.1020.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 407,243 - 408,721 (+)	hypothetical protein, unknown function	
+LmxM.22.1030	LmxM.22.1030.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 409,583 - 413,251 (+)	hypothetical protein, conserved	
+LmxM.22.1040	LmxM.22.1040.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 414,735 - 416,774 (+)	hypothetical protein, conserved	
+LmxM.22.1050	LmxM.22.1050.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 418,092 - 420,986 (+)	hypothetical protein, conserved	
+LmxM.22.1060	LmxM.22.1060.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 422,347 - 422,658 (+)	small nuclear ribonucleoprotein, putative	
+LmxM.22.1070	LmxM.22.1070.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 423,914 - 426,274 (+)	hypothetical protein, conserved	
+LmxM.22.1080	LmxM.22.1080.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 427,234 - 428,001 (+)	hypothetical protein, conserved	
+LmxM.22.1090	LmxM.22.1090.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 429,264 - 431,405 (+)	hypothetical protein, conserved	
+LmxM.22.1100	LmxM.22.1100.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 433,681 - 440,499 (+)	hypothetical protein, conserved	
+LmxM.22.1110	LmxM.22.1110.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 442,318 - 459,330 (+)	dynein heavy chain, cytosolic, putative	
+LmxM.22.1120	LmxM.22.1120.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 460,360 - 461,766 (+)	hypothetical protein, conserved	
+LmxM.22.1130	LmxM.22.1130.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 462,432 - 463,721 (+)	hypothetical protein, conserved	
+LmxM.22.1140	LmxM.22.1140.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 464,525 - 465,826 (+)	adaptor complex AP-1 medium subunit, putative	
+LmxM.22.1150	LmxM.22.1150.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 467,171 - 470,350 (+)	hypothetical protein, conserved	
+LmxM.22.1160	LmxM.22.1160.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 471,396 - 472,748 (+)	hypothetical protein, conserved	
+LmxM.22.1170	LmxM.22.1170.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 473,624 - 476,293 (+)	hypothetical protein, conserved	
+LmxM.22.1180	LmxM.22.1180.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 477,596 - 479,113 (+)	hypothetical protein, unknown function	
+LmxM.22.1190	LmxM.22.1190.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 479,756 - 480,448 (+)	hypothetical protein, conserved	
+LmxM.22.1200	LmxM.22.1200.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 481,331 - 482,302 (+)	hypothetical protein, conserved	
+LmxM.22.1210	LmxM.22.1210.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 484,943 - 489,628 (+)	hypothetical protein, conserved	
+LmxM.22.1220	LmxM.22.1220.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 490,111 - 490,602 (+)	hypothetical protein, conserved	
+LmxM.22.1230	LmxM.22.1230.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 491,444 - 494,203 (-)	hypothetical protein, conserved	
+LmxM.22.1240	LmxM.22.1240.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 495,599 - 497,938 (-)	translation initiation factor IF-2, putative	
+LmxM.22.1250	LmxM.22.1250.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 500,044 - 501,399 (-)	hypothetical protein, conserved	
+LmxM.22.1260	LmxM.22.1260.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 502,561 - 505,812 (-)	hypothetical protein, conserved	
+LmxM.22.1270	LmxM.22.1270.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 507,376 - 509,019 (-)	hypothetical protein, conserved	
+LmxM.22.1280	LmxM.22.1280.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 509,993 - 511,162 (-)	hypothetical protein, unknown function	
+LmxM.22.1290	LmxM.22.1290.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 513,216 - 514,394 (-)	ribonucleoside-diphosphate reductase small chain, putative	
+LmxM.22.1300	LmxM.22.1300.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 516,024 - 516,572 (-)	polyprotein, putative	
+LmxM.22.1310	LmxM.22.1310.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 522,749 - 526,177 (-)	hypothetical protein, conserved	
+LmxM.22.1320	LmxM.22.1320.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 527,034 - 539,018 (-)	flagellar attachment zone protein, putative (fragment)	
+LmxM.22.1330	LmxM.22.1330.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 542,520 - 554,172 (-)	hypothetical protein, conserved	
+LmxM.22.1340	LmxM.22.1340.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 556,852 - 558,387 (-)	hypothetical protein, conserved	
+LmxM.22.1350	LmxM.22.1350.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 560,460 - 561,653 (-)	hypothetical protein, conserved	
+LmxM.22.1360	LmxM.22.1360.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 564,911 - 565,999 (-)	farnesyl pyrophosphate synthase, putative	
+LmxM.22.1370	LmxM.22.1370.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 567,256 - 568,866 (-)	intraflagellar transport protein-like protein	
+LmxM.22.1380	LmxM.22.1380.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 571,045 - 571,851 (-)	hypothetical protein, conserved	
+LmxM.22.1390	LmxM.22.1390.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 572,647 - 573,423 (-)	hypothetical protein, conserved	
+LmxM.22.1400	LmxM.22.1400.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 574,791 - 576,044 (-)	hypothetical protein, conserved	
+LmxM.22.1410	LmxM.22.1410.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 578,083 - 578,532 (-)	centrin-4, putative	
+LmxM.22.1420	LmxM.22.1420.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 582,147 - 583,031 (-)	aquaporin, putative	
+LmxM.22.1430	LmxM.22.1430.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 584,012 - 584,347 (-)	fk506-binding protein 1-like protein	
+LmxM.22.1440	LmxM.22.1440.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 589,308 - 590,828 (-)	hypothetical protein, conserved	
+LmxM.22.1450	LmxM.22.1450.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 591,568 - 592,257 (-)	cyclophilin, putative	
+LmxM.22.1460	LmxM.22.1460.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 594,023 - 594,637 (-)	i/6 autoantigen-like protein	
+LmxM.22.1470	LmxM.22.1470.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 595,085 - 596,422 (-)	hypothetical protein, conserved	
+LmxM.22.1480	LmxM.22.1480.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 596,774 - 597,523 (-)	hypothetical protein, conserved	
+LmxM.22.1490	LmxM.22.1490.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 603,503 - 604,591 (+)	Serine-threonin protein phosphatase, putative	
+LmxM.22.1500	LmxM.22.1500.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 605,330 - 608,593 (+)	ATP-dependent DEAD/H RNA helicase, putative	
+LmxM.22.1510	LmxM.22.1510.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 609,494 - 610,993 (+)	hypothetical protein, unknown function	
+LmxM.22.1520	LmxM.22.1520.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 612,580 - 613,107 (+)	40S ribosomal protein L14, putative	
+LmxM.22.1530	LmxM.22.1530.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 613,705 - 614,439 (+)	dephospho-CoA kinase, putative	
+LmxM.22.1540	LmxM.22.1540.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 615,127 - 618,015 (+)	alanyl-tRNA synthetase, putative	
+LmxM.22.1550	LmxM.22.1550.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 620,110 - 621,960 (+)	hypothetical protein, conserved	
+LmxM.22.1560	LmxM.22.1560.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 622,370 - 622,897 (+)	40S ribosomal protein L14, putative	
+LmxM.22.1570	LmxM.22.1570.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 631,975 - 633,063 (+)	hypothetical protein, conserved	
+LmxM.22.1580	LmxM.22.1580.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 633,861 - 634,952 (+)	exosome complex exonuclease RRP45 homolog, putative	
+LmxM.22.1590	LmxM.22.1590.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 635,931 - 640,556 (+)	hypothetical protein, conserved	
+LmxM.22.1600	LmxM.22.1600.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 643,122 - 645,548 (+)	ser/thr protein phosphatase, putative	
+LmxM.22.1610	LmxM.22.1610.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 650,022 - 652,214 (+)	hypothetical protein, conserved	
+LmxM.22.1620	LmxM.22.1620.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 654,128 - 662,527 (+)	hypothetical protein, conserved	
+LmxM.22.1630	LmxM.22.1630.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 664,230 - 665,246 (+)	ccr4-not transcription complex subunit	
+LmxM.22.1640	LmxM.22.1640.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 666,673 - 666,984 (+)	hypothetical protein, conserved	
+LmxM.22.1650	LmxM.22.1650.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 668,059 - 669,216 (+)	hypothetical protein, unknown function	
+LmxM.22.1660	LmxM.22.1660.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 669,951 - 671,801 (+)	hypothetical protein, conserved	
+LmxM.22.1670	LmxM.22.1670.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 674,605 - 677,361 (+)	hypothetical protein, conserved	
+LmxM.22.1680	LmxM.22.1680.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 678,100 - 680,235 (+)	hypothetical protein	
+LmxM.22:ncRNA:rfamscan:306683-306879	LmxM.22:ncRNA:rfamscan:306683-306879.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 306,683 - 306,879 (-)	unspecified product	
+LmxM.22:ncRNA:rfamscan:306714-306847	LmxM.22:ncRNA:rfamscan:306714-306847.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 306,714 - 306,847 (+)	unspecified product	
+LmxM.22:ncRNA:rfamscan:380877-380983	LmxM.22:ncRNA:rfamscan:380877-380983.1	L. mexicana MHOM/GT/2001/U1103	LmxM.22: 380,877 - 380,983 (-)	unspecified product	

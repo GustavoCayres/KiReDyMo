@@ -1,0 +1,249 @@
+[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
+LmjF.24.0010	LmjF.24.0010.1:mRNA	L. major strain Friedlin	LmjF.24: 4,558 - 5,947 (+)	pyruvate dehydrogenase (lipoamide) kinase, putative	
+LmjF.24.0010	LmjF.24.0010.2:mRNA	L. major strain Friedlin	LmjF.24: 2,561 - 5,947 (+)	pyruvate dehydrogenase (lipoamide) kinase, putative	
+LmjF.24.0020	LmjF.24.0020:mRNA	L. major strain Friedlin	LmjF.24: 6,630 - 8,081 (+)	clathrin coat assembly protein, putative	
+LmjF.24.0030	LmjF.24.0030:mRNA	L. major strain Friedlin	LmjF.24: 8,548 - 9,048 (+)	hypothetical protein, conserved	
+LmjF.24.0040	LmjF.24.0040:mRNA	L. major strain Friedlin	LmjF.24: 9,459 - 9,959 (+)	60S ribosomal protein L17, putative	
+LmjF.24.0050	LmjF.24.0050:mRNA	L. major strain Friedlin	LmjF.24: 10,422 - 11,822 (+)	hypothetical protein, conserved	
+LmjF.24.0060	LmjF.24.0060:mRNA	L. major strain Friedlin	LmjF.24: 12,399 - 13,643 (+)	hypothetical protein, conserved	
+LmjF.24.0070	LmjF.24.0070:mRNA	L. major strain Friedlin	LmjF.24: 14,539 - 15,858 (+)	hypothetical protein, conserved	
+LmjF.24.0080	LmjF.24.0080:mRNA	L. major strain Friedlin	LmjF.24: 16,887 - 18,116 (+)	Ring finger domain containing protein, putative	
+LmjF.24.0090	LmjF.24.0090:mRNA	L. major strain Friedlin	LmjF.24: 18,711 - 19,379 (+)	hypothetical protein, conserved	
+LmjF.24.0100	LmjF.24.0100:mRNA	L. major strain Friedlin	LmjF.24: 20,224 - 21,063 (+)	Calmodulin-binding, putative	
+LmjF.24.0110	LmjF.24.0110:mRNA	L. major strain Friedlin	LmjF.24: 21,996 - 23,312 (+)	poly A polymerase regulatory subunit, putative	
+LmjF.24.0130	LmjF.24.0130:mRNA	L. major strain Friedlin	LmjF.24: 24,133 - 25,800 (+)	WD40/YVTN repeat-like-containing protein	
+LmjF.24.0140	LmjF.24.0140:mRNA	L. major strain Friedlin	LmjF.24: 27,730 - 28,914 (+)	ankyrin/TPR repeat protein	
+LmjF.24.0150	LmjF.24.0150:mRNA	L. major strain Friedlin	LmjF.24: 29,857 - 30,519 (+)	glycosomal membrane like protein	
+LmjF.24.0160	LmjF.24.0160:mRNA	L. major strain Friedlin	LmjF.24: 32,295 - 33,164 (+)	hypothetical protein, conserved	
+LmjF.24.0170	LmjF.24.0170:mRNA	L. major strain Friedlin	LmjF.24: 34,095 - 34,823 (+)	hypothetical protein, conserved	
+LmjF.24.0180	LmjF.24.0180:mRNA	L. major strain Friedlin	LmjF.24: 35,683 - 37,290 (+)	ATPase domain protein, putative	
+LmjF.24.0190	LmjF.24.0190:mRNA	L. major strain Friedlin	LmjF.24: 38,378 - 40,819 (+)	hypothetical protein, conserved	
+LmjF.24.0200	LmjF.24.0200:mRNA	L. major strain Friedlin	LmjF.24: 43,931 - 44,848 (+)	transcription elongation factor-like protein	
+LmjF.24.0210	LmjF.24.0210:mRNA	L. major strain Friedlin	LmjF.24: 45,650 - 46,651 (+)	transcription elongation factor, putative	
+LmjF.24.0220	LmjF.24.0220:mRNA	L. major strain Friedlin	LmjF.24: 47,618 - 48,640 (+)	hypothetical protein, unknown function	
+LmjF.24.0230	LmjF.24.0230:mRNA	L. major strain Friedlin	LmjF.24: 50,785 - 52,401 (+)	protein kinase, putative	
+LmjF.24.0240	LmjF.24.0240:mRNA	L. major strain Friedlin	LmjF.24: 53,422 - 54,825 (+)	WD repeat protein	
+LmjF.24.0250	LmjF.24.0250:mRNA	L. major strain Friedlin	LmjF.24: 55,829 - 57,646 (+)	ATP-dependent DEAD/H RNA helicase, putative	
+LmjF.24.0260	LmjF.24.0260:mRNA	L. major strain Friedlin	LmjF.24: 58,754 - 68,272 (+)	hypothetical protein, conserved	
+LmjF.24.0270	LmjF.24.0270:mRNA	L. major strain Friedlin	LmjF.24: 69,180 - 73,403 (+)	protein phosphotase, putative	
+LmjF.24.0280	LmjF.24.0280:mRNA	L. major strain Friedlin	LmjF.24: 74,278 - 76,338 (+)	Dynein intermediate chain 1, axonemal	
+LmjF.24.0290	LmjF.24.0290:mRNA	L. major strain Friedlin	LmjF.24: 80,595 - 81,752 (+)	NLI interacting factor-like phosphatase, putative	
+LmjF.24.0300	LmjF.24.0300:mRNA	L. major strain Friedlin	LmjF.24: 84,001 - 89,361 (+)	hypothetical protein, conserved	
+LmjF.24.0310	LmjF.24.0310:mRNA	L. major strain Friedlin	LmjF.24: 90,369 - 91,328 (+)	hypothetical protein, conserved	
+LmjF.24.0320	LmjF.24.0320:mRNA	L. major strain Friedlin	LmjF.24: 95,407 - 97,056 (+)	fumarate hydratase, putative	
+LmjF.24.0330	LmjF.24.0330:mRNA	L. major strain Friedlin	LmjF.24: 99,385 - 102,507 (+)	Mitochondrial small ribosomal subunit Rsm22, putative	
+LmjF.24.0340	LmjF.24.0340:mRNA	L. major strain Friedlin	LmjF.24: 103,425 - 106,346 (+)	ethanolamine phosphotransferase, putative	
+LmjF.24.0350	LmjF.24.0350:mRNA	L. major strain Friedlin	LmjF.24: 107,311 - 108,102 (+)	hypothetical protein, conserved	
+LmjF.24.0360	LmjF.24.0360:mRNA	L. major strain Friedlin	LmjF.24: 110,765 - 112,567 (+)	UDP-galactose transporter	
+LmjF.24.0370	LmjF.24.0370:mRNA	L. major strain Friedlin	LmjF.24: 117,748 - 119,043 (+)	aspartate aminotransferase, putative	
+LmjF.24.0380	LmjF.24.0380:mRNA	L. major strain Friedlin	LmjF.24: 121,285 - 124,308 (+)	ppg3-related protein-like protein	
+LmjF.24.0390	LmjF.24.0390:mRNA	L. major strain Friedlin	LmjF.24: 126,696 - 128,564 (+)	hypothetical protein, conserved	
+LmjF.24.0400	LmjF.24.0400:mRNA	L. major strain Friedlin	LmjF.24: 129,904 - 131,889 (+)	TPR repeat, putative	
+LmjF.24.0410	LmjF.24.0410:mRNA	L. major strain Friedlin	LmjF.24: 134,201 - 136,483 (+)	hypothetical protein, conserved	
+LmjF.24.0420	LmjF.24.0420:mRNA	L. major strain Friedlin	LmjF.24: 137,490 - 138,413 (+)	ubiquitin carboxyl-terminal hydrolase, putative	
+LmjF.24.0430	LmjF.24.0430:mRNA	L. major strain Friedlin	LmjF.24: 139,489 - 143,367 (+)	hypothetical protein, unknown function	
+LmjF.24.0440	LmjF.24.0440:mRNA	L. major strain Friedlin	LmjF.24: 145,634 - 149,743 (+)	Protein of unknown function (DUF3184), putative	
+LmjF.24.0450	LmjF.24.0450:mRNA	L. major strain Friedlin	LmjF.24: 153,038 - 157,141 (+)	Protein of unknown function (DUF3184), putative	
+LmjF.24.0460	LmjF.24.0460:mRNA	L. major strain Friedlin	LmjF.24: 160,614 - 161,444 (+)	ubiquitin-activating enzyme, putative	
+LmjF.24.0470	LmjF.24.0470:mRNA	L. major strain Friedlin	LmjF.24: 162,207 - 163,469 (+)	hypothetical protein, conserved	
+LmjF.24.0480	LmjF.24.0480:mRNA	L. major strain Friedlin	LmjF.24: 167,292 - 170,954 (+)	Kelch motif/Galactose oxidase, central domain containing protein, putative	
+LmjF.24.0490	LmjF.24.0490:mRNA	L. major strain Friedlin	LmjF.24: 172,578 - 177,944 (+)	Leucine Rich repeats (2 copies)/Leucine rich repeat, putative	
+LmjF.24.0500	LmjF.24.0500:mRNA	L. major strain Friedlin	LmjF.24: 178,940 - 179,644 (+)	hypothetical protein, conserved	
+LmjF.24.0510	LmjF.24.0510:mRNA	L. major strain Friedlin	LmjF.24: 180,372 - 182,705 (+)	hypothetical protein, conserved	
+LmjF.24.0520	LmjF.24.0520:mRNA	L. major strain Friedlin	LmjF.24: 183,896 - 186,283 (+)	DNAJ domain protein, putative	
+LmjF.24.0530	LmjF.24.0530:mRNA	L. major strain Friedlin	LmjF.24: 188,257 - 188,940 (+)	hypothetical protein, conserved	
+LmjF.24.0540	LmjF.24.0540:mRNA	L. major strain Friedlin	LmjF.24: 190,011 - 191,699 (+)	methyltransferase domain containing protein, putative	
+LmjF.24.0550	LmjF.24.0550:mRNA	L. major strain Friedlin	LmjF.24: 192,738 - 194,279 (+)	Methyltransferase TRM13, putative	
+LmjF.24.0552	LmjF.24.0552:mRNA	L. major strain Friedlin	LmjF.24: 195,188 - 195,580 (+)	hypothetical protein, conserved	
+LmjF.24.0555	LmjF.24.0555:mRNA	L. major strain Friedlin	LmjF.24: 196,434 - 196,712 (+)	hypothetical protein, conserved	
+LmjF.24.0580	LmjF.24.0580:mRNA	L. major strain Friedlin	LmjF.24: 198,017 - 199,105 (+)	hypothetical predicted transmembrane protein	
+LmjF.24.0590	LmjF.24.0590:mRNA	L. major strain Friedlin	LmjF.24: 200,037 - 202,103 (+)	hypothetical protein, unknown function	
+LmjF.24.0600	LmjF.24.0600:mRNA	L. major strain Friedlin	LmjF.24: 206,042 - 211,411 (+)	Ribosome 60S biogenesis N-terminal, putative	
+LmjF.24.0610	LmjF.24.0610:mRNA	L. major strain Friedlin	LmjF.24: 212,834 - 215,923 (+)	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A-like protein, putative	
+LmjF.24.0620	LmjF.24.0620:mRNA	L. major strain Friedlin	LmjF.24: 216,854 - 219,283 (+)	ubiquitin carboxyl-terminal hydrolase, putative	
+LmjF.24.0630	LmjF.24.0630:mRNA	L. major strain Friedlin	LmjF.24: 220,524 - 220,844 (+)	ATPase subunit 9, putative	
+LmjF.24.0640	LmjF.24.0640:mRNA	L. major strain Friedlin	LmjF.24: 222,898 - 224,631 (+)	Kinesin-13 3, putative	
+LmjF.24.0650	LmjF.24.0650:mRNA	L. major strain Friedlin	LmjF.24: 226,989 - 229,982 (+)	PPPDE putative peptidase domain containing protein, putative	
+LmjF.24.0660	LmjF.24.0660:mRNA	L. major strain Friedlin	LmjF.24: 230,994 - 233,285 (+)	hypothetical protein, conserved	
+LmjF.24.0670	LmjF.24.0670:mRNA	L. major strain Friedlin	LmjF.24: 233,728 - 237,693 (+)	protein kinase, putative	
+LmjF.24.0680	LmjF.24.0680:mRNA	L. major strain Friedlin	LmjF.24: 240,032 - 241,675 (+)	myo-inositol/proton symporter (MIT)	
+LmjF.24.0690	LmjF.24.0690:mRNA	L. major strain Friedlin	LmjF.24: 245,669 - 246,193 (+)	hypothetical predicted transmembrane protein	
+LmjF.24.0700	LmjF.24.0700:mRNA	L. major strain Friedlin	LmjF.24: 246,942 - 249,911 (+)	hypothetical predicted multi-pass transmembrane protein	
+LmjF.24.0710	LmjF.24.0710:mRNA	L. major strain Friedlin	LmjF.24: 250,929 - 252,248 (+)	Protein of unknown function (DUF523), putative	
+LmjF.24.0720	LmjF.24.0720:mRNA	L. major strain Friedlin	LmjF.24: 252,893 - 253,150 (+)	mitochondrial translocase subunit, putative	
+LmjF.24.0730	LmjF.24.0730:mRNA	L. major strain Friedlin	LmjF.24: 254,178 - 255,737 (+)	signal recognition particle, putative	
+LmjF.24.0740	LmjF.24.0740:mRNA	L. major strain Friedlin	LmjF.24: 257,461 - 260,685 (+)	hypothetical protein, conserved	
+LmjF.24.0750	LmjF.24.0750:mRNA	L. major strain Friedlin	LmjF.24: 261,898 - 262,875 (+)	hypothetical protein, conserved	
+LmjF.24.0760	LmjF.24.0760:mRNA	L. major strain Friedlin	LmjF.24: 265,169 - 268,552 (+)	DNA repair and recombination protein RAD54, putative	
+LmjF.24.0770	LmjF.24.0770:mRNA	L. major strain Friedlin	LmjF.24: 271,334 - 273,055 (+)	malic enzyme, putative	
+LmjF.24.0780	LmjF.24.0780:mRNA	L. major strain Friedlin	LmjF.24: 275,860 - 276,783 (+)	hypothetical protein, conserved	
+LmjF.24.0790	LmjF.24.0790:mRNA	L. major strain Friedlin	LmjF.24: 277,306 - 279,054 (+)	hypothetical protein, conserved	
+LmjF.24.0800	LmjF.24.0800:mRNA	L. major strain Friedlin	LmjF.24: 279,835 - 281,643 (+)	hypothetical protein, unknown function	
+LmjF.24.0810	LmjF.24.0810:mRNA	L. major strain Friedlin	LmjF.24: 282,454 - 284,202 (+)	phosphotransferase, putative	
+LmjF.24.0820	LmjF.24.0820:mRNA	L. major strain Friedlin	LmjF.24: 285,398 - 293,611 (+)	inositol polyphosphate phosphatase, putative	
+LmjF.24.0830	LmjF.24.0830:mRNA	L. major strain Friedlin	LmjF.24: 294,939 - 297,374 (+)	Mitochondrial SSU ribosomal protein, putative	
+LmjF.24.0840	LmjF.24.0840:mRNA	L. major strain Friedlin	LmjF.24: 298,725 - 299,438 (+)	dynein arm light chain, putative	
+LmjF.24.0850	LmjF.24.0850:mRNA	L. major strain Friedlin	LmjF.24: 300,571 - 301,326 (+)	triosephosphate isomerase	
+LmjF.24.0860	LmjF.24.0860:mRNA	L. major strain Friedlin	LmjF.24: 302,711 - 303,745 (+)	hypothetical protein, conserved	
+LmjF.24.0870	LmjF.24.0870:mRNA	L. major strain Friedlin	LmjF.24: 304,443 - 305,126 (+)	emp24/gp25L/p24 family/GOLD, putative	
+LmjF.24.0880	LmjF.24.0880:mRNA	L. major strain Friedlin	LmjF.24: 306,384 - 306,737 (+)	hypothetical predicted transmembrane protein	
+LmjF.24.0890	LmjF.24.0890:mRNA	L. major strain Friedlin	LmjF.24: 308,534 - 312,046 (+)	DNA polymerase theta	
+LmjF.24.0900	LmjF.24.0900:mRNA	L. major strain Friedlin	LmjF.24: 312,526 - 316,290 (+)	hypothetical protein, conserved	
+LmjF.24.0910	LmjF.24.0910:mRNA	L. major strain Friedlin	LmjF.24: 317,351 - 319,756 (+)	DNA replication licensing factor MCM5, putative	
+LmjF.24.0920	LmjF.24.0920:mRNA	L. major strain Friedlin	LmjF.24: 320,145 - 321,635 (+)	hypothetical protein, conserved	
+LmjF.24.0930	LmjF.24.0930:mRNA	L. major strain Friedlin	LmjF.24: 322,260 - 325,091 (+)	hypothetical protein, conserved	
+LmjF.24.0940	LmjF.24.0940:mRNA	L. major strain Friedlin	LmjF.24: 325,937 - 326,284 (+)	Archaic Translocase of outer membrane 14 kDa subunit, putative	
+LmjF.24.0950	LmjF.24.0950:mRNA	L. major strain Friedlin	LmjF.24: 327,326 - 328,522 (+)	Rab-GTPase-TBC domain containing protein, putative	
+LmjF.24.0960	LmjF.24.0960:mRNA	L. major strain Friedlin	LmjF.24: 329,700 - 332,648 (+)	hypothetical protein, conserved	
+LmjF.24.0970	LmjF.24.0970:mRNA	L. major strain Friedlin	LmjF.24: 333,212 - 335,503 (+)	hypothetical protein, conserved	
+LmjF.24.0980	LmjF.24.0980:mRNA	L. major strain Friedlin	LmjF.24: 336,859 - 341,625 (+)	hypothetical protein, conserved	
+LmjF.24.0990	LmjF.24.0990:mRNA	L. major strain Friedlin	LmjF.24: 342,390 - 344,375 (+)	replication factor C, subunit 1, putative	
+LmjF.24.1000	LmjF.24.1000:mRNA	L. major strain Friedlin	LmjF.24: 345,086 - 346,732 (+)	hypothetical protein, conserved	
+LmjF.24.1010	LmjF.24.1010:mRNA	L. major strain Friedlin	LmjF.24: 347,674 - 348,957 (+)	Mnd1 family, putative	
+LmjF.24.1020	LmjF.24.1020:mRNA	L. major strain Friedlin	LmjF.24: 350,035 - 353,067 (+)	F-box domain/Galactose oxidase, central domain containing protein, putative	
+LmjF.24.1030	LmjF.24.1030:mRNA	L. major strain Friedlin	LmjF.24: 353,670 - 354,302 (+)	dynein light chain, putative	
+LmjF.24.1040	LmjF.24.1040:mRNA	L. major strain Friedlin	LmjF.24: 355,217 - 357,973 (+)	hypothetical protein, unknown function	
+LmjF.24.1050	LmjF.24.1050:mRNA	L. major strain Friedlin	LmjF.24: 359,424 - 363,356 (+)	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily-related, putative	
+LmjF.24.1060	LmjF.24.1060:mRNA	L. major strain Friedlin	LmjF.24: 364,113 - 365,639 (+)	AKAP7 2'5' RNA ligase-like domain containing protein, putative	
+LmjF.24.1070	LmjF.24.1070:mRNA	L. major strain Friedlin	LmjF.24: 366,675 - 374,345 (+)	hypothetical protein, conserved	
+LmjF.24.1080	LmjF.24.1080:mRNA	L. major strain Friedlin	LmjF.24: 375,459 - 376,769 (+)	DNAJ domain protein, putative	
+LmjF.24.1090	LmjF.24.1090:mRNA	L. major strain Friedlin	LmjF.24: 378,370 - 379,926 (+)	hypothetical predicted multipass transmembrane protein	
+LmjF.24.1100	LmjF.24.1100:mRNA	L. major strain Friedlin	LmjF.24: 381,173 - 384,589 (+)	pre-mRNA-splicing factor ATP-dependent RNA helicase, putative	
+LmjF.24.1110	LmjF.24.1110:mRNA	L. major strain Friedlin	LmjF.24: 386,113 - 389,694 (+)	formin-like protein	
+LmjF.24.1120	LmjF.24.1120:mRNA	L. major strain Friedlin	LmjF.24: 393,942 - 396,680 (+)	hypothetical protein, conserved	
+LmjF.24.1125	LmjF.24.1125:mRNA	L. major strain Friedlin	LmjF.24: 398,259 - 400,667 (+)	hypothetical protein, conserved	
+LmjF.24.1130	LmjF.24.1130:mRNA	L. major strain Friedlin	LmjF.24: 401,560 - 404,997 (+)	actin-interacting protein-like protein	
+LmjF.24.1140	LmjF.24.1140:mRNA	L. major strain Friedlin	LmjF.24: 405,919 - 406,989 (+)	hypothetical protein, conserved	
+LmjF.24.1150	LmjF.24.1150:mRNA	L. major strain Friedlin	LmjF.24: 407,849 - 412,378 (+)	DNA-directed RNA polymerase, mitochondrial	
+LmjF.24.1160	LmjF.24.1160:mRNA	L. major strain Friedlin	LmjF.24: 413,562 - 416,705 (+)	hypothetical protein, unknown function	
+LmjF.24.1170	LmjF.24.1170.1:mRNA	L. major strain Friedlin	LmjF.24: 420,539 - 424,185 (+)	hypothetical protein, conserved	
+LmjF.24.1170	LmjF.24.1170.2:mRNA	L. major strain Friedlin	LmjF.24: 418,145 - 424,185 (+)	hypothetical protein, conserved	
+LmjF.24.1180	LmjF.24.1180:mRNA	L. major strain Friedlin	LmjF.24: 424,705 - 425,511 (+)	Surfeit locus protein 6, putative	
+LmjF.24.1190	LmjF.24.1190:mRNA	L. major strain Friedlin	LmjF.24: 426,483 - 427,424 (+)	Inhibitor of apoptosis-promoting Bax1, putative	
+LmjF.24.1200	LmjF.24.1200:mRNA	L. major strain Friedlin	LmjF.24: 429,229 - 430,203 (+)	hypothetical protein, conserved	
+LmjF.24.1210	LmjF.24.1210:mRNA	L. major strain Friedlin	LmjF.24: 430,916 - 431,239 (+)	Eukaryotic translation initiation factor 1, putative	
+LmjF.24.1220	LmjF.24.1220:mRNA	L. major strain Friedlin	LmjF.24: 434,151 - 435,782 (+)	RNA-binding protein 38, putative	
+LmjF.24.1230	LmjF.24.1230:mRNA	L. major strain Friedlin	LmjF.24: 437,771 - 440,059 (+)	hypothetical protein, conserved	
+LmjF.24.1240	LmjF.24.1240:mRNA	L. major strain Friedlin	LmjF.24: 440,923 - 442,749 (+)	hypothetical protein, conserved	
+LmjF.24.1250	LmjF.24.1250:mRNA	L. major strain Friedlin	LmjF.24: 444,065 - 444,625 (+)	amastin-like surface protein-like protein	
+LmjF.24.1260	LmjF.24.1260:mRNA	L. major strain Friedlin	LmjF.24: 447,233 - 447,751 (+)	amastin-like surface protein-like protein	
+LmjF.24.1270	LmjF.24.1270:mRNA	L. major strain Friedlin	LmjF.24: 449,655 - 450,179 (+)	amastin-like surface protein-like protein	
+LmjF.24.1280	LmjF.24.1280:mRNA	L. major strain Friedlin	LmjF.24: 454,236 - 454,796 (+)	amastin-like surface protein-like protein	
+LmjF.24.1290	LmjF.24.1290:mRNA	L. major strain Friedlin	LmjF.24: 458,527 - 462,801 (+)	WASH complex subunit 7, N-terminal/WASH complex subunit 7/WASH complex subunit 7, C-terminal, putative	
+LmjF.24.1300	LmjF.24.1300:mRNA	L. major strain Friedlin	LmjF.24: 463,964 - 466,387 (+)	DNAJ-domain protein, putative	
+LmjF.24.1310	LmjF.24.1310:mRNA	L. major strain Friedlin	LmjF.24: 471,077 - 471,841 (+)	hypothetical protein, conserved	
+LmjF.24.1315	LmjF.24.1315:mRNA	L. major strain Friedlin	LmjF.24: 472,228 - 472,821 (+)	cyclophilin 8, putative	
+LmjF.24.1320	LmjF.24.1320:mRNA	L. major strain Friedlin	LmjF.24: 473,116 - 473,709 (+)	transport protein particle (TRAPP) component, putative	
+LmjF.24.1330	LmjF.24.1330:mRNA	L. major strain Friedlin	LmjF.24: 473,976 - 474,251 (+)	hypothetical protein, conserved	
+LmjF.24.1340	LmjF.24.1340:mRNA	L. major strain Friedlin	LmjF.24: 474,688 - 477,366 (+)	translation initiation factor IF-2, putative	
+LmjF.24.1350	LmjF.24.1350:mRNA	L. major strain Friedlin	LmjF.24: 477,868 - 480,534 (+)	hypothetical protein, conserved	
+LmjF.24.1360	LmjF.24.1360:mRNA	L. major strain Friedlin	LmjF.24: 482,284 - 484,998 (+)	Dyggve-Melchior-Clausen syndrome protein, putative	
+LmjF.24.1370	LmjF.24.1370:mRNA	L. major strain Friedlin	LmjF.24: 487,535 - 489,145 (+)	histone deacetylase, putative	
+LmjF.24.1380	LmjF.24.1380:mRNA	L. major strain Friedlin	LmjF.24: 491,402 - 492,586 (+)	Zinc finger, C3HC4 type (RING finger)/EF-hand domain pair, putative	
+LmjF.24.1390	LmjF.24.1390:mRNA	L. major strain Friedlin	LmjF.24: 494,732 - 495,736 (+)	Zinc finger, C3HC4 type (RING finger)/EF-hand domain pair, putative	
+LmjF.24.1400	LmjF.24.1400:mRNA	L. major strain Friedlin	LmjF.24: 497,583 - 498,185 (+)	hypothetical protein, conserved	
+LmjF.24.1410	LmjF.24.1410:mRNA	L. major strain Friedlin	LmjF.24: 500,150 - 503,020 (+)	hypothetical predicted transmembrane protein	
+LmjF.24.1420	LmjF.24.1420:mRNA	L. major strain Friedlin	LmjF.24: 504,044 - 508,156 (+)	mismatch repair protein, putative	
+LmjF.24.1430	LmjF.24.1430:mRNA	L. major strain Friedlin	LmjF.24: 510,137 - 519,964 (+)	kinesin, putative	
+LmjF.24.1435	LmjF.24.1435:mRNA	L. major strain Friedlin	LmjF.24: 520,639 - 523,392 (+)	hypothetical protein	
+LmjF.24.1440	LmjF.24.1440:mRNA	L. major strain Friedlin	LmjF.24: 527,879 - 529,495 (+)	HpcH/HpaI aldolase/citrate lyase family, putative	
+LmjF.24.1450	LmjF.24.1450:mRNA	L. major strain Friedlin	LmjF.24: 530,331 - 532,154 (+)	NPK1-related protein kinase-like	
+LmjF.24.1460	LmjF.24.1460:mRNA	L. major strain Friedlin	LmjF.24: 534,074 - 536,512 (+)	hypothetical protein, conserved	
+LmjF.24.1470	LmjF.24.1470:mRNA	L. major strain Friedlin	LmjF.24: 537,769 - 546,534 (+)	hypothetical protein, conserved	
+LmjF.24.1480	LmjF.24.1480:mRNA	L. major strain Friedlin	LmjF.24: 549,266 - 551,164 (+)	hypothetical protein, conserved	
+LmjF.24.1490	LmjF.24.1490:mRNA	L. major strain Friedlin	LmjF.24: 551,592 - 552,932 (+)	WD domain, G-beta repeat, putative	
+LmjF.24.1500	LmjF.24.1500:mRNA	L. major strain Friedlin	LmjF.24: 554,358 - 554,870 (+)	translationally controlled tumor protein (TCTP), putative	
+LmjF.24.1510	LmjF.24.1510:mRNA	L. major strain Friedlin	LmjF.24: 556,413 - 556,925 (+)	translationally controlled tumor protein (TCTP), putative	
+LmjF.24.1520	LmjF.24.1520:mRNA	L. major strain Friedlin	LmjF.24: 558,694 - 562,152 (+)	ERCC4 domain containing protein, putative	
+LmjF.24.1530	LmjF.24.1530:mRNA	L. major strain Friedlin	LmjF.24: 563,584 - 569,532 (+)	ATP-dependent DEAD/H DNA helicase recQ, putative	
+LmjF.24.1540	LmjF.24.1540:mRNA	L. major strain Friedlin	LmjF.24: 570,376 - 570,876 (+)	adaptor complex AP-3 small subunit, putative	
+LmjF.24.1550	LmjF.24.1550:mRNA	L. major strain Friedlin	LmjF.24: 571,532 - 574,423 (+)	hypothetical protein, conserved	
+LmjF.24.1560	LmjF.24.1560:mRNA	L. major strain Friedlin	LmjF.24: 575,220 - 577,022 (+)	hypothetical protein, conserved	
+LmjF.24.1570	LmjF.24.1570:mRNA	L. major strain Friedlin	LmjF.24: 587,113 - 589,503 (+)	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)/RNA recognition motif (a.k.a. RRM, RBD, or RNP domain), putative	
+LmjF.24.1580	LmjF.24.1580:mRNA	L. major strain Friedlin	LmjF.24: 598,591 - 599,781 (+)	hypothetical protein, conserved	
+LmjF.24.1590	LmjF.24.1590:mRNA	L. major strain Friedlin	LmjF.24: 600,667 - 602,337 (+)	hypothetical protein, conserved	
+LmjF.24.1600	LmjF.24.1600:mRNA	L. major strain Friedlin	LmjF.24: 603,513 - 603,704 (+)	hypothetical protein, unknown function	
+LmjF.24.1610	LmjF.24.1610:mRNA	L. major strain Friedlin	LmjF.24: 605,064 - 605,423 (+)	ring-box protein, putative	
+LmjF.24.1620	LmjF.24.1620:mRNA	L. major strain Friedlin	LmjF.24: 606,523 - 607,584 (+)	hypothetical protein, conserved	
+LmjF.24.1630	LmjF.24.1630:mRNA	L. major strain Friedlin	LmjF.24: 610,671 - 612,494 (+)	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial	
+LmjF.24.1640	LmjF.24.1640:mRNA	L. major strain Friedlin	LmjF.24: 617,712 - 619,451 (+)	Male sterility protein, putative	
+LmjF.24.1650	LmjF.24.1650:mRNA	L. major strain Friedlin	LmjF.24: 623,934 - 625,538 (-)	hypothetical protein, conserved	
+LmjF.24.1660	LmjF.24.1660:mRNA	L. major strain Friedlin	LmjF.24: 626,325 - 627,881 (-)	SpoU rRNA Methylase family, putative	
+LmjF.24.1670	LmjF.24.1670:mRNA	L. major strain Friedlin	LmjF.24: 628,489 - 629,313 (-)	hypothetical protein, conserved	
+LmjF.24.1680	LmjF.24.1680:mRNA	L. major strain Friedlin	LmjF.24: 629,932 - 631,272 (-)	Ssl1-like, putative	
+LmjF.24.1690	LmjF.24.1690:mRNA	L. major strain Friedlin	LmjF.24: 632,566 - 633,705 (-)	SET domain containing protein, putative	
+LmjF.24.1700	LmjF.24.1700:mRNA	L. major strain Friedlin	LmjF.24: 634,549 - 635,958 (-)	hypothetical protein, conserved	
+LmjF.24.1710	LmjF.24.1710:mRNA	L. major strain Friedlin	LmjF.24: 637,593 - 638,171 (-)	ubiquitin-conjugating enzyme E2, putative	
+LmjF.24.1720	LmjF.24.1720:mRNA	L. major strain Friedlin	LmjF.24: 640,161 - 642,677 (-)	cell division cycle protein 20, putative	
+LmjF.24.1730	LmjF.24.1730:mRNA	L. major strain Friedlin	LmjF.24: 646,198 - 650,532 (-)	calcium/calmodulin-dependent protein kinase, putative	
+LmjF.24.1740	LmjF.24.1740:mRNA	L. major strain Friedlin	LmjF.24: 651,391 - 652,497 (-)	folate-binding protein YgfZ, putative	
+LmjF.24.1750	LmjF.24.1750:mRNA	L. major strain Friedlin	LmjF.24: 653,333 - 655,549 (-)	SET domain containing protein, putative	
+LmjF.24.1760	LmjF.24.1760:mRNA	L. major strain Friedlin	LmjF.24: 656,445 - 657,257 (-)	hypothetical protein, conserved	
+LmjF.24.1770	LmjF.24.1770:mRNA	L. major strain Friedlin	LmjF.24: 658,912 - 659,265 (-)	inhibitor of cysteine peptidase	
+LmjF.24.1780	LmjF.24.1780:mRNA	L. major strain Friedlin	LmjF.24: 661,159 - 665,094 (-)	fatty acid transporter protein-like protein	
+LmjF.24.1790	LmjF.24.1790:mRNA	L. major strain Friedlin	LmjF.24: 668,539 - 669,204 (-)	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain), putative	
+LmjF.24.1800	LmjF.24.1800:mRNA	L. major strain Friedlin	LmjF.24: 670,376 - 670,696 (-)	hypothetical protein, conserved	
+LmjF.24.1810	LmjF.24.1810:mRNA	L. major strain Friedlin	LmjF.24: 671,315 - 673,051 (-)	beta-ketoacyl-ACP reductase 2, putative	
+LmjF.24.1820	LmjF.24.1820:mRNA	L. major strain Friedlin	LmjF.24: 673,702 - 675,225 (-)	short chain dehydrogenase/reductase, putative	
+LmjF.24.1830	LmjF.24.1830:mRNA	L. major strain Friedlin	LmjF.24: 676,124 - 676,846 (-)	hypothetical protein, conserved	
+LmjF.24.1840	LmjF.24.1840:mRNA	L. major strain Friedlin	LmjF.24: 677,392 - 678,228 (-)	lysophospholipase, putative	
+LmjF.24.1850	LmjF.24.1850:mRNA	L. major strain Friedlin	LmjF.24: 679,356 - 680,594 (-)	hypothetical predicted multi-pass transmembrane protein	
+LmjF.24.1860	LmjF.24.1860:mRNA	L. major strain Friedlin	LmjF.24: 682,699 - 684,306 (-)	hypothetical protein, conserved	
+LmjF.24.1870	LmjF.24.1870:mRNA	L. major strain Friedlin	LmjF.24: 686,043 - 689,927 (-)	hypothetical protein, conserved	
+LmjF.24.1880	LmjF.24.1880:mRNA	L. major strain Friedlin	LmjF.24: 695,194 - 697,992 (-)	cyclin 11, putative	
+LmjF.24.1890	LmjF.24.1890:mRNA	L. major strain Friedlin	LmjF.24: 708,327 - 710,498 (-)	cyclin 10	
+LmjF.24.1900	LmjF.24.1900:mRNA	L. major strain Friedlin	LmjF.24: 712,458 - 714,944 (-)	WD domain, G-beta repeat/PFU (PLAA family ubiquitin binding), putative	
+LmjF.24.1905	LmjF.24.1905:mRNA	L. major strain Friedlin	LmjF.24: 715,462 - 717,114 (-)	hypothetical protein, conserved	
+LmjF.24.1910	LmjF.24.1910:mRNA	L. major strain Friedlin	LmjF.24: 717,431 - 717,796 (-)	hypothetical protein, conserved	
+LmjF.24.1920	LmjF.24.1920:mRNA	L. major strain Friedlin	LmjF.24: 718,417 - 719,985 (-)	hypothetical protein, conserved	
+LmjF.24.1930	LmjF.24.1930:mRNA	L. major strain Friedlin	LmjF.24: 721,091 - 723,208 (-)	hypothetical protein, conserved	
+LmjF.24.1940	LmjF.24.1940:mRNA	L. major strain Friedlin	LmjF.24: 724,866 - 725,966 (-)	hypothetical protein, conserved	
+LmjF.24.1950	LmjF.24.1950:mRNA	L. major strain Friedlin	LmjF.24: 726,861 - 729,227 (-)	hypothetical protein, conserved	
+LmjF.24.1960	LmjF.24.1960:mRNA	L. major strain Friedlin	LmjF.24: 729,863 - 732,817 (-)	hypothetical protein, conserved	
+LmjF.24.1970	LmjF.24.1970:mRNA	L. major strain Friedlin	LmjF.24: 733,896 - 736,163 (-)	hypothetical protein, conserved	
+LmjF.24.1980	LmjF.24.1980:mRNA	L. major strain Friedlin	LmjF.24: 737,475 - 738,275 (-)	STOP axonemal protein, putative	
+LmjF.24.1990	LmjF.24.1990:mRNA	L. major strain Friedlin	LmjF.24: 739,250 - 740,308 (-)	hypothetical protein, conserved	
+LmjF.24.2000	LmjF.24.2000:mRNA	L. major strain Friedlin	LmjF.24: 740,705 - 742,483 (-)	Phosphorylated CTD interacting factor 1 WW domain containing protein, putative	
+LmjF.24.2010	LmjF.24.2010:mRNA	L. major strain Friedlin	LmjF.24: 742,952 - 746,221 (-)	phosphatidylinositol 3-kinase, putative	
+LmjF.24.2020	LmjF.24.2020:mRNA	L. major strain Friedlin	LmjF.24: 747,171 - 751,508 (-)	tubulin folding cofactor D, putative	
+LmjF.24.2030	LmjF.24.2030:mRNA	L. major strain Friedlin	LmjF.24: 752,837 - 753,616 (-)	3-oxoacyl-(acyl-carrier protein) reductase, putative	
+LmjF.24.2040	LmjF.24.2040:mRNA	L. major strain Friedlin	LmjF.24: 754,621 - 754,887 (-)	BolA-like protein, putative	
+LmjF.24.2045	LmjF.24.2045:pseudogenic_transcript	L. major strain Friedlin	LmjF.24: 755,603 - 756,395 (-)	Opioid growth factor receptor (OGFr) conserved region, putative	
+LmjF.24.2050	LmjF.24.2050:mRNA	L. major strain Friedlin	LmjF.24: 757,558 - 757,989 (-)	60S ribosomal protein L26, putative	
+LmjF.24.2060	LmjF.24.2060:mRNA	L. major strain Friedlin	LmjF.24: 760,083 - 762,098 (-)	transketolase	
+LmjF.24.2070	LmjF.24.2070:mRNA	L. major strain Friedlin	LmjF.24: 763,597 - 764,259 (-)	40S ribosomal protein S8, putative	
+LmjF.24.2080	LmjF.24.2080:mRNA	L. major strain Friedlin	LmjF.24: 765,161 - 765,823 (-)	40S ribosomal protein S8, putative	
+LmjF.24.2090	LmjF.24.2090:mRNA	L. major strain Friedlin	LmjF.24: 766,741 - 767,877 (-)	Kelch motif/Galactose oxidase, central domain containing protein, putative	
+LmjF.24.2100	LmjF.24.2100:mRNA	L. major strain Friedlin	LmjF.24: 768,640 - 769,572 (-)	hypothetical protein, conserved	
+LmjF.24.2110	LmjF.24.2110:mRNA	L. major strain Friedlin	LmjF.24: 772,686 - 774,191 (-)	3-hydroxy-3-methylglutaryl-CoA synthase, putative	
+LmjF.24.2120	LmjF.24.2120:mRNA	L. major strain Friedlin	LmjF.24: 774,942 - 778,538 (-)	hypothetical protein, conserved	
+LmjF.24.2130	LmjF.24.2130:mRNA	L. major strain Friedlin	LmjF.24: 779,934 - 780,401 (-)	ubiquitin-conjugating enzyme E2, putative	
+LmjF.24.2140	LmjF.24.2140:mRNA	L. major strain Friedlin	LmjF.24: 781,689 - 782,669 (-)	ubiquitin-conjugating enzyme, putative	
+LmjF.24.2150	LmjF.24.2150:mRNA	L. major strain Friedlin	LmjF.24: 787,687 - 788,022 (-)	hypothetical protein, unknown function	
+LmjF.24.2160	LmjF.24.2160:mRNA	L. major strain Friedlin	LmjF.24: 791,390 - 792,391 (-)	Glycerophosphoryl diester phosphodiesterase family, putative	
+LmjF.24.2170	LmjF.24.2170:mRNA	L. major strain Friedlin	LmjF.24: 793,835 - 796,885 (-)	Protein of unknown function N-terminal domain (DUF2450)/Protein of unknown function C-terminus (DUF2451), putative	
+LmjF.24.2180	LmjF.24.2180:mRNA	L. major strain Friedlin	LmjF.24: 797,629 - 801,945 (-)	Trypanosome basal body component protein	
+LmjF.24.2190	LmjF.24.2190:mRNA	L. major strain Friedlin	LmjF.24: 802,753 - 803,496 (-)	hypothetical protein, conserved	
+LmjF.24.2200	LmjF.24.2200:mRNA	L. major strain Friedlin	LmjF.24: 804,182 - 804,922 (-)	hypothetical protein, conserved	
+LmjF.24.2210	LmjF.24.2210:mRNA	L. major strain Friedlin	LmjF.24: 808,317 - 808,811 (-)	60S ribosomal protein L12, putative	
+LmjF.24.2220	LmjF.24.2220:mRNA	L. major strain Friedlin	LmjF.24: 809,544 - 810,737 (-)	hypothetical protein, conserved	
+LmjF.24.2230	LmjF.24.2230:mRNA	L. major strain Friedlin	LmjF.24: 813,304 - 813,831 (-)	hypothetical predicted multi-pass transmembrane protein	
+LmjF.24.2240	LmjF.24.2240:mRNA	L. major strain Friedlin	LmjF.24: 814,696 - 815,826 (-)	ATP:cob(I)alamin adenosyltransferase, putative	
+LmjF.24.2250	LmjF.24.2250:mRNA	L. major strain Friedlin	LmjF.24: 818,187 - 819,482 (-)	fatty-acid desaturase, putative	
+LmjF.24.2260	LmjF.24.2260:mRNA	L. major strain Friedlin	LmjF.24: 820,056 - 821,624 (-)	notchless homolog, putative	
+LmjF.24.2270	LmjF.24.2270:mRNA	L. major strain Friedlin	LmjF.24: 822,302 - 823,138 (-)	zinc-finger multi-pass transmembrane protein	
+LmjF.24.2280	LmjF.24.2280:mRNA	L. major strain Friedlin	LmjF.24: 824,071 - 826,581 (-)	TFIIH basal transcription factor complex helicase subunit, putative	
+LmjF.24.2290	LmjF.24.2290:mRNA	L. major strain Friedlin	LmjF.24: 827,249 - 829,483 (-)	cullin-like protein-like protein	
+LmjF.24.2300	LmjF.24.2300:mRNA	L. major strain Friedlin	LmjF.24: 830,240 - 830,950 (-)	hypothetical protein, unknown function	
+LmjF.24.2310	LmjF.24.2310:mRNA	L. major strain Friedlin	LmjF.24: 831,357 - 831,848 (-)	hypothetical protein, conserved	
+LmjF.24.2320	LmjF.24.2320:mRNA	L. major strain Friedlin	LmjF.24: 832,546 - 833,598 (-)	mitogen-activated protein kinase	
+LmjF.24.2330	LmjF.24.2330:mRNA	L. major strain Friedlin	LmjF.24: 834,475 - 835,251 (-)	hypothetical protein, conserved	
+LmjF.24.2340	LmjF.24.2340:mRNA	L. major strain Friedlin	LmjF.24: 836,490 - 837,905 (+)	SpoU rRNA Methylase family, putative	
+LmjF.24.TRNAASP.01	LmjF.24.TRNAASP.01:tRNA	L. major strain Friedlin	LmjF.24: 680,985 - 681,056 (-)	tRNA-Asp	
+LmjF.24.TRNAGLN.01	LmjF.24.TRNAGLN.01:tRNA	L. major strain Friedlin	LmjF.24: 621,492 - 621,563 (+)	tRNA-Gln	
+LmjF.24.TRNAILE.01	LmjF.24.TRNAILE.01:tRNA	L. major strain Friedlin	LmjF.24: 621,944 - 622,017 (+)	tRNA-Ile	
+LmjF.24.TRNAILE.02	LmjF.24.TRNAILE.02:tRNA	L. major strain Friedlin	LmjF.24: 623,339 - 623,412 (+)	tRNA-Ile	
+LmjF.24.TRNALEU.01	LmjF.24.TRNALEU.01:tRNA	L. major strain Friedlin	LmjF.24: 621,777 - 621,858 (-)	tRNA-Leu	
+LmjF.24.TRNAPRO.01	LmjF.24.TRNAPRO.01:tRNA	L. major strain Friedlin	LmjF.24: 205,316 - 205,387 (+)	tRNA-Pro	
+LmjF.24.ncRNA1	LmjF.24.ncRNA1:ncRNA	L. major strain Friedlin	LmjF.24: 524,402 - 525,673 (+)	unspecified product	
+LmjF.24.snRNA.01	LmjF.24.snRNA.01:snRNA	L. major strain Friedlin	LmjF.24: 621,294 - 621,394 (-)	small nucleolar RNA, U6 snRNA	

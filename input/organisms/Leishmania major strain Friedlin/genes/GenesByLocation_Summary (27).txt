@@ -1,0 +1,322 @@
+[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
+LmjF.28.0010	LmjF.28.0010:mRNA	L. major strain Friedlin	LmjF.28: 3,429 - 5,081 (+)	hypothetical protein, conserved	
+LmjF.28.0020	LmjF.28.0020:mRNA	L. major strain Friedlin	LmjF.28: 5,696 - 6,097 (+)	Present in the outer mitochondrial membrane proteome 15	
+LmjF.28.0030	LmjF.28.0030:mRNA	L. major strain Friedlin	LmjF.28: 6,643 - 7,938 (+)	cell division cycle 6 (CDC6), putative	
+LmjF.28.0040	LmjF.28.0040:mRNA	L. major strain Friedlin	LmjF.28: 8,368 - 11,118 (+)	hypothetical protein, conserved	
+LmjF.28.0050	LmjF.28.0050:mRNA	L. major strain Friedlin	LmjF.28: 11,864 - 13,402 (+)	nexin-dynein regulatory complex 2	
+LmjF.28.0060	LmjF.28.0060:mRNA	L. major strain Friedlin	LmjF.28: 14,192 - 15,649 (+)	hypothetical protein, conserved	
+LmjF.28.0070	LmjF.28.0070:mRNA	L. major strain Friedlin	LmjF.28: 16,256 - 17,830 (+)	hypothetical protein, conserved	
+LmjF.28.0080	LmjF.28.0080:mRNA	L. major strain Friedlin	LmjF.28: 18,447 - 24,635 (+)	hypothetical protein, unknown function	
+LmjF.28.0090	LmjF.28.0090:mRNA	L. major strain Friedlin	LmjF.28: 27,554 - 29,587 (+)	oxygen-sensing adenylate cyclase	
+LmjF.28.0100	LmjF.28.0100:mRNA	L. major strain Friedlin	LmjF.28: 30,700 - 30,933 (+)	hypothetical protein, conserved	
+LmjF.28.0110	LmjF.28.0110:mRNA	L. major strain Friedlin	LmjF.28: 31,856 - 32,473 (+)	proteasome beta 3 subunit, putative	
+LmjF.28.0120	LmjF.28.0120:mRNA	L. major strain Friedlin	LmjF.28: 33,542 - 33,964 (+)	DNA-direcetd RNA polymerase II, subunit 9, putative	
+LmjF.28.0130	LmjF.28.0130:mRNA	L. major strain Friedlin	LmjF.28: 34,698 - 35,246 (+)	hypothetical protein, conserved	
+LmjF.28.0140	LmjF.28.0140:mRNA	L. major strain Friedlin	LmjF.28: 36,083 - 40,468 (+)	pantothenate kinase subunit, putative	
+LmjF.28.0150	LmjF.28.0150:mRNA	L. major strain Friedlin	LmjF.28: 42,463 - 44,049 (+)	major facilitator superfamily, putative	
+LmjF.28.0160	LmjF.28.0160:mRNA	L. major strain Friedlin	LmjF.28: 45,087 - 45,995 (+)	RNA binding protein, putative	
+LmjF.28.0170	LmjF.28.0170:mRNA	L. major strain Friedlin	LmjF.28: 48,268 - 49,542 (+)	phopshatase, putative	
+LmjF.28.0180	LmjF.28.0180:mRNA	L. major strain Friedlin	LmjF.28: 50,856 - 51,476 (+)	hypothetical protein, conserved	
+LmjF.28.0190	LmjF.28.0190:mRNA	L. major strain Friedlin	LmjF.28: 53,599 - 55,374 (+)	hypothetical protein, unknown function	
+LmjF.28.0200	LmjF.28.0200:mRNA	L. major strain Friedlin	LmjF.28: 61,098 - 62,957 (+)	hypothetical protein, conserved	
+LmjF.28.0210	LmjF.28.0210:mRNA	L. major strain Friedlin	LmjF.28: 65,650 - 66,078 (+)	Histone H2B variant V	
+LmjF.28.0220	LmjF.28.0220:mRNA	L. major strain Friedlin	LmjF.28: 69,153 - 70,220 (+)	palmitoyl acyltransferase 9, putative	
+LmjF.28.0230	LmjF.28.0230:mRNA	L. major strain Friedlin	LmjF.28: 71,338 - 72,369 (+)	hypothetical protein, unknown function	
+LmjF.28.0240	LmjF.28.0240:mRNA	L. major strain Friedlin	LmjF.28: 75,035 - 76,861 (+)	glycerol-3-phosphate dehydrogenase (FAD-dependent), mitochondrial	
+LmjF.28.0250	LmjF.28.0250:mRNA	L. major strain Friedlin	LmjF.28: 81,974 - 82,867 (+)	NADH-ubiquinone oxidoreductase complex I, 21 kDa subunit, putative	
+LmjF.28.0260	LmjF.28.0260:mRNA	L. major strain Friedlin	LmjF.28: 84,233 - 87,655 (+)	hypothetical protein, conserved	
+LmjF.28.0270	LmjF.28.0270:mRNA	L. major strain Friedlin	LmjF.28: 89,006 - 89,755 (+)	phosphoadenosine phosphosulfate reductase-like protein	
+LmjF.28.0280	LmjF.28.0280:mRNA	L. major strain Friedlin	LmjF.28: 91,367 - 92,017 (+)	hypothetical protein, conserved	
+LmjF.28.0290	LmjF.28.0290:mRNA	L. major strain Friedlin	LmjF.28: 92,681 - 93,439 (+)	hypothetical protein, conserved	
+LmjF.28.0300	LmjF.28.0300:mRNA	L. major strain Friedlin	LmjF.28: 94,349 - 96,340 (+)	hypothetical protein, conserved	
+LmjF.28.0310	LmjF.28.0310:mRNA	L. major strain Friedlin	LmjF.28: 97,618 - 98,649 (+)	hypothetical protein, conserved	
+LmjF.28.0320	LmjF.28.0320:mRNA	L. major strain Friedlin	LmjF.28: 99,610 - 100,638 (+)	hypothetical protein, conserved	
+LmjF.28.0330	LmjF.28.0330:mRNA	L. major strain Friedlin	LmjF.28: 101,737 - 104,715 (+)	rrp44p homologue, putative	
+LmjF.28.0340	LmjF.28.0340:mRNA	L. major strain Friedlin	LmjF.28: 105,996 - 109,457 (+)	hypothetical protein, conserved	
+LmjF.28.0350	LmjF.28.0350:mRNA	L. major strain Friedlin	LmjF.28: 111,173 - 111,901 (+)	Sugar efflux transporter for intercellular exchange, putative	
+LmjF.28.0360	LmjF.28.0360:mRNA	L. major strain Friedlin	LmjF.28: 112,523 - 113,386 (-)	ubiquitin activating enzyme, putative	
+LmjF.28.0370	LmjF.28.0370:mRNA	L. major strain Friedlin	LmjF.28: 114,434 - 115,048 (-)	hypothetical protein, unknown function	
+LmjF.28.0380	LmjF.28.0380:mRNA	L. major strain Friedlin	LmjF.28: 115,711 - 116,889 (-)	saccharopine dehydrogenase, putative	
+LmjF.28.0390	LmjF.28.0390:mRNA	L. major strain Friedlin	LmjF.28: 119,643 - 122,432 (-)	hypothetical protein, conserved	
+LmjF.28.0400	LmjF.28.0400:mRNA	L. major strain Friedlin	LmjF.28: 123,554 - 125,197 (-)	katanin, putative	
+LmjF.28.0410	LmjF.28.0410:mRNA	L. major strain Friedlin	LmjF.28: 134,719 - 136,779 (-)	hypothetical protein, conserved	
+LmjF.28.0420	LmjF.28.0420:pseudogenic_transcript	L. major strain Friedlin	LmjF.28: 140,783 - 142,150 (-)	hypothetical protein, conserved (pseudogene)	
+LmjF.28.0430	LmjF.28.0430:mRNA	L. major strain Friedlin	LmjF.28: 143,040 - 144,320 (-)	hypothetical protein, conserved	
+LmjF.28.0440	LmjF.28.0440:mRNA	L. major strain Friedlin	LmjF.28: 145,102 - 147,426 (-)	hypothetical protein, conserved	
+LmjF.28.0450	LmjF.28.0450:mRNA	L. major strain Friedlin	LmjF.28: 148,074 - 150,965 (-)	DIS3-like exonuclease, putative	
+LmjF.28.0460	LmjF.28.0460:mRNA	L. major strain Friedlin	LmjF.28: 151,642 - 152,577 (-)	hypothetical protein, conserved	
+LmjF.28.0470	LmjF.28.0470:mRNA	L. major strain Friedlin	LmjF.28: 153,942 - 156,332 (-)	hypothetical protein, conserved	
+LmjF.28.0480	LmjF.28.0480:mRNA	L. major strain Friedlin	LmjF.28: 158,035 - 159,921 (-)	carbonic anhydrase-like protein	
+LmjF.28.0485	LmjF.28.0485:mRNA	L. major strain Friedlin	LmjF.28: 161,598 - 162,281 (-)	hypothetical protein, conserved	
+LmjF.28.0490	LmjF.28.0490:mRNA	L. major strain Friedlin	LmjF.28: 164,341 - 165,909 (-)	propionyl-coa carboxylase beta chain, putative	
+LmjF.28.0500	LmjF.28.0500:mRNA	L. major strain Friedlin	LmjF.28: 173,812 - 175,950 (-)	TPR repeat, putative	
+LmjF.28.0510	LmjF.28.0510:mRNA	L. major strain Friedlin	LmjF.28: 180,231 - 181,388 (-)	hypothetical protein, conserved	
+LmjF.28.0520	LmjF.28.0520:mRNA	L. major strain Friedlin	LmjF.28: 183,048 - 183,953 (-)	protein kinase, putative	
+LmjF.28.0530	LmjF.28.0530:mRNA	L. major strain Friedlin	LmjF.28: 184,982 - 189,064 (-)	RAD50 DNA repair-like protein	
+LmjF.28.0540	LmjF.28.0540:mRNA	L. major strain Friedlin	LmjF.28: 190,086 - 190,424 (-)	ribosomal protein S26, putative	
+LmjF.28.0550	LmjF.28.0550:mRNA	L. major strain Friedlin	LmjF.28: 192,069 - 193,202 (-)	DNA repair protein RAD51, putative	
+LmjF.28.0560	LmjF.28.0560:mRNA	L. major strain Friedlin	LmjF.28: 198,508 - 199,368 (-)	hypothetical protein, conserved	
+LmjF.28.0570	LmjF.28.0570:mRNA	L. major strain Friedlin	LmjF.28: 201,489 - 203,189 (-)	major surface protease gp63, putative	
+LmjF.28.0580	LmjF.28.0580:mRNA	L. major strain Friedlin	LmjF.28: 205,123 - 209,862 (-)	Mitogen-activated protein kinase 8, putative	
+LmjF.28.0590	LmjF.28.0590:mRNA	L. major strain Friedlin	LmjF.28: 214,227 - 215,798 (-)	hypothetical protein, unknown function	
+LmjF.28.0600	LmjF.28.0600:mRNA	L. major strain Friedlin	LmjF.28: 216,691 - 216,978 (-)	hypothetical protein, conserved	
+LmjF.28.0610	LmjF.28.0610:mRNA	L. major strain Friedlin	LmjF.28: 218,968 - 231,783 (-)	dynein heavy chain, putative	
+LmjF.28.0620	LmjF.28.0620:mRNA	L. major strain Friedlin	LmjF.28: 233,391 - 237,338 (-)	protein kinase, putative	
+LmjF.28.0630	LmjF.28.0630:mRNA	L. major strain Friedlin	LmjF.28: 240,609 - 241,268 (-)	ER lumen retaining receptor-like protein	
+LmjF.28.0640	LmjF.28.0640:mRNA	L. major strain Friedlin	LmjF.28: 242,708 - 242,914 (-)	ATP synthase subunit H, putative	
+LmjF.28.0650	LmjF.28.0650:mRNA	L. major strain Friedlin	LmjF.28: 244,097 - 245,176 (-)	protein transport protein SEC13, putative	
+LmjF.28.0660	LmjF.28.0660:mRNA	L. major strain Friedlin	LmjF.28: 246,314 - 247,336 (-)	hypothetical protein, conserved	
+LmjF.28.0670	LmjF.28.0670:mRNA	L. major strain Friedlin	LmjF.28: 249,284 - 250,366 (-)	hypothetical protein, unknown function	
+LmjF.28.0680	LmjF.28.0680:mRNA	L. major strain Friedlin	LmjF.28: 251,796 - 252,497 (-)	Ankyrin repeats (3 copies), putative	
+LmjF.28.0690	LmjF.28.0690:mRNA	L. major strain Friedlin	LmjF.28: 254,990 - 255,895 (-)	serine/threonine protein phosphatase catalytic subunit, putative	
+LmjF.28.0700	LmjF.28.0700:mRNA	L. major strain Friedlin	LmjF.28: 258,105 - 259,532 (-)	btb/poz domain containing protein, putative	
+LmjF.28.0705	LmjF.28.0705:mRNA	L. major strain Friedlin	LmjF.28: 260,915 - 261,667 (-)	Domain of unknown function (DUF4539), putative	
+LmjF.28.0710	LmjF.28.0710:mRNA	L. major strain Friedlin	LmjF.28: 262,851 - 264,608 (-)	SNARE associated Golgi protein, putative	
+LmjF.28.0720	LmjF.28.0720:mRNA	L. major strain Friedlin	LmjF.28: 265,910 - 267,592 (-)	Sas10/Utp3/C1D family/Sas10 C-terminal domain containing protein, putative	
+LmjF.28.0730	LmjF.28.0730:mRNA	L. major strain Friedlin	LmjF.28: 268,733 - 269,293 (-)	hypothetical protein, conserved	
+LmjF.28.0740	LmjF.28.0740.1:mRNA	L. major strain Friedlin	LmjF.28: 270,655 - 272,128 (-)	hypothetical protein, conserved	
+LmjF.28.0740	LmjF.28.0740.2:mRNA	L. major strain Friedlin	LmjF.28: 270,655 - 272,070 (-)	hypothetical protein, conserved	
+LmjF.28.0750	LmjF.28.0750:mRNA	L. major strain Friedlin	LmjF.28: 273,835 - 274,503 (-)	hypothetical protein, conserved	
+LmjF.28.0760	LmjF.28.0760:mRNA	L. major strain Friedlin	LmjF.28: 276,113 - 278,479 (-)	DNA repair protein, putative	
+LmjF.28.0770	LmjF.28.0770:mRNA	L. major strain Friedlin	LmjF.28: 279,049 - 280,473 (-)	hypothetical protein, conserved	
+LmjF.28.0780	LmjF.28.0780:mRNA	L. major strain Friedlin	LmjF.28: 282,498 - 284,072 (+)	RNA polymerase I	
+LmjF.28.0785	LmjF.28.0785:mRNA	L. major strain Friedlin	LmjF.28: 281,513 - 282,136 (+)	hypothetical protein, conserved	
+LmjF.28.0790	LmjF.28.0790:mRNA	L. major strain Friedlin	LmjF.28: 284,515 - 286,404 (+)	putative dual-specificity protein phosphatase, putative	
+LmjF.28.0800	LmjF.28.0800:mRNA	L. major strain Friedlin	LmjF.28: 287,077 - 287,541 (+)	calmodulin-like protein	
+LmjF.28.0810	LmjF.28.0810:mRNA	L. major strain Friedlin	LmjF.28: 288,536 - 288,985 (+)	RNA polymerase B subunit RPB8, putative	
+LmjF.28.0820	LmjF.28.0820:mRNA	L. major strain Friedlin	LmjF.28: 289,784 - 291,298 (+)	hypothetical protein, conserved	
+LmjF.28.0822	LmjF.28.0822:mRNA	L. major strain Friedlin	LmjF.28: 292,501 - 293,262 (+)	hypothetical protein, conserved	
+LmjF.28.0825	LmjF.28.0825:mRNA	L. major strain Friedlin	LmjF.28: 294,475 - 294,903 (+)	RNA binding protein rbp16, putative	
+LmjF.28.0830	LmjF.28.0830:mRNA	L. major strain Friedlin	LmjF.28: 298,263 - 299,861 (+)	hypothetical protein, conserved	
+LmjF.28.0835	LmjF.28.0835:mRNA	L. major strain Friedlin	LmjF.28: 305,384 - 305,917 (+)	hypothetical protein, conserved	
+LmjF.28.0840	LmjF.28.0840:mRNA	L. major strain Friedlin	LmjF.28: 306,622 - 309,231 (+)	hypothetical protein, conserved	
+LmjF.28.0850	LmjF.28.0850:mRNA	L. major strain Friedlin	LmjF.28: 310,826 - 313,735 (+)	DNA replication licensing factor MCM2, putative	
+LmjF.28.0860	LmjF.28.0860:mRNA	L. major strain Friedlin	LmjF.28: 314,539 - 315,993 (+)	hypothetical protein	
+LmjF.28.0870	LmjF.28.0870:mRNA	L. major strain Friedlin	LmjF.28: 317,024 - 318,760 (+)	hypothetical protein, conserved	
+LmjF.28.0880	LmjF.28.0880:mRNA	L. major strain Friedlin	LmjF.28: 320,363 - 320,893 (+)	hypothetical protein, conserved	
+LmjF.28.0890	LmjF.28.0890:mRNA	L. major strain Friedlin	LmjF.28: 322,440 - 324,839 (+)	ribonucleoside-diphosphate reductase large chain, putative	
+LmjF.28.0900	LmjF.28.0900.1:mRNA	L. major strain Friedlin	LmjF.28: 325,513 - 327,657 (+)	hypothetical protein, conserved	
+LmjF.28.0900	LmjF.28.0900.2:mRNA	L. major strain Friedlin	LmjF.28: 326,757 - 327,657 (+)	hypothetical protein, conserved	
+LmjF.28.0910	LmjF.28.0910:mRNA	L. major strain Friedlin	LmjF.28: 330,108 - 334,523 (+)	endonuclease/exonuclease/phosphatase-like protein	
+LmjF.28.0920	LmjF.28.0920:mRNA	L. major strain Friedlin	LmjF.28: 339,856 - 340,425 (+)	hypothetical protein, conserved	
+LmjF.28.0930	LmjF.28.0930:mRNA	L. major strain Friedlin	LmjF.28: 341,650 - 342,885 (+)	Mitochondrial import receptor subunit ATOM46, putative	
+LmjF.28.0940	LmjF.28.0940:mRNA	L. major strain Friedlin	LmjF.28: 344,661 - 347,582 (+)	oxidoreductase-like protein	
+LmjF.28.0950	LmjF.28.0950:mRNA	L. major strain Friedlin	LmjF.28: 348,553 - 348,933 (+)	Tctex-1 family, putative	
+LmjF.28.0960	LmjF.28.0960:mRNA	L. major strain Friedlin	LmjF.28: 349,958 - 350,392 (+)	40S ribosomal protein S14	
+LmjF.28.0970	LmjF.28.0970:mRNA	L. major strain Friedlin	LmjF.28: 351,781 - 352,278 (+)	hypothetical protein, conserved	
+LmjF.28.0980	LmjF.28.0980:mRNA	L. major strain Friedlin	LmjF.28: 353,036 - 353,758 (+)	P27 protein, putative	
+LmjF.28.0990	LmjF.28.0990:mRNA	L. major strain Friedlin	LmjF.28: 359,922 - 361,172 (+)	Serine incorporator (Serinc), putative	
+LmjF.28.1000	LmjF.28.1000:mRNA	L. major strain Friedlin	LmjF.28: 364,997 - 368,179 (+)	hypothetical protein, conserved	
+LmjF.28.1010	LmjF.28.1010:mRNA	L. major strain Friedlin	LmjF.28: 369,274 - 369,624 (+)	ribosomal protein S20, putative	
+LmjF.28.1020	LmjF.28.1020:mRNA	L. major strain Friedlin	LmjF.28: 370,814 - 372,697 (+)	hypothetical protein, conserved	
+LmjF.28.1030	LmjF.28.1030:mRNA	L. major strain Friedlin	LmjF.28: 373,797 - 374,147 (+)	ribosomal protein S20, putative	
+LmjF.28.1040	LmjF.28.1040:mRNA	L. major strain Friedlin	LmjF.28: 375,119 - 377,638 (+)	hypothetical protein, unknown function	
+LmjF.28.1050	LmjF.28.1050:mRNA	L. major strain Friedlin	LmjF.28: 379,466 - 380,692 (+)	hypothetical protein, conserved	
+LmjF.28.1060	LmjF.28.1060:mRNA	L. major strain Friedlin	LmjF.28: 386,009 - 387,226 (+)	hypothetical protein, conserved	
+LmjF.28.1070	LmjF.28.1070:mRNA	L. major strain Friedlin	LmjF.28: 389,727 - 394,148 (+)	hypothetical protein, conserved	
+LmjF.28.1080	LmjF.28.1080:mRNA	L. major strain Friedlin	LmjF.28: 396,191 - 398,359 (+)	hypothetical protein, conserved	
+LmjF.28.1090	LmjF.28.1090:mRNA	L. major strain Friedlin	LmjF.28: 401,519 - 404,167 (+)	ATP-grasp domain containing protein, putative	
+LmjF.28.1095	LmjF.28.1095:mRNA	L. major strain Friedlin	LmjF.28: 406,616 - 406,975 (+)	hypothetical protein, conserved	
+LmjF.28.1100	LmjF.28.1100:mRNA	L. major strain Friedlin	LmjF.28: 408,996 - 411,542 (+)	hypothetical protein, conserved	
+LmjF.28.1110	LmjF.28.1110:mRNA	L. major strain Friedlin	LmjF.28: 412,689 - 414,578 (+)	WD domain, G-beta repeat, putative	
+LmjF.28.1120	LmjF.28.1120:mRNA	L. major strain Friedlin	LmjF.28: 417,491 - 418,255 (+)	hypothetical protein, conserved	
+LmjF.28.1130	LmjF.28.1130:mRNA	L. major strain Friedlin	LmjF.28: 421,382 - 422,941 (+)	Amastin surface glycoprotein, putative	
+LmjF.28.1140	LmjF.28.1140:mRNA	L. major strain Friedlin	LmjF.28: 429,070 - 430,047 (+)	electron-transfer-flavoprotein, alpha polypeptide, putative	
+LmjF.28.1150	LmjF.28.1150:mRNA	L. major strain Friedlin	LmjF.28: 432,697 - 434,922 (+)	long-chain-fatty-acid-CoA ligase, putative	
+LmjF.28.1160	LmjF.28.1160:mRNA	L. major strain Friedlin	LmjF.28: 438,554 - 439,159 (+)	vacuolar type h+ ATPase subunit, putative	
+LmjF.28.1165	LmjF.28.1165:pseudogenic_transcript	L. major strain Friedlin	LmjF.28: 441,913 - 443,704 (+)	hypothetical protein	
+LmjF.28.1170	LmjF.28.1170:mRNA	L. major strain Friedlin	LmjF.28: 444,416 - 444,715 (+)	AN1-like zinc finger, putative	
+LmjF.28.1180	LmjF.28.1180:mRNA	L. major strain Friedlin	LmjF.28: 445,529 - 446,209 (+)	hypothetical protein, conserved	
+LmjF.28.1190	LmjF.28.1190:mRNA	L. major strain Friedlin	LmjF.28: 448,563 - 450,089 (+)	copine i-like protein	
+LmjF.28.1200	LmjF.28.1200:mRNA	L. major strain Friedlin	LmjF.28: 451,463 - 453,439 (+)	luminal binding protein 1 (BiP), putative	
+LmjF.28.1210	LmjF.28.1210:mRNA	L. major strain Friedlin	LmjF.28: 458,112 - 460,478 (+)	hypothetical protein, conserved	
+LmjF.28.1220	LmjF.28.1220:mRNA	L. major strain Friedlin	LmjF.28: 461,225 - 462,643 (+)	hypothetical protein, conserved	
+LmjF.28.1230	LmjF.28.1230:mRNA	L. major strain Friedlin	LmjF.28: 463,794 - 465,035 (+)	SMP-30/Gluconolaconase/LRE-like region, putative	
+LmjF.28.1240	LmjF.28.1240:mRNA	L. major strain Friedlin	LmjF.28: 466,772 - 468,709 (+)	p450 reductase, putative	
+LmjF.28.1250	LmjF.28.1250:mRNA	L. major strain Friedlin	LmjF.28: 470,167 - 471,483 (+)	hypothetical protein, conserved	
+LmjF.28.1260	LmjF.28.1260:mRNA	L. major strain Friedlin	LmjF.28: 472,563 - 476,018 (+)	hypothetical protein, conserved	
+LmjF.28.1270	LmjF.28.1270:mRNA	L. major strain Friedlin	LmjF.28: 477,170 - 478,588 (+)	DnaJ domain containing protein, putative	
+LmjF.28.1280	LmjF.28.1280:mRNA	L. major strain Friedlin	LmjF.28: 479,203 - 480,564 (+)	phenylalanine-4-hydroxylase	
+LmjF.28.1290	LmjF.28.1290:mRNA	L. major strain Friedlin	LmjF.28: 483,253 - 484,572 (+)	hypothetical protein, conserved	
+LmjF.28.1300	LmjF.28.1300:mRNA	L. major strain Friedlin	LmjF.28: 485,204 - 486,400 (+)	hypothetical protein, conserved	
+LmjF.28.1310	LmjF.28.1310:mRNA	L. major strain Friedlin	LmjF.28: 487,389 - 490,109 (+)	ATP-dependent RNA helicase, putative	
+LmjF.28.1320	LmjF.28.1320:mRNA	L. major strain Friedlin	LmjF.28: 491,576 - 493,045 (+)	prenyltransferase, putative	
+LmjF.28.1330	LmjF.28.1330:mRNA	L. major strain Friedlin	LmjF.28: 494,169 - 495,218 (+)	hypothetical protein, conserved	
+LmjF.28.1340	LmjF.28.1340:mRNA	L. major strain Friedlin	LmjF.28: 499,759 - 500,325 (+)	haloacid dehalogenase-like hydrolase, putative	
+LmjF.28.1350	LmjF.28.1350:mRNA	L. major strain Friedlin	LmjF.28: 501,568 - 502,569 (+)	haloacid dehalogenase-like hydrolase-like protein	
+LmjF.28.1360	LmjF.28.1360:mRNA	L. major strain Friedlin	LmjF.28: 505,190 - 506,059 (+)	haloacid dehalogenase-like hydrolase-like protein	
+LmjF.28.1370	LmjF.28.1370:mRNA	L. major strain Friedlin	LmjF.28: 507,951 - 508,805 (+)	haloacid dehalogenase-like hydrolase, putative	
+LmjF.28.1380	LmjF.28.1380:mRNA	L. major strain Friedlin	LmjF.28: 510,536 - 511,744 (+)	haloacid dehalogenase-like hydrolase-like protein	
+LmjF.28.1390	LmjF.28.1390:mRNA	L. major strain Friedlin	LmjF.28: 515,145 - 516,173 (+)	Amastin surface glycoprotein, putative	
+LmjF.28.1400	LmjF.28.1400:mRNA	L. major strain Friedlin	LmjF.28: 519,608 - 521,230 (+)	amastin-like protein	
+LmjF.28.1405	LmjF.28.1405:mRNA	L. major strain Friedlin	LmjF.28: 527,573 - 528,769 (+)	hypothetical protein	
+LmjF.28.1410	LmjF.28.1410:mRNA	L. major strain Friedlin	LmjF.28: 532,193 - 534,448 (+)	DNA polymerase kappa, putative	
+LmjF.28.1420	LmjF.28.1420:mRNA	L. major strain Friedlin	LmjF.28: 536,730 - 538,697 (+)	DNA polymerase kappa, putative	
+LmjF.28.1430	LmjF.28.1430:mRNA	L. major strain Friedlin	LmjF.28: 541,449 - 542,330 (+)	DNA polymerase kappa, putative	
+LmjF.28.1440	LmjF.28.1440:mRNA	L. major strain Friedlin	LmjF.28: 544,465 - 546,642 (+)	hypothetical protein, conserved	
+LmjF.28.1450	LmjF.28.1450:mRNA	L. major strain Friedlin	LmjF.28: 548,206 - 550,437 (+)	hypothetical protein, conserved	
+LmjF.28.1460	LmjF.28.1460:mRNA	L. major strain Friedlin	LmjF.28: 551,135 - 553,450 (+)	Cell division control protein 48, putative	
+LmjF.28.1470	LmjF.28.1470:mRNA	L. major strain Friedlin	LmjF.28: 554,233 - 555,339 (+)	Qa-SNARE protein	
+LmjF.28.1480	LmjF.28.1480:mRNA	L. major strain Friedlin	LmjF.28: 557,554 - 558,354 (+)	Qa-SNARE protein	
+LmjF.28.1490	LmjF.28.1490:mRNA	L. major strain Friedlin	LmjF.28: 559,265 - 559,681 (+)	Protein of unknown function (DUF423), putative	
+LmjF.28.1500	LmjF.28.1500:mRNA	L. major strain Friedlin	LmjF.28: 561,977 - 562,375 (+)	Protein of unknown function (DUF423), putative	
+LmjF.28.1510	LmjF.28.1510:mRNA	L. major strain Friedlin	LmjF.28: 564,599 - 564,982 (+)	Protein of unknown function (DUF423), putative	
+LmjF.28.1515	LmjF.28.1515:mRNA	L. major strain Friedlin	LmjF.28: 565,564 - 566,046 (+)	hypothetical protein, conserved	
+LmjF.28.1520	LmjF.28.1520:mRNA	L. major strain Friedlin	LmjF.28: 567,102 - 569,027 (+)	hypothetical protein, conserved	
+LmjF.28.1530	LmjF.28.1530:mRNA	L. major strain Friedlin	LmjF.28: 569,747 - 570,916 (+)	ATP-dependent RNA helicase FAL1, putative	
+LmjF.28.1540	LmjF.28.1540:mRNA	L. major strain Friedlin	LmjF.28: 573,809 - 576,379 (+)	hypothetical protein, unknown function	
+LmjF.28.1550	LmjF.28.1550:mRNA	L. major strain Friedlin	LmjF.28: 580,287 - 581,159 (+)	hypothetical protein, conserved	
+LmjF.28.1560	LmjF.28.1560:mRNA	L. major strain Friedlin	LmjF.28: 582,613 - 584,298 (+)	hypothetical protein, conserved	
+LmjF.28.1570	LmjF.28.1570:mRNA	L. major strain Friedlin	LmjF.28: 586,390 - 587,430 (+)	hydrolase, alpha/beta fold family, putative	
+LmjF.28.1580	LmjF.28.1580:mRNA	L. major strain Friedlin	LmjF.28: 595,610 - 596,857 (-)	phosphonopyruvate decarboxylase-like protein	
+LmjF.28.1590	LmjF.28.1590:mRNA	L. major strain Friedlin	LmjF.28: 598,396 - 599,676 (-)	Galactose oxidase, central domain containing protein, putative	
+LmjF.28.1600	LmjF.28.1600:mRNA	L. major strain Friedlin	LmjF.28: 600,306 - 604,172 (-)	helicase-like protein	
+LmjF.28.1610	LmjF.28.1610:mRNA	L. major strain Friedlin	LmjF.28: 605,349 - 606,347 (-)	hypothetical protein, conserved	
+LmjF.28.1620	LmjF.28.1620:mRNA	L. major strain Friedlin	LmjF.28: 607,019 - 610,396 (-)	tRNA pseudouridine synthase D (TruD), putative	
+LmjF.28.1630	LmjF.28.1630:mRNA	L. major strain Friedlin	LmjF.28: 611,723 - 613,600 (-)	Domain of unknown function (DUF3342), putative	
+LmjF.28.1640	LmjF.28.1640:mRNA	L. major strain Friedlin	LmjF.28: 618,755 - 622,864 (-)	hypothetical protein, conserved	
+LmjF.28.1650	LmjF.28.1650:mRNA	L. major strain Friedlin	LmjF.28: 625,355 - 627,910 (-)	Flagellum attachment zone protein 20	
+LmjF.28.1660	LmjF.28.1660:mRNA	L. major strain Friedlin	LmjF.28: 628,717 - 631,116 (-)	hypothetical protein, conserved	
+LmjF.28.1670	LmjF.28.1670:mRNA	L. major strain Friedlin	LmjF.28: 633,345 - 637,316 (-)	differentiation inhibitory kinase, putative	
+LmjF.28.1690	LmjF.28.1690:mRNA	L. major strain Friedlin	LmjF.28: 639,805 - 645,840 (-)	sulfate transporter-like protein	
+LmjF.28.1700	LmjF.28.1700:mRNA	L. major strain Friedlin	LmjF.28: 648,692 - 650,149 (-)	hypothetical protein, conserved	
+LmjF.28.1710	LmjF.28.1710:mRNA	L. major strain Friedlin	LmjF.28: 652,010 - 659,365 (-)	hypothetical protein, conserved	
+LmjF.28.1720	LmjF.28.1720:mRNA	L. major strain Friedlin	LmjF.28: 660,707 - 662,545 (-)	hypothetical protein, conserved	
+LmjF.28.1730	LmjF.28.1730:mRNA	L. major strain Friedlin	LmjF.28: 664,252 - 667,170 (-)	proteasome regulatory non-ATP-ase subunit 2, putative	
+LmjF.28.1740	LmjF.28.1740:mRNA	L. major strain Friedlin	LmjF.28: 668,380 - 670,143 (-)	NOL1/NOP2/sun family, putative	
+LmjF.28.1750	LmjF.28.1750:mRNA	L. major strain Friedlin	LmjF.28: 671,090 - 673,912 (-)	hypothetical protein, conserved	
+LmjF.28.1760	LmjF.28.1760:mRNA	L. major strain Friedlin	LmjF.28: 675,312 - 681,236 (-)	protein kinase, putative	
+LmjF.28.1770	LmjF.28.1770:mRNA	L. major strain Friedlin	LmjF.28: 683,419 - 684,621 (-)	Putative GTPase activating protein for Arf, putative	
+LmjF.28.1780	LmjF.28.1780:mRNA	L. major strain Friedlin	LmjF.28: 685,771 - 688,371 (-)	DNA topoisomerase III, putative	
+LmjF.28.1790	LmjF.28.1790:mRNA	L. major strain Friedlin	LmjF.28: 689,373 - 691,148 (-)	ATPase-like protein	
+LmjF.28.1800	LmjF.28.1800:mRNA	L. major strain Friedlin	LmjF.28: 692,346 - 701,027 (-)	hypothetical protein, conserved	
+LmjF.28.1810	LmjF.28.1810:mRNA	L. major strain Friedlin	LmjF.28: 703,205 - 703,735 (-)	mitochondrial RNA binding complex 1 subunit, putative	
+LmjF.28.1820	LmjF.28.1820:mRNA	L. major strain Friedlin	LmjF.28: 705,727 - 707,130 (-)	Replication factor A protein 1	
+LmjF.28.1830	LmjF.28.1830:mRNA	L. major strain Friedlin	LmjF.28: 708,482 - 712,294 (-)	DNA repair protein-like protein	
+LmjF.28.1840	LmjF.28.1840:mRNA	L. major strain Friedlin	LmjF.28: 713,352 - 714,071 (-)	methylthioribulose-1-phosphate dehydratase, putative	
+LmjF.28.1850	LmjF.28.1850:mRNA	L. major strain Friedlin	LmjF.28: 714,642 - 717,542 (-)	C-terminal motor kinesin, putative	
+LmjF.28.1860	LmjF.28.1860:mRNA	L. major strain Friedlin	LmjF.28: 718,828 - 719,694 (-)	Domain of unknown function (DUF4586), putative	
+LmjF.28.1870	LmjF.28.1870:mRNA	L. major strain Friedlin	LmjF.28: 720,519 - 722,537 (-)	Putative methyltransferase, putative	
+LmjF.28.1880	LmjF.28.1880:mRNA	L. major strain Friedlin	LmjF.28: 726,026 - 729,811 (-)	AARP2CN (NUC121) domain/Protein of unknown function (DUF663), putative	
+LmjF.28.1890	LmjF.28.1890:mRNA	L. major strain Friedlin	LmjF.28: 730,869 - 732,242 (-)	palmitoyl acyltransferase 4, putative	
+LmjF.28.1900	LmjF.28.1900:mRNA	L. major strain Friedlin	LmjF.28: 735,966 - 737,696 (-)	DnaJ domain containing protein, putative	
+LmjF.28.1910	LmjF.28.1910:mRNA	L. major strain Friedlin	LmjF.28: 738,527 - 740,560 (-)	p21-C-terminal region-binding protein, putative	
+LmjF.28.1920	LmjF.28.1920:mRNA	L. major strain Friedlin	LmjF.28: 742,278 - 742,619 (-)	Double-stranded DNA-binding domain containing protein, putative	
+LmjF.28.1930	LmjF.28.1930:mRNA	L. major strain Friedlin	LmjF.28: 745,825 - 747,159 (-)	Zinc transporter 3, putative	
+LmjF.28.1940	LmjF.28.1940:mRNA	L. major strain Friedlin	LmjF.28: 749,100 - 751,133 (-)	divalent cation transporter, putative	
+LmjF.28.1950	LmjF.28.1950:mRNA	L. major strain Friedlin	LmjF.28: 754,856 - 757,138 (-)	X-pro, dipeptidyl-peptidase,serine peptidase, Clan SC, family S15, putative	
+LmjF.28.1960	LmjF.28.1960:mRNA	L. major strain Friedlin	LmjF.28: 760,673 - 763,234 (-)	Elongation factor G 2, mitochondrial, putative	
+LmjF.28.1970	LmjF.28.1970:mRNA	L. major strain Friedlin	LmjF.28: 766,756 - 767,274 (-)	ribose 5-phosphate isomerase, putative	
+LmjF.28.1980	LmjF.28.1980:mRNA	L. major strain Friedlin	LmjF.28: 768,903 - 773,183 (-)	hypothetical protein, conserved	
+LmjF.28.1990	LmjF.28.1990:mRNA	L. major strain Friedlin	LmjF.28: 777,598 - 779,841 (-)	hypothetical protein, conserved	
+LmjF.28.1995	LmjF.28.1995:mRNA	L. major strain Friedlin	LmjF.28: 781,887 - 782,216 (-)	hypothetical protein, conserved	
+LmjF.28.2000	LmjF.28.2000:mRNA	L. major strain Friedlin	LmjF.28: 793,386 - 796,019 (-)	protein kinase, putative	
+LmjF.28.2010	LmjF.28.2010:mRNA	L. major strain Friedlin	LmjF.28: 798,751 - 800,400 (-)	hypothetical protein, conserved	
+LmjF.28.2020	LmjF.28.2020:mRNA	L. major strain Friedlin	LmjF.28: 801,195 - 802,928 (-)	hypothetical protein, conserved	
+LmjF.28.2030	LmjF.28.2030:mRNA	L. major strain Friedlin	LmjF.28: 803,943 - 804,464 (-)	NADH dehydrogenase subunit NB6M, putative	
+LmjF.28.2040	LmjF.28.2040:mRNA	L. major strain Friedlin	LmjF.28: 805,576 - 806,172 (-)	DPCD protein family, putative	
+LmjF.28.2050	LmjF.28.2050:mRNA	L. major strain Friedlin	LmjF.28: 806,906 - 809,917 (-)	AMP-binding enzyme/Ankyrin repeats (3 copies), putative	
+LmjF.28.2060	LmjF.28.2060:mRNA	L. major strain Friedlin	LmjF.28: 810,518 - 810,931 (-)	DNA-directed RNA polymerase-like protein	
+LmjF.28.2070	LmjF.28.2070:mRNA	L. major strain Friedlin	LmjF.28: 811,782 - 812,942 (-)	tRNA threonylcarbamoyl adenosine modification protein, Sua5/YciO/YrdC/YwlC family, putative	
+LmjF.28.2080	LmjF.28.2080:mRNA	L. major strain Friedlin	LmjF.28: 814,559 - 816,193 (-)	DEAD-box ATP-dependent RNA helicase, mitochondrial	
+LmjF.28.2090	LmjF.28.2090:mRNA	L. major strain Friedlin	LmjF.28: 816,665 - 818,548 (-)	CEP76 C2 domain containing protein, putative	
+LmjF.28.2095	LmjF.28.2095:mRNA	L. major strain Friedlin	LmjF.28: 818,807 - 819,235 (-)	Uncharacterised protein family (UPF0220), putative	
+LmjF.28.2100	LmjF.28.2100:mRNA	L. major strain Friedlin	LmjF.28: 819,522 - 820,571 (-)	glycerophosphoryl diester phosphodiesterase, putative	
+LmjF.28.2110	LmjF.28.2110:mRNA	L. major strain Friedlin	LmjF.28: 824,935 - 827,241 (+)	Cullin family/Cullin protein neddylation domain containing protein, putative	
+LmjF.28.2120	LmjF.28.2120:mRNA	L. major strain Friedlin	LmjF.28: 828,010 - 830,325 (+)	cullin 2, putative	
+LmjF.28.2130	LmjF.28.2130:mRNA	L. major strain Friedlin	LmjF.28: 833,997 - 834,269 (+)	Dynein light chain LC6, flagellar outer arm, putative	
+LmjF.28.2140	LmjF.28.2140:mRNA	L. major strain Friedlin	LmjF.28: 834,957 - 836,462 (+)	A/G-specific adenine glycosylase, putative	
+LmjF.28.2150	LmjF.28.2150:mRNA	L. major strain Friedlin	LmjF.28: 836,968 - 839,472 (+)	hypothetical protein, conserved	
+LmjF.28.2160	LmjF.28.2160:mRNA	L. major strain Friedlin	LmjF.28: 839,980 - 840,678 (+)	methyltransferase domain containing protein, putative	
+LmjF.28.2170	LmjF.28.2170:mRNA	L. major strain Friedlin	LmjF.28: 841,486 - 843,441 (+)	Mitochondrial import receptor subunit ATOM69, putative	
+LmjF.28.2180	LmjF.28.2180:mRNA	L. major strain Friedlin	LmjF.28: 845,076 - 846,068 (+)	hypothetical protein, conserved	
+LmjF.28.2190	LmjF.28.2190:mRNA	L. major strain Friedlin	LmjF.28: 847,557 - 850,295 (+)	hypothetical protein, conserved	
+LmjF.28.2200	LmjF.28.2200:mRNA	L. major strain Friedlin	LmjF.28: 851,385 - 854,228 (+)	Mannosyl oligosaccharide glucosidase, putative	
+LmjF.28.2205	LmjF.28.2205:mRNA	L. major strain Friedlin	LmjF.28: 855,479 - 855,652 (+)	ribosomal protein S29, putative	
+LmjF.28.2210	LmjF.28.2210:mRNA	L. major strain Friedlin	LmjF.28: 857,975 - 860,125 (+)	glycoprotein 96-92, putative	
+LmjF.28.2220	LmjF.28.2220:mRNA	L. major strain Friedlin	LmjF.28: 862,904 - 865,405 (+)	2,3-bisphosphoglycerate-independent phosphoglycerate mutase-like	
+LmjF.28.2230	LmjF.28.2230:mRNA	L. major strain Friedlin	LmjF.28: 867,186 - 870,002 (+)	cyclin dependent kinase-binding protein, putative	
+LmjF.28.2240	LmjF.28.2240:mRNA	L. major strain Friedlin	LmjF.28: 871,262 - 872,380 (+)	hd phosphohydrolase family protein	
+LmjF.28.2250	LmjF.28.2250:mRNA	L. major strain Friedlin	LmjF.28: 875,539 - 876,204 (+)	glycosomal membrane protein-like protein	
+LmjF.28.2260	LmjF.28.2260:mRNA	L. major strain Friedlin	LmjF.28: 877,125 - 877,793 (+)	glycosomal membrane protein, putative	
+LmjF.28.2270	LmjF.28.2270:mRNA	L. major strain Friedlin	LmjF.28: 881,155 - 883,455 (+)	histone acetyltransferase, putative	
+LmjF.28.2280	LmjF.28.2280:mRNA	L. major strain Friedlin	LmjF.28: 884,562 - 889,055 (+)	DNA topoisomerase ii	
+LmjF.28.2290	LmjF.28.2290:mRNA	L. major strain Friedlin	LmjF.28: 889,917 - 892,427 (+)	Translation initiation factor eIF-2B subunit epsilon, putative	
+LmjF.28.2300	LmjF.28.2300:mRNA	L. major strain Friedlin	LmjF.28: 893,739 - 895,676 (+)	hypothetical protein, conserved	
+LmjF.28.2310	LmjF.28.2310:mRNA	L. major strain Friedlin	LmjF.28: 896,720 - 897,937 (+)	Eukaryotic translation initiation factor 3 subunit E	
+LmjF.28.2320	LmjF.28.2320:mRNA	L. major strain Friedlin	LmjF.28: 901,284 - 903,998 (+)	hypothetical protein, conserved	
+LmjF.28.2330	LmjF.28.2330:mRNA	L. major strain Friedlin	LmjF.28: 905,084 - 907,321 (+)	Cactus-binding C-terminus of cactin protein, putative	
+LmjF.28.2350	LmjF.28.2350:mRNA	L. major strain Friedlin	LmjF.28: 908,157 - 909,014 (+)	hypothetical protein, conserved	
+LmjF.28.2360	LmjF.28.2360:mRNA	L. major strain Friedlin	LmjF.28: 910,249 - 910,983 (+)	hypothetical protein, conserved	
+LmjF.28.2370	LmjF.28.2370:mRNA	L. major strain Friedlin	LmjF.28: 913,371 - 914,813 (+)	serine hydroxymethyltransferase (SHMT-L)	
+LmjF.28.2380	LmjF.28.2380:mRNA	L. major strain Friedlin	LmjF.28: 916,728 - 921,938 (+)	subtilisin-like serine peptidase	
+LmjF.28.2385	LmjF.28.2385:mRNA	L. major strain Friedlin	LmjF.28: 925,006 - 927,648 (+)	DNA replication licensing factor MCM6, putative	
+LmjF.28.2390	LmjF.28.2390:mRNA	L. major strain Friedlin	LmjF.28: 928,993 - 933,066 (+)	WW domain containing protein, putative	
+LmjF.28.2400	LmjF.28.2400:mRNA	L. major strain Friedlin	LmjF.28: 934,045 - 935,088 (+)	tRNA methyltransferase complex GCD14 subunit, putative	
+LmjF.28.2410	LmjF.28.2410:mRNA	L. major strain Friedlin	LmjF.28: 935,891 - 938,029 (+)	dolichyl-lipid chaperone, putative	
+LmjF.28.2415	LmjF.28.2415:mRNA	L. major strain Friedlin	LmjF.28: 938,734 - 938,832 (+)	hypothetical protein	
+LmjF.28.2420	LmjF.28.2420:mRNA	L. major strain Friedlin	LmjF.28: 939,577 - 940,746 (+)	2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase, putative	
+LmjF.28.2430	LmjF.28.2430:mRNA	L. major strain Friedlin	LmjF.28: 943,761 - 945,248 (+)	Vacuolar proton pump subunit B, putative	
+LmjF.28.2440	LmjF.28.2440:mRNA	L. major strain Friedlin	LmjF.28: 947,699 - 949,720 (+)	hypothetical protein, conserved	
+LmjF.28.2445	LmjF.28.2445:mRNA	L. major strain Friedlin	LmjF.28: 950,663 - 951,703 (+)	Putative serine esterase (DUF676), putative	
+LmjF.28.2450	LmjF.28.2450:mRNA	L. major strain Friedlin	LmjF.28: 953,655 - 956,099 (+)	hypothetical protein, conserved	
+LmjF.28.2460	LmjF.28.2460:mRNA	L. major strain Friedlin	LmjF.28: 956,784 - 956,957 (+)	ribosomal protein S29, putative	
+LmjF.28.2470	LmjF.28.2470:mRNA	L. major strain Friedlin	LmjF.28: 958,674 - 959,552 (+)	MRP protein-like protein	
+LmjF.28.2480	LmjF.28.2480:mRNA	L. major strain Friedlin	LmjF.28: 960,284 - 961,189 (+)	hypothetical protein, conserved	
+LmjF.28.2490	LmjF.28.2490:mRNA	L. major strain Friedlin	LmjF.28: 962,954 - 964,489 (+)	hypothetical protein, conserved	
+LmjF.28.2500	LmjF.28.2500:mRNA	L. major strain Friedlin	LmjF.28: 965,413 - 966,462 (+)	Eukaryotic translation initiation factor 4E-3	
+LmjF.28.2510	LmjF.28.2510:mRNA	L. major strain Friedlin	LmjF.28: 970,365 - 972,254 (+)	acyl-CoA dehydrogenase, putative	
+LmjF.28.2520	LmjF.28.2520:mRNA	L. major strain Friedlin	LmjF.28: 975,049 - 976,971 (+)	R3H domain containing protein, putative	
+LmjF.28.2530	LmjF.28.2530:mRNA	L. major strain Friedlin	LmjF.28: 978,560 - 981,856 (+)	DNA repair and recombination helicase protein PIF3, putative	
+LmjF.28.2540	LmjF.28.2540:mRNA	L. major strain Friedlin	LmjF.28: 983,257 - 987,930 (+)	hypothetical protein, conserved	
+LmjF.28.2550	LmjF.28.2550:mRNA	L. major strain Friedlin	LmjF.28: 989,482 - 992,511 (+)	hypothetical protein, unknown function	
+LmjF.28.2555	LmjF.28.2555:mRNA	L. major strain Friedlin	LmjF.28: 993,269 - 993,700 (+)	40S ribosomal protein S17, putative	
+LmjF.28.2560	LmjF.28.2560:mRNA	L. major strain Friedlin	LmjF.28: 994,835 - 995,266 (+)	40S ribosomal protein S17, putative	
+LmjF.28.2565	LmjF.28.2565:mRNA	L. major strain Friedlin	LmjF.28: 996,230 - 997,024 (+)	hypothetical protein, conserved	
+LmjF.28.2570	LmjF.28.2570:mRNA	L. major strain Friedlin	LmjF.28: 997,668 - 1,001,063 (+)	splicing factor 3B subunit 1, putative	
+LmjF.28.2580	LmjF.28.2580:mRNA	L. major strain Friedlin	LmjF.28: 1,002,695 - 1,005,352 (+)	leucine-rich repeat protein, putative	
+LmjF.28.2590	LmjF.28.2590:mRNA	L. major strain Friedlin	LmjF.28: 1,006,542 - 1,007,795 (+)	ADP-ribosylglycohydrolase, putative	
+LmjF.28.2610	LmjF.28.2610:mRNA	L. major strain Friedlin	LmjF.28: 1,009,159 - 1,014,423 (+)	hypothetical protein, conserved	
+LmjF.28.2620	LmjF.28.2620:mRNA	L. major strain Friedlin	LmjF.28: 1,015,514 - 1,018,111 (+)	Coatomer subunit gamma	
+LmjF.28.2630	LmjF.28.2630:mRNA	L. major strain Friedlin	LmjF.28: 1,020,331 - 1,021,824 (+)	hypothetical protein, unknown function	
+LmjF.28.2640	LmjF.28.2640:mRNA	L. major strain Friedlin	LmjF.28: 1,023,437 - 1,026,157 (+)	molybdenum cofactor biosynthesis protein, putative	
+LmjF.28.2650	LmjF.28.2650:mRNA	L. major strain Friedlin	LmjF.28: 1,027,319 - 1,028,965 (+)	membrane-bound acid phosphatase, putative	
+LmjF.28.2660	LmjF.28.2660:mRNA	L. major strain Friedlin	LmjF.28: 1,031,391 - 1,032,092 (+)	SelR domain containing protein, putative	
+LmjF.28.2670	LmjF.28.2670:mRNA	L. major strain Friedlin	LmjF.28: 1,033,529 - 1,034,452 (+)	protein phosphatase 4 catalytic subunit, putative	
+LmjF.28.2680	LmjF.28.2680:mRNA	L. major strain Friedlin	LmjF.28: 1,035,405 - 1,036,652 (+)	cytochrome oxidase assembly protein-like protein	
+LmjF.28.2690	LmjF.28.2690:mRNA	L. major strain Friedlin	LmjF.28: 1,037,246 - 1,038,358 (+)	hypothetical protein, conserved	
+LmjF.28.2700	LmjF.28.2700:mRNA	L. major strain Friedlin	LmjF.28: 1,039,014 - 1,040,405 (-)	hypothetical protein, unknown function	
+LmjF.28.2710	LmjF.28.2710:mRNA	L. major strain Friedlin	LmjF.28: 1,040,954 - 1,041,814 (-)	hypothetical protein, conserved	
+LmjF.28.2720	LmjF.28.2720:mRNA	L. major strain Friedlin	LmjF.28: 1,042,539 - 1,042,907 (-)	hypothetical protein, conserved	
+LmjF.28.2730	LmjF.28.2730:mRNA	L. major strain Friedlin	LmjF.28: 1,043,560 - 1,045,371 (-)	hypothetical protein, conserved	
+LmjF.28.2740	LmjF.28.2740:mRNA	L. major strain Friedlin	LmjF.28: 1,046,693 - 1,047,631 (-)	receptor for activated C kinase 1	
+LmjF.28.2750	LmjF.28.2750:mRNA	L. major strain Friedlin	LmjF.28: 1,050,749 - 1,051,687 (-)	receptor for activated C kinase 1	
+LmjF.28.2760	LmjF.28.2760:mRNA	L. major strain Friedlin	LmjF.28: 1,052,384 - 1,054,867 (-)	gamma-tubulin complex component 3	
+LmjF.28.2770	LmjF.28.2770:mRNA	L. major strain Friedlin	LmjF.28: 1,056,925 - 1,058,901 (-)	heat-shock protein hsp70, putative	
+LmjF.28.2780	LmjF.28.2780:mRNA	L. major strain Friedlin	LmjF.28: 1,060,574 - 1,062,550 (-)	heat-shock protein hsp70, putative	
+LmjF.28.2790	LmjF.28.2790:mRNA	L. major strain Friedlin	LmjF.28: 1,064,631 - 1,064,831 (-)	hypothetical protein, unknown function	
+LmjF.28.2800	LmjF.28.2800:mRNA	L. major strain Friedlin	LmjF.28: 1,065,641 - 1,067,137 (-)	beta-lactamase, putative	
+LmjF.28.2810	LmjF.28.2810:mRNA	L. major strain Friedlin	LmjF.28: 1,067,936 - 1,068,562 (-)	hypothetical protein, conserved	
+LmjF.28.2820	LmjF.28.2820:mRNA	L. major strain Friedlin	LmjF.28: 1,069,350 - 1,071,338 (-)	heat shock protein 70, putative	
+LmjF.28.2830	LmjF.28.2830:mRNA	L. major strain Friedlin	LmjF.28: 1,072,400 - 1,075,435 (-)	hypothetical protein, conserved	
+LmjF.28.2840	LmjF.28.2840:mRNA	L. major strain Friedlin	LmjF.28: 1,075,917 - 1,077,392 (-)	hypothetical protein, conserved	
+LmjF.28.2850	LmjF.28.2850:mRNA	L. major strain Friedlin	LmjF.28: 1,078,225 - 1,079,616 (-)	hypothetical protein, conserved	
+LmjF.28.2860	LmjF.28.2860:mRNA	L. major strain Friedlin	LmjF.28: 1,081,619 - 1,082,593 (-)	cytosolic malate dehydrogenase	
+LmjF.28.2870	LmjF.28.2870:mRNA	L. major strain Friedlin	LmjF.28: 1,083,439 - 1,084,191 (-)	hypothetical protein, unknown function	
+LmjF.28.2880	LmjF.28.2880:mRNA	L. major strain Friedlin	LmjF.28: 1,085,494 - 1,098,171 (-)	dynein heavy chain, putative	
+LmjF.28.2890	LmjF.28.2890:mRNA	L. major strain Friedlin	LmjF.28: 1,099,905 - 1,101,062 (-)	hypothetical protein, conserved	
+LmjF.28.2900	LmjF.28.2900:mRNA	L. major strain Friedlin	LmjF.28: 1,102,802 - 1,104,403 (-)	oligomeric golgi complex component 8, putative	
+LmjF.28.2910	LmjF.28.2910:mRNA	L. major strain Friedlin	LmjF.28: 1,108,085 - 1,109,443 (-)	glutamate dehydrogenase, putative	
+LmjF.28.2920	LmjF.28.2920:mRNA	L. major strain Friedlin	LmjF.28: 1,111,764 - 1,112,300 (-)	hypothetical protein, conserved	
+LmjF.28.2930	LmjF.28.2930:mRNA	L. major strain Friedlin	LmjF.28: 1,113,441 - 1,115,645 (-)	Low-affinity phosphate transporter PHO91	
+LmjF.28.2940	LmjF.28.2940:mRNA	L. major strain Friedlin	LmjF.28: 1,116,610 - 1,117,038 (-)	hypothetical protein, unknown function	
+LmjF.28.2950	LmjF.28.2950:mRNA	L. major strain Friedlin	LmjF.28: 1,121,161 - 1,122,174 (-)	hypothetical protein, conserved	
+LmjF.28.2960	LmjF.28.2960:mRNA	L. major strain Friedlin	LmjF.28: 1,123,909 - 1,124,877 (-)	U5 snRNP-specific 40 kDa protein, putative	
+LmjF.28.2965	LmjF.28.2965:pseudogenic_transcript	L. major strain Friedlin	LmjF.28: 1,126,768 - 1,129,646 (-)	hypothetical protein	
+LmjF.28.2970	LmjF.28.2970:mRNA	L. major strain Friedlin	LmjF.28: 1,130,835 - 1,131,200 (-)	hypothetical protein, conserved	
+LmjF.28.2980	LmjF.28.2980:mRNA	L. major strain Friedlin	LmjF.28: 1,132,077 - 1,132,586 (-)	hypothetical protein, conserved	
+LmjF.28.2990	LmjF.28.2990:mRNA	L. major strain Friedlin	LmjF.28: 1,133,387 - 1,134,094 (-)	hypothetical protein, conserved	
+LmjF.28.3000	LmjF.28.3000:mRNA	L. major strain Friedlin	LmjF.28: 1,134,827 - 1,135,990 (-)	serine/threonine kinase, putative	
+LmjF.28.3005	LmjF.28.3005:mRNA	L. major strain Friedlin	LmjF.28: 1,136,720 - 1,137,166 (-)	glucosamine 6-phosphate n-acetyltransferase, putative	
+LmjF.28.3010	LmjF.28.3010:mRNA	L. major strain Friedlin	LmjF.28: 1,138,020 - 1,141,037 (-)	hypothetical protein, conserved	
+LmjF.28.3030	LmjF.28.3030:mRNA	L. major strain Friedlin	LmjF.28: 1,142,086 - 1,153,731 (-)	hypothetical protein, conserved	

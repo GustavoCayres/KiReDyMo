@@ -72,16 +72,35 @@ class Database:
         cursor.executemany('''INSERT INTO Chromosome VALUES (?, ?, ?)''', chromosomes)
         return len(chromosomes)
 
-    def insert_replication_origins(self, chromosome_code, replication_speed, replication_repair_duration):
+    def insert_replication_origins(self, file_name, replication_speed, replication_repair_duration):
         """ Insert a replication origin with the specified
         {position, start_probability, chromosome}
         into the specified chromosome. """
-        """ Currently inserting an invlaid origin that will be replaced during the simulation. """
+        """ Currently inserting an invalid origin that will be replaced during the simulation. """
 
-        chromosome = self.select_chromosomes(code=chromosome_code)[0]
-        origins = [(-1, 1, replication_speed, replication_repair_duration, chromosome.code, chromosome.organism)]
+        cursor = self.db.cursor()
 
-        self.db.cursor().executemany('''INSERT INTO ReplicationOrigin VALUES (?, ?, ?, ?, ?, ?)''', origins)
+        with open(file_name, 'r') as file:
+            header_line_as_list = next(file).split("\t")
+            code_index = -1  # let's find what column holds our desired data
+            organism_index = -1
+
+            for index, tag in enumerate(header_line_as_list):
+                if tag == "[Code]":
+                    code_index = index
+                elif tag == "[Organism]":
+                    organism_index = index
+
+            origins = []
+            for line in file:
+                line_as_list = line.split("\t")
+                code = line_as_list[code_index]
+                organism = line_as_list[organism_index]
+
+                origins.append((-1, 1, replication_speed, replication_repair_duration,
+                                code, organism))
+
+        cursor.executemany('''INSERT INTO ReplicationOrigin VALUES (?, ?, ?, ?, ?, ?)''', origins)
         return len(origins)
 
     def insert_transcription_regions(self, file_name, speed, delay):

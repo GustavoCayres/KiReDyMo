@@ -1,0 +1,281 @@
+[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
+LmjF.20.0010	LmjF.20.0010:mRNA	L. major strain Friedlin	LmjF.20: 2,300 - 5,698 (-)	DNA-directed RNA polymerase III, putative	
+LmjF.20.0020	LmjF.20.0020:mRNA	L. major strain Friedlin	LmjF.20: 6,340 - 7,572 (-)	WD domain, G-beta repeat, putative	
+LmjF.20.0030	LmjF.20.0030:mRNA	L. major strain Friedlin	LmjF.20: 8,574 - 9,413 (-)	Histone-lysine N-methyltransferase, H3 lysine-76 specific	
+LmjF.20.0040	LmjF.20.0040:mRNA	L. major strain Friedlin	LmjF.20: 12,206 - 13,177 (-)	hypothetical protein, conserved	
+LmjF.20.0050	LmjF.20.0050:mRNA	L. major strain Friedlin	LmjF.20: 14,636 - 15,112 (-)	histone chaperone ASF1A	
+LmjF.20.0060	LmjF.20.0060:mRNA	L. major strain Friedlin	LmjF.20: 16,100 - 19,597 (-)	DNA repair protein BRCA2, putative	
+LmjF.20.0070	LmjF.20.0070:mRNA	L. major strain Friedlin	LmjF.20: 20,661 - 21,272 (-)	hypothetical protein, conserved	
+LmjF.20.0080	LmjF.20.0080:mRNA	L. major strain Friedlin	LmjF.20: 22,912 - 24,639 (-)	hypothetical protein, conserved	
+LmjF.20.0090	LmjF.20.0090:mRNA	L. major strain Friedlin	LmjF.20: 27,027 - 30,359 (-)	Ion channel/Calcium-activated BK potassium channel alpha subunit, putative	
+LmjF.20.0100	LmjF.20.0100:mRNA	L. major strain Friedlin	LmjF.20: 32,976 - 34,415 (-)	phosphoglycerate kinase C, glycosomal	
+LmjF.20.0110	LmjF.20.0110.1:mRNA	L. major strain Friedlin	LmjF.20: 35,830 - 37,198 (-)	phosphoglycerate kinase B, cytosolic	
+LmjF.20.0110	LmjF.20.0110.2:mRNA	L. major strain Friedlin	LmjF.20: 35,830 - 37,153 (-)	phosphoglycerate kinase B, cytosolic	
+LmjF.20.0120	LmjF.20.0120:mRNA	L. major strain Friedlin	LmjF.20: 39,879 - 41,549 (-)	NADH-ubiquinone oxidoreductase complex I subunit, putative	
+LmjF.20.0130	LmjF.20.0130:mRNA	L. major strain Friedlin	LmjF.20: 42,528 - 43,862 (-)	phosphatidylinositol-4-phosphate 5-kinase related	
+LmjF.20.0140	LmjF.20.0140:mRNA	L. major strain Friedlin	LmjF.20: 45,714 - 49,373 (-)	hypothetical protein, conserved	
+LmjF.20.0150	LmjF.20.0150:mRNA	L. major strain Friedlin	LmjF.20: 51,369 - 54,095 (-)	Domain of unknown function (DUF1736), putative	
+LmjF.20.0160	LmjF.20.0160:mRNA	L. major strain Friedlin	LmjF.20: 55,778 - 58,195 (-)	wd40 repeat domain-containing protein	
+LmjF.20.0170	LmjF.20.0170:mRNA	L. major strain Friedlin	LmjF.20: 59,099 - 60,217 (-)	leucine-rich repeat-containing protein	
+LmjF.20.0180	LmjF.20.0180:mRNA	L. major strain Friedlin	LmjF.20: 61,266 - 63,854 (-)	hypothetical protein, conserved	
+LmjF.20.0190	LmjF.20.0190:mRNA	L. major strain Friedlin	LmjF.20: 64,903 - 65,511 (-)	hypothetical protein, unknown function	
+LmjF.20.0200	LmjF.20.0200:mRNA	L. major strain Friedlin	LmjF.20: 66,093 - 68,681 (-)	hypothetical protein, conserved	
+LmjF.20.0210	LmjF.20.0210:mRNA	L. major strain Friedlin	LmjF.20: 69,531 - 70,784 (-)	kelch domain-containing protein	
+LmjF.20.0220	LmjF.20.0220:mRNA	L. major strain Friedlin	LmjF.20: 73,535 - 76,384 (-)	hypothetical protein, conserved	
+LmjF.20.0230	LmjF.20.0230:mRNA	L. major strain Friedlin	LmjF.20: 77,334 - 77,909 (-)	transmembrane protein, putative	
+LmjF.20.0240	LmjF.20.0240:mRNA	L. major strain Friedlin	LmjF.20: 78,927 - 79,712 (-)	transmembrane protein, putative	
+LmjF.20.0250	LmjF.20.0250:mRNA	L. major strain Friedlin	LmjF.20: 80,546 - 81,685 (-)	deoxyhypusine synthase, putative	
+LmjF.20.0260	LmjF.20.0260:mRNA	L. major strain Friedlin	LmjF.20: 83,519 - 97,996 (-)	Midasin, putative	
+LmjF.20.0265	LmjF.20.0265:mRNA	L. major strain Friedlin	LmjF.20: 99,316 - 100,104 (+)	hypothetical protein, conserved	
+LmjF.20.0270	LmjF.20.0270:mRNA	L. major strain Friedlin	LmjF.20: 100,488 - 101,549 (+)	Enkuring domain-containig protein	
+LmjF.20.0280	LmjF.20.0280:mRNA	L. major strain Friedlin	LmjF.20: 102,051 - 103,409 (+)	developmentally regulated phosphoprotein-like protein	
+LmjF.20.0290	LmjF.20.0290:mRNA	L. major strain Friedlin	LmjF.20: 105,367 - 107,766 (+)	E3 ubiquitin-protein ligase KCMF1, putative	
+LmjF.20.0300	LmjF.20.0300:mRNA	L. major strain Friedlin	LmjF.20: 108,637 - 109,872 (+)	leucine-rich repeat-containing protein	
+LmjF.20.0310	LmjF.20.0310.1:mRNA	L. major strain Friedlin	LmjF.20: 111,369 - 113,379 (+)	hypothetical protein, conserved	
+LmjF.20.0310	LmjF.20.0310.2:mRNA	L. major strain Friedlin	LmjF.20: 112,931 - 113,379 (+)	hypothetical protein, conserved	
+LmjF.20.0320	LmjF.20.0320:mRNA	L. major strain Friedlin	LmjF.20: 114,169 - 116,268 (+)	Leucine Rich repeats (2 copies), putative	
+LmjF.20.0330	LmjF.20.0330:mRNA	L. major strain Friedlin	LmjF.20: 117,070 - 118,023 (+)	hypothetical protein, conserved	
+LmjF.20.0340	LmjF.20.0340:mRNA	L. major strain Friedlin	LmjF.20: 118,982 - 120,151 (+)	hypothetical protein, conserved	
+LmjF.20.0343	LmjF.20.0343:mRNA	L. major strain Friedlin	LmjF.20: 120,371 - 120,748 (+)	hypothetical protein, conserved	
+LmjF.20.0346	LmjF.20.0346:mRNA	L. major strain Friedlin	LmjF.20: 121,184 - 122,116 (+)	ESCO acetyltransferase domain-containing protein	
+LmjF.20.0350	LmjF.20.0350:mRNA	L. major strain Friedlin	LmjF.20: 124,390 - 126,582 (+)	major facilitator superfamily, putative	
+LmjF.20.0355	LmjF.20.0355:pseudogenic_transcript	L. major strain Friedlin	LmjF.20: 127,845 - 128,609 (+)	hypothetical protein	
+LmjF.20.0360	LmjF.20.0360:mRNA	L. major strain Friedlin	LmjF.20: 131,276 - 132,223 (+)	Protein of unknown function (DUF2946), putative	
+LmjF.20.0370	LmjF.20.0370:mRNA	L. major strain Friedlin	LmjF.20: 135,795 - 139,436 (+)	Metallo-dependent phosphatase-like domain-containing protein	
+LmjF.20.0375	LmjF.20.0375:mRNA	L. major strain Friedlin	LmjF.20: 141,696 - 145,895 (+)	Metallo-dependent phosphatase-like domain-containing protein	
+LmjF.20.0380	LmjF.20.0380:mRNA	L. major strain Friedlin	LmjF.20: 146,683 - 147,924 (+)	hypothetical protein, unknown function	
+LmjF.20.0390	LmjF.20.0390:mRNA	L. major strain Friedlin	LmjF.20: 150,065 - 151,153 (+)	Cell cycle checkpoint protein RAD1-like, putative	
+LmjF.20.0400	LmjF.20.0400:mRNA	L. major strain Friedlin	LmjF.20: 151,989 - 153,695 (+)	TFIIH basal transcription factor subunit, putative	
+LmjF.20.0410	LmjF.20.0410:mRNA	L. major strain Friedlin	LmjF.20: 156,393 - 160,433 (+)	conserved protein, unknown function	
+LmjF.20.0420	LmjF.20.0420:mRNA	L. major strain Friedlin	LmjF.20: 161,340 - 162,464 (+)	ribosomal RNA-processing protein 8, putative	
+LmjF.20.0430	LmjF.20.0430:mRNA	L. major strain Friedlin	LmjF.20: 163,808 - 166,183 (+)	glycerol-3-phosphate dehydrogenase-like protein	
+LmjF.20.0440	LmjF.20.0440:mRNA	L. major strain Friedlin	LmjF.20: 167,747 - 169,210 (+)	AIG2-like family, putative	
+LmjF.20.0450	LmjF.20.0450:mRNA	L. major strain Friedlin	LmjF.20: 170,960 - 171,250 (+)	hypothetical protein, unknown function	
+LmjF.20.0460	LmjF.20.0460:mRNA	L. major strain Friedlin	LmjF.20: 173,904 - 175,031 (+)	Transmembrane protein 231, putative	
+LmjF.20.0470	LmjF.20.0470:mRNA	L. major strain Friedlin	LmjF.20: 175,922 - 177,739 (+)	zeta tubulin, putative	
+LmjF.20.0480	LmjF.20.0480:mRNA	L. major strain Friedlin	LmjF.20: 178,566 - 180,224 (+)	kinetoplast ribosomal PPR-repeat containing protein 3, putative	
+LmjF.20.0490	LmjF.20.0490:mRNA	L. major strain Friedlin	LmjF.20: 180,969 - 181,256 (+)	DNA-directed RNA polymerase 2, RPB12 subunit, putative	
+LmjF.20.0500	LmjF.20.0500:mRNA	L. major strain Friedlin	LmjF.20: 183,007 - 184,665 (+)	hypothetical protein, conserved	
+LmjF.20.0510	LmjF.20.0510:mRNA	L. major strain Friedlin	LmjF.20: 186,077 - 187,366 (+)	SSU ribosomal protein, mitochondrial, putative	
+LmjF.20.0520	LmjF.20.0520:mRNA	L. major strain Friedlin	LmjF.20: 188,312 - 191,194 (+)	hypothetical protein, conserved	
+LmjF.20.0530	LmjF.20.0530:mRNA	L. major strain Friedlin	LmjF.20: 192,103 - 192,537 (+)	conserved protein, unknown function	
+LmjF.20.0540	LmjF.20.0540:mRNA	L. major strain Friedlin	LmjF.20: 193,462 - 194,160 (+)	RWD domain-containing protein	
+LmjF.20.0550	LmjF.20.0550:mRNA	L. major strain Friedlin	LmjF.20: 195,193 - 196,830 (+)	chaperone protein DNAJ-like protein	
+LmjF.20.0560	LmjF.20.0560:mRNA	L. major strain Friedlin	LmjF.20: 198,150 - 199,931 (+)	cytidine triphosphate synthase, putative	
+LmjF.20.0570	LmjF.20.0570:mRNA	L. major strain Friedlin	LmjF.20: 202,344 - 203,984 (+)	hypothetical protein, unknown function	
+LmjF.20.0580	LmjF.20.0580:mRNA	L. major strain Friedlin	LmjF.20: 206,770 - 208,065 (+)	MORN repeat, putative	
+LmjF.20.0590	LmjF.20.0590:mRNA	L. major strain Friedlin	LmjF.20: 212,476 - 214,326 (+)	hypothetical protein, conserved	
+LmjF.20.0600	LmjF.20.0600:mRNA	L. major strain Friedlin	LmjF.20: 215,214 - 216,443 (+)	hypothetical protein, conserved	
+LmjF.20.0620	LmjF.20.0620:mRNA	L. major strain Friedlin	LmjF.20: 217,560 - 222,362 (+)	Quinonprotein alcohol dehydrogenase-like protein, putative	
+LmjF.20.0630	LmjF.20.0630:mRNA	L. major strain Friedlin	LmjF.20: 223,954 - 227,592 (+)	hypothetical protein, conserved	
+LmjF.20.0640	LmjF.20.0640:mRNA	L. major strain Friedlin	LmjF.20: 229,482 - 233,033 (+)	kinesin heavy chain, putative	
+LmjF.20.0650	LmjF.20.0650:mRNA	L. major strain Friedlin	LmjF.20: 234,193 - 236,409 (+)	rRNA biogenesis protein-like protein	
+LmjF.20.0660	LmjF.20.0660:mRNA	L. major strain Friedlin	LmjF.20: 237,698 - 239,497 (+)	serine/threonine protein phosphatase 2A regulatory subunit, putative	
+LmjF.20.0670	LmjF.20.0670:mRNA	L. major strain Friedlin	LmjF.20: 240,727 - 241,473 (+)	hypothetical protein, conserved	
+LmjF.20.0680	LmjF.20.0680:mRNA	L. major strain Friedlin	LmjF.20: 243,071 - 243,718 (+)	Protein of unknown function (DUF775), putative	
+LmjF.20.0690	LmjF.20.0690:mRNA	L. major strain Friedlin	LmjF.20: 248,512 - 252,477 (+)	hypothetical protein, conserved	
+LmjF.20.0700	LmjF.20.0700:mRNA	L. major strain Friedlin	LmjF.20: 268,471 - 271,653 (+)	conserved protein, unknown function	
+LmjF.20.0705	LmjF.20.0705:mRNA	L. major strain Friedlin	LmjF.20: 285,659 - 290,593 (+)	conserved protein, unknown function	
+LmjF.20.0770	LmjF.20.0770:mRNA	L. major strain Friedlin	LmjF.20: 301,502 - 313,501 (+)	protein kinase, putative	
+LmjF.20.0780	LmjF.20.0780:mRNA	L. major strain Friedlin	LmjF.20: 314,893 - 316,971 (+)	Tubulin/FtsZ family, putative	
+LmjF.20.0790	LmjF.20.0790:mRNA	L. major strain Friedlin	LmjF.20: 317,574 - 319,883 (+)	tubulin-tyrosine ligase, putative	
+LmjF.20.0800	LmjF.20.0800:mRNA	L. major strain Friedlin	LmjF.20: 320,459 - 321,535 (+)	hypothetical protein, unknown function	
+LmjF.20.0810	LmjF.20.0810:mRNA	L. major strain Friedlin	LmjF.20: 343,647 - 345,863 (+)	vesicular-fusion protein nsf, putative	
+LmjF.20.0820	LmjF.20.0820:mRNA	L. major strain Friedlin	LmjF.20: 347,040 - 348,047 (+)	hypothetical protein, conserved	
+LmjF.20.0830	LmjF.20.0830:mRNA	L. major strain Friedlin	LmjF.20: 348,840 - 349,661 (+)	phosphopantetheinyl transferase-like protein	
+LmjF.20.0840	LmjF.20.0840:mRNA	L. major strain Friedlin	LmjF.20: 350,072 - 350,923 (+)	electron transport protein SCO1/2, putative	
+LmjF.20.0850	LmjF.20.0850:mRNA	L. major strain Friedlin	LmjF.20: 351,638 - 356,365 (+)	pseudouridine synthase TruD, putative	
+LmjF.20.0860	LmjF.20.0860:mRNA	L. major strain Friedlin	LmjF.20: 357,659 - 358,699 (+)	hypothetical protein, conserved	
+LmjF.20.0870	LmjF.20.0870:mRNA	L. major strain Friedlin	LmjF.20: 359,612 - 361,918 (+)	ATP-dependent RNA helicase, putative	
+LmjF.20.0880	LmjF.20.0880:mRNA	L. major strain Friedlin	LmjF.20: 362,947 - 363,609 (+)	transcription elongation factor 1 homolog	
+LmjF.20.0890	LmjF.20.0890:mRNA	L. major strain Friedlin	LmjF.20: 364,619 - 365,497 (+)	Transcription elongation factor 1 domain-containing protein	
+LmjF.20.0900	LmjF.20.0900:mRNA	L. major strain Friedlin	LmjF.20: 366,311 - 369,379 (+)	RNA-editing nuclease 1	
+LmjF.20.0910	LmjF.20.0910:mRNA	L. major strain Friedlin	LmjF.20: 370,306 - 371,157 (+)	hypothetical protein, conserved	
+LmjF.20.0920	LmjF.20.0920:mRNA	L. major strain Friedlin	LmjF.20: 372,193 - 373,980 (+)	AATF protein, putative	
+LmjF.20.0930	LmjF.20.0930:mRNA	L. major strain Friedlin	LmjF.20: 375,108 - 381,386 (+)	transmembrane protein, conserved	
+LmjF.20.0940	LmjF.20.0940:mRNA	L. major strain Friedlin	LmjF.20: 381,996 - 383,297 (+)	cyclophilin 15, putative	
+LmjF.20.0950	LmjF.20.0950:mRNA	L. major strain Friedlin	LmjF.20: 384,546 - 386,726 (+)	conserved protein, unknown function	
+LmjF.20.0960	LmjF.20.0960:mRNA	L. major strain Friedlin	LmjF.20: 390,994 - 401,331 (+)	protein kinase, putative	
+LmjF.20.0970	LmjF.20.0970:mRNA	L. major strain Friedlin	LmjF.20: 403,948 - 404,982 (+)	1,2-Dihydroxy-3-keto-5-methylthiopentene dioxygenase, putative	
+LmjF.20.0980	LmjF.20.0980:mRNA	L. major strain Friedlin	LmjF.20: 406,386 - 408,464 (+)	hypothetical protein, conserved	
+LmjF.20.0990	LmjF.20.0990:mRNA	L. major strain Friedlin	LmjF.20: 409,525 - 411,039 (+)	hypothetical protein, unknown function	
+LmjF.20.1000	LmjF.20.1000:mRNA	L. major strain Friedlin	LmjF.20: 413,591 - 415,759 (+)	hypothetical protein, conserved	
+LmjF.20.1010	LmjF.20.1010:mRNA	L. major strain Friedlin	LmjF.20: 416,729 - 417,052 (+)	glutaredoxin, putative	
+LmjF.20.1020	LmjF.20.1020:mRNA	L. major strain Friedlin	LmjF.20: 418,859 - 422,170 (+)	hypothetical protein, unknown function	
+LmjF.20.1030	LmjF.20.1030:mRNA	L. major strain Friedlin	LmjF.20: 429,242 - 430,258 (+)	hypothetical protein, conserved	
+LmjF.20.1040	LmjF.20.1040:mRNA	L. major strain Friedlin	LmjF.20: 435,319 - 437,997 (+)	hypothetical protein, conserved	
+LmjF.20.1050	LmjF.20.1050:mRNA	L. major strain Friedlin	LmjF.20: 447,213 - 450,290 (+)	hypothetical protein, unknown function	
+LmjF.20.1055	LmjF.20.1055:pseudogenic_transcript	L. major strain Friedlin	LmjF.20: 453,168 - 454,655 (+)	CMP-sialic acid transporter, putative (pseudogene)	
+LmjF.20.1060	LmjF.20.1060:mRNA	L. major strain Friedlin	LmjF.20: 455,966 - 459,814 (+)	hypothetical protein, unknown function	
+LmjF.20.1070	LmjF.20.1070:mRNA	L. major strain Friedlin	LmjF.20: 462,952 - 464,115 (+)	hypothetical protein, unknown function	
+LmjF.20.1080	LmjF.20.1080:mRNA	L. major strain Friedlin	LmjF.20: 464,976 - 472,799 (+)	WD40 repeat-containing protein	
+LmjF.20.1090	LmjF.20.1090:mRNA	L. major strain Friedlin	LmjF.20: 473,800 - 480,723 (+)	hypothetical protein, conserved	
+LmjF.20.1100	LmjF.20.1100:mRNA	L. major strain Friedlin	LmjF.20: 482,224 - 488,070 (+)	MORN repeat-containing protein	
+LmjF.20.1110	LmjF.20.1110:mRNA	L. major strain Friedlin	LmjF.20: 488,938 - 492,456 (+)	hypothetical protein, conserved	
+LmjF.20.1120	LmjF.20.1120:mRNA	L. major strain Friedlin	LmjF.20: 497,836 - 507,684 (+)	phosphatidylinositol 3-kinase, putative	
+LmjF.20.1130	LmjF.20.1130.1:mRNA	L. major strain Friedlin	LmjF.20: 508,375 - 511,683 (+)	DNAj-like protein	
+LmjF.20.1130	LmjF.20.1130.2:mRNA	L. major strain Friedlin	LmjF.20: 509,607 - 511,683 (+)	DNAj-like protein	
+LmjF.20.1140	LmjF.20.1140:mRNA	L. major strain Friedlin	LmjF.20: 512,677 - 513,639 (+)	Protein transport protein yif1, putative	
+LmjF.20.1150	LmjF.20.1150:mRNA	L. major strain Friedlin	LmjF.20: 514,494 - 515,303 (+)	Pre-mRNA-splicing factor 38, putative	
+LmjF.20.1160	LmjF.20.1160:mRNA	L. major strain Friedlin	LmjF.20: 515,922 - 516,821 (+)	hypothetical protein, conserved	
+LmjF.20.1170	LmjF.20.1170:mRNA	L. major strain Friedlin	LmjF.20: 517,696 - 518,955 (+)	endo-1,4-beta-xylanase z precursor-like protein	
+LmjF.20.1175	LmjF.20.1175:pseudogenic_transcript	L. major strain Friedlin	LmjF.20: 522,121 - 523,320 (+)	hypothetical protein	
+LmjF.20.1180	LmjF.20.1180:mRNA	L. major strain Friedlin	LmjF.20: 531,127 - 534,057 (+)	calpain-like cysteine peptidase, putative	
+LmjF.20.1185	LmjF.20.1185:mRNA	L. major strain Friedlin	LmjF.20: 536,865 - 539,336 (+)	calpain-like cysteine peptidase, putative	
+LmjF.20.1190	LmjF.20.1190:mRNA	L. major strain Friedlin	LmjF.20: 541,963 - 544,026 (+)	cysteine peptidase, Clan CA, family C2, putative	
+LmjF.20.1200	LmjF.20.1200:mRNA	L. major strain Friedlin	LmjF.20: 548,104 - 550,335 (+)	calpain-like cysteine peptidase, putative	
+LmjF.20.1210	LmjF.20.1210:mRNA	L. major strain Friedlin	LmjF.20: 555,012 - 556,256 (+)	calpain-like cysteine peptidase, putative	
+LmjF.20.1220	LmjF.20.1220:mRNA	L. major strain Friedlin	LmjF.20: 557,906 - 558,346 (+)	calpain-like cysteine peptidase, Clan CA, family C2	
+LmjF.20.1230	LmjF.20.1230:mRNA	L. major strain Friedlin	LmjF.20: 561,022 - 561,423 (+)	Domain of unknown function (DUF1935), putative	
+LmjF.20.1240	LmjF.20.1240:mRNA	L. major strain Friedlin	LmjF.20: 564,823 - 573,093 (+)	Raptor N-terminal CASPase like domain containing protein, putative	
+LmjF.20.1250	LmjF.20.1250:mRNA	L. major strain Friedlin	LmjF.20: 574,433 - 575,230 (+)	Domain of unknown function (DUF1935), putative	
+LmjF.20.1260	LmjF.20.1260:mRNA	L. major strain Friedlin	LmjF.20: 578,399 - 580,933 (+)	hypothetical protein, unknown function	
+LmjF.20.1270	LmjF.20.1270:mRNA	L. major strain Friedlin	LmjF.20: 583,251 - 583,820 (+)	Domain of unknown function (DUF1935), putative	
+LmjF.20.1280	LmjF.20.1280:mRNA	L. major strain Friedlin	LmjF.20: 586,537 - 586,995 (+)	small myristoylated protein 4, putative	
+LmjF.20.1290	LmjF.20.1290:mRNA	L. major strain Friedlin	LmjF.20: 590,424 - 591,266 (+)	nucleosome assembly protein (NAP), putative	
+LmjF.20.1300	LmjF.20.1300:mRNA	L. major strain Friedlin	LmjF.20: 594,049 - 594,459 (+)	small myristoylated protein-2	
+LmjF.20.1310	LmjF.20.1310:mRNA	L. major strain Friedlin	LmjF.20: 596,447 - 596,842 (+)	small myristoylated protein-1	
+LmjF.20.1320	LmjF.20.1320:mRNA	L. major strain Friedlin	LmjF.20: 601,605 - 602,888 (+)	hypothetical protein, conserved	
+LmjF.20.1330	LmjF.20.1330:mRNA	L. major strain Friedlin	LmjF.20: 605,434 - 606,588 (+)	kinase-like protein	
+LmjF.20.1340	LmjF.20.1340:mRNA	L. major strain Friedlin	LmjF.20: 608,417 - 609,361 (+)	kinase-like protein	
+LmjF.20.1350	LmjF.20.1350:mRNA	L. major strain Friedlin	LmjF.20: 612,247 - 615,246 (+)	coatomer beta subunit, putative	
+LmjF.20.1360	LmjF.20.1360:mRNA	L. major strain Friedlin	LmjF.20: 616,414 - 617,634 (+)	exosome-associated protein 1, putative	
+LmjF.20.1365	LmjF.20.1365:mRNA	L. major strain Friedlin	LmjF.20: 619,353 - 621,119 (+)	pumillio protein 9, putative	
+LmjF.20.1370	LmjF.20.1370:mRNA	L. major strain Friedlin	LmjF.20: 626,223 - 627,860 (+)	pumilio protein 9, putative	
+LmjF.20.1380	LmjF.20.1380:mRNA	L. major strain Friedlin	LmjF.20: 630,063 - 634,112 (+)	hypothetical protein, conserved	
+LmjF.20.1390	LmjF.20.1390:mRNA	L. major strain Friedlin	LmjF.20: 635,308 - 636,621 (+)	hypothetical protein, conserved	
+LmjF.20.1400	LmjF.20.1400:mRNA	L. major strain Friedlin	LmjF.20: 637,468 - 639,000 (+)	paralyzed flagella protein 16	
+LmjF.20.1410	LmjF.20.1410:mRNA	L. major strain Friedlin	LmjF.20: 640,973 - 643,897 (+)	hypothetical protein, conserved	
+LmjF.20.1420	LmjF.20.1420:mRNA	L. major strain Friedlin	LmjF.20: 644,883 - 648,560 (+)	hypothetical protein, conserved	
+LmjF.20.1430	LmjF.20.1430:mRNA	L. major strain Friedlin	LmjF.20: 651,116 - 652,138 (+)	hypothetical protein, conserved	
+LmjF.20.1440	LmjF.20.1440:mRNA	L. major strain Friedlin	LmjF.20: 653,056 - 653,493 (+)	hypothetical protein, conserved	
+LmjF.20.1450	LmjF.20.1450:mRNA	L. major strain Friedlin	LmjF.20: 654,522 - 655,703 (+)	hypothetical protein, conserved	
+LmjF.20.1460	LmjF.20.1460:mRNA	L. major strain Friedlin	LmjF.20: 657,201 - 657,929 (-)	hypothetical protein, unknown function	
+LmjF.20.1470	LmjF.20.1470:mRNA	L. major strain Friedlin	LmjF.20: 658,594 - 660,339 (-)	hypothetical protein, unknown function	
+LmjF.20.1480	LmjF.20.1480:mRNA	L. major strain Friedlin	LmjF.20: 662,734 - 665,700 (-)	Myotubularin-related protein, putative	
+LmjF.20.1490	LmjF.20.1490:mRNA	L. major strain Friedlin	LmjF.20: 666,656 - 669,556 (-)	hypothetical protein, conserved	
+LmjF.20.1500	LmjF.20.1500:mRNA	L. major strain Friedlin	LmjF.20: 670,191 - 673,052 (-)	hypothetical protein, conserved	
+LmjF.20.1510	LmjF.20.1510:mRNA	L. major strain Friedlin	LmjF.20: 673,816 - 680,148 (-)	hypothetical protein, conserved	
+LmjF.20.1520	LmjF.20.1520:mRNA	L. major strain Friedlin	LmjF.20: 681,380 - 686,383 (-)	Domain of unknown function (DUF4455)/Domain of unknown function (DUF4456), putative	
+LmjF.20.1530	LmjF.20.1530:mRNA	L. major strain Friedlin	LmjF.20: 686,922 - 689,366 (-)	cell division cycle protein-like protein	
+LmjF.20.1540	LmjF.20.1540:mRNA	L. major strain Friedlin	LmjF.20: 690,027 - 690,524 (-)	hypothetical protein, unknown function	
+LmjF.20.1550	LmjF.20.1550:mRNA	L. major strain Friedlin	LmjF.20: 722,272 - 723,477 (-)	amidohydrolase, putative	
+LmjF.20.1560	LmjF.20.1560:mRNA	L. major strain Friedlin	LmjF.20: 724,572 - 725,762 (-)	amidohydrolase, putative	
+LmjF.20.1570	LmjF.20.1570:mRNA	L. major strain Friedlin	LmjF.20: 727,619 - 728,803 (-)	amidohydrolase, putative	
+LmjF.20.1580	LmjF.20.1580:mRNA	L. major strain Friedlin	LmjF.20: 729,519 - 732,575 (-)	hypothetical protein, conserved	
+LmjF.20.1590	LmjF.20.1590:mRNA	L. major strain Friedlin	LmjF.20: 733,125 - 733,490 (-)	hypothetical protein, conserved	
+LmjF.20.1600	LmjF.20.1600:mRNA	L. major strain Friedlin	LmjF.20: 733,980 - 737,000 (-)	hypothetical protein, conserved	
+LmjF.20.1610	LmjF.20.1610:mRNA	L. major strain Friedlin	LmjF.20: 737,803 - 738,480 (-)	hypothetical protein, conserved	
+LmjF.20.1620	LmjF.20.1620:mRNA	L. major strain Friedlin	LmjF.20: 738,892 - 739,782 (-)	CHORD, putative	
+LmjF.20.1630	LmjF.20.1630:mRNA	L. major strain Friedlin	LmjF.20: 692,420 - 694,246 (-)	TBC1 domain family member 20/GTPase, putative	
+LmjF.20.1640	LmjF.20.1640:mRNA	L. major strain Friedlin	LmjF.20: 695,026 - 695,667 (-)	Suppressor of G2 allele of SKP1, putative	
+LmjF.20.1650	LmjF.20.1650:mRNA	L. major strain Friedlin	LmjF.20: 697,089 - 697,610 (-)	ribosomal protein S11 homolog	
+LmjF.20.1660	LmjF.20.1660:mRNA	L. major strain Friedlin	LmjF.20: 698,405 - 699,616 (-)	hypothetical protein, conserved	
+LmjF.20.1670	LmjF.20.1670:mRNA	L. major strain Friedlin	LmjF.20: 700,554 - 701,507 (-)	ribosome biogenesis protein, putative	
+LmjF.20.1680	LmjF.20.1680:mRNA	L. major strain Friedlin	LmjF.20: 702,393 - 706,232 (-)	Peptidase C50 separase, putative	
+LmjF.20.1690	LmjF.20.1690:mRNA	L. major strain Friedlin	LmjF.20: 707,457 - 708,305 (-)	SNAP protein, putative	
+LmjF.20.1700	LmjF.20.1700:mRNA	L. major strain Friedlin	LmjF.20: 709,244 - 710,083 (-)	hypothetical protein, conserved	
+LmjF.20.1710	LmjF.20.1710:mRNA	L. major strain Friedlin	LmjF.20: 710,641 - 712,449 (-)	tRNA (Uracil-5-)-methyltransferase, putative	
+LmjF.20.1720	LmjF.20.1720:mRNA	L. major strain Friedlin	LmjF.20: 713,192 - 714,118 (-)	hypothetical protein, conserved	
+LmjF.20.1730	LmjF.20.1730:mRNA	L. major strain Friedlin	LmjF.20: 715,134 - 716,390 (-)	mitochondrial RNA ligase 2	
+LmjF.20.1740	LmjF.20.1740.1:mRNA	L. major strain Friedlin	LmjF.20: 717,112 - 719,061 (-)	hypothetical protein, conserved	
+LmjF.20.1740	LmjF.20.1740.2:mRNA	L. major strain Friedlin	LmjF.20: 717,112 - 718,175 (-)	hypothetical protein, conserved	
+LmjF.20.1750	LmjF.20.1750:mRNA	L. major strain Friedlin	LmjF.20: 720,270 - 720,767 (-)	hypothetical protein	
+LmjF.20.ncRNA1	LmjF.20.ncRNA1:ncRNA	L. major strain Friedlin	LmjF.20: 521,325 - 523,280 (+)	unspecified product	
+LmjF.20.snoRNA0002	LmjF.20.snoRNA0002:snoRNA	L. major strain Friedlin	LmjF.20: 123,082 - 123,135 (+)	C/D small nucleolar RNA (snoRNA), LM20Cs1C2 partial	
+LmjF.20.snoRNA0078	LmjF.20.snoRNA0078:snoRNA	L. major strain Friedlin	LmjF.20: 342,140 - 342,196 (+)	C/D small nucleolar RNA (snoRNA), LM20Cs1C5 partial	
+LmjF.20.snoRNA0174	LmjF.20.snoRNA0174:snoRNA	L. major strain Friedlin	LmjF.20: 322,898 - 323,028 (+)	C/D snoRNA	
+LmjF.20.snoRNA0175	LmjF.20.snoRNA0175:snoRNA	L. major strain Friedlin	LmjF.20: 323,949 - 324,079 (+)	C/D snoRNA	
+LmjF.20.snoRNA0176	LmjF.20.snoRNA0176:snoRNA	L. major strain Friedlin	LmjF.20: 324,998 - 325,128 (+)	C/D snoRNA	
+LmjF.20.snoRNA0177	LmjF.20.snoRNA0177:snoRNA	L. major strain Friedlin	LmjF.20: 326,057 - 326,187 (+)	C/D snoRNA	
+LmjF.20.snoRNA0178	LmjF.20.snoRNA0178:snoRNA	L. major strain Friedlin	LmjF.20: 327,092 - 327,222 (+)	C/D snoRNA	
+LmjF.20.snoRNA0179	LmjF.20.snoRNA0179:snoRNA	L. major strain Friedlin	LmjF.20: 328,134 - 328,264 (+)	C/D snoRNA	
+LmjF.20.snoRNA0180	LmjF.20.snoRNA0180:snoRNA	L. major strain Friedlin	LmjF.20: 329,161 - 329,291 (+)	C/D snoRNA	
+LmjF.20.snoRNA0181	LmjF.20.snoRNA0181:snoRNA	L. major strain Friedlin	LmjF.20: 330,196 - 330,326 (+)	C/D snoRNA	
+LmjF.20.snoRNA0182	LmjF.20.snoRNA0182:snoRNA	L. major strain Friedlin	LmjF.20: 331,245 - 331,375 (+)	C/D snoRNA	
+LmjF.20.snoRNA0183	LmjF.20.snoRNA0183:snoRNA	L. major strain Friedlin	LmjF.20: 332,304 - 332,434 (+)	C/D snoRNA	
+LmjF.20.snoRNA0184	LmjF.20.snoRNA0184:snoRNA	L. major strain Friedlin	LmjF.20: 333,339 - 333,469 (+)	C/D snoRNA	
+LmjF.20.snoRNA0185	LmjF.20.snoRNA0185:snoRNA	L. major strain Friedlin	LmjF.20: 334,381 - 334,511 (+)	C/D snoRNA	
+LmjF.20.snoRNA0186	LmjF.20.snoRNA0186:snoRNA	L. major strain Friedlin	LmjF.20: 335,408 - 335,538 (+)	C/D snoRNA	
+LmjF.20.snoRNA0187	LmjF.20.snoRNA0187:snoRNA	L. major strain Friedlin	LmjF.20: 336,443 - 336,573 (+)	C/D snoRNA	
+LmjF.20.snoRNA0188	LmjF.20.snoRNA0188:snoRNA	L. major strain Friedlin	LmjF.20: 337,492 - 337,622 (+)	C/D snoRNA	
+LmjF.20.snoRNA0189	LmjF.20.snoRNA0189:snoRNA	L. major strain Friedlin	LmjF.20: 338,551 - 338,681 (+)	C/D snoRNA	
+LmjF.20.snoRNA0190	LmjF.20.snoRNA0190:snoRNA	L. major strain Friedlin	LmjF.20: 339,586 - 339,716 (+)	C/D snoRNA	
+LmjF.20.snoRNA0191	LmjF.20.snoRNA0191:snoRNA	L. major strain Friedlin	LmjF.20: 340,629 - 340,759 (+)	C/D snoRNA	
+LmjF.20.snoRNA0192	LmjF.20.snoRNA0192:snoRNA	L. major strain Friedlin	LmjF.20: 341,656 - 341,786 (+)	C/D snoRNA	
+LmjF.20.snoRNA0193	LmjF.20.snoRNA0193:snoRNA	L. major strain Friedlin	LmjF.20: 323,396 - 323,485 (+)	C/D snoRNA	
+LmjF.20.snoRNA0194	LmjF.20.snoRNA0194:snoRNA	L. major strain Friedlin	LmjF.20: 324,445 - 324,534 (+)	C/D snoRNA	
+LmjF.20.snoRNA0195	LmjF.20.snoRNA0195:snoRNA	L. major strain Friedlin	LmjF.20: 325,496 - 325,585 (+)	C/D snoRNA	
+LmjF.20.snoRNA0196	LmjF.20.snoRNA0196:snoRNA	L. major strain Friedlin	LmjF.20: 326,539 - 326,628 (+)	C/D snoRNA	
+LmjF.20.snoRNA0197	LmjF.20.snoRNA0197:snoRNA	L. major strain Friedlin	LmjF.20: 327,573 - 327,662 (+)	C/D snoRNA	
+LmjF.20.snoRNA0198	LmjF.20.snoRNA0198:snoRNA	L. major strain Friedlin	LmjF.20: 328,616 - 328,705 (+)	C/D snoRNA	
+LmjF.20.snoRNA0199	LmjF.20.snoRNA0199:snoRNA	L. major strain Friedlin	LmjF.20: 329,643 - 329,732 (+)	C/D snoRNA	
+LmjF.20.snoRNA0200	LmjF.20.snoRNA0200:snoRNA	L. major strain Friedlin	LmjF.20: 330,692 - 330,781 (+)	C/D snoRNA	
+LmjF.20.snoRNA0201	LmjF.20.snoRNA0201:snoRNA	L. major strain Friedlin	LmjF.20: 331,743 - 331,832 (+)	C/D snoRNA	
+LmjF.20.snoRNA0202	LmjF.20.snoRNA0202:snoRNA	L. major strain Friedlin	LmjF.20: 332,786 - 332,875 (+)	C/D snoRNA	
+LmjF.20.snoRNA0203	LmjF.20.snoRNA0203:snoRNA	L. major strain Friedlin	LmjF.20: 333,820 - 333,909 (+)	C/D snoRNA	
+LmjF.20.snoRNA0204	LmjF.20.snoRNA0204:snoRNA	L. major strain Friedlin	LmjF.20: 334,863 - 334,952 (+)	C/D snoRNA	
+LmjF.20.snoRNA0205	LmjF.20.snoRNA0205:snoRNA	L. major strain Friedlin	LmjF.20: 335,890 - 335,979 (+)	C/D snoRNA	
+LmjF.20.snoRNA0206	LmjF.20.snoRNA0206:snoRNA	L. major strain Friedlin	LmjF.20: 336,939 - 337,028 (+)	C/D snoRNA	
+LmjF.20.snoRNA0207	LmjF.20.snoRNA0207:snoRNA	L. major strain Friedlin	LmjF.20: 337,990 - 338,079 (+)	C/D snoRNA	
+LmjF.20.snoRNA0208	LmjF.20.snoRNA0208:snoRNA	L. major strain Friedlin	LmjF.20: 339,033 - 339,122 (+)	C/D snoRNA	
+LmjF.20.snoRNA0209	LmjF.20.snoRNA0209:snoRNA	L. major strain Friedlin	LmjF.20: 340,068 - 340,157 (+)	C/D snoRNA	
+LmjF.20.snoRNA0210	LmjF.20.snoRNA0210:snoRNA	L. major strain Friedlin	LmjF.20: 341,111 - 341,200 (+)	C/D snoRNA	
+LmjF.20.snoRNA0211	LmjF.20.snoRNA0211:snoRNA	L. major strain Friedlin	LmjF.20: 322,712 - 322,827 (+)	C/D snoRNA	
+LmjF.20.snoRNA0212	LmjF.20.snoRNA0212:snoRNA	L. major strain Friedlin	LmjF.20: 323,771 - 323,886 (+)	C/D snoRNA	
+LmjF.20.snoRNA0213	LmjF.20.snoRNA0213:snoRNA	L. major strain Friedlin	LmjF.20: 324,820 - 324,935 (+)	C/D snoRNA	
+LmjF.20.snoRNA0214	LmjF.20.snoRNA0214:snoRNA	L. major strain Friedlin	LmjF.20: 325,871 - 325,986 (+)	C/D snoRNA	
+LmjF.20.snoRNA0215	LmjF.20.snoRNA0215:snoRNA	L. major strain Friedlin	LmjF.20: 326,914 - 327,029 (+)	C/D snoRNA	
+LmjF.20.snoRNA0216	LmjF.20.snoRNA0216:snoRNA	L. major strain Friedlin	LmjF.20: 327,948 - 328,063 (+)	C/D snoRNA	
+LmjF.20.snoRNA0217	LmjF.20.snoRNA0217:snoRNA	L. major strain Friedlin	LmjF.20: 328,991 - 329,106 (+)	C/D snoRNA	
+LmjF.20.snoRNA0218	LmjF.20.snoRNA0218:snoRNA	L. major strain Friedlin	LmjF.20: 330,018 - 330,133 (+)	C/D snoRNA	
+LmjF.20.snoRNA0219	LmjF.20.snoRNA0219:snoRNA	L. major strain Friedlin	LmjF.20: 331,067 - 331,182 (+)	C/D snoRNA	
+LmjF.20.snoRNA0220	LmjF.20.snoRNA0220:snoRNA	L. major strain Friedlin	LmjF.20: 332,118 - 332,233 (+)	C/D snoRNA	
+LmjF.20.snoRNA0221	LmjF.20.snoRNA0221:snoRNA	L. major strain Friedlin	LmjF.20: 333,161 - 333,276 (+)	C/D snoRNA	
+LmjF.20.snoRNA0222	LmjF.20.snoRNA0222:snoRNA	L. major strain Friedlin	LmjF.20: 334,195 - 334,310 (+)	C/D snoRNA	
+LmjF.20.snoRNA0223	LmjF.20.snoRNA0223:snoRNA	L. major strain Friedlin	LmjF.20: 335,238 - 335,353 (+)	C/D snoRNA	
+LmjF.20.snoRNA0224	LmjF.20.snoRNA0224:snoRNA	L. major strain Friedlin	LmjF.20: 336,265 - 336,380 (+)	C/D snoRNA	
+LmjF.20.snoRNA0225	LmjF.20.snoRNA0225:snoRNA	L. major strain Friedlin	LmjF.20: 337,314 - 337,429 (+)	C/D snoRNA	
+LmjF.20.snoRNA0226	LmjF.20.snoRNA0226:snoRNA	L. major strain Friedlin	LmjF.20: 338,365 - 338,480 (+)	C/D snoRNA	
+LmjF.20.snoRNA0227	LmjF.20.snoRNA0227:snoRNA	L. major strain Friedlin	LmjF.20: 339,408 - 339,523 (+)	C/D snoRNA	
+LmjF.20.snoRNA0228	LmjF.20.snoRNA0228:snoRNA	L. major strain Friedlin	LmjF.20: 340,443 - 340,558 (+)	C/D snoRNA	
+LmjF.20.snoRNA0229	LmjF.20.snoRNA0229:snoRNA	L. major strain Friedlin	LmjF.20: 341,486 - 341,601 (+)	C/D snoRNA	
+LmjF.20.snoRNA0230	LmjF.20.snoRNA0230:snoRNA	L. major strain Friedlin	LmjF.20: 122,913 - 123,028 (+)	C/D snoRNA	
+LmjF.20.snoRNA0231	LmjF.20.snoRNA0231:snoRNA	L. major strain Friedlin	LmjF.20: 323,047 - 323,135 (+)	C/D snoRNA	
+LmjF.20.snoRNA0232	LmjF.20.snoRNA0232:snoRNA	L. major strain Friedlin	LmjF.20: 324,098 - 324,186 (+)	C/D snoRNA	
+LmjF.20.snoRNA0233	LmjF.20.snoRNA0233:snoRNA	L. major strain Friedlin	LmjF.20: 325,147 - 325,235 (+)	C/D snoRNA	
+LmjF.20.snoRNA0234	LmjF.20.snoRNA0234:snoRNA	L. major strain Friedlin	LmjF.20: 326,206 - 326,294 (+)	C/D snoRNA	
+LmjF.20.snoRNA0235	LmjF.20.snoRNA0235:snoRNA	L. major strain Friedlin	LmjF.20: 327,241 - 327,329 (+)	C/D snoRNA	
+LmjF.20.snoRNA0236	LmjF.20.snoRNA0236:snoRNA	L. major strain Friedlin	LmjF.20: 328,283 - 328,371 (+)	C/D snoRNA	
+LmjF.20.snoRNA0237	LmjF.20.snoRNA0237:snoRNA	L. major strain Friedlin	LmjF.20: 329,310 - 329,398 (+)	C/D snoRNA	
+LmjF.20.snoRNA0238	LmjF.20.snoRNA0238:snoRNA	L. major strain Friedlin	LmjF.20: 330,345 - 330,433 (+)	C/D snoRNA	
+LmjF.20.snoRNA0239	LmjF.20.snoRNA0239:snoRNA	L. major strain Friedlin	LmjF.20: 331,394 - 331,482 (+)	C/D snoRNA	
+LmjF.20.snoRNA0240	LmjF.20.snoRNA0240:snoRNA	L. major strain Friedlin	LmjF.20: 332,453 - 332,541 (+)	C/D snoRNA	
+LmjF.20.snoRNA0241	LmjF.20.snoRNA0241:snoRNA	L. major strain Friedlin	LmjF.20: 333,488 - 333,576 (+)	C/D snoRNA	
+LmjF.20.snoRNA0242	LmjF.20.snoRNA0242:snoRNA	L. major strain Friedlin	LmjF.20: 334,530 - 334,618 (+)	C/D snoRNA	
+LmjF.20.snoRNA0243	LmjF.20.snoRNA0243:snoRNA	L. major strain Friedlin	LmjF.20: 335,557 - 335,645 (+)	C/D snoRNA	
+LmjF.20.snoRNA0244	LmjF.20.snoRNA0244:snoRNA	L. major strain Friedlin	LmjF.20: 336,592 - 336,680 (+)	C/D snoRNA	
+LmjF.20.snoRNA0245	LmjF.20.snoRNA0245:snoRNA	L. major strain Friedlin	LmjF.20: 337,641 - 337,729 (+)	C/D snoRNA	
+LmjF.20.snoRNA0246	LmjF.20.snoRNA0246:snoRNA	L. major strain Friedlin	LmjF.20: 338,700 - 338,788 (+)	C/D snoRNA	
+LmjF.20.snoRNA0247	LmjF.20.snoRNA0247:snoRNA	L. major strain Friedlin	LmjF.20: 339,735 - 339,823 (+)	C/D snoRNA	
+LmjF.20.snoRNA0248	LmjF.20.snoRNA0248:snoRNA	L. major strain Friedlin	LmjF.20: 340,778 - 340,866 (+)	C/D snoRNA	
+LmjF.20.snoRNA0249	LmjF.20.snoRNA0249:snoRNA	L. major strain Friedlin	LmjF.20: 341,805 - 341,893 (+)	C/D snoRNA	
+LmjF.20.snoRNA0250	LmjF.20.snoRNA0250:snoRNA	L. major strain Friedlin	LmjF.20: 322,533 - 322,610 (+)	C/D snoRNA	
+LmjF.20.snoRNA0251	LmjF.20.snoRNA0251:snoRNA	L. major strain Friedlin	LmjF.20: 323,592 - 323,669 (+)	C/D snoRNA	
+LmjF.20.snoRNA0252	LmjF.20.snoRNA0252:snoRNA	L. major strain Friedlin	LmjF.20: 324,641 - 324,718 (+)	C/D snoRNA	
+LmjF.20.snoRNA0253	LmjF.20.snoRNA0253:snoRNA	L. major strain Friedlin	LmjF.20: 325,692 - 325,769 (+)	C/D snoRNA	
+LmjF.20.snoRNA0254	LmjF.20.snoRNA0254:snoRNA	L. major strain Friedlin	LmjF.20: 326,735 - 326,812 (+)	C/D snoRNA	
+LmjF.20.snoRNA0255	LmjF.20.snoRNA0255:snoRNA	L. major strain Friedlin	LmjF.20: 327,769 - 327,846 (+)	C/D snoRNA	
+LmjF.20.snoRNA0256	LmjF.20.snoRNA0256:snoRNA	L. major strain Friedlin	LmjF.20: 328,812 - 328,889 (+)	C/D snoRNA	
+LmjF.20.snoRNA0257	LmjF.20.snoRNA0257:snoRNA	L. major strain Friedlin	LmjF.20: 329,839 - 329,916 (+)	C/D snoRNA	
+LmjF.20.snoRNA0258	LmjF.20.snoRNA0258:snoRNA	L. major strain Friedlin	LmjF.20: 330,888 - 330,965 (+)	C/D snoRNA	
+LmjF.20.snoRNA0259	LmjF.20.snoRNA0259:snoRNA	L. major strain Friedlin	LmjF.20: 331,939 - 332,016 (+)	C/D snoRNA	
+LmjF.20.snoRNA0260	LmjF.20.snoRNA0260:snoRNA	L. major strain Friedlin	LmjF.20: 332,982 - 333,059 (+)	C/D snoRNA	
+LmjF.20.snoRNA0261	LmjF.20.snoRNA0261:snoRNA	L. major strain Friedlin	LmjF.20: 334,016 - 334,093 (+)	C/D snoRNA	
+LmjF.20.snoRNA0262	LmjF.20.snoRNA0262:snoRNA	L. major strain Friedlin	LmjF.20: 335,059 - 335,136 (+)	C/D snoRNA	
+LmjF.20.snoRNA0263	LmjF.20.snoRNA0263:snoRNA	L. major strain Friedlin	LmjF.20: 336,086 - 336,163 (+)	C/D snoRNA	
+LmjF.20.snoRNA0264	LmjF.20.snoRNA0264:snoRNA	L. major strain Friedlin	LmjF.20: 337,135 - 337,212 (+)	C/D snoRNA	
+LmjF.20.snoRNA0265	LmjF.20.snoRNA0265:snoRNA	L. major strain Friedlin	LmjF.20: 338,186 - 338,263 (+)	C/D snoRNA	
+LmjF.20.snoRNA0266	LmjF.20.snoRNA0266:snoRNA	L. major strain Friedlin	LmjF.20: 339,229 - 339,306 (+)	C/D snoRNA	
+LmjF.20.snoRNA0267	LmjF.20.snoRNA0267:snoRNA	L. major strain Friedlin	LmjF.20: 340,264 - 340,341 (+)	C/D snoRNA	
+LmjF.20.snoRNA0268	LmjF.20.snoRNA0268:snoRNA	L. major strain Friedlin	LmjF.20: 341,307 - 341,384 (+)	C/D snoRNA	

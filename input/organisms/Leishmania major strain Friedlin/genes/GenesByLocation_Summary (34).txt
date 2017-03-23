@@ -1,0 +1,623 @@
+[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
+LmjF.35.0010	LmjF.35.0010:mRNA	L. major strain Friedlin	LmjF.35: 3,485 - 5,935 (-)	phosphoglycan beta 1,3 galactosyltransferase 7	
+LmjF.35.0015	LmjF.35.0015:pseudogenic_transcript	L. major strain Friedlin	LmjF.35: 7,814 - 8,087 (-)	histone H4, putative, pseudogene	
+LmjF.35.0020	LmjF.35.0020:mRNA	L. major strain Friedlin	LmjF.35: 8,344 - 9,918 (-)	pyruvate kinase	
+LmjF.35.0030	LmjF.35.0030:mRNA	L. major strain Friedlin	LmjF.35: 11,915 - 13,414 (-)	pyruvate kinase	
+LmjF.35.0040	LmjF.35.0040:mRNA	L. major strain Friedlin	LmjF.35: 14,132 - 16,321 (-)	phosphatidylinositol-specific phospholipase-like protein	
+LmjF.35.0050	LmjF.35.0050:mRNA	L. major strain Friedlin	LmjF.35: 17,610 - 18,710 (-)	2-oxoisovalerate dehydrogenase beta subunit, mitochondrial precursor, putative	
+LmjF.35.0060	LmjF.35.0060:mRNA	L. major strain Friedlin	LmjF.35: 21,207 - 23,219 (-)	hypothetical protein, conserved	
+LmjF.35.0070	LmjF.35.0070:mRNA	L. major strain Friedlin	LmjF.35: 24,170 - 25,087 (-)	prohibitin, putative	
+LmjF.35.0080	LmjF.35.0080:mRNA	L. major strain Friedlin	LmjF.35: 26,086 - 27,825 (-)	Trk system potassium uptake protein	
+LmjF.35.0090	LmjF.35.0090:mRNA	L. major strain Friedlin	LmjF.35: 28,795 - 29,700 (-)	hypothetical protein, conserved	
+LmjF.35.0100	LmjF.35.0100:mRNA	L. major strain Friedlin	LmjF.35: 30,776 - 31,384 (-)	ubiquinol-cytochrome c reductase complex 14kD subunit, putative	
+LmjF.35.0110	LmjF.35.0110:mRNA	L. major strain Friedlin	LmjF.35: 32,266 - 32,820 (-)	coatomer subunit zeta, putative	
+LmjF.35.0120	LmjF.35.0120:mRNA	L. major strain Friedlin	LmjF.35: 33,584 - 34,930 (-)	LMBR1-like membrane protein, putative	
+LmjF.35.0130	LmjF.35.0130:mRNA	L. major strain Friedlin	LmjF.35: 35,625 - 36,185 (-)	ADP-ribosylation factor-like 2, arl2, putative	
+LmjF.35.0140	LmjF.35.0140:mRNA	L. major strain Friedlin	LmjF.35: 37,048 - 37,407 (-)	hypothetical protein, conserved	
+LmjF.35.0150	LmjF.35.0150:mRNA	L. major strain Friedlin	LmjF.35: 38,067 - 38,939 (-)	hypothetical protein, conserved	
+LmjF.35.0160	LmjF.35.0160:mRNA	L. major strain Friedlin	LmjF.35: 39,761 - 40,708 (-)	hypothetical protein, conserved	
+LmjF.35.0170	LmjF.35.0170:mRNA	L. major strain Friedlin	LmjF.35: 41,207 - 42,292 (-)	hypothetical protein, conserved	
+LmjF.35.0180	LmjF.35.0180:mRNA	L. major strain Friedlin	LmjF.35: 42,971 - 45,559 (-)	hypothetical protein, conserved	
+LmjF.35.0190	LmjF.35.0190:mRNA	L. major strain Friedlin	LmjF.35: 47,954 - 48,676 (+)	NLI interacting factor-like phosphatase, putative	
+LmjF.35.0200	LmjF.35.0200:mRNA	L. major strain Friedlin	LmjF.35: 50,399 - 56,770 (+)	hypothetical protein, conserved	
+LmjF.35.0210	LmjF.35.0210:mRNA	L. major strain Friedlin	LmjF.35: 57,716 - 57,937 (+)	Protein of unknown function (DUF1242), putative	
+LmjF.35.0220	LmjF.35.0220:mRNA	L. major strain Friedlin	LmjF.35: 58,927 - 59,718 (+)	hypothetical protein, conserved	
+LmjF.35.0230	LmjF.35.0230:mRNA	L. major strain Friedlin	LmjF.35: 60,721 - 61,827 (+)	hypothetical protein, conserved	
+LmjF.35.0240	LmjF.35.0240:mRNA	L. major strain Friedlin	LmjF.35: 64,736 - 65,050 (+)	60S ribosomal protein L30	
+LmjF.35.0250	LmjF.35.0250:mRNA	L. major strain Friedlin	LmjF.35: 65,905 - 68,058 (+)	hypothetical protein, conserved	
+LmjF.35.0260	LmjF.35.0260:mRNA	L. major strain Friedlin	LmjF.35: 68,491 - 70,380 (+)	GTP-ase activating protein, putative	
+LmjF.35.0270	LmjF.35.0270:mRNA	L. major strain Friedlin	LmjF.35: 71,254 - 71,487 (+)	hypothetical protein, conserved	
+LmjF.35.0280	LmjF.35.0280:mRNA	L. major strain Friedlin	LmjF.35: 74,033 - 74,485 (+)	hypothetical protein, unknown function	
+LmjF.35.0290	LmjF.35.0290:mRNA	L. major strain Friedlin	LmjF.35: 75,652 - 80,196 (+)	hypothetical protein, conserved	
+LmjF.35.0300	LmjF.35.0300:mRNA	L. major strain Friedlin	LmjF.35: 81,020 - 82,018 (+)	hypothetical protein, conserved	
+LmjF.35.0310	LmjF.35.0310:mRNA	L. major strain Friedlin	LmjF.35: 83,055 - 84,338 (+)	Ankyrin repeats (3 copies), putative	
+LmjF.35.0320	LmjF.35.0320:mRNA	L. major strain Friedlin	LmjF.35: 85,723 - 87,339 (+)	serine palmitoyltransferase, putative	
+LmjF.35.0330	LmjF.35.0330:mRNA	L. major strain Friedlin	LmjF.35: 90,481 - 91,497 (+)	3-keto-dihydrosphingosine reductase	
+LmjF.35.0340	LmjF.35.0340:mRNA	L. major strain Friedlin	LmjF.35: 92,249 - 93,742 (+)	hypothetical protein, conserved	
+LmjF.35.0350	LmjF.35.0350:mRNA	L. major strain Friedlin	LmjF.35: 94,488 - 96,599 (+)	hypothetical protein, conserved	
+LmjF.35.0360	LmjF.35.0360:mRNA	L. major strain Friedlin	LmjF.35: 97,692 - 98,585 (+)	enoyl-CoA hydratase/isomerase family protein, conserved	
+LmjF.35.0370	LmjF.35.0370:mRNA	L. major strain Friedlin	LmjF.35: 99,262 - 100,479 (+)	ATP-dependent DEAD-box RNA helicase, putative	
+LmjF.35.0380	LmjF.35.0380:mRNA	L. major strain Friedlin	LmjF.35: 105,581 - 107,431 (+)	thioredoxin, putative	
+LmjF.35.0390	LmjF.35.0390:mRNA	L. major strain Friedlin	LmjF.35: 116,918 - 118,588 (+)	hypothetical protein, conserved	
+LmjF.35.0400	LmjF.35.0400:mRNA	L. major strain Friedlin	LmjF.35: 119,460 - 120,254 (+)	40S ribosomal protein S3A, putative	
+LmjF.35.0410	LmjF.35.0410:mRNA	L. major strain Friedlin	LmjF.35: 121,344 - 122,138 (+)	40S ribosomal protein S3A, putative	
+LmjF.35.0420	LmjF.35.0420:mRNA	L. major strain Friedlin	LmjF.35: 123,228 - 124,022 (+)	40S ribosomal protein S3A, putative	
+LmjF.35.0430	LmjF.35.0430:mRNA	L. major strain Friedlin	LmjF.35: 124,867 - 126,570 (+)	hypothetical protein, conserved	
+LmjF.35.0440	LmjF.35.0440:mRNA	L. major strain Friedlin	LmjF.35: 128,408 - 130,324 (+)	Arrestin (or S-antigen), N-terminal domain containing protein, putative	
+LmjF.35.0450	LmjF.35.0450:mRNA	L. major strain Friedlin	LmjF.35: 131,467 - 133,278 (+)	hypothetical protein, unknown function	
+LmjF.35.0460	LmjF.35.0460:mRNA	L. major strain Friedlin	LmjF.35: 134,448 - 137,201 (+)	Generative cell specific 1 protein, putative	
+LmjF.35.0470	LmjF.35.0470:mRNA	L. major strain Friedlin	LmjF.35: 141,624 - 142,214 (+)	hypothetical protein, conserved	
+LmjF.35.0480	LmjF.35.0480:mRNA	L. major strain Friedlin	LmjF.35: 142,670 - 143,086 (+)	hypothetical protein, conserved	
+LmjF.35.0490	LmjF.35.0490:mRNA	L. major strain Friedlin	LmjF.35: 147,371 - 152,404 (+)	Protein kinase domain containing protein, putative	
+LmjF.35.0500	LmjF.35.0500:mRNA	L. major strain Friedlin	LmjF.35: 157,801 - 162,108 (+)	proteophosphoglycan ppg3, putative	
+LmjF.35.0520	LmjF.35.0520:mRNA	L. major strain Friedlin	LmjF.35: 166,485 - 188,069 (+)	proteophosphoglycan ppg4	
+LmjF.35.0540	LmjF.35.0540:mRNA	L. major strain Friedlin	LmjF.35: 193,479 - 245,657 (+)	proteophosphoglycan 5	
+LmjF.35.0550	LmjF.35.0550:mRNA	L. major strain Friedlin	LmjF.35: 254,266 - 261,543 (+)	proteophosphoglycan ppg1	
+LmjF.35.0560	LmjF.35.0560:mRNA	L. major strain Friedlin	LmjF.35: 268,999 - 272,217 (+)	phosphatidylinositol-4-phosphate 5-kinase-like, putative	
+LmjF.35.0570	LmjF.35.0570:mRNA	L. major strain Friedlin	LmjF.35: 273,245 - 279,604 (+)	hypothetical protein, conserved	
+LmjF.35.0580	LmjF.35.0580:mRNA	L. major strain Friedlin	LmjF.35: 281,553 - 282,227 (+)	SNF-7-like protein, conserved	
+LmjF.35.0590	LmjF.35.0590:mRNA	L. major strain Friedlin	LmjF.35: 283,707 - 285,845 (+)	hypothetical protein, conserved	
+LmjF.35.0600	LmjF.35.0600:mRNA	L. major strain Friedlin	LmjF.35: 286,520 - 287,059 (+)	60S ribosomal protein L18a, putative	
+LmjF.35.0610	LmjF.35.0610:mRNA	L. major strain Friedlin	LmjF.35: 288,268 - 295,788 (+)	hypothetical protein, conserved	
+LmjF.35.0620	LmjF.35.0620:mRNA	L. major strain Friedlin	LmjF.35: 296,643 - 297,779 (+)	hypothetical protein, unknown function	
+LmjF.35.0630	LmjF.35.0630:mRNA	L. major strain Friedlin	LmjF.35: 298,417 - 300,210 (+)	Nup53/35/40-type RNA recognition motif containing protein, putative	
+LmjF.35.0640	LmjF.35.0640:mRNA	L. major strain Friedlin	LmjF.35: 302,145 - 305,417 (+)	beta-fructofuranosidase-like protein	
+LmjF.35.0650	LmjF.35.0650:mRNA	L. major strain Friedlin	LmjF.35: 306,649 - 306,822 (+)	hypothetical protein, unknown function	
+LmjF.35.0660	LmjF.35.0660:mRNA	L. major strain Friedlin	LmjF.35: 307,421 - 311,263 (+)	RING finger protein, conserved	
+LmjF.35.0670	LmjF.35.0670:mRNA	L. major strain Friedlin	LmjF.35: 311,982 - 324,506 (+)	hypothetical protein, conserved	
+LmjF.35.0680	LmjF.35.0680:mRNA	L. major strain Friedlin	LmjF.35: 326,149 - 330,717 (+)	hypothetical protein, conserved	
+LmjF.35.0690	LmjF.35.0690:mRNA	L. major strain Friedlin	LmjF.35: 331,257 - 333,359 (+)	Tetratricopeptide repeat, putative	
+LmjF.35.0700	LmjF.35.0700:mRNA	L. major strain Friedlin	LmjF.35: 334,023 - 334,853 (+)	vacuolar ATP synthase subunit d, putative	
+LmjF.35.0710	LmjF.35.0710:mRNA	L. major strain Friedlin	LmjF.35: 337,030 - 338,625 (+)	Endonuclease/Exonuclease/phosphatase family, putative	
+LmjF.35.0720	LmjF.35.0720:mRNA	L. major strain Friedlin	LmjF.35: 341,291 - 342,826 (+)	hypothetical protein, conserved	
+LmjF.35.0730	LmjF.35.0730:mRNA	L. major strain Friedlin	LmjF.35: 343,480 - 345,669 (+)	hypothetical protein, conserved	
+LmjF.35.0740	LmjF.35.0740:mRNA	L. major strain Friedlin	LmjF.35: 347,874 - 350,669 (+)	hypothetical protein, conserved	
+LmjF.35.0750	LmjF.35.0750:mRNA	L. major strain Friedlin	LmjF.35: 351,246 - 351,938 (+)	proteasome activator protein pa26, putative	
+LmjF.35.0760	LmjF.35.0760:mRNA	L. major strain Friedlin	LmjF.35: 353,833 - 355,278 (+)	AMP-activated protein kinase, gamma regulatory subunit	
+LmjF.35.0770	LmjF.35.0770:mRNA	L. major strain Friedlin	LmjF.35: 357,596 - 358,990 (+)	rRNA dimethyltransferase, putative	
+LmjF.35.0780	LmjF.35.0780:mRNA	L. major strain Friedlin	LmjF.35: 360,810 - 363,149 (+)	hypothetical protein, unknown function	
+LmjF.35.0790	LmjF.35.0790:mRNA	L. major strain Friedlin	LmjF.35: 363,973 - 365,532 (+)	actin-like protein, putative	
+LmjF.35.0800	LmjF.35.0800:mRNA	L. major strain Friedlin	LmjF.35: 368,476 - 371,523 (+)	hypothetical protein, unknown function	
+LmjF.35.0810	LmjF.35.0810:mRNA	L. major strain Friedlin	LmjF.35: 374,322 - 379,256 (+)	hypothetical protein, unknown function	
+LmjF.35.0820	LmjF.35.0820:mRNA	L. major strain Friedlin	LmjF.35: 379,854 - 381,092 (+)	aspartate aminotransferase, putative	
+LmjF.35.0830	LmjF.35.0830:mRNA	L. major strain Friedlin	LmjF.35: 385,812 - 389,528 (+)	NADH-dependent fumarate reductase-like protein	
+LmjF.35.0840	LmjF.35.0840:mRNA	L. major strain Friedlin	LmjF.35: 390,416 - 391,717 (+)	nuclear transmembrane protein, putative	
+LmjF.35.0850	LmjF.35.0850:mRNA	L. major strain Friedlin	LmjF.35: 392,729 - 394,324 (+)	Protein of unknown function (DUF2838), putative	
+LmjF.35.0860	LmjF.35.0860:mRNA	L. major strain Friedlin	LmjF.35: 394,886 - 396,160 (+)	hypothetical protein, conserved	
+LmjF.35.0870	LmjF.35.0870:mRNA	L. major strain Friedlin	LmjF.35: 396,904 - 399,675 (+)	hypothetical protein, conserved	
+LmjF.35.0880	LmjF.35.0880:mRNA	L. major strain Friedlin	LmjF.35: 400,139 - 401,899 (+)	hypothetical protein, conserved	
+LmjF.35.0890	LmjF.35.0890:mRNA	L. major strain Friedlin	LmjF.35: 402,418 - 402,915 (+)	hypothetical protein, conserved	
+LmjF.35.0900	LmjF.35.0900:mRNA	L. major strain Friedlin	LmjF.35: 404,221 - 404,928 (+)	hypothetical protein, conserved	
+LmjF.35.0910	LmjF.35.0910:mRNA	L. major strain Friedlin	LmjF.35: 406,878 - 412,871 (+)	hypothetical protein, conserved	
+LmjF.35.0920	LmjF.35.0920:mRNA	L. major strain Friedlin	LmjF.35: 414,353 - 418,390 (+)	hypothetical protein, conserved	
+LmjF.35.0930	LmjF.35.0930:mRNA	L. major strain Friedlin	LmjF.35: 421,429 - 422,157 (+)	hypothetical protein, conserved	
+LmjF.35.0940	LmjF.35.0940:mRNA	L. major strain Friedlin	LmjF.35: 423,194 - 423,943 (+)	hypothetical protein, conserved	
+LmjF.35.0950	LmjF.35.0950:mRNA	L. major strain Friedlin	LmjF.35: 425,381 - 426,619 (+)	cell cycle sequence binding phosphoprotein (RBP33), putative	
+LmjF.35.0960	LmjF.35.0960:mRNA	L. major strain Friedlin	LmjF.35: 430,305 - 432,689 (+)	hypothetical protein, conserved	
+LmjF.35.0970	LmjF.35.0970:mRNA	L. major strain Friedlin	LmjF.35: 433,955 - 435,070 (+)	aldose 1-epimerase, putative	
+LmjF.35.0980	LmjF.35.0980:mRNA	L. major strain Friedlin	LmjF.35: 438,341 - 439,474 (+)	aldose 1-epimerase-like protein	
+LmjF.35.0990	LmjF.35.0990:mRNA	L. major strain Friedlin	LmjF.35: 441,920 - 444,493 (+)	hypothetical protein, conserved	
+LmjF.35.1000	LmjF.35.1000:mRNA	L. major strain Friedlin	LmjF.35: 445,600 - 446,574 (+)	casein kinase I, putative	
+LmjF.35.1010	LmjF.35.1010:mRNA	L. major strain Friedlin	LmjF.35: 449,109 - 450,170 (+)	casein kinase, putative	
+LmjF.35.1020	LmjF.35.1020:mRNA	L. major strain Friedlin	LmjF.35: 458,419 - 459,717 (+)	hypothetical protein, unknown function	
+LmjF.35.1030	LmjF.35.1030:mRNA	L. major strain Friedlin	LmjF.35: 472,463 - 473,116 (+)	zinc finger protein family member, putative	
+LmjF.35.1040	LmjF.35.1040:mRNA	L. major strain Friedlin	LmjF.35: 473,926 - 474,879 (+)	zinc finger CCCH domain containing protein 11	
+LmjF.35.1050	LmjF.35.1050:mRNA	L. major strain Friedlin	LmjF.35: 488,292 - 489,761 (+)	protein kinase, putative	
+LmjF.35.1060	LmjF.35.1060:mRNA	L. major strain Friedlin	LmjF.35: 492,335 - 494,107 (+)	hypothetical protein, conserved	
+LmjF.35.1080	LmjF.35.1080:mRNA	L. major strain Friedlin	LmjF.35: 495,535 - 498,078 (+)	Tripartite attachment complex protein 65	
+LmjF.35.1090	LmjF.35.1090:mRNA	L. major strain Friedlin	LmjF.35: 499,339 - 502,530 (+)	KRI1-like family/KRI1-like family C-terminal, putative	
+LmjF.35.1100	LmjF.35.1100:mRNA	L. major strain Friedlin	LmjF.35: 503,861 - 505,906 (+)	hypothetical protein, conserved	
+LmjF.35.1110	LmjF.35.1110:mRNA	L. major strain Friedlin	LmjF.35: 507,396 - 508,577 (+)	Rdx family, putative	
+LmjF.35.1120	LmjF.35.1120:mRNA	L. major strain Friedlin	LmjF.35: 509,681 - 510,790 (+)	Selenoprotein T, putative	
+LmjF.35.1130	LmjF.35.1130:mRNA	L. major strain Friedlin	LmjF.35: 513,632 - 516,190 (+)	oligosaccharyl transferase-like protein	
+LmjF.35.1140	LmjF.35.1140:mRNA	L. major strain Friedlin	LmjF.35: 518,768 - 521,251 (+)	oligosaccharyl transferase-like protein	
+LmjF.35.1150	LmjF.35.1150:mRNA	L. major strain Friedlin	LmjF.35: 525,706 - 528,207 (+)	oligosaccharyl transferase-like protein	
+LmjF.35.1160	LmjF.35.1160:mRNA	L. major strain Friedlin	LmjF.35: 529,818 - 532,391 (+)	oligosaccharyl transferase subunit, putative	
+LmjF.35.1170	LmjF.35.1170:mRNA	L. major strain Friedlin	LmjF.35: 533,382 - 535,205 (+)	rhodanese-like domain containing protein, putative	
+LmjF.35.1180	LmjF.35.1180:mRNA	L. major strain Friedlin	LmjF.35: 536,100 - 539,543 (+)	NADH-dependent fumarate reductase, putative	
+LmjF.35.1190	LmjF.35.1190:mRNA	L. major strain Friedlin	LmjF.35: 544,355 - 546,232 (+)	NADH-dependent fumarate reductase, putative	
+LmjF.35.1200	LmjF.35.1200:mRNA	L. major strain Friedlin	LmjF.35: 550,907 - 553,021 (+)	pre-mRNA splicing factor ATP-dependent RNA helicase, putative	
+LmjF.35.1210	LmjF.35.1210:mRNA	L. major strain Friedlin	LmjF.35: 553,466 - 554,125 (+)	Degradation arginine-rich protein for mis-folding, putative	
+LmjF.35.1220	LmjF.35.1220:mRNA	L. major strain Friedlin	LmjF.35: 554,742 - 555,443 (+)	short chain dehydrogenase, putative	
+LmjF.35.1230	LmjF.35.1230:mRNA	L. major strain Friedlin	LmjF.35: 556,002 - 556,829 (+)	short chain dehydrogenase, putative	
+LmjF.35.1240	LmjF.35.1240:mRNA	L. major strain Friedlin	LmjF.35: 559,118 - 561,661 (+)	hypothetical protein, conserved	
+LmjF.35.1250	LmjF.35.1250:mRNA	L. major strain Friedlin	LmjF.35: 562,488 - 563,174 (+)	monothiol glutaredoxin, putative	
+LmjF.35.1260	LmjF.35.1260:mRNA	L. major strain Friedlin	LmjF.35: 564,396 - 565,481 (+)	ATPase family associated with various cellular activities (AAA), putative	
+LmjF.35.1270	LmjF.35.1270:mRNA	L. major strain Friedlin	LmjF.35: 566,651 - 567,727 (+)	hypothetical protein, conserved	
+LmjF.35.1280	LmjF.35.1280:mRNA	L. major strain Friedlin	LmjF.35: 568,376 - 569,332 (+)	2OG-Fe(II) oxygenase superfamily, putative	
+LmjF.35.1290	LmjF.35.1290:mRNA	L. major strain Friedlin	LmjF.35: 570,222 - 570,971 (+)	hypothetical protein, conserved	
+LmjF.35.1300	LmjF.35.1300:mRNA	L. major strain Friedlin	LmjF.35: 572,946 - 573,392 (+)	ubiquitin-conjugating enzyme E2, putative	
+LmjF.35.1310	LmjF.35.1310:mRNA	L. major strain Friedlin	LmjF.35: 575,869 - 576,171 (+)	histone H4	
+LmjF.35.1320	LmjF.35.1320:mRNA	L. major strain Friedlin	LmjF.35: 577,316 - 582,391 (+)	hypothetical protein, conserved	
+LmjF.35.1330	LmjF.35.1330:mRNA	L. major strain Friedlin	LmjF.35: 583,413 - 585,101 (+)	thioredoxin, putative	
+LmjF.35.1350	LmjF.35.1350:mRNA	L. major strain Friedlin	LmjF.35: 586,081 - 586,746 (+)	Iron-sulfur assembly protein 2, putative	
+LmjF.35.1355	LmjF.35.1355:mRNA	L. major strain Friedlin	LmjF.35: 587,520 - 588,509 (+)	hypothetical protein	
+LmjF.35.1360	LmjF.35.1360:mRNA	L. major strain Friedlin	LmjF.35: 590,353 - 591,897 (+)	hypothetical protein, unknown function	
+LmjF.35.1370	LmjF.35.1370:mRNA	L. major strain Friedlin	LmjF.35: 594,682 - 595,044 (+)	Iron-binding zinc finger CDGSH type, putative	
+LmjF.35.1380	LmjF.35.1380:mRNA	L. major strain Friedlin	LmjF.35: 596,163 - 597,635 (+)	mitochondrial processing peptidase, beta subunit, putative	
+LmjF.35.1390	LmjF.35.1390:mRNA	L. major strain Friedlin	LmjF.35: 600,998 - 603,040 (+)	Zn-finger in Ran binding protein and others/OTU-like cysteine protease, putative	
+LmjF.35.1400	LmjF.35.1400:mRNA	L. major strain Friedlin	LmjF.35: 605,126 - 605,824 (+)	RNA binding protein, putative	
+LmjF.35.1410	LmjF.35.1410:mRNA	L. major strain Friedlin	LmjF.35: 607,112 - 609,475 (+)	threonyl-tRNA synthetase, putative	
+LmjF.35.1420	LmjF.35.1420:mRNA	L. major strain Friedlin	LmjF.35: 611,197 - 613,092 (+)	peroxisome targeting signal 1 receptor, putative	
+LmjF.35.1430	LmjF.35.1430:mRNA	L. major strain Friedlin	LmjF.35: 616,302 - 617,084 (+)	60S ribosomal protein L2, putative	
+LmjF.35.1440	LmjF.35.1440:mRNA	L. major strain Friedlin	LmjF.35: 618,687 - 619,469 (+)	60S ribosomal protein L2, putative	
+LmjF.35.1450	LmjF.35.1450:mRNA	L. major strain Friedlin	LmjF.35: 622,541 - 632,374 (+)	hypothetical protein, conserved	
+LmjF.35.1460	LmjF.35.1460:mRNA	L. major strain Friedlin	LmjF.35: 633,311 - 634,300 (+)	hypothetical protein, conserved	
+LmjF.35.1470	LmjF.35.1470:mRNA	L. major strain Friedlin	LmjF.35: 638,550 - 640,556 (+)	choline/ethanolamine kinase, putative	
+LmjF.35.1480	LmjF.35.1480:mRNA	L. major strain Friedlin	LmjF.35: 646,832 - 647,821 (-)	arginase	
+LmjF.35.1490	LmjF.35.1490:mRNA	L. major strain Friedlin	LmjF.35: 652,098 - 652,523 (-)	hypothetical protein, conserved	
+LmjF.35.1510	LmjF.35.1510.1:mRNA	L. major strain Friedlin	LmjF.35: 655,979 - 657,813 (-)	NLI interacting factor-like phosphatase/Zinc finger C-x8-C-x5-C-x3-H type (and similar), putative	
+LmjF.35.1510	LmjF.35.1510.2:mRNA	L. major strain Friedlin	LmjF.35: 655,979 - 657,783 (-)	NLI interacting factor-like phosphatase/Zinc finger C-x8-C-x5-C-x3-H type (and similar), putative	
+LmjF.35.1515	LmjF.35.1515.1	L. major strain Friedlin	LmjF.35: 658,382 - 658,825 (-)	hypothetical protein	
+LmjF.35.1520	LmjF.35.1520:mRNA	L. major strain Friedlin	LmjF.35: 660,235 - 662,418 (-)	hypothetical protein, conserved	
+LmjF.35.1530	LmjF.35.1530.1:mRNA	L. major strain Friedlin	LmjF.35: 663,183 - 665,443 (-)	hypothetical protein, conserved	
+LmjF.35.1530	LmjF.35.1530.2:mRNA	L. major strain Friedlin	LmjF.35: 663,183 - 664,717 (-)	hypothetical protein, conserved	
+LmjF.35.1540	LmjF.35.1540:mRNA	L. major strain Friedlin	LmjF.35: 666,887 - 667,780 (-)	rieske iron-sulfur protein, mitochondrial precursor, putative	
+LmjF.35.1550	LmjF.35.1550:mRNA	L. major strain Friedlin	LmjF.35: 668,653 - 670,833 (-)	hypothetical protein, conserved	
+LmjF.35.1560	LmjF.35.1560:mRNA	L. major strain Friedlin	LmjF.35: 671,404 - 677,193 (-)	hypothetical protein, conserved	
+LmjF.35.1570	LmjF.35.1570:mRNA	L. major strain Friedlin	LmjF.35: 679,016 - 680,233 (-)	methyltransferase domain containing protein, putative	
+LmjF.35.1580	LmjF.35.1580:mRNA	L. major strain Friedlin	LmjF.35: 681,364 - 682,671 (-)	metacaspase	
+LmjF.35.1590	LmjF.35.1590:mRNA	L. major strain Friedlin	LmjF.35: 683,952 - 685,688 (-)	hypothetical protein, conserved	
+LmjF.35.1600	LmjF.35.1600:mRNA	L. major strain Friedlin	LmjF.35: 686,621 - 688,960 (-)	hypothetical protein, conserved	
+LmjF.35.1610	LmjF.35.1610:mRNA	L. major strain Friedlin	LmjF.35: 689,812 - 692,637 (-)	hypothetical protein, conserved	
+LmjF.35.1620	LmjF.35.1620:mRNA	L. major strain Friedlin	LmjF.35: 695,208 - 701,063 (-)	Concanavalin A-like lectin/glucanases superfamily, putative	
+LmjF.35.1630	LmjF.35.1630:mRNA	L. major strain Friedlin	LmjF.35: 703,636 - 705,012 (-)	hypothetical protein, conserved	
+LmjF.35.1640	LmjF.35.1640:mRNA	L. major strain Friedlin	LmjF.35: 706,194 - 707,282 (-)	hypothetical protein, unknown function	
+LmjF.35.1650	LmjF.35.1650:mRNA	L. major strain Friedlin	LmjF.35: 708,548 - 710,719 (-)	hypothetical protein, conserved	
+LmjF.35.1660	LmjF.35.1660:mRNA	L. major strain Friedlin	LmjF.35: 711,734 - 714,256 (-)	mismatch repair protein PMS1, putative	
+LmjF.35.1670	LmjF.35.1670:mRNA	L. major strain Friedlin	LmjF.35: 715,444 - 715,875 (-)	60S ribosomal protein L26, putative	
+LmjF.35.1680	LmjF.35.1680:mRNA	L. major strain Friedlin	LmjF.35: 716,834 - 717,670 (-)	hypothetical protein, conserved	
+LmjF.35.1690	LmjF.35.1690:mRNA	L. major strain Friedlin	LmjF.35: 718,343 - 719,545 (-)	hypothetical protein, conserved	
+LmjF.35.1700	LmjF.35.1700:mRNA	L. major strain Friedlin	LmjF.35: 720,580 - 721,668 (-)	RNA re-capping enzyme, cytoplasmic, putative	
+LmjF.35.1720	LmjF.35.1720:mRNA	L. major strain Friedlin	LmjF.35: 723,951 - 725,285 (-)	cyclophilin 14, putative	
+LmjF.35.1730	LmjF.35.1730:mRNA	L. major strain Friedlin	LmjF.35: 727,034 - 728,152 (-)	casein kinase II, putative	
+LmjF.35.1740	LmjF.35.1740:mRNA	L. major strain Friedlin	LmjF.35: 730,400 - 733,894 (-)	ubiquitin hydrolase, putative	
+LmjF.35.1750	LmjF.35.1750:mRNA	L. major strain Friedlin	LmjF.35: 734,435 - 734,728 (-)	dynein-associated roadblock protein-like protein	
+LmjF.35.1755	LmjF.35.1755:mRNA	L. major strain Friedlin	LmjF.35: 737,822 - 738,244 (+)	hypothetical protein, conserved	
+LmjF.35.1760	LmjF.35.1760:mRNA	L. major strain Friedlin	LmjF.35: 738,965 - 739,705 (+)	proteasome complex subunit Rpn13 ubiquitin receptor, putative	
+LmjF.35.1770	LmjF.35.1770:mRNA	L. major strain Friedlin	LmjF.35: 740,154 - 740,789 (+)	hypothetical protein, conserved	
+LmjF.35.1790	LmjF.35.1790:mRNA	L. major strain Friedlin	LmjF.35: 741,222 - 742,880 (+)	DNA polymerase epsilon subunit B, putative	
+LmjF.35.1800	LmjF.35.1800:mRNA	L. major strain Friedlin	LmjF.35: 744,312 - 745,310 (+)	DTW domain containing protein, putative	
+LmjF.35.1810	LmjF.35.1810:mRNA	L. major strain Friedlin	LmjF.35: 746,367 - 747,752 (+)	nexin-dynein regulatory complex 4	
+LmjF.35.1820	LmjF.35.1820:mRNA	L. major strain Friedlin	LmjF.35: 749,127 - 749,948 (+)	Eukaryotic rRNA processing protein EBP2, putative	
+LmjF.35.1830	LmjF.35.1830:mRNA	L. major strain Friedlin	LmjF.35: 751,835 - 754,054 (+)	hypothetical protein, conserved	
+LmjF.35.1840	LmjF.35.1840:mRNA	L. major strain Friedlin	LmjF.35: 755,337 - 755,801 (+)	hypothetical protein, conserved	
+LmjF.35.1850	LmjF.35.1850:mRNA	L. major strain Friedlin	LmjF.35: 757,120 - 757,770 (+)	COP-coated vesicle membrane protein gp25L precursor, putative	
+LmjF.35.1860	LmjF.35.1860:mRNA	L. major strain Friedlin	LmjF.35: 761,057 - 763,192 (+)	protein kinase-like protein	
+LmjF.35.1870	LmjF.35.1870:mRNA	L. major strain Friedlin	LmjF.35: 769,871 - 772,090 (+)	hypothetical protein, conserved	
+LmjF.35.1880	LmjF.35.1880:mRNA	L. major strain Friedlin	LmjF.35: 773,948 - 774,865 (+)	60S ribosomal protein L5, putative	
+LmjF.35.1890	LmjF.35.1890:mRNA	L. major strain Friedlin	LmjF.35: 776,112 - 777,029 (+)	60S ribosomal protein L5, putative	
+LmjF.35.1900	LmjF.35.1900:mRNA	L. major strain Friedlin	LmjF.35: 777,989 - 778,906 (+)	60S ribosomal protein L5, putative	
+LmjF.35.1910	LmjF.35.1910:mRNA	L. major strain Friedlin	LmjF.35: 779,745 - 780,359 (+)	ribosomal protein L15, putative	
+LmjF.35.1920	LmjF.35.1920:mRNA	L. major strain Friedlin	LmjF.35: 781,365 - 781,682 (+)	60S ribosomal protein L36, putative	
+LmjF.35.1930	LmjF.35.1930:mRNA	L. major strain Friedlin	LmjF.35: 783,066 - 783,347 (+)	hypothetical protein, unknown function	
+LmjF.35.1940	LmjF.35.1940:mRNA	L. major strain Friedlin	LmjF.35: 784,148 - 785,536 (+)	hypothetical protein, unknown function	
+LmjF.35.1945	LmjF.35.1945:mRNA	L. major strain Friedlin	LmjF.35: 786,259 - 788,121 (+)	hypothetical protein, conserved	
+LmjF.35.1950	LmjF.35.1950:mRNA	L. major strain Friedlin	LmjF.35: 788,865 - 789,572 (+)	ATP11 protein, putative	
+LmjF.35.1960	LmjF.35.1960:mRNA	L. major strain Friedlin	LmjF.35: 791,149 - 791,784 (+)	ribosomal protein L32-like protein	
+LmjF.35.1970	LmjF.35.1970:mRNA	L. major strain Friedlin	LmjF.35: 794,230 - 795,573 (+)	ubx domain containing protein, putative	
+LmjF.35.1980	LmjF.35.1980:mRNA	L. major strain Friedlin	LmjF.35: 796,427 - 798,196 (+)	hypothetical protein, conserved	
+LmjF.35.1990	LmjF.35.1990:mRNA	L. major strain Friedlin	LmjF.35: 799,366 - 802,554 (+)	U3 small nucleolar RNA-associated protein 6, putative	
+LmjF.35.2000	LmjF.35.2000:mRNA	L. major strain Friedlin	LmjF.35: 803,756 - 806,500 (+)	hypothetical protein, conserved	
+LmjF.35.2010	LmjF.35.2010:mRNA	L. major strain Friedlin	LmjF.35: 807,975 - 808,724 (+)	40S ribosomal protein S6, putative	
+LmjF.35.2020	LmjF.35.2020:mRNA	L. major strain Friedlin	LmjF.35: 810,603 - 811,724 (+)	hypothetical protein, conserved	
+LmjF.35.2030	LmjF.35.2030:mRNA	L. major strain Friedlin	LmjF.35: 813,678 - 817,940 (+)	hypothetical protein, unknown function	
+LmjF.35.2040	LmjF.35.2040:mRNA	L. major strain Friedlin	LmjF.35: 819,239 - 830,560 (+)	ankyrin repeat protein, putative	
+LmjF.35.2050	LmjF.35.2050:mRNA	L. major strain Friedlin	LmjF.35: 831,570 - 831,971 (+)	60S ribosomal protein L32	
+LmjF.35.2060	LmjF.35.2060:mRNA	L. major strain Friedlin	LmjF.35: 833,306 - 834,754 (+)	Variant SH3 domain containing protein, putative	
+LmjF.35.2070	LmjF.35.2070:mRNA	L. major strain Friedlin	LmjF.35: 835,729 - 837,840 (+)	Domain of unknown function (DUF4205), putative	
+LmjF.35.2075	LmjF.35.2075.1:mRNA	L. major strain Friedlin	LmjF.35: 840,069 - 840,449 (+)	hypothetical protein	
+LmjF.35.2075	LmjF.35.2075.2:mRNA	L. major strain Friedlin	LmjF.35: 838,282 - 840,449 (+)	hypothetical protein	
+LmjF.35.2080	LmjF.35.2080:mRNA	L. major strain Friedlin	LmjF.35: 844,580 - 848,257 (+)	calcium motive p-type ATPase, putative	
+LmjF.35.2090	LmjF.35.2090:mRNA	L. major strain Friedlin	LmjF.35: 851,511 - 853,607 (+)	kinesin, putative	
+LmjF.35.2100	LmjF.35.2100:mRNA	L. major strain Friedlin	LmjF.35: 857,931 - 860,102 (+)	hypothetical protein, conserved	
+LmjF.35.2110	LmjF.35.2110:mRNA	L. major strain Friedlin	LmjF.35: 861,742 - 863,958 (+)	hypothetical protein, conserved	
+LmjF.35.2120	LmjF.35.2120:mRNA	L. major strain Friedlin	LmjF.35: 869,302 - 869,919 (+)	R-SNARE protein, putative	
+LmjF.35.2125	LmjF.35.2125:mRNA	L. major strain Friedlin	LmjF.35: 871,355 - 872,170 (+)	hypothetical protein, unknown function	
+LmjF.35.2130	LmjF.35.2130:mRNA	L. major strain Friedlin	LmjF.35: 873,237 - 874,748 (+)	hypothetical protein, unknown function	
+LmjF.35.2140	LmjF.35.2140:mRNA	L. major strain Friedlin	LmjF.35: 878,791 - 880,431 (+)	hypothetical protein, conserved	
+LmjF.35.2150	LmjF.35.2150:mRNA	L. major strain Friedlin	LmjF.35: 881,141 - 882,463 (+)	short chain dehydrogenase, putative	
+LmjF.35.2160	LmjF.35.2160:mRNA	L. major strain Friedlin	LmjF.35: 883,665 - 884,753 (+)	adenine aminohydrolase	
+LmjF.35.2170	LmjF.35.2170:mRNA	L. major strain Friedlin	LmjF.35: 886,969 - 888,423 (+)	short chain dehydrogenase, putative	
+LmjF.35.2180	LmjF.35.2180:mRNA	L. major strain Friedlin	LmjF.35: 889,514 - 892,726 (+)	hypothetical protein, conserved	
+LmjF.35.2190	LmjF.35.2190:mRNA	L. major strain Friedlin	LmjF.35: 893,395 - 893,889 (+)	60S ribosomal protein L12, putative	
+LmjF.35.2200	LmjF.35.2200:mRNA	L. major strain Friedlin	LmjF.35: 895,340 - 896,164 (+)	RNA-binding protein, putative	
+LmjF.35.2210	LmjF.35.2210:mRNA	L. major strain Friedlin	LmjF.35: 902,825 - 903,103 (+)	kinetoplastid membrane protein-11	
+LmjF.35.2220	LmjF.35.2220:mRNA	L. major strain Friedlin	LmjF.35: 904,771 - 905,049 (+)	kinetoplastid membrane protein-11	
+LmjF.35.2230	LmjF.35.2230:mRNA	L. major strain Friedlin	LmjF.35: 906,689 - 907,564 (+)	hypothetical protein, conserved	
+LmjF.35.2240	LmjF.35.2240:mRNA	L. major strain Friedlin	LmjF.35: 908,777 - 910,336 (+)	hypothetical protein, conserved	
+LmjF.35.2250	LmjF.35.2250:mRNA	L. major strain Friedlin	LmjF.35: 912,282 - 921,146 (+)	hypothetical protein, conserved	
+LmjF.35.2260	LmjF.35.2260:mRNA	L. major strain Friedlin	LmjF.35: 922,786 - 924,387 (+)	ATP-grasp domain containing protein, putative	
+LmjF.35.2270	LmjF.35.2270:mRNA	L. major strain Friedlin	LmjF.35: 926,729 - 931,618 (+)	ATP-dependent RNA helicase-like protein	
+LmjF.35.2280	LmjF.35.2280:mRNA	L. major strain Friedlin	LmjF.35: 933,480 - 934,877 (+)	hypothetical protein, conserved	
+LmjF.35.2290	LmjF.35.2290:mRNA	L. major strain Friedlin	LmjF.35: 935,803 - 940,317 (+)	hypothetical protein, conserved	
+LmjF.35.2300	LmjF.35.2300:mRNA	L. major strain Friedlin	LmjF.35: 941,203 - 942,681 (+)	hypothetical protein, conserved	
+LmjF.35.2310	LmjF.35.2310:mRNA	L. major strain Friedlin	LmjF.35: 943,788 - 944,549 (+)	hypothetical protein, conserved	
+LmjF.35.2320	LmjF.35.2320:mRNA	L. major strain Friedlin	LmjF.35: 947,625 - 951,005 (+)	protein kinase, putative	
+LmjF.35.2330	LmjF.35.2330:mRNA	L. major strain Friedlin	LmjF.35: 954,388 - 957,147 (+)	Importin 1	
+LmjF.35.2340	LmjF.35.2340:mRNA	L. major strain Friedlin	LmjF.35: 960,346 - 962,379 (+)	poly(A)-specific ribonuclease PARN, putative	
+LmjF.35.2350	LmjF.35.2350:mRNA	L. major strain Friedlin	LmjF.35: 963,545 - 964,999 (+)	aminopeptidase P, putative	
+LmjF.35.2360	LmjF.35.2360:mRNA	L. major strain Friedlin	LmjF.35: 966,874 - 967,473 (+)	Eukaryotic protein of unknown function (DUF1764), putative	
+LmjF.35.2370	LmjF.35.2370:mRNA	L. major strain Friedlin	LmjF.35: 968,452 - 971,157 (+)	hypothetical protein, conserved	
+LmjF.35.2380	LmjF.35.2380:mRNA	L. major strain Friedlin	LmjF.35: 973,495 - 977,655 (+)	hypothetical protein, unknown function	
+LmjF.35.2390	LmjF.35.2390:mRNA	L. major strain Friedlin	LmjF.35: 984,295 - 984,753 (+)	Spt4/RpoE2 zinc finger, putative	
+LmjF.35.2400	LmjF.35.2400:mRNA	L. major strain Friedlin	LmjF.35: 986,134 - 991,515 (+)	Flagellar Member 5	
+LmjF.35.2410	LmjF.35.2410:mRNA	L. major strain Friedlin	LmjF.35: 994,026 - 996,797 (+)	ubiquitin hydrolase, putative	
+LmjF.35.2420	LmjF.35.2420:mRNA	L. major strain Friedlin	LmjF.35: 1,000,040 - 1,001,293 (+)	Autophagy-related protein 24	
+LmjF.35.2430	LmjF.35.2430:mRNA	L. major strain Friedlin	LmjF.35: 1,011,693 - 1,014,044 (+)	hypothetical protein, conserved	
+LmjF.35.2440	LmjF.35.2440:mRNA	L. major strain Friedlin	LmjF.35: 1,016,296 - 1,017,120 (+)	Fumarylacetoacetate (FAA) hydrolase family, putative	
+LmjF.35.2450	LmjF.35.2450:mRNA	L. major strain Friedlin	LmjF.35: 1,024,005 - 1,030,940 (+)	ubiquitin-protein ligase, putative	
+LmjF.35.2470	LmjF.35.2470:mRNA	L. major strain Friedlin	LmjF.35: 1,033,027 - 1,034,202 (+)	hypothetical protein, conserved	
+LmjF.35.2480	LmjF.35.2480:mRNA	L. major strain Friedlin	LmjF.35: 1,035,608 - 1,036,627 (+)	Nop53 (60S ribosomal biogenesis), putative	
+LmjF.35.2490	LmjF.35.2490:mRNA	L. major strain Friedlin	LmjF.35: 1,037,682 - 1,042,652 (+)	hypothetical protein, conserved	
+LmjF.35.2500	LmjF.35.2500:mRNA	L. major strain Friedlin	LmjF.35: 1,044,565 - 1,046,232 (+)	hypothetical protein, conserved	
+LmjF.35.2510	LmjF.35.2510:mRNA	L. major strain Friedlin	LmjF.35: 1,047,582 - 1,047,917 (+)	Yos1-like, putative	
+LmjF.35.2520	LmjF.35.2520:mRNA	L. major strain Friedlin	LmjF.35: 1,048,331 - 1,050,016 (+)	Ring finger domain containing protein, putative	
+LmjF.35.2530	LmjF.35.2530:mRNA	L. major strain Friedlin	LmjF.35: 1,050,826 - 1,051,842 (+)	hypothetical protein, conserved	
+LmjF.35.2540	LmjF.35.2540:mRNA	L. major strain Friedlin	LmjF.35: 1,052,546 - 1,053,193 (+)	hypothetical protein, unknown function	
+LmjF.35.2550	LmjF.35.2550:mRNA	L. major strain Friedlin	LmjF.35: 1,055,959 - 1,057,326 (+)	Double RNA binding domain protein 9	
+LmjF.35.2560	LmjF.35.2560:mRNA	L. major strain Friedlin	LmjF.35: 1,060,086 - 1,062,581 (+)	cytochrome P450 reductase, putative	
+LmjF.35.2570	LmjF.35.2570:mRNA	L. major strain Friedlin	LmjF.35: 1,065,476 - 1,066,129 (+)	hypothetical protein, conserved	
+LmjF.35.2580	LmjF.35.2580:mRNA	L. major strain Friedlin	LmjF.35: 1,067,573 - 1,068,148 (+)	hypothetical protein, conserved	
+LmjF.35.2590	LmjF.35.2590:mRNA	L. major strain Friedlin	LmjF.35: 1,068,747 - 1,069,988 (+)	DHHC palmitoyltransferase, putative	
+LmjF.35.2600	LmjF.35.2600:mRNA	L. major strain Friedlin	LmjF.35: 1,070,802 - 1,071,281 (-)	hypothetical protein, unknown function	
+LmjF.35.2610	LmjF.35.2610:mRNA	L. major strain Friedlin	LmjF.35: 1,072,582 - 1,073,565 (-)	hypothetical protein, unknown function	
+LmjF.35.2620	LmjF.35.2620:mRNA	L. major strain Friedlin	LmjF.35: 1,074,173 - 1,075,378 (-)	TFIIF-stimulated CTD phosphatase, putative	
+LmjF.35.2630	LmjF.35.2630:mRNA	L. major strain Friedlin	LmjF.35: 1,075,880 - 1,078,111 (-)	PHD-like zinc-binding domain containing protein, putative	
+LmjF.35.2640	LmjF.35.2640:mRNA	L. major strain Friedlin	LmjF.35: 1,078,923 - 1,080,761 (-)	hypothetical protein, conserved	
+LmjF.35.2650	LmjF.35.2650:mRNA	L. major strain Friedlin	LmjF.35: 1,081,443 - 1,082,246 (-)	Present in the outer mitochondrial membrane proteome 8	
+LmjF.35.2660	LmjF.35.2660:mRNA	L. major strain Friedlin	LmjF.35: 1,083,157 - 1,085,184 (-)	hypothetical protein, conserved	
+LmjF.35.2670	LmjF.35.2670:mRNA	L. major strain Friedlin	LmjF.35: 1,085,989 - 1,086,510 (-)	ankyrin repeat protein, putative	
+LmjF.35.2680	LmjF.35.2680:mRNA	L. major strain Friedlin	LmjF.35: 1,089,006 - 1,089,320 (-)	heat shock factor binding protein 1, putative	
+LmjF.35.2690	LmjF.35.2690:mRNA	L. major strain Friedlin	LmjF.35: 1,091,867 - 1,093,282 (-)	btb/poz domain containing protein, putative	
+LmjF.35.2700	LmjF.35.2700:mRNA	L. major strain Friedlin	LmjF.35: 1,094,640 - 1,099,220 (-)	hypothetical protein, conserved	
+LmjF.35.2710	LmjF.35.2710:mRNA	L. major strain Friedlin	LmjF.35: 1,100,282 - 1,101,820 (-)	hypothetical protein, conserved	
+LmjF.35.2720	LmjF.35.2720:mRNA	L. major strain Friedlin	LmjF.35: 1,103,294 - 1,104,202 (-)	QA-SNARE protein putative	
+LmjF.35.2725	LmjF.35.2725:pseudogenic_transcript	L. major strain Friedlin	LmjF.35: 1,106,606 - 1,108,320 (-)	hypothetical protein	
+LmjF.35.2730	LmjF.35.2730:mRNA	L. major strain Friedlin	LmjF.35: 1,111,235 - 1,112,500 (-)	acyl-CoA dehydrogenase, putative	
+LmjF.35.2740	LmjF.35.2740:mRNA	L. major strain Friedlin	LmjF.35: 1,117,792 - 1,119,222 (-)	galactokinase-like protein	
+LmjF.35.2750	LmjF.35.2750:mRNA	L. major strain Friedlin	LmjF.35: 1,120,383 - 1,121,672 (-)	hypothetical protein, conserved	
+LmjF.35.2760	LmjF.35.2760:mRNA	L. major strain Friedlin	LmjF.35: 1,122,951 - 1,124,894 (-)	hypothetical protein, conserved	
+LmjF.35.2770	LmjF.35.2770:mRNA	L. major strain Friedlin	LmjF.35: 1,126,021 - 1,130,025 (-)	hypothetical protein, conserved	
+LmjF.35.2780	LmjF.35.2780:mRNA	L. major strain Friedlin	LmjF.35: 1,133,821 - 1,135,917 (-)	transporter-like protein	
+LmjF.35.2790	LmjF.35.2790:mRNA	L. major strain Friedlin	LmjF.35: 1,144,579 - 1,145,787 (-)	hypothetical protein, conserved	
+LmjF.35.2800	LmjF.35.2800:mRNA	L. major strain Friedlin	LmjF.35: 1,150,756 - 1,151,958 (-)	Alpha/beta hydrolase family, putative	
+LmjF.35.2810	LmjF.35.2810:mRNA	L. major strain Friedlin	LmjF.35: 1,154,541 - 1,156,658 (-)	transporter, putative	
+LmjF.35.2820	LmjF.35.2820:mRNA	L. major strain Friedlin	LmjF.35: 1,163,600 - 1,165,543 (-)	major facilitator superfamily, putative	
+LmjF.35.2830	LmjF.35.2830:mRNA	L. major strain Friedlin	LmjF.35: 1,167,186 - 1,168,850 (-)	hypothetical protein, conserved	
+LmjF.35.2840	LmjF.35.2840:mRNA	L. major strain Friedlin	LmjF.35: 1,169,334 - 1,170,701 (-)	aminotransferase, putative	
+LmjF.35.2850	LmjF.35.2850:mRNA	L. major strain Friedlin	LmjF.35: 1,172,569 - 1,174,272 (-)	RNA polymerase-associated protein LEO1, putative	
+LmjF.35.2860	LmjF.35.2860:mRNA	L. major strain Friedlin	LmjF.35: 1,175,705 - 1,176,160 (-)	hypothetical protein, conserved	
+LmjF.35.2870	LmjF.35.2870:mRNA	L. major strain Friedlin	LmjF.35: 1,176,699 - 1,178,921 (-)	protein kinase, putative	
+LmjF.35.2880	LmjF.35.2880:mRNA	L. major strain Friedlin	LmjF.35: 1,179,762 - 1,180,187 (-)	Sybindin-like family, putative	
+LmjF.35.2890	LmjF.35.2890:mRNA	L. major strain Friedlin	LmjF.35: 1,181,027 - 1,182,850 (-)	SpoU rRNA Methylase family, putative	
+LmjF.35.2900	LmjF.35.2900:mRNA	L. major strain Friedlin	LmjF.35: 1,183,801 - 1,185,987 (-)	hypothetical protein, conserved	
+LmjF.35.2910	LmjF.35.2910:mRNA	L. major strain Friedlin	LmjF.35: 1,186,893 - 1,187,264 (-)	dynein light chain, putative	
+LmjF.35.2920	LmjF.35.2920:mRNA	L. major strain Friedlin	LmjF.35: 1,193,110 - 1,196,544 (-)	hypothetical protein, conserved	
+LmjF.35.2930	LmjF.35.2930:mRNA	L. major strain Friedlin	LmjF.35: 1,197,115 - 1,198,971 (-)	dolichol kinase, putative	
+LmjF.35.2940	LmjF.35.2940:mRNA	L. major strain Friedlin	LmjF.35: 1,202,307 - 1,205,975 (-)	Leucine carboxyl methyltransferase/Cupin-like domain containing protein, putative	
+LmjF.35.2950	LmjF.35.2950:mRNA	L. major strain Friedlin	LmjF.35: 1,206,804 - 1,210,094 (-)	pentatricopeptide repeat domain containing protein, putative	
+LmjF.35.2960	LmjF.35.2960:mRNA	L. major strain Friedlin	LmjF.35: 1,211,535 - 1,213,214 (-)	denn domain-containing protein	
+LmjF.35.2970	LmjF.35.2970:mRNA	L. major strain Friedlin	LmjF.35: 1,214,489 - 1,215,634 (-)	hypothetical protein, conserved	
+LmjF.35.2980	LmjF.35.2980:mRNA	L. major strain Friedlin	LmjF.35: 1,219,855 - 1,221,291 (-)	chaperone protein DNAj, putative	
+LmjF.35.2990	LmjF.35.2990:mRNA	L. major strain Friedlin	LmjF.35: 1,223,742 - 1,224,980 (-)	3'-5' exonuclease, putative	
+LmjF.35.3000	LmjF.35.3000:mRNA	L. major strain Friedlin	LmjF.35: 1,227,171 - 1,228,553 (-)	hypothetical protein, conserved	
+LmjF.35.3010	LmjF.35.3010.1:mRNA	L. major strain Friedlin	LmjF.35: 1,232,310 - 1,234,097 (-)	trypanothione-dependent glyoxalase I	
+LmjF.35.3010	LmjF.35.3010.2:mRNA	L. major strain Friedlin	LmjF.35: 1,232,310 - 1,232,891 (-)	trypanothione-dependent glyoxalase I	
+LmjF.35.3020	LmjF.35.3020:mRNA	L. major strain Friedlin	LmjF.35: 1,234,327 - 1,235,718 (-)	phospholipase A1, putative	
+LmjF.35.3030	LmjF.35.3030:mRNA	L. major strain Friedlin	LmjF.35: 1,236,443 - 1,237,243 (-)	prenyl protein specific carboxyl methyltransferase, putative	
+LmjF.35.3040	LmjF.35.3040:mRNA	L. major strain Friedlin	LmjF.35: 1,238,262 - 1,239,077 (-)	hypothetical protein, conserved	
+LmjF.35.3050	LmjF.35.3050:mRNA	L. major strain Friedlin	LmjF.35: 1,240,662 - 1,241,894 (-)	nucleic acid binding protein, putative	
+LmjF.35.3060	LmjF.35.3060:mRNA	L. major strain Friedlin	LmjF.35: 1,245,239 - 1,248,703 (-)	ubiquitin-activating enzyme E1, putative	
+LmjF.35.3070	LmjF.35.3070:mRNA	L. major strain Friedlin	LmjF.35: 1,250,506 - 1,252,974 (-)	hypothetical protein, conserved	
+LmjF.35.3080	LmjF.35.3080:mRNA	L. major strain Friedlin	LmjF.35: 1,258,898 - 1,260,436 (-)	glycerol kinase, glycosomal, putative	
+LmjF.35.3090	LmjF.35.3090:mRNA	L. major strain Friedlin	LmjF.35: 1,264,614 - 1,266,143 (-)	DnaJ domain containing protein, putative	
+LmjF.35.3100	LmjF.35.3100:mRNA	L. major strain Friedlin	LmjF.35: 1,270,926 - 1,273,697 (-)	ATP-dependent RNA helicase, putative	
+LmjF.35.3110	LmjF.35.3110:mRNA	L. major strain Friedlin	LmjF.35: 1,275,337 - 1,277,145 (-)	Present in the outer mitochondrial membrane proteome 7	
+LmjF.35.3120	LmjF.35.3120:mRNA	L. major strain Friedlin	LmjF.35: 1,279,779 - 1,285,067 (-)	hypothetical protein, conserved	
+LmjF.35.3130	LmjF.35.3130:mRNA	L. major strain Friedlin	LmjF.35: 1,285,908 - 1,286,429 (-)	dynein light chain type 1, putative	
+LmjF.35.3140	LmjF.35.3140:mRNA	L. major strain Friedlin	LmjF.35: 1,288,250 - 1,289,380 (-)	inositol polyphosphate kinase, putative	
+LmjF.35.3150	LmjF.35.3150:mRNA	L. major strain Friedlin	LmjF.35: 1,290,387 - 1,291,940 (-)	class I transcription factor A, subunit 2, putative	
+LmjF.35.3160	LmjF.35.3160.1:mRNA	L. major strain Friedlin	LmjF.35: 1,294,251 - 1,295,821 (-)	riboflavin kinase/fmn adenylyltransferase-like protein	
+LmjF.35.3160	LmjF.35.3160.2:mRNA	L. major strain Friedlin	LmjF.35: 1,294,251 - 1,294,917 (-)	riboflavin kinase/fmn adenylyltransferase-like protein	
+LmjF.35.3170	LmjF.35.3170:mRNA	L. major strain Friedlin	LmjF.35: 1,297,255 - 1,302,876 (-)	protein kinase, putative	
+LmjF.35.3180	LmjF.35.3180:mRNA	L. major strain Friedlin	LmjF.35: 1,307,636 - 1,308,676 (-)	hypothetical protein, conserved	
+LmjF.35.3190	LmjF.35.3190:mRNA	L. major strain Friedlin	LmjF.35: 1,311,071 - 1,313,779 (-)	Histidine phosphatase superfamily (branch 1), putative	
+LmjF.35.3200	LmjF.35.3200:mRNA	L. major strain Friedlin	LmjF.35: 1,315,688 - 1,317,796 (-)	RNA-binding protein, putative	
+LmjF.35.3210	LmjF.35.3210:mRNA	L. major strain Friedlin	LmjF.35: 1,321,153 - 1,323,147 (-)	EF-hand domain pair, putative	
+LmjF.35.3220	LmjF.35.3220:mRNA	L. major strain Friedlin	LmjF.35: 1,325,134 - 1,325,643 (-)	hypothetical protein, conserved	
+LmjF.35.3230	LmjF.35.3230:mRNA	L. major strain Friedlin	LmjF.35: 1,328,264 - 1,329,493 (-)	cystathione gamma lyase, putative	
+LmjF.35.3240	LmjF.35.3240:mRNA	L. major strain Friedlin	LmjF.35: 1,332,458 - 1,335,340 (-)	hypothetical protein, conserved	
+LmjF.35.3250	LmjF.35.3250:mRNA	L. major strain Friedlin	LmjF.35: 1,336,256 - 1,337,350 (-)	replication factor C, subunit 3, putative	
+LmjF.35.3260	LmjF.35.3260:mRNA	L. major strain Friedlin	LmjF.35: 1,338,795 - 1,339,724 (-)	Peroxin 19	
+LmjF.35.3270	LmjF.35.3270:mRNA	L. major strain Friedlin	LmjF.35: 1,340,637 - 1,341,206 (-)	hypothetical protein, conserved	
+LmjF.35.3280	LmjF.35.3280:mRNA	L. major strain Friedlin	LmjF.35: 1,342,048 - 1,342,614 (-)	60S ribosomal subunit protein L31, putative	
+LmjF.35.3290	LmjF.35.3290:mRNA	L. major strain Friedlin	LmjF.35: 1,343,560 - 1,344,126 (-)	60S ribosomal subunit protein L31, putative	
+LmjF.35.3300	LmjF.35.3300:mRNA	L. major strain Friedlin	LmjF.35: 1,344,812 - 1,346,722 (-)	hypothetical protein, unknown function	
+LmjF.35.3310	LmjF.35.3310:mRNA	L. major strain Friedlin	LmjF.35: 1,348,773 - 1,349,684 (-)	Leucine Rich repeats (2 copies), putative	
+LmjF.35.3320	LmjF.35.3320:mRNA	L. major strain Friedlin	LmjF.35: 1,350,862 - 1,351,491 (-)	transport protein particle (TRAPP) subunit, putative	
+LmjF.35.3330	LmjF.35.3330:mRNA	L. major strain Friedlin	LmjF.35: 1,357,595 - 1,358,683 (-)	mitochondrial carrier protein, putative	
+LmjF.35.3340	LmjF.35.3340:mRNA	L. major strain Friedlin	LmjF.35: 1,363,367 - 1,364,806 (-)	6-phosphogluconate dehydrogenase, decarboxylating, putative	
+LmjF.35.3350	LmjF.35.3350:mRNA	L. major strain Friedlin	LmjF.35: 1,366,007 - 1,367,392 (-)	Tetrapyrrole (Corrin/Porphyrin) Methylases, putative	
+LmjF.35.3360	LmjF.35.3360:mRNA	L. major strain Friedlin	LmjF.35: 1,368,208 - 1,375,113 (-)	Putative death-receptor fusion protein (DUF2428), putative	
+LmjF.35.3370	LmjF.35.3370:mRNA	L. major strain Friedlin	LmjF.35: 1,377,781 - 1,381,035 (-)	hypothetical protein, conserved	
+LmjF.35.3380	LmjF.35.3380:mRNA	L. major strain Friedlin	LmjF.35: 1,381,980 - 1,383,623 (-)	poly A polymerase regulatory subunit, putative	
+LmjF.35.3390	LmjF.35.3390:mRNA	L. major strain Friedlin	LmjF.35: 1,384,443 - 1,385,231 (-)	hypothetical protein, conserved	
+LmjF.35.3400	LmjF.35.3400:mRNA	L. major strain Friedlin	LmjF.35: 1,386,155 - 1,387,420 (-)	LEM3 (ligand-effect modulator 3) family / CDC50 family, putative	
+LmjF.35.3410	LmjF.35.3410:mRNA	L. major strain Friedlin	LmjF.35: 1,388,571 - 1,390,601 (-)	hypothetical protein, conserved	
+LmjF.35.3420	LmjF.35.3420:mRNA	L. major strain Friedlin	LmjF.35: 1,391,277 - 1,391,855 (-)	hypothetical protein, unknown function	
+LmjF.35.3430	LmjF.35.3430:mRNA	L. major strain Friedlin	LmjF.35: 1,392,655 - 1,394,415 (-)	hypothetical protein, conserved	
+LmjF.35.3440	LmjF.35.3440:mRNA	L. major strain Friedlin	LmjF.35: 1,395,796 - 1,396,149 (-)	replication factor A protein 3, putative	
+LmjF.35.3450	LmjF.35.3450:mRNA	L. major strain Friedlin	LmjF.35: 1,397,543 - 1,400,200 (-)	DNA-repair protein, putative	
+LmjF.35.3460	LmjF.35.3460:mRNA	L. major strain Friedlin	LmjF.35: 1,401,048 - 1,402,460 (-)	peroxidase, putative	
+LmjF.35.3470	LmjF.35.3470:mRNA	L. major strain Friedlin	LmjF.35: 1,403,050 - 1,404,648 (-)	acyl transferase-like protein, putative	
+LmjF.35.3480	LmjF.35.3480:mRNA	L. major strain Friedlin	LmjF.35: 1,408,021 - 1,410,213 (-)	hypothetical protein, conserved	
+LmjF.35.3490	LmjF.35.3490:mRNA	L. major strain Friedlin	LmjF.35: 1,411,114 - 1,412,394 (-)	hypothetical protein, conserved	
+LmjF.35.3500	LmjF.35.3500:mRNA	L. major strain Friedlin	LmjF.35: 1,413,254 - 1,414,150 (-)	zinc finger protein, putative	
+LmjF.35.3510	LmjF.35.3510:mRNA	L. major strain Friedlin	LmjF.35: 1,415,817 - 1,419,782 (-)	structural maintenance of chromosome (SMC) family protein, putative	
+LmjF.35.3520	LmjF.35.3520:mRNA	L. major strain Friedlin	LmjF.35: 1,427,989 - 1,429,737 (-)	NLI interacting factor-like phosphatase, putative	
+LmjF.35.3530	LmjF.35.3530:mRNA	L. major strain Friedlin	LmjF.35: 1,434,473 - 1,435,624 (-)	hypothetical protein, unknown function	
+LmjF.35.3540	LmjF.35.3540:mRNA	L. major strain Friedlin	LmjF.35: 1,436,621 - 1,437,286 (-)	pre-rRNA-processing protein PNO1, putative	
+LmjF.35.3550	LmjF.35.3550:mRNA	L. major strain Friedlin	LmjF.35: 1,438,266 - 1,440,515 (-)	hypothetical protein, conserved	
+LmjF.35.3560	LmjF.35.3560.1:mRNA	L. major strain Friedlin	LmjF.35: 1,442,249 - 1,445,198 (-)	CRAL/TRIO, N-terminal domain/CRAL/TRIO domain containing protein, putative	
+LmjF.35.3560	LmjF.35.3560.2:mRNA	L. major strain Friedlin	LmjF.35: 1,442,249 - 1,443,405 (-)	CRAL/TRIO, N-terminal domain/CRAL/TRIO domain containing protein, putative	
+LmjF.35.3570	LmjF.35.3570:mRNA	L. major strain Friedlin	LmjF.35: 1,447,429 - 1,451,001 (-)	Fusaric acid resistance protein-like, putative	
+LmjF.35.3580	LmjF.35.3580:mRNA	L. major strain Friedlin	LmjF.35: 1,454,411 - 1,456,525 (-)	membrane transporter protein, putative	
+LmjF.35.3590	LmjF.35.3590:mRNA	L. major strain Friedlin	LmjF.35: 1,458,318 - 1,461,113 (-)	DNA repair protein RAD2, putative	
+LmjF.35.3600	LmjF.35.3600:mRNA	L. major strain Friedlin	LmjF.35: 1,461,894 - 1,463,057 (-)	methyltransferase domain containing protein, putative	
+LmjF.35.3610	LmjF.35.3610:mRNA	L. major strain Friedlin	LmjF.35: 1,463,735 - 1,464,478 (-)	cyclophilin 7, putative	
+LmjF.35.3620	LmjF.35.3620:mRNA	L. major strain Friedlin	LmjF.35: 1,467,146 - 1,467,655 (-)	iron-sulfur cluster assembly protein, putative	
+LmjF.35.3630	LmjF.35.3630:mRNA	L. major strain Friedlin	LmjF.35: 1,468,351 - 1,470,183 (-)	membrane transporter protein, putative	
+LmjF.35.3640	LmjF.35.3640:mRNA	L. major strain Friedlin	LmjF.35: 1,471,812 - 1,472,417 (-)	hypothetical protein, conserved	
+LmjF.35.3650	LmjF.35.3650:mRNA	L. major strain Friedlin	LmjF.35: 1,473,360 - 1,475,918 (-)	hypothetical protein, conserved	
+LmjF.35.3660	LmjF.35.3660:mRNA	L. major strain Friedlin	LmjF.35: 1,476,693 - 1,481,441 (-)	hypothetical protein, conserved	
+LmjF.35.3670	LmjF.35.3670:mRNA	L. major strain Friedlin	LmjF.35: 1,482,925 - 1,483,602 (-)	NADH-ubiquinone oxidoreductase B18 subunit (NDUFB7), putative	
+LmjF.35.3680	LmjF.35.3680:mRNA	L. major strain Friedlin	LmjF.35: 1,489,694 - 1,490,455 (-)	ribulose-phosphate 3-epimerase, putative	
+LmjF.35.3690	LmjF.35.3690:mRNA	L. major strain Friedlin	LmjF.35: 1,494,218 - 1,494,979 (-)	Peroxisomal biogenesis factor 11 (PEX11), putative	
+LmjF.35.3700	LmjF.35.3700:mRNA	L. major strain Friedlin	LmjF.35: 1,497,776 - 1,498,453 (-)	Gim5A protein, putative	
+LmjF.35.3710	LmjF.35.3710:mRNA	L. major strain Friedlin	LmjF.35: 1,499,231 - 1,500,256 (-)	hypothetical protein, conserved	
+LmjF.35.3720	LmjF.35.3720:mRNA	L. major strain Friedlin	LmjF.35: 1,502,167 - 1,503,489 (-)	hypothetical protein, conserved	
+LmjF.35.3730	LmjF.35.3730:mRNA	L. major strain Friedlin	LmjF.35: 1,504,779 - 1,507,310 (-)	hypothetical protein, conserved	
+LmjF.35.3740	LmjF.35.3740:mRNA	L. major strain Friedlin	LmjF.35: 1,508,378 - 1,509,544 (-)	hypothetical protein, conserved	
+LmjF.35.3750	LmjF.35.3750:mRNA	L. major strain Friedlin	LmjF.35: 1,509,962 - 1,512,664 (-)	Cullin family, putative	
+LmjF.35.3760	LmjF.35.3760:mRNA	L. major strain Friedlin	LmjF.35: 1,513,628 - 1,514,065 (-)	60S ribosomal protein L27A/L29, putative	
+LmjF.35.3770	LmjF.35.3770:mRNA	L. major strain Friedlin	LmjF.35: 1,515,036 - 1,516,994 (-)	Enriched in surface-labeled proteome protein 9, putative	
+LmjF.35.3780	LmjF.35.3780:mRNA	L. major strain Friedlin	LmjF.35: 1,518,601 - 1,519,038 (-)	60S ribosomal protein L27A/L29, putative	
+LmjF.35.3790	LmjF.35.3790:mRNA	L. major strain Friedlin	LmjF.35: 1,519,632 - 1,520,051 (-)	60S ribosomal protein L23, putative	
+LmjF.35.3800	LmjF.35.3800:mRNA	L. major strain Friedlin	LmjF.35: 1,521,007 - 1,521,426 (-)	60S ribosomal protein L23, putative	
+LmjF.35.3810	LmjF.35.3810:mRNA	L. major strain Friedlin	LmjF.35: 1,522,118 - 1,522,561 (-)	hypothetical protein, conserved	
+LmjF.35.3820	LmjF.35.3820:mRNA	L. major strain Friedlin	LmjF.35: 1,523,295 - 1,524,320 (-)	hypothetical protein, conserved	
+LmjF.35.3830	LmjF.35.3830:mRNA	L. major strain Friedlin	LmjF.35: 1,525,539 - 1,526,489 (-)	hypothetical protein, conserved	
+LmjF.35.3840	LmjF.35.3840:mRNA	L. major strain Friedlin	LmjF.35: 1,527,758 - 1,528,522 (-)	proteasome beta 2 subunit, putative	
+LmjF.35.3850	LmjF.35.3850:mRNA	L. major strain Friedlin	LmjF.35: 1,529,682 - 1,530,620 (-)	30S Ribosomal protein S17-like protein	
+LmjF.35.3860	LmjF.35.3860:mRNA	L. major strain Friedlin	LmjF.35: 1,532,610 - 1,534,322 (-)	T-complex protein 1, eta subunit, putative	
+LmjF.35.3870	LmjF.35.3870:mRNA	L. major strain Friedlin	LmjF.35: 1,535,487 - 1,536,500 (-)	nucleoside diphosphate kinase, putative	
+LmjF.35.3880	LmjF.35.3880:mRNA	L. major strain Friedlin	LmjF.35: 1,537,328 - 1,538,662 (-)	WD domain, G-beta repeat/Sof1-like domain containing protein, putative	
+LmjF.35.3890	LmjF.35.3890:mRNA	L. major strain Friedlin	LmjF.35: 1,539,167 - 1,539,604 (-)	calmodulin-like protein	
+LmjF.35.3900	LmjF.35.3900:mRNA	L. major strain Friedlin	LmjF.35: 1,540,120 - 1,541,196 (-)	hypothetical protein, conserved	
+LmjF.35.3910	LmjF.35.3910:mRNA	L. major strain Friedlin	LmjF.35: 1,541,842 - 1,542,420 (-)	PFPI/DJ-1-like protein, putative	
+LmjF.35.3920	LmjF.35.3920:mRNA	L. major strain Friedlin	LmjF.35: 1,543,928 - 1,546,342 (+)	hypothetical protein, conserved	
+LmjF.35.3925	LmjF.35.3925:mRNA	L. major strain Friedlin	LmjF.35: 1,547,275 - 1,548,705 (+)	hypothetical protein, conserved	
+LmjF.35.3930	LmjF.35.3930:mRNA	L. major strain Friedlin	LmjF.35: 1,549,734 - 1,550,504 (+)	unc-50 related protein homolog	
+LmjF.35.3940	LmjF.35.3940:mRNA	L. major strain Friedlin	LmjF.35: 1,551,567 - 1,553,381 (+)	Chromosome passenger complex (CPC) protein INCENP N terminal, putative	
+LmjF.35.3950	LmjF.35.3950:mRNA	L. major strain Friedlin	LmjF.35: 1,554,920 - 1,562,203 (+)	U5 snRNA-associated splicing factor	
+LmjF.35.3960	LmjF.35.3960:mRNA	L. major strain Friedlin	LmjF.35: 1,563,764 - 1,564,909 (+)	protein kinase A catalytic subunit isoform 2	
+LmjF.35.3970	LmjF.35.3970:mRNA	L. major strain Friedlin	LmjF.35: 1,568,674 - 1,571,154 (+)	predicted zinc finger protein	
+LmjF.35.3980	LmjF.35.3980:mRNA	L. major strain Friedlin	LmjF.35: 1,578,666 - 1,581,056 (+)	4E-interacting protein, putative	
+LmjF.35.3990	LmjF.35.3990:mRNA	L. major strain Friedlin	LmjF.35: 1,589,243 - 1,590,325 (+)	mitochondrial carrier protein, putative	
+LmjF.35.4000	LmjF.35.4000:mRNA	L. major strain Friedlin	LmjF.35: 1,592,508 - 1,596,785 (+)	MAP kinase kinase-like protein	
+LmjF.35.4010	LmjF.35.4010:mRNA	L. major strain Friedlin	LmjF.35: 1,598,490 - 1,599,605 (+)	protein kinase A catalytic subunit isoform 1	
+LmjF.35.4020	LmjF.35.4020:mRNA	L. major strain Friedlin	LmjF.35: 1,605,602 - 1,606,786 (+)	Bem46-like serine peptidase	
+LmjF.35.4030	LmjF.35.4030:mRNA	L. major strain Friedlin	LmjF.35: 1,609,055 - 1,611,148 (+)	ATP-dependent RNA helicase, putative	
+LmjF.35.4040	LmjF.35.4040:mRNA	L. major strain Friedlin	LmjF.35: 1,612,357 - 1,613,523 (+)	chaperone protein DNAj, putative	
+LmjF.35.4045	LmjF.35.4045:mRNA	L. major strain Friedlin	LmjF.35: 1,614,650 - 1,614,997 (+)	hypothetical protein, conserved	
+LmjF.35.4050	LmjF.35.4050:mRNA	L. major strain Friedlin	LmjF.35: 1,616,510 - 1,620,379 (+)	kinetoplastid kinetochore protein 3, putative	
+LmjF.35.4060	LmjF.35.4060:mRNA	L. major strain Friedlin	LmjF.35: 1,621,351 - 1,622,190 (+)	Regulatory subunit of type II PKA R-subunit, putative	
+LmjF.35.4070	LmjF.35.4070:mRNA	L. major strain Friedlin	LmjF.35: 1,623,416 - 1,624,432 (+)	hypothetical protein, conserved	
+LmjF.35.4080	LmjF.35.4080:mRNA	L. major strain Friedlin	LmjF.35: 1,625,702 - 1,629,016 (+)	hypothetical protein, conserved	
+LmjF.35.4090	LmjF.35.4090:mRNA	L. major strain Friedlin	LmjF.35: 1,630,054 - 1,630,308 (+)	Splicing factor 3B subunit 10 (SF3b10), putative	
+LmjF.35.4100	LmjF.35.4100:mRNA	L. major strain Friedlin	LmjF.35: 1,631,643 - 1,633,088 (+)	hypothetical protein, conserved	
+LmjF.35.4110	LmjF.35.4110:mRNA	L. major strain Friedlin	LmjF.35: 1,633,911 - 1,634,528 (+)	HD domain containing protein, putative	
+LmjF.35.4120	LmjF.35.4120:mRNA	L. major strain Friedlin	LmjF.35: 1,635,404 - 1,638,598 (+)	hypothetical protein, conserved	
+LmjF.35.4125	LmjF.35.4125:mRNA	L. major strain Friedlin	LmjF.35: 1,639,810 - 1,641,576 (+)	hypothetical protein, conserved	
+LmjF.35.4130	LmjF.35.4130:mRNA	L. major strain Friedlin	LmjF.35: 1,644,108 - 1,645,892 (+)	polyadenylate-binding protein 2	
+LmjF.35.4140	LmjF.35.4140:mRNA	L. major strain Friedlin	LmjF.35: 1,652,815 - 1,653,579 (+)	hypothetical protein, unknown function	
+LmjF.35.4150	LmjF.35.4150:mRNA	L. major strain Friedlin	LmjF.35: 1,655,728 - 1,657,671 (+)	elongation factor 1-alpha, putative	
+LmjF.35.4160	LmjF.35.4160:mRNA	L. major strain Friedlin	LmjF.35: 1,659,462 - 1,660,940 (+)	Protein of unknown function (DUF2009), putative	
+LmjF.35.4170	LmjF.35.4170:mRNA	L. major strain Friedlin	LmjF.35: 1,661,784 - 1,662,878 (+)	RNA polymerase III RPC4, putative	
+LmjF.35.4180	LmjF.35.4180:mRNA	L. major strain Friedlin	LmjF.35: 1,663,745 - 1,665,523 (+)	bardet-biedl syndrome 1 protein	
+LmjF.35.4190	LmjF.35.4190:mRNA	L. major strain Friedlin	LmjF.35: 1,666,379 - 1,667,071 (+)	hypothetical protein, conserved	
+LmjF.35.4200	LmjF.35.4200:mRNA	L. major strain Friedlin	LmjF.35: 1,681,862 - 1,683,859 (+)	hypothetical protein, unknown function	
+LmjF.35.4210	LmjF.35.4210:mRNA	L. major strain Friedlin	LmjF.35: 1,688,133 - 1,690,238 (+)	hypothetical protein, unknown function	
+LmjF.35.4220	LmjF.35.4220:mRNA	L. major strain Friedlin	LmjF.35: 1,693,485 - 1,695,293 (+)	hypothetical protein, unknown function	
+LmjF.35.4230	LmjF.35.4230:mRNA	L. major strain Friedlin	LmjF.35: 1,699,749 - 1,702,781 (+)	synaptojanin (N-terminal domain), putative	
+LmjF.35.4240	LmjF.35.4240:mRNA	L. major strain Friedlin	LmjF.35: 1,705,016 - 1,705,912 (+)	hypothetical protein, conserved	
+LmjF.35.4250	LmjF.35.4250:mRNA	L. major strain Friedlin	LmjF.35: 1,715,043 - 1,716,020 (+)	3-demethylubiquinone-9 3-methyltransferase, putative	
+LmjF.35.4260	LmjF.35.4260:mRNA	L. major strain Friedlin	LmjF.35: 1,717,097 - 1,718,230 (+)	predicted zinc finger protein	
+LmjF.35.4270	LmjF.35.4270:mRNA	L. major strain Friedlin	LmjF.35: 1,719,780 - 1,720,289 (+)	Present in the outer mitochondrial membrane proteome 6	
+LmjF.35.4280	LmjF.35.4280:mRNA	L. major strain Friedlin	LmjF.35: 1,722,216 - 1,724,666 (+)	Spindle assembly abnormal protein 6 homolog	
+LmjF.35.4290	LmjF.35.4290:mRNA	L. major strain Friedlin	LmjF.35: 1,728,818 - 1,729,795 (+)	hypothetical protein, unknown function	
+LmjF.35.4300	LmjF.35.4300:mRNA	L. major strain Friedlin	LmjF.35: 1,737,509 - 1,738,258 (+)	hypothetical protein, conserved	
+LmjF.35.4310	LmjF.35.4310:mRNA	L. major strain Friedlin	LmjF.35: 1,739,192 - 1,739,617 (+)	hypothetical protein, conserved	
+LmjF.35.4320	LmjF.35.4320:mRNA	L. major strain Friedlin	LmjF.35: 1,740,416 - 1,742,065 (+)	HAD hydrolase, TIGR01456 family/HAD hydrolase, family IIA, putative	
+LmjF.35.4330	LmjF.35.4330:mRNA	L. major strain Friedlin	LmjF.35: 1,742,607 - 1,744,514 (+)	pre-RNA processing PIH1/Nop17, putative	
+LmjF.35.4340	LmjF.35.4340:mRNA	L. major strain Friedlin	LmjF.35: 1,745,755 - 1,746,783 (+)	hypothetical protein, conserved	
+LmjF.35.4350	LmjF.35.4350:mRNA	L. major strain Friedlin	LmjF.35: 1,747,875 - 1,751,750 (+)	PGAP1-like protein, putative	
+LmjF.35.4360	LmjF.35.4360:mRNA	L. major strain Friedlin	LmjF.35: 1,753,106 - 1,760,020 (+)	DNA polymerase epsilon catalytic subunit, putative	
+LmjF.35.4370	LmjF.35.4370:mRNA	L. major strain Friedlin	LmjF.35: 1,761,027 - 1,761,371 (+)	Zinc-binding domain containing protein, putative	
+LmjF.35.4380	LmjF.35.4380:pseudogenic_transcript	L. major strain Friedlin	LmjF.35: 1,762,158 - 1,763,645 (+)	hypothetical protein, conserved	
+LmjF.35.4390	LmjF.35.4390:mRNA	L. major strain Friedlin	LmjF.35: 1,765,133 - 1,766,368 (+)	TAX-1	
+LmjF.35.4400	LmjF.35.4400:mRNA	L. major strain Friedlin	LmjF.35: 1,767,346 - 1,767,966 (+)	Snf7, putative	
+LmjF.35.4410	LmjF.35.4410:mRNA	L. major strain Friedlin	LmjF.35: 1,770,522 - 1,772,075 (+)	amino acid permease, putative	
+LmjF.35.4420	LmjF.35.4420:mRNA	L. major strain Friedlin	LmjF.35: 1,772,575 - 1,773,588 (+)	mitochondrial phosphate transporter, putative	
+LmjF.35.4430	LmjF.35.4430:mRNA	L. major strain Friedlin	LmjF.35: 1,776,383 - 1,777,336 (+)	mitochondrial phosphate transporter, putative	
+LmjF.35.4440	LmjF.35.4440:mRNA	L. major strain Friedlin	LmjF.35: 1,780,443 - 1,781,159 (+)	hypothetical protein, conserved	
+LmjF.35.4450	LmjF.35.4450:mRNA	L. major strain Friedlin	LmjF.35: 1,786,736 - 1,787,530 (+)	predicted zinc finger protein	
+LmjF.35.4460	LmjF.35.4460:mRNA	L. major strain Friedlin	LmjF.35: 1,793,112 - 1,793,342 (+)	sm-f snRNP core complex protein, putative	
+LmjF.35.4470	LmjF.35.4470:mRNA	L. major strain Friedlin	LmjF.35: 1,794,331 - 1,794,930 (+)	Co-chaperone protein P23	
+LmjF.35.4480	LmjF.35.4480:mRNA	L. major strain Friedlin	LmjF.35: 1,796,320 - 1,796,670 (+)	hypothetical protein, conserved	
+LmjF.35.4490	LmjF.35.4490:mRNA	L. major strain Friedlin	LmjF.35: 1,798,537 - 1,803,000 (+)	hypothetical protein, conserved	
+LmjF.35.4500	LmjF.35.4500:mRNA	L. major strain Friedlin	LmjF.35: 1,804,197 - 1,804,445 (+)	anaphase promoting complex subunit protein, putative	
+LmjF.35.4510	LmjF.35.4510:mRNA	L. major strain Friedlin	LmjF.35: 1,805,156 - 1,805,851 (+)	hypothetical protein, conserved	
+LmjF.35.4520	LmjF.35.4520:mRNA	L. major strain Friedlin	LmjF.35: 1,806,944 - 1,807,600 (+)	Protein of unknown function (DUF962), putative	
+LmjF.35.4530	LmjF.35.4530:mRNA	L. major strain Friedlin	LmjF.35: 1,808,558 - 1,810,708 (+)	hypothetical protein, conserved	
+LmjF.35.4540	LmjF.35.4540:mRNA	L. major strain Friedlin	LmjF.35: 1,812,497 - 1,815,271 (+)	Uncharacterised conserved protein, putative	
+LmjF.35.4550	LmjF.35.4550:mRNA	L. major strain Friedlin	LmjF.35: 1,816,858 - 1,821,297 (+)	hypothetical protein, conserved	
+LmjF.35.4560	LmjF.35.4560:mRNA	L. major strain Friedlin	LmjF.35: 1,822,546 - 1,823,904 (+)	PHD-like zinc-binding domain containing protein, putative	
+LmjF.35.4570	LmjF.35.4570:mRNA	L. major strain Friedlin	LmjF.35: 1,824,542 - 1,824,964 (+)	hypothetical protein, conserved	
+LmjF.35.4580	LmjF.35.4580:mRNA	L. major strain Friedlin	LmjF.35: 1,825,522 - 1,827,198 (+)	60Kd inner membrane protein, putative	
+LmjF.35.4590	LmjF.35.4590:mRNA	L. major strain Friedlin	LmjF.35: 1,827,919 - 1,828,977 (+)	phosphatidylserine decarboxylase, putative	
+LmjF.35.4600	LmjF.35.4600:mRNA	L. major strain Friedlin	LmjF.35: 1,829,929 - 1,831,464 (+)	hypothetical protein, conserved	
+LmjF.35.4610	LmjF.35.4610:mRNA	L. major strain Friedlin	LmjF.35: 1,832,518 - 1,833,381 (+)	hypothetical protein, conserved	
+LmjF.35.4620	LmjF.35.4620:mRNA	L. major strain Friedlin	LmjF.35: 1,834,036 - 1,834,902 (+)	protein kinase, putative	
+LmjF.35.4630	LmjF.35.4630:mRNA	L. major strain Friedlin	LmjF.35: 1,837,186 - 1,838,661 (+)	chaperone protein DNAj, putative	
+LmjF.35.4640	LmjF.35.4640:mRNA	L. major strain Friedlin	LmjF.35: 1,840,116 - 1,840,460 (+)	hypothetical protein, conserved	
+LmjF.35.4650	LmjF.35.4650:mRNA	L. major strain Friedlin	LmjF.35: 1,842,115 - 1,843,209 (+)	protein phosphatase, putative	
+LmjF.35.4660	LmjF.35.4660:mRNA	L. major strain Friedlin	LmjF.35: 1,844,914 - 1,846,206 (+)	small nuclear RNA gene activation protein (SNAP) 50, putative	
+LmjF.35.4670	LmjF.35.4670:mRNA	L. major strain Friedlin	LmjF.35: 1,847,121 - 1,848,890 (+)	katanin, putative	
+LmjF.35.4680	LmjF.35.4680:mRNA	L. major strain Friedlin	LmjF.35: 1,850,663 - 1,850,989 (+)	hypothetical protein, unknown function	
+LmjF.35.4690	LmjF.35.4690:mRNA	L. major strain Friedlin	LmjF.35: 1,852,134 - 1,853,078 (+)	PACRGB	
+LmjF.35.4700	LmjF.35.4700:mRNA	L. major strain Friedlin	LmjF.35: 1,854,061 - 1,855,503 (+)	Kinesin-13 6, putative	
+LmjF.35.4710	LmjF.35.4710:mRNA	L. major strain Friedlin	LmjF.35: 1,856,430 - 1,858,601 (+)	Hsp70 protein, putative	
+LmjF.35.4720	LmjF.35.4720:mRNA	L. major strain Friedlin	LmjF.35: 1,859,591 - 1,860,007 (+)	lipoic acid containing carrier protein, putative	
+LmjF.35.4730	LmjF.35.4730:mRNA	L. major strain Friedlin	LmjF.35: 1,861,753 - 1,862,373 (+)	hypothetical protein	
+LmjF.35.4750	LmjF.35.4750:mRNA	L. major strain Friedlin	LmjF.35: 1,863,223 - 1,864,272 (+)	glyceraldehyde-3-phosphate dehydrogenase-like protein	
+LmjF.35.4760	LmjF.35.4760:mRNA	L. major strain Friedlin	LmjF.35: 1,865,625 - 1,866,071 (+)	hypothetical protein, conserved	
+LmjF.35.4770	LmjF.35.4770:mRNA	L. major strain Friedlin	LmjF.35: 1,867,882 - 1,868,946 (+)	cyclophilin 40	
+LmjF.35.4780	LmjF.35.4780:mRNA	L. major strain Friedlin	LmjF.35: 1,870,539 - 1,870,847 (+)	hypothetical protein, unknown function	
+LmjF.35.4790	LmjF.35.4790:mRNA	L. major strain Friedlin	LmjF.35: 1,871,763 - 1,872,425 (+)	membrane- trafficking protein, putative	
+LmjF.35.4800	LmjF.35.4800:mRNA	L. major strain Friedlin	LmjF.35: 1,874,228 - 1,878,673 (+)	AMP deaminase, putative	
+LmjF.35.4810	LmjF.35.4810:mRNA	L. major strain Friedlin	LmjF.35: 1,879,895 - 1,881,052 (+)	BRCA1 C Terminus (BRCT) domain containing protein, putative	
+LmjF.35.4820	LmjF.35.4820:mRNA	L. major strain Friedlin	LmjF.35: 1,883,581 - 1,884,588 (+)	Histidine phosphatase superfamily (branch 1), putative	
+LmjF.35.4830	LmjF.35.4830:mRNA	L. major strain Friedlin	LmjF.35: 1,886,003 - 1,887,400 (+)	hypothetical protein, conserved	
+LmjF.35.4840	LmjF.35.4840:mRNA	L. major strain Friedlin	LmjF.35: 1,888,328 - 1,889,098 (+)	hypothetical protein, conserved	
+LmjF.35.4850	LmjF.35.4850:mRNA	L. major strain Friedlin	LmjF.35: 1,892,705 - 1,893,457 (+)	proteasome alpha 1 subunit, putative	
+LmjF.35.4860	LmjF.35.4860:mRNA	L. major strain Friedlin	LmjF.35: 1,895,103 - 1,896,152 (+)	Mitochondrial import receptor subunit ATOM40, putative	
+LmjF.35.4870	LmjF.35.4870:mRNA	L. major strain Friedlin	LmjF.35: 1,897,562 - 1,900,564 (+)	hypothetical protein, conserved	
+LmjF.35.4880	LmjF.35.4880:mRNA	L. major strain Friedlin	LmjF.35: 1,901,734 - 1,902,882 (+)	TPR repeat, putative	
+LmjF.35.4890	LmjF.35.4890:mRNA	L. major strain Friedlin	LmjF.35: 1,904,290 - 1,905,384 (+)	meiotic recombination protein DMC1, putative	
+LmjF.35.4900	LmjF.35.4900:mRNA	L. major strain Friedlin	LmjF.35: 1,907,631 - 1,908,092 (+)	hypothetical protein, conserved	
+LmjF.35.4910	LmjF.35.4910:mRNA	L. major strain Friedlin	LmjF.35: 1,909,194 - 1,911,920 (+)	DNA replication licensing factor MCM9, putative	
+LmjF.35.4930	LmjF.35.4930:mRNA	L. major strain Friedlin	LmjF.35: 1,916,002 - 1,918,179 (+)	tubulin tyrosine ligase, putative	
+LmjF.35.4940	LmjF.35.4940:mRNA	L. major strain Friedlin	LmjF.35: 1,919,554 - 1,920,186 (+)	hypothetical protein, conserved	
+LmjF.35.4950	LmjF.35.4950:mRNA	L. major strain Friedlin	LmjF.35: 1,926,092 - 1,929,181 (+)	zinc finger protein family member, putative	
+LmjF.35.4960	LmjF.35.4960:mRNA	L. major strain Friedlin	LmjF.35: 1,932,918 - 1,933,859 (+)	hypothetical protein, conserved	
+LmjF.35.4970	LmjF.35.4970:mRNA	L. major strain Friedlin	LmjF.35: 1,934,876 - 1,935,904 (+)	hypothetical protein, conserved	
+LmjF.35.4990	LmjF.35.4990:mRNA	L. major strain Friedlin	LmjF.35: 1,939,381 - 1,940,397 (+)	sphingomyelin/ceramide phosphorylethanolamine synthase, bifunctional	
+LmjF.35.5000	LmjF.35.5000:mRNA	L. major strain Friedlin	LmjF.35: 1,944,208 - 1,945,050 (+)	PSP1 C-terminal conserved region, putative	
+LmjF.35.5010	LmjF.35.5010:mRNA	L. major strain Friedlin	LmjF.35: 1,957,966 - 1,959,144 (+)	mitogen-activated protein kinase, putative	
+LmjF.35.5020	LmjF.35.5020:mRNA	L. major strain Friedlin	LmjF.35: 1,962,412 - 1,965,459 (+)	hypothetical protein, conserved	
+LmjF.35.5030	LmjF.35.5030:mRNA	L. major strain Friedlin	LmjF.35: 1,966,142 - 1,967,896 (+)	hypothetical protein, conserved	
+LmjF.35.5040	LmjF.35.5040:mRNA	L. major strain Friedlin	LmjF.35: 1,969,384 - 1,971,066 (+)	polyadenylate-binding protein 1	
+LmjF.35.5050	LmjF.35.5050:mRNA	L. major strain Friedlin	LmjF.35: 1,974,132 - 1,976,120 (+)	hypothetical protein, conserved	
+LmjF.35.5060	LmjF.35.5060:mRNA	L. major strain Friedlin	LmjF.35: 1,978,250 - 1,979,818 (+)	hypothetical protein, conserved	
+LmjF.35.5070	LmjF.35.5070:mRNA	L. major strain Friedlin	LmjF.35: 1,981,774 - 1,982,280 (+)	hypothetical protein, conserved	
+LmjF.35.5080	LmjF.35.5080:mRNA	L. major strain Friedlin	LmjF.35: 1,985,934 - 1,986,449 (+)	hypothetical protein, conserved	
+LmjF.35.5090	LmjF.35.5090:mRNA	L. major strain Friedlin	LmjF.35: 1,988,532 - 1,990,286 (+)	hypothetical protein, conserved	
+LmjF.35.5100	LmjF.35.5100:mRNA	L. major strain Friedlin	LmjF.35: 1,991,035 - 1,991,286 (+)	60S ribosomal protein L37	
+LmjF.35.5110	LmjF.35.5110:mRNA	L. major strain Friedlin	LmjF.35: 1,992,203 - 1,994,428 (+)	RNA pseudouridylate synthase, putative	
+LmjF.35.5120	LmjF.35.5120:mRNA	L. major strain Friedlin	LmjF.35: 1,995,041 - 1,997,203 (+)	hypothetical protein, conserved	
+LmjF.35.5130	LmjF.35.5130:mRNA	L. major strain Friedlin	LmjF.35: 1,998,181 - 1,999,293 (+)	hypothetical protein, conserved	
+LmjF.35.5140	LmjF.35.5140:mRNA	L. major strain Friedlin	LmjF.35: 2,000,384 - 2,001,244 (+)	hypothetical protein, unknown function	
+LmjF.35.5150	LmjF.35.5150:mRNA	L. major strain Friedlin	LmjF.35: 2,001,591 - 2,003,486 (+)	biopterin transporter, putative	
+LmjF.35.5160	LmjF.35.5160:mRNA	L. major strain Friedlin	LmjF.35: 2,006,251 - 2,007,171 (+)	hypothetical protein, conserved	
+LmjF.35.5170	LmjF.35.5170:mRNA	L. major strain Friedlin	LmjF.35: 2,009,199 - 2,010,146 (+)	hypothetical protein, conserved	
+LmjF.35.5180	LmjF.35.5180:mRNA	L. major strain Friedlin	LmjF.35: 2,011,025 - 2,012,938 (+)	hypothetical protein, conserved	
+LmjF.35.5190	LmjF.35.5190:mRNA	L. major strain Friedlin	LmjF.35: 2,015,485 - 2,016,918 (+)	NIMA-related kinase, putative	
+LmjF.35.5200	LmjF.35.5200:mRNA	L. major strain Friedlin	LmjF.35: 2,021,229 - 2,022,002 (+)	hypothetical protein, conserved	
+LmjF.35.5210	LmjF.35.5210:mRNA	L. major strain Friedlin	LmjF.35: 2,027,899 - 2,029,293 (+)	GTP-binding protein, putative	
+LmjF.35.5220	LmjF.35.5220:mRNA	L. major strain Friedlin	LmjF.35: 2,029,934 - 2,030,890 (+)	hypothetical protein, conserved	
+LmjF.35.5230	LmjF.35.5230:mRNA	L. major strain Friedlin	LmjF.35: 2,031,542 - 2,032,267 (+)	tRNA (guanine-N(7)-)-methyltransferase, putative	
+LmjF.35.5240	LmjF.35.5240:mRNA	L. major strain Friedlin	LmjF.35: 2,034,567 - 2,035,373 (+)	hypothetical protein, unknown function	
+LmjF.35.5250	LmjF.35.5250.1:mRNA	L. major strain Friedlin	LmjF.35: 2,037,943 - 2,039,381 (+)	alpha-1,2-mannosyltransferase, putative	
+LmjF.35.5250	LmjF.35.5250.2:mRNA	L. major strain Friedlin	LmjF.35: 2,036,246 - 2,039,381 (+)	alpha-1,2-mannosyltransferase, putative	
+LmjF.35.5260	LmjF.35.5260:mRNA	L. major strain Friedlin	LmjF.35: 2,040,027 - 2,040,284 (+)	hypothetical protein, conserved	
+LmjF.35.5270	LmjF.35.5270:mRNA	L. major strain Friedlin	LmjF.35: 2,041,329 - 2,042,399 (+)	WD domain, G-beta repeat, putative	
+LmjF.35.5280	LmjF.35.5280:mRNA	L. major strain Friedlin	LmjF.35: 2,043,412 - 2,044,179 (+)	Present in the outer mitochondrial membrane proteome 5	
+LmjF.35.5290	LmjF.35.5290:mRNA	L. major strain Friedlin	LmjF.35: 2,044,985 - 2,045,560 (+)	Lsm12 protein, putative	
+LmjF.35.5300	LmjF.35.5300:mRNA	L. major strain Friedlin	LmjF.35: 2,046,345 - 2,047,580 (+)	hypothetical protein, conserved	
+LmjF.35.5310	LmjF.35.5310:mRNA	L. major strain Friedlin	LmjF.35: 2,048,333 - 2,049,457 (+)	ribosome-interacting GTPase 2, putative	
+LmjF.35.5320	LmjF.35.5320:mRNA	L. major strain Friedlin	LmjF.35: 2,050,088 - 2,051,881 (+)	SAC3/GANP/Nin1/mts3/eIF-3 p25 family, putative	
+LmjF.35.5330	LmjF.35.5330:mRNA	L. major strain Friedlin	LmjF.35: 2,052,480 - 2,053,553 (+)	isopentenyl-diphosphate delta-isomerase (type II), putative	
+LmjF.35.5340	LmjF.35.5340:mRNA	L. major strain Friedlin	LmjF.35: 2,054,531 - 2,055,571 (+)	Dynein heavy chain and region D6 of dynein motor/Ankyrin repeats (3 copies), putative	
+LmjF.35.5350	LmjF.35.5350:mRNA	L. major strain Friedlin	LmjF.35: 2,056,288 - 2,057,520 (+)	amino acid permease, putative	
+LmjF.35.5360	LmjF.35.5360:mRNA	L. major strain Friedlin	LmjF.35: 2,060,235 - 2,061,452 (+)	amino acid permease, putative	
+LmjF.35.5370	LmjF.35.5370:mRNA	L. major strain Friedlin	LmjF.35: 2,062,234 - 2,063,397 (+)	diacylglycerol kinase-like protein	
+LmjF.35.5380	LmjF.35.5380:mRNA	L. major strain Friedlin	LmjF.35: 2,065,211 - 2,065,990 (+)	hypothetical protein, conserved	
+LmjF.35.5390	LmjF.35.5390:mRNA	L. major strain Friedlin	LmjF.35: 2,068,920 - 2,088,794 (+)	HECT-domain (ubiquitin-transferase), putative	
+LmjF.35.snoRNA0001	LmjF.35.snoRNA0001:snoRNA	L. major strain Friedlin	LmjF.35: 1,680,747 - 1,680,811 (+)	C/D small nucleolar RNA (snoRNA), LM35Cs3C2 partial	
+LmjF.35.snoRNA0067	LmjF.35.snoRNA0067:snoRNA	L. major strain Friedlin	LmjF.35: 1,679,343 - 1,679,421 (+)	H/ACA small nucleolar RNA (snoRNA), LM35Cs3H3	
+LmjF.35.snoRNA0151	LmjF.35.snoRNA0151:snoRNA	L. major strain Friedlin	LmjF.35: 1,671,201 - 1,671,272 (+)	C/D snoRNA	
+LmjF.35.snoRNA0152	LmjF.35.snoRNA0152:snoRNA	L. major strain Friedlin	LmjF.35: 1,672,265 - 1,672,336 (+)	C/D snoRNA	
+LmjF.35.snoRNA0153	LmjF.35.snoRNA0153:snoRNA	L. major strain Friedlin	LmjF.35: 1,673,343 - 1,673,414 (+)	C/D snoRNA	
+LmjF.35.snoRNA0154	LmjF.35.snoRNA0154:snoRNA	L. major strain Friedlin	LmjF.35: 1,674,629 - 1,674,700 (+)	C/D snoRNA	
+LmjF.35.snoRNA0155	LmjF.35.snoRNA0155:snoRNA	L. major strain Friedlin	LmjF.35: 1,675,942 - 1,676,013 (+)	C/D snoRNA	
+LmjF.35.snoRNA0156	LmjF.35.snoRNA0156:snoRNA	L. major strain Friedlin	LmjF.35: 1,677,269 - 1,677,340 (+)	C/D snoRNA	
+LmjF.35.snoRNA0157	LmjF.35.snoRNA0157:snoRNA	L. major strain Friedlin	LmjF.35: 1,678,580 - 1,678,651 (+)	C/D snoRNA	
+LmjF.35.snoRNA0158	LmjF.35.snoRNA0158:snoRNA	L. major strain Friedlin	LmjF.35: 1,679,878 - 1,679,949 (+)	C/D snoRNA	
+LmjF.35.snoRNA0159	LmjF.35.snoRNA0159:snoRNA	L. major strain Friedlin	LmjF.35: 1,671,970 - 1,672,051 (+)	C/D snoRNA	
+LmjF.35.snoRNA0160	LmjF.35.snoRNA0160:snoRNA	L. major strain Friedlin	LmjF.35: 1,673,034 - 1,673,115 (+)	C/D snoRNA	
+LmjF.35.snoRNA0161	LmjF.35.snoRNA0161:snoRNA	L. major strain Friedlin	LmjF.35: 1,674,348 - 1,674,429 (+)	C/D snoRNA	
+LmjF.35.snoRNA0162	LmjF.35.snoRNA0162:snoRNA	L. major strain Friedlin	LmjF.35: 1,675,643 - 1,675,724 (+)	C/D snoRNA	
+LmjF.35.snoRNA0163	LmjF.35.snoRNA0163:snoRNA	L. major strain Friedlin	LmjF.35: 1,676,954 - 1,677,035 (+)	C/D snoRNA	
+LmjF.35.snoRNA0164	LmjF.35.snoRNA0164:snoRNA	L. major strain Friedlin	LmjF.35: 1,678,283 - 1,678,364 (+)	C/D snoRNA	
+LmjF.35.snoRNA0165	LmjF.35.snoRNA0165:snoRNA	L. major strain Friedlin	LmjF.35: 1,679,595 - 1,679,676 (+)	C/D snoRNA	
+LmjF.35.snoRNA0166	LmjF.35.snoRNA0166:snoRNA	L. major strain Friedlin	LmjF.35: 1,673,927 - 1,674,002 (+)	C/D snoRNA	
+LmjF.35.snoRNA0167	LmjF.35.snoRNA0167:snoRNA	L. major strain Friedlin	LmjF.35: 1,675,222 - 1,675,297 (+)	C/D snoRNA	
+LmjF.35.snoRNA0168	LmjF.35.snoRNA0168:snoRNA	L. major strain Friedlin	LmjF.35: 1,676,533 - 1,676,608 (+)	C/D snoRNA	
+LmjF.35.snoRNA0169	LmjF.35.snoRNA0169:snoRNA	L. major strain Friedlin	LmjF.35: 1,677,862 - 1,677,937 (+)	C/D snoRNA	
+LmjF.35.snoRNA0170	LmjF.35.snoRNA0170:snoRNA	L. major strain Friedlin	LmjF.35: 1,679,173 - 1,679,248 (+)	C/D snoRNA	
+LmjF.35.snoRNA0171	LmjF.35.snoRNA0171:snoRNA	L. major strain Friedlin	LmjF.35: 1,680,471 - 1,680,546 (+)	C/D snoRNA	
+LmjF.35.snoRNA0172	LmjF.35.snoRNA0172:snoRNA	L. major strain Friedlin	LmjF.35: 1,671,497 - 1,671,628 (+)	C/D snoRNA	
+LmjF.35.snoRNA0173	LmjF.35.snoRNA0173:snoRNA	L. major strain Friedlin	LmjF.35: 1,672,561 - 1,672,692 (+)	C/D snoRNA	
+LmjF.35.snoRNA0174	LmjF.35.snoRNA0174:snoRNA	L. major strain Friedlin	LmjF.35: 1,673,640 - 1,673,771 (+)	C/D snoRNA	
+LmjF.35.snoRNA0175	LmjF.35.snoRNA0175:snoRNA	L. major strain Friedlin	LmjF.35: 1,674,927 - 1,675,058 (+)	C/D snoRNA	
+LmjF.35.snoRNA0176	LmjF.35.snoRNA0176:snoRNA	L. major strain Friedlin	LmjF.35: 1,676,238 - 1,676,369 (+)	C/D snoRNA	
+LmjF.35.snoRNA0177	LmjF.35.snoRNA0177:snoRNA	L. major strain Friedlin	LmjF.35: 1,677,567 - 1,677,698 (+)	C/D snoRNA	
+LmjF.35.snoRNA0178	LmjF.35.snoRNA0178:snoRNA	L. major strain Friedlin	LmjF.35: 1,678,878 - 1,679,009 (+)	C/D snoRNA	
+LmjF.35.snoRNA0179	LmjF.35.snoRNA0179:snoRNA	L. major strain Friedlin	LmjF.35: 1,680,176 - 1,680,307 (+)	C/D snoRNA	
+LmjF.35.snoRNA0180	LmjF.35.snoRNA0180:snoRNA	L. major strain Friedlin	LmjF.35: 1,261,844 - 1,261,919 (-)	C/D snoRNA	
+LmjF.35.snoRNA0181	LmjF.35.snoRNA0181:snoRNA	L. major strain Friedlin	LmjF.35: 1,262,990 - 1,263,065 (-)	C/D snoRNA	
+LmjF.35.snoRNA0182	LmjF.35.snoRNA0182:snoRNA	L. major strain Friedlin	LmjF.35: 1,261,365 - 1,261,440 (-)	C/D snoRNA	
+LmjF.35.snoRNA0183	LmjF.35.snoRNA0183:snoRNA	L. major strain Friedlin	LmjF.35: 1,670,548 - 1,670,651 (+)	C/D snoRNA	
+LmjF.35.snoRNA0184	LmjF.35.snoRNA0184:snoRNA	L. major strain Friedlin	LmjF.35: 1,329,892 - 1,330,039 (-)	C/D snoRNA	
+LmjF.35.snoRNA0185	LmjF.35.snoRNA0185:snoRNA	L. major strain Friedlin	LmjF.35: 1,673,810 - 1,673,882 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0186	LmjF.35.snoRNA0186:snoRNA	L. major strain Friedlin	LmjF.35: 1,675,097 - 1,675,169 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0187	LmjF.35.snoRNA0187:snoRNA	L. major strain Friedlin	LmjF.35: 1,676,408 - 1,676,480 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0188	LmjF.35.snoRNA0188:snoRNA	L. major strain Friedlin	LmjF.35: 1,677,737 - 1,677,809 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0189	LmjF.35.snoRNA0189:snoRNA	L. major strain Friedlin	LmjF.35: 1,679,048 - 1,679,120 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0190	LmjF.35.snoRNA0190:snoRNA	L. major strain Friedlin	LmjF.35: 1,680,346 - 1,680,418 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0191	LmjF.35.snoRNA0191:snoRNA	L. major strain Friedlin	LmjF.35: 1,671,719 - 1,671,796 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0192	LmjF.35.snoRNA0192:snoRNA	L. major strain Friedlin	LmjF.35: 1,672,783 - 1,672,860 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0193	LmjF.35.snoRNA0193:snoRNA	L. major strain Friedlin	LmjF.35: 1,674,097 - 1,674,174 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0194	LmjF.35.snoRNA0194:snoRNA	L. major strain Friedlin	LmjF.35: 1,675,392 - 1,675,469 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0195	LmjF.35.snoRNA0195:snoRNA	L. major strain Friedlin	LmjF.35: 1,676,703 - 1,676,780 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0196	LmjF.35.snoRNA0196:snoRNA	L. major strain Friedlin	LmjF.35: 1,678,032 - 1,678,109 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0197	LmjF.35.snoRNA0197:snoRNA	L. major strain Friedlin	LmjF.35: 1,680,641 - 1,680,718 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0198	LmjF.35.snoRNA0198:snoRNA	L. major strain Friedlin	LmjF.35: 1,671,825 - 1,671,917 (+)	C/D snoRNA	
+LmjF.35.snoRNA0199	LmjF.35.snoRNA0199:snoRNA	L. major strain Friedlin	LmjF.35: 1,672,889 - 1,672,981 (+)	C/D snoRNA	
+LmjF.35.snoRNA0200	LmjF.35.snoRNA0200:snoRNA	L. major strain Friedlin	LmjF.35: 1,674,203 - 1,674,295 (+)	C/D snoRNA	
+LmjF.35.snoRNA0201	LmjF.35.snoRNA0201:snoRNA	L. major strain Friedlin	LmjF.35: 1,675,498 - 1,675,590 (+)	C/D snoRNA	
+LmjF.35.snoRNA0202	LmjF.35.snoRNA0202:snoRNA	L. major strain Friedlin	LmjF.35: 1,676,809 - 1,676,901 (+)	C/D snoRNA	
+LmjF.35.snoRNA0203	LmjF.35.snoRNA0203:snoRNA	L. major strain Friedlin	LmjF.35: 1,678,138 - 1,678,230 (+)	C/D snoRNA	
+LmjF.35.snoRNA0204	LmjF.35.snoRNA0204:snoRNA	L. major strain Friedlin	LmjF.35: 1,679,450 - 1,679,542 (+)	C/D snoRNA	
+LmjF.35.snoRNA0205	LmjF.35.snoRNA0205:snoRNA	L. major strain Friedlin	LmjF.35: 1,330,304 - 1,330,389 (-)	C/D snoRNA	
+LmjF.35.snoRNA0206	LmjF.35.snoRNA0206:snoRNA	L. major strain Friedlin	LmjF.35: 1,262,312 - 1,262,394 (-)	C/D snoRNA	
+LmjF.35.snoRNA0207	LmjF.35.snoRNA0207:snoRNA	L. major strain Friedlin	LmjF.35: 1,263,457 - 1,263,539 (-)	C/D snoRNA	
+LmjF.35.snoRNA0208	LmjF.35.snoRNA0208:snoRNA	L. major strain Friedlin	LmjF.35: 1,670,979 - 1,671,073 (+)	C/D snoRNA	
+LmjF.35.snoRNA0209	LmjF.35.snoRNA0209:snoRNA	L. major strain Friedlin	LmjF.35: 1,672,075 - 1,672,169 (+)	C/D snoRNA	
+LmjF.35.snoRNA0210	LmjF.35.snoRNA0210:snoRNA	L. major strain Friedlin	LmjF.35: 1,673,139 - 1,673,233 (+)	C/D snoRNA	
+LmjF.35.snoRNA0211	LmjF.35.snoRNA0211:snoRNA	L. major strain Friedlin	LmjF.35: 1,674,453 - 1,674,547 (+)	C/D snoRNA	
+LmjF.35.snoRNA0212	LmjF.35.snoRNA0212:snoRNA	L. major strain Friedlin	LmjF.35: 1,675,748 - 1,675,842 (+)	C/D snoRNA	
+LmjF.35.snoRNA0213	LmjF.35.snoRNA0213:snoRNA	L. major strain Friedlin	LmjF.35: 1,677,059 - 1,677,153 (+)	C/D snoRNA	
+LmjF.35.snoRNA0214	LmjF.35.snoRNA0214:snoRNA	L. major strain Friedlin	LmjF.35: 1,678,388 - 1,678,482 (+)	C/D snoRNA	
+LmjF.35.snoRNA0215	LmjF.35.snoRNA0215:snoRNA	L. major strain Friedlin	LmjF.35: 1,679,700 - 1,679,794 (+)	C/D snoRNA	
+LmjF.35.snoRNA0216	LmjF.35.snoRNA0216:snoRNA	L. major strain Friedlin	LmjF.35: 1,330,447 - 1,330,528 (-)	C/D snoRNA	
+LmjF.35.snoRNA0217	LmjF.35.snoRNA0217:snoRNA	L. major strain Friedlin	LmjF.35: 1,671,306 - 1,671,378 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0218	LmjF.35.snoRNA0218:snoRNA	L. major strain Friedlin	LmjF.35: 1,672,370 - 1,672,442 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0219	LmjF.35.snoRNA0219:snoRNA	L. major strain Friedlin	LmjF.35: 1,673,448 - 1,673,520 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0220	LmjF.35.snoRNA0220:snoRNA	L. major strain Friedlin	LmjF.35: 1,674,734 - 1,674,806 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0221	LmjF.35.snoRNA0221:snoRNA	L. major strain Friedlin	LmjF.35: 1,676,047 - 1,676,119 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0222	LmjF.35.snoRNA0222:snoRNA	L. major strain Friedlin	LmjF.35: 1,677,374 - 1,677,446 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0223	LmjF.35.snoRNA0223:snoRNA	L. major strain Friedlin	LmjF.35: 1,678,685 - 1,678,757 (+)	H/ACA-like snoRNA	
+LmjF.35.snoRNA0224	LmjF.35.snoRNA0224:snoRNA	L. major strain Friedlin	LmjF.35: 1,679,983 - 1,680,055 (+)	H/ACA-like snoRNA	

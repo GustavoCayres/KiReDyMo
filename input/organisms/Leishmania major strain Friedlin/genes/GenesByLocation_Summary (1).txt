@@ -1,0 +1,137 @@
+[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
+LmjF.02.0010	LmjF.02.0010:mRNA	L. major strain Friedlin	LmjF.02: 4,431 - 6,875 (-)	phosphoglycan beta 1,3 galactosyltransferase 3	
+LmjF.02.0020	LmjF.02.0020:mRNA	L. major strain Friedlin	LmjF.02: 8,751 - 9,053 (-)	histone H4	
+LmjF.02.0030	LmjF.02.0030:mRNA	L. major strain Friedlin	LmjF.02: 9,863 - 10,846 (-)	tagatose-6-phosphate kinase-like protein	
+LmjF.02.0040	LmjF.02.0040:mRNA	L. major strain Friedlin	LmjF.02: 11,678 - 13,537 (-)	Xaa-Pro aminopeptidase, putative	
+LmjF.02.0050	LmjF.02.0050:mRNA	L. major strain Friedlin	LmjF.02: 18,849 - 19,505 (-)	cytochrome b-domain protein, putative	
+LmjF.02.0060	LmjF.02.0060:mRNA	L. major strain Friedlin	LmjF.02: 20,184 - 20,759 (-)	hypothetical protein, conserved	
+LmjF.02.0070	LmjF.02.0070:mRNA	L. major strain Friedlin	LmjF.02: 21,413 - 22,606 (-)	hypothetical protein, conserved	
+LmjF.02.0080	LmjF.02.0080:mRNA	L. major strain Friedlin	LmjF.02: 24,871 - 28,179 (-)	hypothetical protein, conserved	
+LmjF.02.0085	LmjF.02.0085:mRNA	L. major strain Friedlin	LmjF.02: 28,965 - 29,888 (-)	hypothetical protein, conserved	
+LmjF.02.0090	LmjF.02.0090:mRNA	L. major strain Friedlin	LmjF.02: 31,234 - 32,292 (-)	hypothetical protein, conserved	
+LmjF.02.0100	LmjF.02.0100:pseudogenic_transcript	L. major strain Friedlin	LmjF.02: 33,424 - 36,189 (-)	hypothetical protein, conserved (pseudogene)	
+LmjF.02.0110	LmjF.02.0110:mRNA	L. major strain Friedlin	LmjF.02: 38,538 - 42,038 (-)	exportin-T, putative	
+LmjF.02.0120	LmjF.02.0120:mRNA	L. major strain Friedlin	LmjF.02: 43,915 - 58,632 (-)	phosphatidylinositol kinase related protein, putative	
+LmjF.02.0130	LmjF.02.0130:mRNA	L. major strain Friedlin	LmjF.02: 60,185 - 60,904 (-)	hypothetical protein, conserved	
+LmjF.02.0140	LmjF.02.0140:mRNA	L. major strain Friedlin	LmjF.02: 61,959 - 64,646 (-)	Ankyrin repeats (3 copies)/Zinc finger, C3HC4 type (RING finger), putative	
+LmjF.02.0150	LmjF.02.0150:mRNA	L. major strain Friedlin	LmjF.02: 65,898 - 71,780 (-)	Vps51/Vps67, putative	
+LmjF.02.0155	LmjF.02.0155:mRNA	L. major strain Friedlin	LmjF.02: 72,164 - 72,463 (-)	hypothetical protein	
+LmjF.02.0160	LmjF.02.0160:mRNA	L. major strain Friedlin	LmjF.02: 77,219 - 79,672 (-)	phosphoglycan beta 1,3 galactosyltransferase	
+LmjF.02.0170	LmjF.02.0170:mRNA	L. major strain Friedlin	LmjF.02: 84,201 - 86,732 (-)	phosphoglycan beta 1,3 galactosyltransferase	
+LmjF.02.0180	LmjF.02.0180:mRNA	L. major strain Friedlin	LmjF.02: 90,005 - 92,607 (-)	phosphoglycan beta 1,2 arabinosyltransferase	
+LmjF.02.0190	LmjF.02.0190:mRNA	L. major strain Friedlin	LmjF.02: 93,562 - 97,107 (-)	phosphoglycan beta 1,3 galactosyltransferase	
+LmjF.02.0200	LmjF.02.0200:mRNA	L. major strain Friedlin	LmjF.02: 99,209 - 101,749 (-)	phosphoglycan beta 1,3 galactosyltransferase	
+LmjF.02.0210	LmjF.02.0210:mRNA	L. major strain Friedlin	LmjF.02: 103,804 - 106,395 (-)	phosphoglycan beta 1,3 galactosyltransferase	
+LmjF.02.0220	LmjF.02.0220:mRNA	L. major strain Friedlin	LmjF.02: 109,659 - 112,261 (-)	phosphoglycan beta 1,2 arabinosyltransferase	
+LmjF.02.0230	LmjF.02.0230:mRNA	L. major strain Friedlin	LmjF.02: 113,216 - 116,194 (-)	phosphoglycan beta 1,3 galactosyltransferase	
+LmjF.02.0240	LmjF.02.0240:mRNA	L. major strain Friedlin	LmjF.02: 118,452 - 121,487 (-)	glycosyltransferase (GlcNAc), putative	
+LmjF.02.0250	LmjF.02.0250:mRNA	L. major strain Friedlin	LmjF.02: 122,781 - 126,218 (-)	hypothetical protein, conserved	
+LmjF.02.0260	LmjF.02.0260:mRNA	L. major strain Friedlin	LmjF.02: 127,085 - 127,909 (-)	small GTP binding protein rab6-like protein	
+LmjF.02.0270	LmjF.02.0270:mRNA	L. major strain Friedlin	LmjF.02: 129,244 - 129,732 (-)	hypothetical protein, conserved	
+LmjF.02.0280	LmjF.02.0280:mRNA	L. major strain Friedlin	LmjF.02: 131,592 - 132,101 (-)	hypothetical protein, conserved	
+LmjF.02.0290	LmjF.02.0290:mRNA	L. major strain Friedlin	LmjF.02: 133,019 - 134,611 (-)	Mitogen-activated kinase kinase kinase, putative	
+LmjF.02.0300	LmjF.02.0300:mRNA	L. major strain Friedlin	LmjF.02: 138,486 - 146,384 (-)	ATP-binding cassette subfamily A, member 1, putative	
+LmjF.02.0310	LmjF.02.0310:mRNA	L. major strain Friedlin	LmjF.02: 150,192 - 152,276 (-)	Soluble NSF attachment protein, SNAP, putative	
+LmjF.02.0320	LmjF.02.0320:mRNA	L. major strain Friedlin	LmjF.02: 153,478 - 154,506 (-)	ribosomal RNA processing protein 41B, putative	
+LmjF.02.0330	LmjF.02.0330:mRNA	L. major strain Friedlin	LmjF.02: 155,154 - 159,968 (-)	glycosyl transferase, putative	
+LmjF.02.0340	LmjF.02.0340:mRNA	L. major strain Friedlin	LmjF.02: 161,011 - 163,932 (-)	UAA transporter family, putative	
+LmjF.02.0350	LmjF.02.0350:mRNA	L. major strain Friedlin	LmjF.02: 165,087 - 168,242 (-)	hypothetical protein, conserved	
+LmjF.02.0360	LmjF.02.0360:mRNA	L. major strain Friedlin	LmjF.02: 170,022 - 171,167 (-)	casein kinase II, alpha chain, putative	
+LmjF.02.0370	LmjF.02.0370:mRNA	L. major strain Friedlin	LmjF.02: 172,807 - 174,390 (-)	proteasome regulatory non-ATPase subunit 6, putative	
+LmjF.02.0380	LmjF.02.0380:mRNA	L. major strain Friedlin	LmjF.02: 175,517 - 176,896 (-)	FtsJ-like methyltransferase, putative	
+LmjF.02.0390	LmjF.02.0390:mRNA	L. major strain Friedlin	LmjF.02: 178,261 - 178,719 (-)	ubiquitin-conjugating enzyme E2, putative	
+LmjF.02.0400	LmjF.02.0400:mRNA	L. major strain Friedlin	LmjF.02: 179,356 - 179,523 (-)	hypothetical protein, unknown function	
+LmjF.02.0410	LmjF.02.0410:mRNA	L. major strain Friedlin	LmjF.02: 180,246 - 183,311 (-)	Kinetoplastid RNA editing protein 1, putative	
+LmjF.02.0420	LmjF.02.0420:mRNA	L. major strain Friedlin	LmjF.02: 185,835 - 188,837 (-)	hypothetical protein, conserved	
+LmjF.02.0430	LmjF.02.0430:mRNA	L. major strain Friedlin	LmjF.02: 192,736 - 193,848 (-)	serine peptidase, Clan S-, family S54, putative	
+LmjF.02.0440	LmjF.02.0440:pseudogenic_transcript	L. major strain Friedlin	LmjF.02: 196,415 - 198,530 (-)	amino acid permease, putative	
+LmjF.02.0450	LmjF.02.0450:mRNA	L. major strain Friedlin	LmjF.02: 200,383 - 201,216 (-)	voltage-dependent anion-selective channel, putative	
+LmjF.02.0460	LmjF.02.0460:mRNA	L. major strain Friedlin	LmjF.02: 204,892 - 205,767 (-)	Mitochondrial outer membrane protein porin, putative	
+LmjF.02.0470	LmjF.02.0470:mRNA	L. major strain Friedlin	LmjF.02: 207,099 - 216,566 (-)	hypothetical protein, unknown function	
+LmjF.02.0480	LmjF.02.0480:mRNA	L. major strain Friedlin	LmjF.02: 219,347 - 219,952 (-)	hypothetical protein, conserved	
+LmjF.02.0490	LmjF.02.0490:mRNA	L. major strain Friedlin	LmjF.02: 220,848 - 224,228 (-)	hypothetical protein, conserved	
+LmjF.02.0500	LmjF.02.0500:mRNA	L. major strain Friedlin	LmjF.02: 224,739 - 227,600 (-)	glycerate kinase, putative	
+LmjF.02.0510	LmjF.02.0510:mRNA	L. major strain Friedlin	LmjF.02: 228,900 - 229,412 (-)	hypothetical protein, conserved	
+LmjF.02.0520	LmjF.02.0520:mRNA	L. major strain Friedlin	LmjF.02: 231,085 - 237,336 (-)	hypothetical protein, conserved	
+LmjF.02.0530	LmjF.02.0530:mRNA	L. major strain Friedlin	LmjF.02: 241,987 - 244,575 (-)	hypothetical protein, conserved	
+LmjF.02.0540	LmjF.02.0540:mRNA	L. major strain Friedlin	LmjF.02: 246,041 - 247,534 (-)	hypothetical protein, conserved	
+LmjF.02.0550	LmjF.02.0550:mRNA	L. major strain Friedlin	LmjF.02: 249,521 - 250,012 (-)	hypothetical protein, unknown function	
+LmjF.02.0560	LmjF.02.0560:mRNA	L. major strain Friedlin	LmjF.02: 251,143 - 253,692 (-)	hypothetical protein, unknown function	
+LmjF.02.0570	LmjF.02.0570:mRNA	L. major strain Friedlin	LmjF.02: 257,218 - 261,492 (-)	protein kinase, putative	
+LmjF.02.0580	LmjF.02.0580:mRNA	L. major strain Friedlin	LmjF.02: 298,464 - 309,800 (+)	hypothetical protein, conserved	
+LmjF.02.0590	LmjF.02.0590:mRNA	L. major strain Friedlin	LmjF.02: 310,561 - 312,108 (+)	TPR repeat/Tetratricopeptide repeat, putative	
+LmjF.02.0600	LmjF.02.0600:mRNA	L. major strain Friedlin	LmjF.02: 313,168 - 313,800 (+)	ARP2/3 complex subunit, putative	
+LmjF.02.0610	LmjF.02.0610:mRNA	L. major strain Friedlin	LmjF.02: 315,240 - 316,205 (+)	hypothetical protein, conserved	
+LmjF.02.0620	LmjF.02.0620:mRNA	L. major strain Friedlin	LmjF.02: 317,353 - 319,047 (+)	hypothetical protein, conserved	
+LmjF.02.0630	LmjF.02.0630:mRNA	L. major strain Friedlin	LmjF.02: 320,083 - 322,062 (+)	gamma-glutamyl phosphate reductase-like protein	
+LmjF.02.0640	LmjF.02.0640:mRNA	L. major strain Friedlin	LmjF.02: 323,557 - 327,786 (+)	hypothetical protein, unknown function	
+LmjF.02.0650	LmjF.02.0650:mRNA	L. major strain Friedlin	LmjF.02: 328,326 - 329,273 (+)	hypothetical protein, conserved	
+LmjF.02.0660	LmjF.02.0660:mRNA	L. major strain Friedlin	LmjF.02: 330,066 - 332,858 (+)	Nop14-like family, putative	
+LmjF.02.0670	LmjF.02.0670:mRNA	L. major strain Friedlin	LmjF.02: 333,743 - 334,684 (+)	mitochondrial carrier protein, putative	
+LmjF.02.0680	LmjF.02.0680:mRNA	L. major strain Friedlin	LmjF.02: 336,154 - 337,659 (+)	hypothetical protein, conserved	
+LmjF.02.0690	LmjF.02.0690:mRNA	L. major strain Friedlin	LmjF.02: 338,291 - 339,655 (+)	hypothetical protein, conserved	
+LmjF.02.0700	LmjF.02.0700:mRNA	L. major strain Friedlin	LmjF.02: 340,367 - 343,180 (+)	hypothetical protein, conserved	
+LmjF.02.0710	LmjF.02.0710:mRNA	L. major strain Friedlin	LmjF.02: 344,949 - 347,402 (+)	ATP-dependent Clp protease subunit, heat shock protein 78 (HSP78), putative	
+LmjF.02.0720	LmjF.02.0720:mRNA	L. major strain Friedlin	LmjF.02: 348,557 - 348,799 (+)	hypothetical protein, unknown function	
+LmjF.02.0730	LmjF.02.0730:mRNA	L. major strain Friedlin	LmjF.02: 349,987 - 350,373 (+)	dehydrogenase/oxidoreductase-like protein	
+LmjF.02.0740	LmjF.02.0740:mRNA	L. major strain Friedlin	LmjF.02: 351,494 - 353,530 (+)	dipeptylcarboxypeptidase, putative	
+LmjF.02.SLRNA.0010	LmjF.02.SLRNA.0010:ncRNA	L. major strain Friedlin	LmjF.02: 269,834 - 270,288 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0020	LmjF.02.SLRNA.0020:ncRNA	L. major strain Friedlin	LmjF.02: 270,289 - 270,743 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0030	LmjF.02.SLRNA.0030:ncRNA	L. major strain Friedlin	LmjF.02: 270,744 - 271,192 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0040	LmjF.02.SLRNA.0040:ncRNA	L. major strain Friedlin	LmjF.02: 271,193 - 271,650 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0050	LmjF.02.SLRNA.0050:ncRNA	L. major strain Friedlin	LmjF.02: 271,651 - 272,105 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0060	LmjF.02.SLRNA.0060:ncRNA	L. major strain Friedlin	LmjF.02: 272,106 - 272,560 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0070	LmjF.02.SLRNA.0070:ncRNA	L. major strain Friedlin	LmjF.02: 272,561 - 273,009 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0080	LmjF.02.SLRNA.0080:ncRNA	L. major strain Friedlin	LmjF.02: 273,010 - 273,464 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0090	LmjF.02.SLRNA.0090:ncRNA	L. major strain Friedlin	LmjF.02: 273,465 - 273,910 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0100	LmjF.02.SLRNA.0100:ncRNA	L. major strain Friedlin	LmjF.02: 273,911 - 274,352 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0110	LmjF.02.SLRNA.0110:ncRNA	L. major strain Friedlin	LmjF.02: 274,353 - 274,798 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0120	LmjF.02.SLRNA.0120:ncRNA	L. major strain Friedlin	LmjF.02: 274,799 - 275,247 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0130	LmjF.02.SLRNA.0130:ncRNA	L. major strain Friedlin	LmjF.02: 275,248 - 275,702 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0140	LmjF.02.SLRNA.0140:ncRNA	L. major strain Friedlin	LmjF.02: 275,703 - 276,148 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0150	LmjF.02.SLRNA.0150:ncRNA	L. major strain Friedlin	LmjF.02: 276,149 - 276,594 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0160	LmjF.02.SLRNA.0160:ncRNA	L. major strain Friedlin	LmjF.02: 276,595 - 277,043 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0170	LmjF.02.SLRNA.0170:ncRNA	L. major strain Friedlin	LmjF.02: 277,044 - 277,489 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0180	LmjF.02.SLRNA.0180:ncRNA	L. major strain Friedlin	LmjF.02: 277,490 - 277,931 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0190	LmjF.02.SLRNA.0190:ncRNA	L. major strain Friedlin	LmjF.02: 278,100 - 278,547 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0200	LmjF.02.SLRNA.0200:ncRNA	L. major strain Friedlin	LmjF.02: 278,548 - 278,993 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0210	LmjF.02.SLRNA.0210:ncRNA	L. major strain Friedlin	LmjF.02: 278,994 - 279,435 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0220	LmjF.02.SLRNA.0220:ncRNA	L. major strain Friedlin	LmjF.02: 279,436 - 279,877 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0230	LmjF.02.SLRNA.0230:ncRNA	L. major strain Friedlin	LmjF.02: 279,878 - 280,323 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0240	LmjF.02.SLRNA.0240:ncRNA	L. major strain Friedlin	LmjF.02: 280,324 - 280,772 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0250	LmjF.02.SLRNA.0250:ncRNA	L. major strain Friedlin	LmjF.02: 280,773 - 281,218 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0260	LmjF.02.SLRNA.0260:ncRNA	L. major strain Friedlin	LmjF.02: 281,219 - 281,664 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0270	LmjF.02.SLRNA.0270:ncRNA	L. major strain Friedlin	LmjF.02: 281,665 - 282,113 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0280	LmjF.02.SLRNA.0280:ncRNA	L. major strain Friedlin	LmjF.02: 282,114 - 282,559 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0290	LmjF.02.SLRNA.0290:ncRNA	L. major strain Friedlin	LmjF.02: 282,560 - 283,001 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0300	LmjF.02.SLRNA.0300:ncRNA	L. major strain Friedlin	LmjF.02: 283,002 - 283,450 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0310	LmjF.02.SLRNA.0310:ncRNA	L. major strain Friedlin	LmjF.02: 283,451 - 283,896 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0320	LmjF.02.SLRNA.0320:ncRNA	L. major strain Friedlin	LmjF.02: 283,897 - 284,342 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0330	LmjF.02.SLRNA.0330:ncRNA	L. major strain Friedlin	LmjF.02: 284,343 - 284,797 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0340	LmjF.02.SLRNA.0340:ncRNA	L. major strain Friedlin	LmjF.02: 284,798 - 285,242 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0350	LmjF.02.SLRNA.0350:ncRNA	L. major strain Friedlin	LmjF.02: 285,243 - 285,694 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0360	LmjF.02.SLRNA.0360:ncRNA	L. major strain Friedlin	LmjF.02: 285,695 - 286,149 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0370	LmjF.02.SLRNA.0370:ncRNA	L. major strain Friedlin	LmjF.02: 286,150 - 286,604 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0380	LmjF.02.SLRNA.0380:ncRNA	L. major strain Friedlin	LmjF.02: 286,605 - 287,059 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0390	LmjF.02.SLRNA.0390:ncRNA	L. major strain Friedlin	LmjF.02: 287,060 - 287,517 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0400	LmjF.02.SLRNA.0400:ncRNA	L. major strain Friedlin	LmjF.02: 287,518 - 287,967 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0410	LmjF.02.SLRNA.0410:ncRNA	L. major strain Friedlin	LmjF.02: 287,968 - 288,416 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0420	LmjF.02.SLRNA.0420:ncRNA	L. major strain Friedlin	LmjF.02: 288,417 - 288,874 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0430	LmjF.02.SLRNA.0430:ncRNA	L. major strain Friedlin	LmjF.02: 288,875 - 289,323 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0440	LmjF.02.SLRNA.0440:ncRNA	L. major strain Friedlin	LmjF.02: 289,324 - 289,772 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0450	LmjF.02.SLRNA.0450:ncRNA	L. major strain Friedlin	LmjF.02: 289,773 - 290,227 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0460	LmjF.02.SLRNA.0460:ncRNA	L. major strain Friedlin	LmjF.02: 290,228 - 290,681 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0470	LmjF.02.SLRNA.0470:ncRNA	L. major strain Friedlin	LmjF.02: 290,682 - 291,129 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0480	LmjF.02.SLRNA.0480:ncRNA	L. major strain Friedlin	LmjF.02: 291,130 - 291,583 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0490	LmjF.02.SLRNA.0490:ncRNA	L. major strain Friedlin	LmjF.02: 291,584 - 292,032 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0500	LmjF.02.SLRNA.0500:ncRNA	L. major strain Friedlin	LmjF.02: 292,033 - 292,478 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0510	LmjF.02.SLRNA.0510:ncRNA	L. major strain Friedlin	LmjF.02: 292,479 - 292,936 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0520	LmjF.02.SLRNA.0520:ncRNA	L. major strain Friedlin	LmjF.02: 292,937 - 293,378 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0530	LmjF.02.SLRNA.0530:ncRNA	L. major strain Friedlin	LmjF.02: 293,379 - 293,833 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0540	LmjF.02.SLRNA.0540:ncRNA	L. major strain Friedlin	LmjF.02: 293,834 - 294,288 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0550	LmjF.02.SLRNA.0550:ncRNA	L. major strain Friedlin	LmjF.02: 294,289 - 294,737 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0560	LmjF.02.SLRNA.0560:ncRNA	L. major strain Friedlin	LmjF.02: 294,738 - 295,183 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0570	LmjF.02.SLRNA.0570:ncRNA	L. major strain Friedlin	LmjF.02: 295,184 - 295,625 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0580	LmjF.02.SLRNA.0580:ncRNA	L. major strain Friedlin	LmjF.02: 295,626 - 296,067 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0590	LmjF.02.SLRNA.0590:ncRNA	L. major strain Friedlin	LmjF.02: 296,068 - 296,516 (+)	spliced leader RNA	
+LmjF.02.SLRNA.0600	LmjF.02.SLRNA.0600:ncRNA	L. major strain Friedlin	LmjF.02: 296,517 - 296,962 (+)	spliced leader RNA	

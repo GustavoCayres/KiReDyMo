@@ -1,0 +1,110 @@
+[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
+LMJLV39_120005000	LMJLV39_120005000.1	L. major strain LV39c5	LmjLV39_12: 2,205 - 2,921 (+)	hypothetical protein	
+LMJLV39_120005100	LMJLV39_120005100.1	L. major strain LV39c5	LmjLV39_12: 3,068 - 4,078 (+)	translation initiation factor EIF-2b alpha subunit, putative	
+LMJLV39_120005200	LMJLV39_120005200.1	L. major strain LV39c5	LmjLV39_12: 4,486 - 5,133 (+)	PITH domain containing protein, putative	
+LMJLV39_120005300	LMJLV39_120005300.1	L. major strain LV39c5	LmjLV39_12: 5,528 - 6,379 (+)	proteasome beta-1 subunit, putative	
+LMJLV39_120005400	LMJLV39_120005400.1	L. major strain LV39c5	LmjLV39_12: 7,012 - 8,415 (+)	Mitochondrial ribosomal death-associated protein 3, putative	
+LMJLV39_120005500	LMJLV39_120005500.1	L. major strain LV39c5	LmjLV39_12: 9,016 - 9,339 (+)	hypothetical protein, conserved	
+LMJLV39_120005600	LMJLV39_120005600.1	L. major strain LV39c5	LmjLV39_12: 9,694 - 10,965 (+)	Protein phosphatase 2A homologues, catalytic domain, putative	
+LMJLV39_120005700	LMJLV39_120005700.1	L. major strain LV39c5	LmjLV39_12: 11,782 - 12,360 (+)	ribonuclease mar1	
+LMJLV39_120005800	LMJLV39_120005800.1	L. major strain LV39c5	LmjLV39_12: 13,253 - 14,980 (+)	hypothetical protein, conserved	
+LMJLV39_120005900	LMJLV39_120005900.1	L. major strain LV39c5	LmjLV39_12: 15,727 - 15,999 (+)	hypothetical protein, conserved	
+LMJLV39_120006000	LMJLV39_120006000.1	L. major strain LV39c5	LmjLV39_12: 16,493 - 17,110 (+)	kinetoplastid kinetochore protein 6, putative	
+LMJLV39_120006100	LMJLV39_120006100.1	L. major strain LV39c5	LmjLV39_12: 17,415 - 19,121 (+)	hypothetical protein, conserved	
+LMJLV39_120006200	LMJLV39_120006200.1	L. major strain LV39c5	LmjLV39_12: 21,358 - 21,546 (+)	hypothetical protein	
+LMJLV39_120006300	LMJLV39_120006300.1	L. major strain LV39c5	LmjLV39_12: 21,770 - 22,033 (+)	hypothetical protein	
+LMJLV39_120006400	LMJLV39_120006400.1	L. major strain LV39c5	LmjLV39_12: 23,206 - 24,078 (+)	Plus-3 domain/Zinc finger, C3HC4 type (RING finger) containing protein, putative	
+LMJLV39_120006500	LMJLV39_120006500.1	L. major strain LV39c5	LmjLV39_12: 25,875 - 28,565 (+)	FYVE zinc finger containing protein, putative	
+LMJLV39_120006600	LMJLV39_120006600.1	L. major strain LV39c5	LmjLV39_12: 29,721 - 33,851 (+)	hypothetical protein, conserved	
+LMJLV39_120006700	LMJLV39_120006700.1	L. major strain LV39c5	LmjLV39_12: 37,756 - 39,507 (+)	protein kinase, putative	
+LMJLV39_120006800	LMJLV39_120006800.1	L. major strain LV39c5	LmjLV39_12: 42,473 - 43,855 (+)	hypothetical protein, conserved	
+LMJLV39_120006900	LMJLV39_120006900.1	L. major strain LV39c5	LmjLV39_12: 45,388 - 49,320 (+)	leucine-rich repeat protein, putative	
+LMJLV39_120007000	LMJLV39_120007000.1	L. major strain LV39c5	LmjLV39_12: 50,205 - 52,673 (+)	dolichyl-P-Man:GDP-Man5GlcNAc2-PP-dolichyl alpha-1,2-mannosyltransferase, putative	
+LMJLV39_120007100	LMJLV39_120007100.1	L. major strain LV39c5	LmjLV39_12: 54,358 - 55,560 (+)	hypothetical protein, conserved	
+LMJLV39_120007200	LMJLV39_120007200.1	L. major strain LV39c5	LmjLV39_12: 56,241 - 58,967 (+)	hypothetical protein, conserved	
+LMJLV39_120007300	LMJLV39_120007300.1	L. major strain LV39c5	LmjLV39_12: 59,991 - 64,862 (+)	ubiquitin hydrolase, putative	
+LMJLV39_120007400	LMJLV39_120007400.1	L. major strain LV39c5	LmjLV39_12: 67,814 - 71,047 (+)	hypothetical protein, conserved	
+LMJLV39_120007500	LMJLV39_120007500.1	L. major strain LV39c5	LmjLV39_12: 72,854 - 74,089 (+)	proteasome regulatory ATPase subunittcc1l8.3, putative	
+LMJLV39_120007600	LMJLV39_120007600.1	L. major strain LV39c5	LmjLV39_12: 74,885 - 75,772 (+)	glyoxalase II, putative	
+LMJLV39_120007700	LMJLV39_120007700.1	L. major strain LV39c5	LmjLV39_12: 77,069 - 81,826 (+)	hypothetical protein, conserved	
+LMJLV39_120007800	LMJLV39_120007800.1	L. major strain LV39c5	LmjLV39_12: 82,257 - 84,371 (+)	hypothetical protein, conserved	
+LMJLV39_120007900	LMJLV39_120007900.1	L. major strain LV39c5	LmjLV39_12: 86,818 - 89,172 (+)	cysteinyl-tRNA synthetase, putative	
+LMJLV39_120008000	LMJLV39_120008000.1	L. major strain LV39c5	LmjLV39_12: 92,464 - 101,181 (+)	Helicase conserved C-terminal domain/Helicase associated domain (HA2), putative	
+LMJLV39_120008100	LMJLV39_120008100.1	L. major strain LV39c5	LmjLV39_12: 101,948 - 103,657 (+)	hypothetical protein, conserved	
+LMJLV39_120008200	LMJLV39_120008200.1	L. major strain LV39c5	LmjLV39_12: 104,766 - 106,889 (+)	ornithine decarboxylase, putative	
+LMJLV39_120008300	LMJLV39_120008300.1	L. major strain LV39c5	LmjLV39_12: 112,119 - 116,972 (+)	hypothetical protein, conserved	
+LMJLV39_120008400	LMJLV39_120008400.1	L. major strain LV39c5	LmjLV39_12: 117,372 - 123,062 (+)	hypothetical protein, conserved	
+LMJLV39_120008500	LMJLV39_120008500.1	L. major strain LV39c5	LmjLV39_12: 123,453 - 125,387 (+)	hypothetical protein, conserved	
+LMJLV39_120008600	LMJLV39_120008600.1	L. major strain LV39c5	LmjLV39_12: 127,222 - 136,962 (+)	Myotubularin-like phosphatase domain containing protein, putative	
+LMJLV39_120008700	LMJLV39_120008700.1	L. major strain LV39c5	LmjLV39_12: 138,292 - 142,248 (+)	hypothetical protein, conserved	
+LMJLV39_120008800	LMJLV39_120008800.1	L. major strain LV39c5	LmjLV39_12: 143,771 - 149,983 (+)	hypothetical protein, conserved	
+LMJLV39_120008900	LMJLV39_120008900.1	L. major strain LV39c5	LmjLV39_12: 152,650 - 154,344 (+)	CCR4-NOT transcription complex subunit 2, putative	
+LMJLV39_120009000	LMJLV39_120009000.1	L. major strain LV39c5	LmjLV39_12: 156,347 - 157,459 (+)	Glutathione S-transferase, N-terminal domain containing protein, putative	
+LMJLV39_120009100	LMJLV39_120009100.1	L. major strain LV39c5	LmjLV39_12: 159,364 - 160,317 (+)	hypothetical protein, conserved	
+LMJLV39_120009200	LMJLV39_120009200.1	L. major strain LV39c5	LmjLV39_12: 166,214 - 170,608 (+)	pumillio protein 4, putative	
+LMJLV39_120009300	LMJLV39_120009300.1	L. major strain LV39c5	LmjLV39_12: 171,761 - 173,011 (+)	hypothetical protein, conserved	
+LMJLV39_120009400	LMJLV39_120009400.1	L. major strain LV39c5	LmjLV39_12: 174,456 - 175,601 (+)	3'-nucleotidase/nuclease, putative	
+LMJLV39_120009500	LMJLV39_120009500.1	L. major strain LV39c5	LmjLV39_12: 177,956 - 179,188 (-)	hypothetical protein, conserved	
+LMJLV39_120009600	LMJLV39_120009600.1	L. major strain LV39c5	LmjLV39_12: 180,828 - 181,313 (-)	Eukaryotic protein of unknown function (DUF866), putative	
+LMJLV39_120009700	LMJLV39_120009700.1	L. major strain LV39c5	LmjLV39_12: 183,197 - 183,622 (-)	Iron-containing alcohol dehydrogenase, putative	
+LMJLV39_120009800	LMJLV39_120009800.1	L. major strain LV39c5	LmjLV39_12: 184,263 - 186,383 (-)	hypothetical protein, conserved	
+LMJLV39_120009900	LMJLV39_120009900.1	L. major strain LV39c5	LmjLV39_12: 187,389 - 189,332 (-)	hypothetical protein, conserved	
+LMJLV39_120010000	LMJLV39_120010000.1	L. major strain LV39c5	LmjLV39_12: 190,849 - 194,304 (-)	hypothetical protein, conserved	
+LMJLV39_120010100	LMJLV39_120010100.1	L. major strain LV39c5	LmjLV39_12: 201,211 - 203,574 (-)	hypothetical protein, conserved	
+LMJLV39_120010200	LMJLV39_120010200.1	L. major strain LV39c5	LmjLV39_12: 214,800 - 217,211 (-)	hypothetical protein, conserved	
+LMJLV39_120010300	LMJLV39_120010300.1	L. major strain LV39c5	LmjLV39_12: 225,457 - 227,286 (-)	hypothetical protein, conserved	
+LMJLV39_120010400	LMJLV39_120010400.1	L. major strain LV39c5	LmjLV39_12: 231,791 - 232,036 (-)	hypothetical protein	
+LMJLV39_120010500	LMJLV39_120010500.1	L. major strain LV39c5	LmjLV39_12: 252,271 - 253,200 (-)	hypothetical protein, conserved	
+LMJLV39_120010600	LMJLV39_120010600.1	L. major strain LV39c5	LmjLV39_12: 259,133 - 263,563 (-)	hypothetical protein, conserved	
+LMJLV39_120010700	LMJLV39_120010700.1	L. major strain LV39c5	LmjLV39_12: 292,764 - 293,054 (+)	hypothetical protein	
+LMJLV39_120010800	LMJLV39_120010800.1	L. major strain LV39c5	LmjLV39_12: 293,368 - 293,781 (+)	vacuolar ATP synthase subunit, putative	
+LMJLV39_120010900	LMJLV39_120010900.1	L. major strain LV39c5	LmjLV39_12: 294,345 - 296,162 (+)	glucose-6-phosphate isomerase	
+LMJLV39_120011000	LMJLV39_120011000.1	L. major strain LV39c5	LmjLV39_12: 297,191 - 297,694 (+)	hypothetical protein, conserved	
+LMJLV39_120011100	LMJLV39_120011100.1	L. major strain LV39c5	LmjLV39_12: 300,187 - 302,685 (+)	hypothetical protein, conserved	
+LMJLV39_120011200	LMJLV39_120011200.1	L. major strain LV39c5	LmjLV39_12: 306,459 - 310,568 (+)	Tetratricopeptide repeats, putative	
+LMJLV39_120011300	LMJLV39_120011300.1	L. major strain LV39c5	LmjLV39_12: 311,879 - 318,814 (+)	Fusaric acid resistance protein-like, putative	
+LMJLV39_120011400	LMJLV39_120011400.1	L. major strain LV39c5	LmjLV39_12: 323,763 - 329,546 (+)	Fusaric acid resistance protein-like, putative	
+LMJLV39_120011500	LMJLV39_120011500.1	L. major strain LV39c5	LmjLV39_12: 331,272 - 332,831 (+)	hypothetical protein, conserved	
+LMJLV39_120011600	LMJLV39_120011600.1	L. major strain LV39c5	LmjLV39_12: 334,126 - 337,395 (+)	TPR repeat/Tetratricopeptide repeat, putative	
+LMJLV39_120011700	LMJLV39_120011700.1	L. major strain LV39c5	LmjLV39_12: 338,459 - 342,871 (+)	hypothetical protein, conserved	
+LMJLV39_120011800	LMJLV39_120011800.1	L. major strain LV39c5	LmjLV39_12: 344,153 - 345,646 (+)	alanine aminotransferase	
+LMJLV39_120011900	LMJLV39_120011900.1	L. major strain LV39c5	LmjLV39_12: 347,571 - 349,814 (+)	primase 2, putative	
+LMJLV39_120012000	LMJLV39_120012000.1	L. major strain LV39c5	LmjLV39_12: 352,767 - 354,641 (+)	hypothetical protein, conserved	
+LMJLV39_120012100	LMJLV39_120012100.1	L. major strain LV39c5	LmjLV39_12: 356,663 - 359,527 (+)	serine/threonine protein phosphatase-like protein	
+LMJLV39_120012200	LMJLV39_120012200.1	L. major strain LV39c5	LmjLV39_12: 364,833 - 365,864 (+)	cytochrome c oxidase subunit IV	
+LMJLV39_120012300	LMJLV39_120012300.1	L. major strain LV39c5	LmjLV39_12: 368,222 - 369,520 (+)	Protein of unknown function (DUF1448), putative	
+LMJLV39_120012400	LMJLV39_120012400.1	L. major strain LV39c5	LmjLV39_12: 370,710 - 371,210 (+)	hypothetical protein, conserved	
+LMJLV39_120012500	LMJLV39_120012500.1	L. major strain LV39c5	LmjLV39_12: 372,225 - 374,765 (+)	Leucine Rich repeat, putative	
+LMJLV39_120012600	LMJLV39_120012600.1	L. major strain LV39c5	LmjLV39_12: 376,119 - 376,445 (+)	Protein of unknown function (DUF962), putative	
+LMJLV39_120012700	LMJLV39_120012700.1	L. major strain LV39c5	LmjLV39_12: 381,589 - 382,659 (+)	hypothetical protein, conserved	
+LMJLV39_120012800	LMJLV39_120012800.1	L. major strain LV39c5	LmjLV39_12: 382,860 - 383,267 (+)	hypothetical protein	
+LMJLV39_120012900	LMJLV39_120012900.1	L. major strain LV39c5	LmjLV39_12: 385,665 - 386,822 (+)	surface antigen protein 2 precursor	
+LMJLV39_120013000	LMJLV39_120013000.1	L. major strain LV39c5	LmjLV39_12: 394,953 - 400,037 (+)	hypothetical protein, conserved	
+LMJLV39_120013100	LMJLV39_120013100.1	L. major strain LV39c5	LmjLV39_12: 400,724 - 402,673 (+)	DnaJ domain containing protein, putative	
+LMJLV39_120013200	LMJLV39_120013200.1	L. major strain LV39c5	LmjLV39_12: 405,365 - 409,249 (+)	hypothetical protein, conserved	
+LMJLV39_120013300	LMJLV39_120013300.1	L. major strain LV39c5	LmjLV39_12: 412,620 - 412,991 (+)	N-acyl-L-amino acid amidohydrolase	
+LMJLV39_120013400	LMJLV39_120013400.1	L. major strain LV39c5	LmjLV39_12: 413,698 - 414,855 (+)	NADH:flavin oxidoreductase/NADH oxidase, putative	
+LMJLV39_120013500	LMJLV39_120013500.1	L. major strain LV39c5	LmjLV39_12: 419,207 - 421,693 (+)	n-ethylmaleimide reductase-like protein	
+LMJLV39_120013600	LMJLV39_120013600.1	L. major strain LV39c5	LmjLV39_12: 426,591 - 430,373 (+)	hypothetical protein, conserved	
+LMJLV39_120013700	LMJLV39_120013700.1	L. major strain LV39c5	LmjLV39_12: 432,076 - 434,919 (+)	Putative integral membrane protein conserved region (DUF2404), putative	
+LMJLV39_120013800	LMJLV39_120013800.1	L. major strain LV39c5	LmjLV39_12: 437,115 - 439,289 (+)	Putative integral membrane protein conserved region (DUF2404), putative	
+LMJLV39_120013900	LMJLV39_120013900.1	L. major strain LV39c5	LmjLV39_12: 440,193 - 442,829 (+)	hypothetical protein, conserved	
+LMJLV39_120014000	LMJLV39_120014000.1	L. major strain LV39c5	LmjLV39_12: 444,548 - 449,371 (+)	ABC transporter, putative	
+LMJLV39_120014100	LMJLV39_120014100.1	L. major strain LV39c5	LmjLV39_12: 451,203 - 452,789 (+)	hypothetical protein, conserved	
+LMJLV39_120014200	LMJLV39_120014200.1	L. major strain LV39c5	LmjLV39_12: 458,155 - 458,649 (+)	hypothetical protein	
+LMJLV39_120014300	LMJLV39_120014300.1	L. major strain LV39c5	LmjLV39_12: 459,611 - 462,517 (+)	hypothetical protein, conserved	
+LMJLV39_120014400	LMJLV39_120014400.1	L. major strain LV39c5	LmjLV39_12: 464,331 - 468,554 (+)	Protein of unknown function (DUF3639), putative	
+LMJLV39_120014500	LMJLV39_120014500.1	L. major strain LV39c5	LmjLV39_12: 471,662 - 472,660 (+)	SNARE associated Golgi protein, putative	
+LMJLV39_120014600	LMJLV39_120014600.1	L. major strain LV39c5	LmjLV39_12: 473,221 - 475,827 (+)	Ring finger containing protein, putative	
+LMJLV39_120014700	LMJLV39_120014700.1	L. major strain LV39c5	LmjLV39_12: 477,862 - 481,968 (+)	puromycin-sensitive aminopeptidase-like protein	
+LMJLV39_120014800	LMJLV39_120014800.1	L. major strain LV39c5	LmjLV39_12: 483,207 - 484,511 (+)	hypothetical protein, conserved	
+LMJLV39_120014900	LMJLV39_120014900.1	L. major strain LV39c5	LmjLV39_12: 487,480 - 488,511 (+)	arginine N-methyltransferase-like protein	
+LMJLV39_120015000	LMJLV39_120015000.1	L. major strain LV39c5	LmjLV39_12: 489,953 - 491,917 (+)	hypothetical protein, conserved	
+LMJLV39_120015100	LMJLV39_120015100.1	L. major strain LV39c5	LmjLV39_12: 492,958 - 493,599 (+)	hypothetical protein, conserved	
+LMJLV39_120015200	LMJLV39_120015200.1	L. major strain LV39c5	LmjLV39_12: 494,067 - 495,935 (+)	MYND finger/SET domain containing protein, putative	
+LMJLV39_120015300	LMJLV39_120015300.1	L. major strain LV39c5	LmjLV39_12: 496,982 - 497,347 (+)	Ribonuclease H2 non-catalytic subunit (Ylr154p-like), putative	
+LMJLV39_120015400	LMJLV39_120015400.1	L. major strain LV39c5	LmjLV39_12: 498,124 - 500,736 (+)	FAM91 N-terminus/FAM91 C-terminus, putative	
+LMJLV39_120015500	LMJLV39_120015500.1	L. major strain LV39c5	LmjLV39_12: 501,419 - 504,334 (+)	Vacuolar sorting protein 39 domain 1/Vacuolar sorting protein 39 domain 2, putative	
+LMJLV39_120015600	LMJLV39_120015600.1	L. major strain LV39c5	LmjLV39_12: 505,270 - 507,132 (+)	serine peptidase, Clan SC, Family S9D	
+LMJLV39_120015700	LMJLV39_120015700.1	L. major strain LV39c5	LmjLV39_12: 511,982 - 513,298 (+)	hypothetical protein, conserved	
+LMJLV39_120015800	LMJLV39_120015800.1	L. major strain LV39c5	LmjLV39_12: 513,956 - 514,918 (+)	Putative methyltransferase, putative	

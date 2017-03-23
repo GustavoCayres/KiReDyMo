@@ -1,0 +1,137 @@
+[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
+LmjF.06.0010	LmjF.06.0010:mRNA	L. major strain Friedlin	LmjF.06: 1,840 - 2,142 (-)	histone H4	
+LmjF.06.0020	LmjF.06.0020:mRNA	L. major strain Friedlin	LmjF.06: 4,337 - 5,944 (-)	hypothetical protein, conserved	
+LmjF.06.0030	LmjF.06.0030:mRNA	L. major strain Friedlin	LmjF.06: 11,715 - 13,742 (-)	WD domain, G-beta repeat, putative	
+LmjF.06.0040	LmjF.06.0040:mRNA	L. major strain Friedlin	LmjF.06: 14,599 - 15,474 (-)	39S mitochondrial ribosomal protein L46, putative	
+LmjF.06.0050	LmjF.06.0050:mRNA	L. major strain Friedlin	LmjF.06: 21,431 - 22,876 (-)	pumilio/PUF RNA binding protein 5, putative	
+LmjF.06.0060	LmjF.06.0060:mRNA	L. major strain Friedlin	LmjF.06: 27,083 - 28,048 (-)	hypothetical protein, conserved	
+LmjF.06.0070	LmjF.06.0070:mRNA	L. major strain Friedlin	LmjF.06: 29,784 - 31,160 (-)	hypothetical protein, conserved	
+LmjF.06.0080	LmjF.06.0080:mRNA	L. major strain Friedlin	LmjF.06: 34,880 - 36,853 (-)	ATP-binding cassette protein subfamily G, member 1, putative	
+LmjF.06.0090	LmjF.06.0090:mRNA	L. major strain Friedlin	LmjF.06: 40,263 - 42,254 (-)	ATP-binding cassette protein subfamily G, member 2	
+LmjF.06.0100	LmjF.06.0100:mRNA	L. major strain Friedlin	LmjF.06: 43,400 - 44,488 (-)	ATP-binding cassette protein subfamily G, member 3, putative	
+LmjF.06.0110	LmjF.06.0110:mRNA	L. major strain Friedlin	LmjF.06: 46,131 - 47,936 (-)	hypothetical protein, conserved	
+LmjF.06.0120	LmjF.06.0120:mRNA	L. major strain Friedlin	LmjF.06: 49,294 - 49,947 (-)	cyclophilin 2	
+LmjF.06.0130	LmjF.06.0130:mRNA	L. major strain Friedlin	LmjF.06: 50,821 - 51,381 (-)	conserved hypothetical protein, putative	
+LmjF.06.0140	LmjF.06.0140:mRNA	L. major strain Friedlin	LmjF.06: 52,926 - 53,669 (-)	20S proteasome beta 6 subunit, putative	
+LmjF.06.0150	LmjF.06.0150:mRNA	L. major strain Friedlin	LmjF.06: 54,512 - 54,841 (-)	hypothetical protein, conserved	
+LmjF.06.0160	LmjF.06.0160:mRNA	L. major strain Friedlin	LmjF.06: 55,454 - 56,857 (-)	HD domain containing protein, putative	
+LmjF.06.0170	LmjF.06.0170:mRNA	L. major strain Friedlin	LmjF.06: 58,183 - 58,608 (-)	Trm112p-like protein, putative	
+LmjF.06.0180	LmjF.06.0180:mRNA	L. major strain Friedlin	LmjF.06: 59,132 - 61,321 (-)	kinesin-like protein	
+LmjF.06.0190	LmjF.06.0190:mRNA	L. major strain Friedlin	LmjF.06: 62,776 - 64,956 (-)	hypothetical protein, conserved	
+LmjF.06.0200	LmjF.06.0200:mRNA	L. major strain Friedlin	LmjF.06: 66,507 - 67,994 (-)	hypothetical protein, conserved	
+LmjF.06.0210	LmjF.06.0210:mRNA	L. major strain Friedlin	LmjF.06: 70,595 - 72,634 (-)	FHA domain containing protein, putative	
+LmjF.06.0220	LmjF.06.0220:mRNA	L. major strain Friedlin	LmjF.06: 73,565 - 74,428 (-)	hypothetical protein, conserved	
+LmjF.06.0230	LmjF.06.0230:mRNA	L. major strain Friedlin	LmjF.06: 75,154 - 75,795 (-)	hypothetical protein, conserved	
+LmjF.06.0240	LmjF.06.0240:mRNA	L. major strain Friedlin	LmjF.06: 76,880 - 79,756 (-)	Present in the outer mitochondrial membrane proteome 34	
+LmjF.06.0250	LmjF.06.0250:mRNA	L. major strain Friedlin	LmjF.06: 80,948 - 81,784 (-)	hypothetical protein, conserved	
+LmjF.06.0260	LmjF.06.0260:mRNA	L. major strain Friedlin	LmjF.06: 83,589 - 88,061 (-)	5'-3' exoribonuclease A, putative	
+LmjF.06.0270	LmjF.06.0270:mRNA	L. major strain Friedlin	LmjF.06: 90,349 - 91,287 (-)	hypothetical protein, conserved	
+LmjF.06.0280	LmjF.06.0280:mRNA	L. major strain Friedlin	LmjF.06: 91,976 - 94,540 (-)	hypothetical protein, conserved	
+LmjF.06.0290	LmjF.06.0290:mRNA	L. major strain Friedlin	LmjF.06: 96,735 - 97,880 (-)	ribonuclease H1, putative	
+LmjF.06.0300	LmjF.06.0300:mRNA	L. major strain Friedlin	LmjF.06: 99,853 - 100,356 (-)	MYND finger domain-like protein	
+LmjF.06.0310	LmjF.06.0310:mRNA	L. major strain Friedlin	LmjF.06: 103,880 - 105,910 (-)	folate/biopterin transporter, putative	
+LmjF.06.0320	LmjF.06.0320:mRNA	L. major strain Friedlin	LmjF.06: 106,808 - 109,882 (-)	hypothetical protein, conserved	
+LmjF.06.0330	LmjF.06.0330:mRNA	L. major strain Friedlin	LmjF.06: 111,329 - 114,883 (-)	hypothetical protein, conserved	
+LmjF.06.0340	LmjF.06.0340:mRNA	L. major strain Friedlin	LmjF.06: 115,615 - 118,332 (-)	serine peptidase, clan SC, family S9A-like protein	
+LmjF.06.0350	LmjF.06.0350:mRNA	L. major strain Friedlin	LmjF.06: 119,086 - 120,309 (-)	NAD(P)-dependent steroid dehydrogenase protein, putative	
+LmjF.06.0360	LmjF.06.0360:mRNA	L. major strain Friedlin	LmjF.06: 120,889 - 122,244 (-)	hypothetical protein, conserved	
+LmjF.06.0370	LmjF.06.0370:mRNA	L. major strain Friedlin	LmjF.06: 128,462 - 129,601 (+)	glutamine synthetase, putative	
+LmjF.06.0380	LmjF.06.0380:mRNA	L. major strain Friedlin	LmjF.06: 130,484 - 131,608 (+)	Present in the outer mitochondrial membrane proteome 35	
+LmjF.06.0390	LmjF.06.0390:mRNA	L. major strain Friedlin	LmjF.06: 132,561 - 135,284 (+)	hypothetical protein, conserved	
+LmjF.06.0400	LmjF.06.0400:pseudogenic_transcript	L. major strain Friedlin	LmjF.06: 135,666 - 136,618 (+)	fructose biphosphate aldolase (pseudogene), putative	
+LmjF.06.0410	LmjF.06.0410:mRNA	L. major strain Friedlin	LmjF.06: 138,621 - 139,364 (+)	60S ribosomal protein L19, putative	
+LmjF.06.0412	LmjF.06.0412:mRNA	L. major strain Friedlin	LmjF.06: 140,738 - 141,307 (+)	hypothetical protein, conserved	
+LmjF.06.0415	LmjF.06.0415:mRNA	L. major strain Friedlin	LmjF.06: 142,073 - 142,837 (+)	60S ribosomal protein L19, putative	
+LmjF.06.0420	LmjF.06.0420:mRNA	L. major strain Friedlin	LmjF.06: 144,860 - 146,581 (+)	hypothetical protein, conserved	
+LmjF.06.0430	LmjF.06.0430:mRNA	L. major strain Friedlin	LmjF.06: 148,140 - 150,212 (+)	hypothetical protein, conserved	
+LmjF.06.0440	LmjF.06.0440:mRNA	L. major strain Friedlin	LmjF.06: 151,517 - 154,498 (+)	hypothetical protein, conserved	
+LmjF.06.0450	LmjF.06.0450:mRNA	L. major strain Friedlin	LmjF.06: 156,483 - 157,865 (+)	hypothetical protein, unknown function	
+LmjF.06.0460	LmjF.06.0460:mRNA	L. major strain Friedlin	LmjF.06: 160,324 - 164,154 (+)	ATP-NAD kinase-like protein	
+LmjF.06.0470	LmjF.06.0470:mRNA	L. major strain Friedlin	LmjF.06: 165,430 - 168,912 (+)	condensin complex subunit 2, putative	
+LmjF.06.0480	LmjF.06.0480:mRNA	L. major strain Friedlin	LmjF.06: 169,918 - 170,895 (+)	hypothetical protein, conserved	
+LmjF.06.0490	LmjF.06.0490:mRNA	L. major strain Friedlin	LmjF.06: 171,715 - 173,520 (+)	hypothetical protein, conserved	
+LmjF.06.0500	LmjF.06.0500:mRNA	L. major strain Friedlin	LmjF.06: 174,599 - 176,236 (+)	SpoU rRNA Methylase family, putative	
+LmjF.06.0510	LmjF.06.0510:mRNA	L. major strain Friedlin	LmjF.06: 176,968 - 178,947 (+)	U-box domain containing protein, putative	
+LmjF.06.0520	LmjF.06.0520:mRNA	L. major strain Friedlin	LmjF.06: 181,486 - 187,176 (+)	hypothetical protein, conserved	
+LmjF.06.0530	LmjF.06.0530:mRNA	L. major strain Friedlin	LmjF.06: 187,874 - 188,764 (+)	hypothetical protein, conserved	
+LmjF.06.0540	LmjF.06.0540:mRNA	L. major strain Friedlin	LmjF.06: 190,047 - 192,656 (+)	hypothetical protein, conserved	
+LmjF.06.0550	LmjF.06.0550:mRNA	L. major strain Friedlin	LmjF.06: 193,555 - 198,750 (+)	hypothetical protein, conserved	
+LmjF.06.0560	LmjF.06.0560:mRNA	L. major strain Friedlin	LmjF.06: 199,672 - 200,478 (+)	deoxyuridine triphosphatase, putative	
+LmjF.06.0570	LmjF.06.0570:mRNA	L. major strain Friedlin	LmjF.06: 201,829 - 202,266 (+)	60S ribosomal protein L23a, putative	
+LmjF.06.0580	LmjF.06.0580:mRNA	L. major strain Friedlin	LmjF.06: 202,726 - 203,163 (+)	60S ribosomal protein L23a, putative	
+LmjF.06.0590	LmjF.06.0590:mRNA	L. major strain Friedlin	LmjF.06: 204,682 - 209,166 (+)	hypothetical protein, conserved	
+LmjF.06.0600	LmjF.06.0600:mRNA	L. major strain Friedlin	LmjF.06: 209,806 - 214,116 (+)	hypothetical protein, conserved	
+LmjF.06.0610	LmjF.06.0610:mRNA	L. major strain Friedlin	LmjF.06: 214,896 - 216,056 (+)	carbonic anhydrase family protein, putative	
+LmjF.06.0620	LmjF.06.0620:mRNA	L. major strain Friedlin	LmjF.06: 217,080 - 220,112 (+)	Putative Phosphatase/Protein of unknown function DUF89, putative	
+LmjF.06.0630	LmjF.06.0630:mRNA	L. major strain Friedlin	LmjF.06: 222,394 - 227,721 (+)	hypothetical protein, unknown function	
+LmjF.06.0640	LmjF.06.0640:mRNA	L. major strain Friedlin	LmjF.06: 229,849 - 239,277 (+)	protein kinase, putative	
+LmjF.06.0650	LmjF.06.0650:mRNA	L. major strain Friedlin	LmjF.06: 240,538 - 243,546 (+)	lanosterol synthase, putative	
+LmjF.06.0660	LmjF.06.0660:mRNA	L. major strain Friedlin	LmjF.06: 245,142 - 247,181 (+)	hypothetical protein, conserved	
+LmjF.06.0670	LmjF.06.0670:mRNA	L. major strain Friedlin	LmjF.06: 249,756 - 253,604 (+)	hypothetical protein, conserved	
+LmjF.06.0680	LmjF.06.0680:mRNA	L. major strain Friedlin	LmjF.06: 255,246 - 255,977 (+)	hypothetical protein, conserved	
+LmjF.06.0685	LmjF.06.0685:mRNA	L. major strain Friedlin	LmjF.06: 256,726 - 257,940 (+)	hypothetical protein, conserved	
+LmjF.06.0690	LmjF.06.0690:mRNA	L. major strain Friedlin	LmjF.06: 259,187 - 266,953 (+)	hypothetical protein, conserved	
+LmjF.06.0700	LmjF.06.0700:mRNA	L. major strain Friedlin	LmjF.06: 268,040 - 270,253 (+)	C2 domain/Ankyrin repeats (3 copies), putative	
+LmjF.06.0710	LmjF.06.0710.1:mRNA	L. major strain Friedlin	LmjF.06: 274,745 - 275,990 (+)	hypothetical protein, unknown function	
+LmjF.06.0710	LmjF.06.0710.2:mRNA	L. major strain Friedlin	LmjF.06: 273,423 - 275,990 (+)	hypothetical protein, unknown function	
+LmjF.06.0720	LmjF.06.0720:mRNA	L. major strain Friedlin	LmjF.06: 278,906 - 284,203 (+)	YEATS family, putative	
+LmjF.06.0730	LmjF.06.0730:mRNA	L. major strain Friedlin	LmjF.06: 285,502 - 286,518 (+)	serine-threonine dehydratase, putative	
+LmjF.06.0740	LmjF.06.0740:mRNA	L. major strain Friedlin	LmjF.06: 288,385 - 291,585 (+)	hypothetical protein, conserved	
+LmjF.06.0750	LmjF.06.0750:mRNA	L. major strain Friedlin	LmjF.06: 292,493 - 294,502 (+)	Haemolysin-III related, putative	
+LmjF.06.0760	LmjF.06.0760:mRNA	L. major strain Friedlin	LmjF.06: 295,611 - 299,147 (+)	hypothetical protein, conserved	
+LmjF.06.0770	LmjF.06.0770:mRNA	L. major strain Friedlin	LmjF.06: 302,980 - 309,006 (+)	RNA-binding protein-like protein	
+LmjF.06.0780	LmjF.06.0780:mRNA	L. major strain Friedlin	LmjF.06: 314,225 - 322,576 (+)	hypothetical protein, unknown function	
+LmjF.06.0790	LmjF.06.0790:mRNA	L. major strain Friedlin	LmjF.06: 327,515 - 330,736 (+)	hypothetical protein, unknown function	
+LmjF.06.0800	LmjF.06.0800:mRNA	L. major strain Friedlin	LmjF.06: 331,818 - 336,572 (+)	hypothetical protein, conserved	
+LmjF.06.0810	LmjF.06.0810:mRNA	L. major strain Friedlin	LmjF.06: 338,496 - 349,103 (+)	hypothetical protein, unknown function	
+LmjF.06.0820	LmjF.06.0820:mRNA	L. major strain Friedlin	LmjF.06: 349,846 - 351,039 (+)	Qb-SNARE protein, putative	
+LmjF.06.0830	LmjF.06.0830:mRNA	L. major strain Friedlin	LmjF.06: 353,047 - 357,402 (+)	lipin, putative	
+LmjF.06.0840	LmjF.06.0840:mRNA	L. major strain Friedlin	LmjF.06: 358,825 - 359,526 (+)	hypothetical protein, conserved	
+LmjF.06.0850	LmjF.06.0850:mRNA	L. major strain Friedlin	LmjF.06: 361,647 - 372,362 (+)	hypothetical protein, conserved	
+LmjF.06.0860	LmjF.06.0860:mRNA	L. major strain Friedlin	LmjF.06: 373,501 - 375,063 (+)	dihydrofolate reductase-thymidylate synthase	
+LmjF.06.0870	LmjF.06.0870:mRNA	L. major strain Friedlin	LmjF.06: 376,870 - 378,186 (+)	protein arginine n-methyltransferase 7	
+LmjF.06.0880	LmjF.06.0880:mRNA	L. major strain Friedlin	LmjF.06: 379,674 - 380,924 (+)	acyl-coenzyme a dehydrogenase, putative	
+LmjF.06.0890	LmjF.06.0890:mRNA	L. major strain Friedlin	LmjF.06: 382,783 - 385,122 (+)	hypothetical protein, conserved	
+LmjF.06.0900	LmjF.06.0900:mRNA	L. major strain Friedlin	LmjF.06: 386,278 - 391,851 (+)	protein phosphatase 2C, putative	
+LmjF.06.0910	LmjF.06.0910:mRNA	L. major strain Friedlin	LmjF.06: 392,753 - 393,418 (+)	peptidyl-tRNA hydrolase, putative	
+LmjF.06.0920	LmjF.06.0920:mRNA	L. major strain Friedlin	LmjF.06: 394,120 - 395,469 (+)	hypothetical protein, conserved	
+LmjF.06.0930	LmjF.06.0930:mRNA	L. major strain Friedlin	LmjF.06: 397,594 - 399,786 (+)	2,4-dienoyl-coa reductase-like protein	
+LmjF.06.0940	LmjF.06.0940:mRNA	L. major strain Friedlin	LmjF.06: 401,360 - 403,285 (+)	hypothetical protein, conserved	
+LmjF.06.0950	LmjF.06.0950:mRNA	L. major strain Friedlin	LmjF.06: 404,101 - 406,113 (+)	glucosamine-fructose-6-phosphate aminotransferase, putative	
+LmjF.06.0960	LmjF.06.0960:mRNA	L. major strain Friedlin	LmjF.06: 407,651 - 408,388 (+)	cell cycle associated protein MOB1, putative	
+LmjF.06.0970	LmjF.06.0970:mRNA	L. major strain Friedlin	LmjF.06: 409,596 - 414,569 (+)	Domain of unknown function (DUF3883), putative	
+LmjF.06.0980	LmjF.06.0980:mRNA	L. major strain Friedlin	LmjF.06: 415,729 - 418,824 (+)	Leucine Rich Repeat, putative	
+LmjF.06.0990	LmjF.06.0990:mRNA	L. major strain Friedlin	LmjF.06: 421,157 - 424,795 (+)	hypothetical protein, conserved	
+LmjF.06.0995	LmjF.06.0995:mRNA	L. major strain Friedlin	LmjF.06: 425,736 - 426,203 (+)	hypothetical protein, unknown function	
+LmjF.06.1000	LmjF.06.1000:mRNA	L. major strain Friedlin	LmjF.06: 426,774 - 428,279 (+)	SET domain containing protein, putative	
+LmjF.06.1010	LmjF.06.1010:mRNA	L. major strain Friedlin	LmjF.06: 429,214 - 431,523 (+)	hypothetical protein, conserved	
+LmjF.06.1020	LmjF.06.1020:mRNA	L. major strain Friedlin	LmjF.06: 432,196 - 432,888 (+)	G-patch domain containing protein, putative	
+LmjF.06.1030	LmjF.06.1030:mRNA	L. major strain Friedlin	LmjF.06: 434,209 - 436,869 (+)	kinesin, putative	
+LmjF.06.1040	LmjF.06.1040:mRNA	L. major strain Friedlin	LmjF.06: 437,340 - 439,514 (+)	hypothetical protein, conserved	
+LmjF.06.1050	LmjF.06.1050:mRNA	L. major strain Friedlin	LmjF.06: 440,536 - 440,937 (+)	protein disulfide isomerase	
+LmjF.06.1060	LmjF.06.1060:mRNA	L. major strain Friedlin	LmjF.06: 443,097 - 444,152 (+)	2OG-Fe(II) oxygenase superfamily, putative	
+LmjF.06.1070	LmjF.06.1070:mRNA	L. major strain Friedlin	LmjF.06: 445,591 - 446,436 (+)	deoxyribose-phosphate aldolase, putative	
+LmjF.06.1080	LmjF.06.1080:mRNA	L. major strain Friedlin	LmjF.06: 448,194 - 448,868 (+)	Staphylococcal nuclease homologue, putative	
+LmjF.06.1090	LmjF.06.1090:mRNA	L. major strain Friedlin	LmjF.06: 450,234 - 452,021 (+)	hypothetical protein, conserved	
+LmjF.06.1100	LmjF.06.1100:mRNA	L. major strain Friedlin	LmjF.06: 453,183 - 454,097 (+)	peripherally associated ATOM36	
+LmjF.06.1110	LmjF.06.1110:mRNA	L. major strain Friedlin	LmjF.06: 456,396 - 459,722 (+)	hypothetical protein, conserved	
+LmjF.06.1120	LmjF.06.1120:mRNA	L. major strain Friedlin	LmjF.06: 462,386 - 463,210 (+)	hypothetical protein, conserved	
+LmjF.06.1130	LmjF.06.1130:mRNA	L. major strain Friedlin	LmjF.06: 464,063 - 465,052 (+)	hypothetical protein, conserved	
+LmjF.06.1140	LmjF.06.1140:mRNA	L. major strain Friedlin	LmjF.06: 465,208 - 467,751 (+)	hypothetical protein, conserved	
+LmjF.06.1150	LmjF.06.1150:mRNA	L. major strain Friedlin	LmjF.06: 468,233 - 469,762 (+)	Domain of unknown function (DUF4379), putative	
+LmjF.06.1160	LmjF.06.1160:mRNA	L. major strain Friedlin	LmjF.06: 470,302 - 473,601 (+)	hypothetical protein, conserved	
+LmjF.06.1170	LmjF.06.1170:mRNA	L. major strain Friedlin	LmjF.06: 474,255 - 474,662 (+)	mRNA transport regulator MTR2, putative	
+LmjF.06.1180	LmjF.06.1180:mRNA	L. major strain Friedlin	LmjF.06: 475,857 - 477,224 (+)	protein kinase, putative	
+LmjF.06.1190	LmjF.06.1190:mRNA	L. major strain Friedlin	LmjF.06: 478,159 - 478,611 (+)	thioredoxin, putative	
+LmjF.06.1200	LmjF.06.1200:mRNA	L. major strain Friedlin	LmjF.06: 481,843 - 483,027 (+)	hypothetical protein, unknown function	
+LmjF.06.1210	LmjF.06.1210:mRNA	L. major strain Friedlin	LmjF.06: 483,578 - 485,347 (+)	hypothetical protein, unknown function	
+LmjF.06.1220	LmjF.06.1220:mRNA	L. major strain Friedlin	LmjF.06: 487,114 - 489,486 (+)	hypothetical protein, unknown function	
+LmjF.06.1230	LmjF.06.1230:mRNA	L. major strain Friedlin	LmjF.06: 490,564 - 491,445 (+)	Protein of unknown function (DUF1637), putative	
+LmjF.06.1240	LmjF.06.1240:mRNA	L. major strain Friedlin	LmjF.06: 492,204 - 493,688 (+)	FAD binding domain containing protein, putative	
+LmjF.06.1245	LmjF.06.1245:mRNA	L. major strain Friedlin	LmjF.06: 494,902 - 495,195 (+)	Transcription factor e(y)2, putative	
+LmjF.06.1250	LmjF.06.1250:mRNA	L. major strain Friedlin	LmjF.06: 495,906 - 496,622 (+)	hypothetical protein, conserved	
+LmjF.06.1260	LmjF.06.1260:mRNA	L. major strain Friedlin	LmjF.06: 499,408 - 501,369 (-)	pteridine transporter, putative	
+LmjF.06.1270	LmjF.06.1270:mRNA	L. major strain Friedlin	LmjF.06: 503,119 - 504,024 (-)	coproporphyrinogen III oxidase	
+LmjF.06.1280	LmjF.06.1280:mRNA	L. major strain Friedlin	LmjF.06: 505,058 - 505,753 (-)	protoporphyrinogen oxidase-like protein	
+LmjF.06.1290	LmjF.06.1290:mRNA	L. major strain Friedlin	LmjF.06: 506,919 - 507,290 (-)	hypothetical protein, unknown function	
+LmjF.06.1300	LmjF.06.1300:mRNA	L. major strain Friedlin	LmjF.06: 512,080 - 514,008 (+)	CLN3 protein, putative	

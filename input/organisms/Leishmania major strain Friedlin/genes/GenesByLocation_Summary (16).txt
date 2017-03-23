@@ -1,0 +1,164 @@
+[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
+LmjF.17.0010	LmjF.17.0010:mRNA	L. major strain Friedlin	LmjF.17: 9,661 - 11,985 (-)	eukaryotic translation initiation factor 3 subunit a	
+LmjF.17.0020	LmjF.17.0020:mRNA	L. major strain Friedlin	LmjF.17: 14,273 - 14,938 (-)	Protein of unknown function (DUF3522), putative	
+LmjF.17.0025	LmjF.17.0025:mRNA	L. major strain Friedlin	LmjF.17: 15,699 - 16,376 (-)	Protein of unknown function (DUF3522), putative	
+LmjF.17.0030	LmjF.17.0030:mRNA	L. major strain Friedlin	LmjF.17: 18,084 - 18,722 (-)	Ring finger domain containing protein, putative	
+LmjF.17.0040	LmjF.17.0040:mRNA	L. major strain Friedlin	LmjF.17: 19,557 - 20,345 (-)	DnaJ domain containing protein, putative	
+LmjF.17.0050	LmjF.17.0050:mRNA	L. major strain Friedlin	LmjF.17: 21,108 - 21,818 (-)	hypothetical protein, conserved	
+LmjF.17.0060	LmjF.17.0060:mRNA	L. major strain Friedlin	LmjF.17: 23,387 - 25,048 (-)	mitogen-activated protein kinase kinase 3, putative	
+LmjF.17.0070	LmjF.17.0070:mRNA	L. major strain Friedlin	LmjF.17: 26,164 - 26,727 (-)	ADP-ribosylation factor-like protein 1	
+LmjF.17.0080	LmjF.17.0080:mRNA	L. major strain Friedlin	LmjF.17: 28,653 - 30,002 (-)	elongation factor 1-alpha	
+LmjF.17.0081	LmjF.17.0081:mRNA	L. major strain Friedlin	LmjF.17: 30,849 - 32,198 (-)	elongation factor 1-alpha	
+LmjF.17.0082	LmjF.17.0082:mRNA	L. major strain Friedlin	LmjF.17: 33,058 - 34,407 (-)	elongation factor 1-alpha	
+LmjF.17.0083	LmjF.17.0083:mRNA	L. major strain Friedlin	LmjF.17: 35,254 - 36,603 (-)	elongation factor 1-alpha	
+LmjF.17.0084	LmjF.17.0084:mRNA	L. major strain Friedlin	LmjF.17: 37,450 - 38,799 (-)	elongation factor 1-alpha	
+LmjF.17.0085	LmjF.17.0085:mRNA	L. major strain Friedlin	LmjF.17: 39,658 - 41,007 (-)	elongation factor 1-alpha	
+LmjF.17.0086	LmjF.17.0086:mRNA	L. major strain Friedlin	LmjF.17: 41,867 - 43,216 (-)	elongation factor 1-alpha	
+LmjF.17.0100	LmjF.17.0100:mRNA	L. major strain Friedlin	LmjF.17: 93,196 - 95,193 (-)	hypothetical protein, conserved	
+LmjF.17.0110	LmjF.17.0110:mRNA	L. major strain Friedlin	LmjF.17: 96,074 - 97,654 (-)	hypothetical protein, conserved	
+LmjF.17.0120	LmjF.17.0120:mRNA	L. major strain Friedlin	LmjF.17: 99,513 - 100,466 (-)	hypothetical protein, conserved	
+LmjF.17.0130	LmjF.17.0130:mRNA	L. major strain Friedlin	LmjF.17: 102,174 - 104,807 (-)	hypothetical protein, unknown function	
+LmjF.17.0140	LmjF.17.0140:mRNA	L. major strain Friedlin	LmjF.17: 106,813 - 108,084 (-)	peptidase T, putative, metallo-peptidase, ClanMH, family M20B	
+LmjF.17.0150	LmjF.17.0150:mRNA	L. major strain Friedlin	LmjF.17: 109,677 - 111,797 (-)	hypothetical protein, conserved	
+LmjF.17.0160	LmjF.17.0160:mRNA	L. major strain Friedlin	LmjF.17: 113,303 - 116,521 (-)	kinesin motor domain containing protein, putative	
+LmjF.17.0170	LmjF.17.0170:mRNA	L. major strain Friedlin	LmjF.17: 120,694 - 122,790 (-)	WD domain, G-beta repeat, putative	
+LmjF.17.0180	LmjF.17.0180:pseudogenic_transcript	L. major strain Friedlin	LmjF.17: 68,880 - 72,858 (-)	receptor-type adenylate cyclase b	
+LmjF.17.0190	LmjF.17.0190:mRNA	L. major strain Friedlin	LmjF.17: 60,047 - 64,291 (-)	receptor-type adenylate cyclase, putative	
+LmjF.17.0200	LmjF.17.0200:mRNA	L. major strain Friedlin	LmjF.17: 47,957 - 52,090 (-)	receptor-type adenylate cyclase a	
+LmjF.17.0230	LmjF.17.0230:mRNA	L. major strain Friedlin	LmjF.17: 75,012 - 78,806 (-)	receptor-type adenylate cyclase b	
+LmjF.17.0235	LmjF.17.0235:mRNA	L. major strain Friedlin	LmjF.17: 80,549 - 84,535 (-)	receptor-type adenylate cyclase b	
+LmjF.17.0237	LmjF.17.0237:mRNA	L. major strain Friedlin	LmjF.17: 86,278 - 91,293 (-)	receptor-type adenylate cyclase b	
+LmjF.17.0240	LmjF.17.0240:mRNA	L. major strain Friedlin	LmjF.17: 125,529 - 129,218 (-)	Regulator of chromosome condensation (RCC1) repeat, putative	
+LmjF.17.0250	LmjF.17.0250:mRNA	L. major strain Friedlin	LmjF.17: 133,086 - 134,165 (-)	cystathionine beta-synthase	
+LmjF.17.0260	LmjF.17.0260:mRNA	L. major strain Friedlin	LmjF.17: 136,352 - 138,811 (-)	hypothetical protein, conserved	
+LmjF.17.0270	LmjF.17.0270:mRNA	L. major strain Friedlin	LmjF.17: 139,594 - 140,448 (-)	NADH-ubiquinone oxidoreductase, mitochondrial, putative	
+LmjF.17.0280	LmjF.17.0280:mRNA	L. major strain Friedlin	LmjF.17: 144,026 - 144,559 (-)	histone H2A variant Z	
+LmjF.17.0290	LmjF.17.0290:mRNA	L. major strain Friedlin	LmjF.17: 145,654 - 147,831 (-)	Zinc finger, C3HC4 type (RING finger), putative	
+LmjF.17.0300	LmjF.17.0300:mRNA	L. major strain Friedlin	LmjF.17: 148,891 - 149,706 (-)	hypothetical protein, conserved	
+LmjF.17.0310	LmjF.17.0310:mRNA	L. major strain Friedlin	LmjF.17: 150,898 - 155,262 (-)	hypothetical protein, conserved	
+LmjF.17.0320	LmjF.17.0320:mRNA	L. major strain Friedlin	LmjF.17: 156,540 - 157,529 (-)	hypothetical protein, conserved	
+LmjF.17.0330	LmjF.17.0330:mRNA	L. major strain Friedlin	LmjF.17: 158,039 - 162,994 (-)	hypothetical protein, conserved	
+LmjF.17.0340	LmjF.17.0340.1:mRNA	L. major strain Friedlin	LmjF.17: 164,063 - 165,689 (-)	hypothetical protein, conserved	
+LmjF.17.0340	LmjF.17.0340.2:mRNA	L. major strain Friedlin	LmjF.17: 164,063 - 164,628 (-)	hypothetical protein, conserved	
+LmjF.17.0350	LmjF.17.0350:mRNA	L. major strain Friedlin	LmjF.17: 166,529 - 168,316 (-)	dihydrouridine synthase (Dus), putative	
+LmjF.17.0360	LmjF.17.0360:mRNA	L. major strain Friedlin	LmjF.17: 169,123 - 169,671 (-)	cytidine deaminase-like protein	
+LmjF.17.0370	LmjF.17.0370:mRNA	L. major strain Friedlin	LmjF.17: 171,189 - 173,591 (-)	hypothetical protein, unknown function	
+LmjF.17.0380	LmjF.17.0380:mRNA	L. major strain Friedlin	LmjF.17: 174,728 - 175,555 (-)	Qa-SNARE protein, putative	
+LmjF.17.0390	LmjF.17.0390:mRNA	L. major strain Friedlin	LmjF.17: 179,120 - 182,728 (-)	protein kinase, putative	
+LmjF.17.0400	LmjF.17.0400:mRNA	L. major strain Friedlin	LmjF.17: 186,792 - 189,956 (-)	Ring finger domain containing protein, putative	
+LmjF.17.0410	LmjF.17.0410:mRNA	L. major strain Friedlin	LmjF.17: 196,062 - 199,250 (-)	hypothetical protein, conserved	
+LmjF.17.0420	LmjF.17.0420:mRNA	L. major strain Friedlin	LmjF.17: 200,396 - 202,129 (-)	Probable N6-adenine methyltransferase, putative	
+LmjF.17.0430	LmjF.17.0430:mRNA	L. major strain Friedlin	LmjF.17: 204,153 - 208,082 (-)	hypothetical protein, conserved	
+LmjF.17.0440	LmjF.17.0440:mRNA	L. major strain Friedlin	LmjF.17: 210,039 - 215,945 (-)	hypothetical protein, conserved	
+LmjF.17.0450	LmjF.17.0450:mRNA	L. major strain Friedlin	LmjF.17: 218,199 - 222,950 (-)	hypothetical protein, conserved	
+LmjF.17.0460	LmjF.17.0460:mRNA	L. major strain Friedlin	LmjF.17: 224,421 - 225,389 (-)	DnaJ domain containing protein, putative	
+LmjF.17.0470	LmjF.17.0470:mRNA	L. major strain Friedlin	LmjF.17: 226,290 - 237,395 (-)	hypothetical protein, conserved	
+LmjF.17.0480	LmjF.17.0480:mRNA	L. major strain Friedlin	LmjF.17: 244,378 - 245,991 (-)	Phenazine biosynthesis-like protein, putative	
+LmjF.17.0490	LmjF.17.0490:mRNA	L. major strain Friedlin	LmjF.17: 248,373 - 251,939 (-)	protein kinase, putative	
+LmjF.17.0500	LmjF.17.0500:mRNA	L. major strain Friedlin	LmjF.17: 253,926 - 258,203 (-)	hypothetical protein	
+LmjF.17.0510	LmjF.17.0510:mRNA	L. major strain Friedlin	LmjF.17: 260,495 - 263,593 (-)	hypothetical protein, unknown function	
+LmjF.17.0520	LmjF.17.0520:mRNA	L. major strain Friedlin	LmjF.17: 265,590 - 268,370 (-)	hypothetical protein, unknown function	
+LmjF.17.0530	LmjF.17.0530:mRNA	L. major strain Friedlin	LmjF.17: 271,538 - 275,110 (-)	hypothetical protein, conserved	
+LmjF.17.0540	LmjF.17.0540:mRNA	L. major strain Friedlin	LmjF.17: 276,522 - 280,619 (-)	ATPase family associated with various cellular activities (AAA), putative	
+LmjF.17.0550	LmjF.17.0550:mRNA	L. major strain Friedlin	LmjF.17: 282,163 - 283,059 (-)	RNA-binding protein, putative	
+LmjF.17.0560	LmjF.17.0560:mRNA	L. major strain Friedlin	LmjF.17: 284,080 - 284,910 (-)	hypothetical protein, conserved	
+LmjF.17.0570	LmjF.17.0570:mRNA	L. major strain Friedlin	LmjF.17: 285,854 - 289,498 (-)	hypothetical protein, conserved	
+LmjF.17.0580	LmjF.17.0580:mRNA	L. major strain Friedlin	LmjF.17: 290,433 - 291,596 (-)	bis(5'-nucleosyl)-tetraphosphatase, symmetrical-like protein	
+LmjF.17.0590	LmjF.17.0590:mRNA	L. major strain Friedlin	LmjF.17: 292,328 - 297,637 (-)	hypothetical protein, conserved	
+LmjF.17.0600	LmjF.17.0600:mRNA	L. major strain Friedlin	LmjF.17: 300,772 - 304,179 (-)	P-type ATPase, putative	
+LmjF.17.0610	LmjF.17.0610:mRNA	L. major strain Friedlin	LmjF.17: 306,517 - 308,013 (-)	Acyl CoA binding protein, putative	
+LmjF.17.0620	LmjF.17.0620:mRNA	L. major strain Friedlin	LmjF.17: 309,147 - 309,458 (-)	Acyl CoA binding protein, putative	
+LmjF.17.0630	LmjF.17.0630:mRNA	L. major strain Friedlin	LmjF.17: 312,897 - 314,063 (-)	hypothetical protein, unknown function	
+LmjF.17.0640	LmjF.17.0640:mRNA	L. major strain Friedlin	LmjF.17: 349,673 - 351,346 (-)	VID27 cytoplasmic protein, putative	
+LmjF.17.0650	LmjF.17.0650:mRNA	L. major strain Friedlin	LmjF.17: 352,131 - 355,757 (-)	hypothetical protein, conserved	
+LmjF.17.0660	LmjF.17.0660:mRNA	L. major strain Friedlin	LmjF.17: 356,498 - 360,352 (-)	hypothetical protein, conserved	
+LmjF.17.0670	LmjF.17.0670:mRNA	L. major strain Friedlin	LmjF.17: 361,792 - 367,317 (-)	protein kinase, putative	
+LmjF.17.0680	LmjF.17.0680:mRNA	L. major strain Friedlin	LmjF.17: 369,580 - 370,914 (-)	hypothetical protein, conserved	
+LmjF.17.0690	LmjF.17.0690:mRNA	L. major strain Friedlin	LmjF.17: 371,620 - 373,326 (-)	hypothetical protein, conserved	
+LmjF.17.0700	LmjF.17.0700:mRNA	L. major strain Friedlin	LmjF.17: 374,243 - 375,970 (-)	Putative methyltransferase, putative	
+LmjF.17.0710	LmjF.17.0710:mRNA	L. major strain Friedlin	LmjF.17: 376,453 - 378,885 (-)	Myb-like DNA-binding domain containing protein, putative	
+LmjF.17.0720	LmjF.17.0720:mRNA	L. major strain Friedlin	LmjF.17: 379,700 - 382,096 (-)	hypothetical protein, conserved	
+LmjF.17.0725	LmjF.17.0725:mRNA	L. major strain Friedlin	LmjF.17: 384,829 - 386,307 (-)	GMP reductase	
+LmjF.17.0730	LmjF.17.0730:mRNA	L. major strain Friedlin	LmjF.17: 333,855 - 335,996 (-)	GRAM domain containing protein, putative	
+LmjF.17.0733	LmjF.17.0733:mRNA	L. major strain Friedlin	LmjF.17: 336,973 - 338,289 (-)	hypothetical protein, conserved	
+LmjF.17.0735	LmjF.17.0735:mRNA	L. major strain Friedlin	LmjF.17: 387,109 - 388,077 (-)	ysine decarboxylase-like protein	
+LmjF.17.0740	LmjF.17.0740:mRNA	L. major strain Friedlin	LmjF.17: 332,093 - 333,151 (-)	hypothetical protein, conserved	
+LmjF.17.0750	LmjF.17.0750:mRNA	L. major strain Friedlin	LmjF.17: 326,615 - 330,559 (-)	EF-hand domain pair, putative	
+LmjF.17.0760	LmjF.17.0760:mRNA	L. major strain Friedlin	LmjF.17: 322,918 - 324,168 (-)	Alpha/beta hydrolase family, putative	
+LmjF.17.0770	LmjF.17.0770:mRNA	L. major strain Friedlin	LmjF.17: 320,159 - 321,730 (-)	hypothetical protein, conserved	
+LmjF.17.0780	LmjF.17.0780:mRNA	L. major strain Friedlin	LmjF.17: 316,021 - 316,311 (-)	Acyl CoA binding protein, putative	
+LmjF.17.0790	LmjF.17.0790:mRNA	L. major strain Friedlin	LmjF.17: 345,258 - 347,366 (-)	polo-like protein kinase, putative	
+LmjF.17.0800	LmjF.17.0800:mRNA	L. major strain Friedlin	LmjF.17: 391,065 - 393,881 (-)	OSM3-like kinesin, putative	
+LmjF.17.0810	LmjF.17.0810:mRNA	L. major strain Friedlin	LmjF.17: 395,206 - 396,660 (-)	RNA-binding protein, putative	
+LmjF.17.0815	LmjF.17.0815:mRNA	L. major strain Friedlin	LmjF.17: 397,590 - 398,213 (-)	G-patch domain containing protein, putative	
+LmjF.17.0820	LmjF.17.0820:mRNA	L. major strain Friedlin	LmjF.17: 402,909 - 404,702 (-)	hypothetical protein, conserved	
+LmjF.17.0830	LmjF.17.0830:mRNA	L. major strain Friedlin	LmjF.17: 407,430 - 409,289 (-)	hypothetical protein, conserved	
+LmjF.17.0840	LmjF.17.0840:mRNA	L. major strain Friedlin	LmjF.17: 410,194 - 411,933 (-)	hypothetical protein, conserved	
+LmjF.17.0850	LmjF.17.0850:mRNA	L. major strain Friedlin	LmjF.17: 412,541 - 412,894 (-)	hypothetical protein, conserved	
+LmjF.17.0860	LmjF.17.0860:mRNA	L. major strain Friedlin	LmjF.17: 413,870 - 414,313 (-)	hypothetical protein, unknown function	
+LmjF.17.0870	LmjF.17.0870:mRNA	L. major strain Friedlin	LmjF.17: 415,950 - 417,284 (+)	META domain containing protein	
+LmjF.17.0880	LmjF.17.0880:mRNA	L. major strain Friedlin	LmjF.17: 419,893 - 421,578 (+)	hypothetical protein, conserved	
+LmjF.17.0890	LmjF.17.0890:mRNA	L. major strain Friedlin	LmjF.17: 423,158 - 423,496 (+)	META domain containing protein, putative	
+LmjF.17.0900	LmjF.17.0900:mRNA	L. major strain Friedlin	LmjF.17: 425,289 - 427,316 (+)	hypothetical protein, conserved	
+LmjF.17.0910	LmjF.17.0910:mRNA	L. major strain Friedlin	LmjF.17: 428,605 - 430,038 (+)	acyltransferase, putative	
+LmjF.17.0920	LmjF.17.0920:mRNA	L. major strain Friedlin	LmjF.17: 430,938 - 438,044 (+)	ATP-dependent RNA helicase, putative	
+LmjF.17.0930	LmjF.17.0930:mRNA	L. major strain Friedlin	LmjF.17: 441,193 - 445,539 (+)	formin, putative	
+LmjF.17.0940	LmjF.17.0940:mRNA	L. major strain Friedlin	LmjF.17: 447,407 - 450,613 (+)	Phosphorylated CTD interacting factor 1 WW domain containing protein, putative	
+LmjF.17.0950	LmjF.17.0950:mRNA	L. major strain Friedlin	LmjF.17: 452,080 - 457,740 (+)	3'5'-cyclic nucleotide phosphodiesterase, putative	
+LmjF.17.0960	LmjF.17.0960:mRNA	L. major strain Friedlin	LmjF.17: 460,466 - 465,757 (+)	hypothetical protein, unknown function	
+LmjF.17.0980	LmjF.17.0980:mRNA	L. major strain Friedlin	LmjF.17: 466,924 - 469,149 (+)	Mak10 subunit, NatC N(alpha)-terminal acetyltransferase, putative	
+LmjF.17.0990	LmjF.17.0990:mRNA	L. major strain Friedlin	LmjF.17: 472,150 - 493,212 (+)	hypothetical protein, conserved	
+LmjF.17.1000	LmjF.17.1000:mRNA	L. major strain Friedlin	LmjF.17: 493,961 - 496,150 (+)	hypothetical protein, conserved	
+LmjF.17.1010	LmjF.17.1010:mRNA	L. major strain Friedlin	LmjF.17: 497,329 - 498,342 (+)	hydrolase, alpha/beta fold family-like protein	
+LmjF.17.1020	LmjF.17.1020:mRNA	L. major strain Friedlin	LmjF.17: 500,526 - 502,442 (+)	glycosyltransferase (GlcNAc), putative	
+LmjF.17.1030	LmjF.17.1030:mRNA	L. major strain Friedlin	LmjF.17: 505,442 - 507,910 (+)	hypothetical protein, conserved	
+LmjF.17.1040	LmjF.17.1040:mRNA	L. major strain Friedlin	LmjF.17: 513,677 - 514,975 (+)	hydrolase-like protein	
+LmjF.17.1050	LmjF.17.1050:mRNA	L. major strain Friedlin	LmjF.17: 515,809 - 516,981 (+)	hydrolase-like protein	
+LmjF.17.1060	LmjF.17.1060:mRNA	L. major strain Friedlin	LmjF.17: 521,121 - 523,271 (+)	esterase-like protein	
+LmjF.17.1070	LmjF.17.1070:mRNA	L. major strain Friedlin	LmjF.17: 525,246 - 526,832 (+)	hypothetical protein, conserved	
+LmjF.17.1080	LmjF.17.1080:mRNA	L. major strain Friedlin	LmjF.17: 529,047 - 531,269 (+)	hypothetical protein, unknown function	
+LmjF.17.1090	LmjF.17.1090:mRNA	L. major strain Friedlin	LmjF.17: 532,905 - 536,837 (+)	Peptidase C19, ubiquitin carboxyl-terminal hydrolase, putative	
+LmjF.17.1100	LmjF.17.1100:mRNA	L. major strain Friedlin	LmjF.17: 537,743 - 539,374 (+)	3-oxo-5-alpha-steroid 4-dehydrogenase-like protein	
+LmjF.17.1110	LmjF.17.1110:mRNA	L. major strain Friedlin	LmjF.17: 540,178 - 544,470 (+)	kinesin, putative	
+LmjF.17.1120	LmjF.17.1120:mRNA	L. major strain Friedlin	LmjF.17: 546,747 - 547,103 (+)	hypothetical protein, conserved	
+LmjF.17.1130	LmjF.17.1130:mRNA	L. major strain Friedlin	LmjF.17: 548,298 - 551,846 (+)	NOL1/NOP2/sun family, putative	
+LmjF.17.1140	LmjF.17.1140:mRNA	L. major strain Friedlin	LmjF.17: 555,288 - 559,484 (+)	WW domain containing protein, putative	
+LmjF.17.1150	LmjF.17.1150:mRNA	L. major strain Friedlin	LmjF.17: 561,331 - 564,825 (+)	5'-3' exoribonuclease B, putative	
+LmjF.17.1160	LmjF.17.1160:mRNA	L. major strain Friedlin	LmjF.17: 567,197 - 569,089 (+)	UDP-sugar pyrophosphorylase	
+LmjF.17.1170	LmjF.17.1170:mRNA	L. major strain Friedlin	LmjF.17: 570,064 - 572,139 (+)	hypothetical protein, unknown function	
+LmjF.17.1180	LmjF.17.1180:mRNA	L. major strain Friedlin	LmjF.17: 573,118 - 575,955 (+)	hypothetical protein, unknown function	
+LmjF.17.1190	LmjF.17.1190:mRNA	L. major strain Friedlin	LmjF.17: 578,018 - 580,171 (+)	hypothetical protein, unknown function	
+LmjF.17.1200	LmjF.17.1200:mRNA	L. major strain Friedlin	LmjF.17: 584,246 - 586,774 (+)	hypothetical protein, conserved	
+LmjF.17.1210	LmjF.17.1210:mRNA	L. major strain Friedlin	LmjF.17: 588,574 - 590,322 (+)	MSP (Major sperm protein) domain containing protein, putative	
+LmjF.17.1220	LmjF.17.1220:mRNA	L. major strain Friedlin	LmjF.17: 593,304 - 593,639 (+)	histone H2B	
+LmjF.17.1230	LmjF.17.1230:mRNA	L. major strain Friedlin	LmjF.17: 595,169 - 599,791 (+)	hypothetical protein, conserved	
+LmjF.17.1240	LmjF.17.1240:mRNA	L. major strain Friedlin	LmjF.17: 600,652 - 603,516 (+)	hypothetical protein, conserved	
+LmjF.17.1250	LmjF.17.1250:mRNA	L. major strain Friedlin	LmjF.17: 604,189 - 607,431 (+)	RNA cytidine acetyltransferase	
+LmjF.17.1260	LmjF.17.1260:mRNA	L. major strain Friedlin	LmjF.17: 608,718 - 610,079 (+)	Organic solute transport protein 1, putative	
+LmjF.17.1270	LmjF.17.1270:mRNA	L. major strain Friedlin	LmjF.17: 611,439 - 612,392 (+)	hypothetical protein, conserved	
+LmjF.17.1280	LmjF.17.1280:mRNA	L. major strain Friedlin	LmjF.17: 613,380 - 613,583 (+)	hypothetical protein, conserved	
+LmjF.17.1290	LmjF.17.1290:mRNA	L. major strain Friedlin	LmjF.17: 614,550 - 616,679 (+)	eukaryotic translation initiation factor 3 subunit b	
+LmjF.17.1300	LmjF.17.1300:mRNA	L. major strain Friedlin	LmjF.17: 618,613 - 619,179 (+)	hypothetical protein, conserved	
+LmjF.17.1310	LmjF.17.1310:mRNA	L. major strain Friedlin	LmjF.17: 620,622 - 623,768 (+)	methyltransferase domain containing protein, putative	
+LmjF.17.1315	LmjF.17.1315:mRNA	L. major strain Friedlin	LmjF.17: 625,229 - 626,800 (+)	hypothetical protein	
+LmjF.17.1320	LmjF.17.1320:mRNA	L. major strain Friedlin	LmjF.17: 627,198 - 628,970 (+)	hypothetical protein, conserved	
+LmjF.17.1330	LmjF.17.1330:mRNA	L. major strain Friedlin	LmjF.17: 631,956 - 632,681 (+)	hypothetical protein, conserved	
+LmjF.17.1340	LmjF.17.1340:mRNA	L. major strain Friedlin	LmjF.17: 633,672 - 634,595 (+)	cytidylyltransferase, putative	
+LmjF.17.1350	LmjF.17.1350:mRNA	L. major strain Friedlin	LmjF.17: 635,277 - 635,936 (+)	cytochrome b5-like Heme/Steroid binding domain containing protein, putative	
+LmjF.17.1360	LmjF.17.1360:mRNA	L. major strain Friedlin	LmjF.17: 637,740 - 639,248 (+)	L-galactonolactone oxidase, putative	
+LmjF.17.1370	LmjF.17.1370:mRNA	L. major strain Friedlin	LmjF.17: 642,250 - 644,847 (+)	NUC130/3NT domain/SDA1, putative	
+LmjF.17.1375	LmjF.17.1375:mRNA	L. major strain Friedlin	LmjF.17: 645,602 - 645,988 (+)	hypothetical protein, conserved	
+LmjF.17.1380	LmjF.17.1380:mRNA	L. major strain Friedlin	LmjF.17: 647,037 - 649,145 (+)	hypothetical protein, conserved	
+LmjF.17.1390	LmjF.17.1390:mRNA	L. major strain Friedlin	LmjF.17: 650,271 - 651,137 (+)	myo-inositol-1(or 4)-monophosphatase 1, putative	
+LmjF.17.1400	LmjF.17.1400:mRNA	L. major strain Friedlin	LmjF.17: 652,372 - 653,184 (+)	otubain cysteine peptidase, Clan CA, family C65, putative	
+LmjF.17.1410	LmjF.17.1410:mRNA	L. major strain Friedlin	LmjF.17: 657,202 - 658,695 (+)	zinc-finger protein ZPR1, putative	
+LmjF.17.1420	LmjF.17.1420:mRNA	L. major strain Friedlin	LmjF.17: 662,315 - 663,088 (+)	hypothetical protein, conserved	
+LmjF.17.1430	LmjF.17.1430:mRNA	L. major strain Friedlin	LmjF.17: 665,834 - 667,336 (+)	major facilitator superfamily, putative	
+LmjF.17.1440	LmjF.17.1440:mRNA	L. major strain Friedlin	LmjF.17: 669,283 - 673,527 (+)	ion transport protein, putative	
+LmjF.17.1450	LmjF.17.1450:mRNA	L. major strain Friedlin	LmjF.17: 674,249 - 675,709 (+)	Rab-GTPase-TBC domain containing protein, putative	
+LmjF.17.1460	LmjF.17.1460:mRNA	L. major strain Friedlin	LmjF.17: 678,917 - 680,074 (+)	ferrochelatase-like protein	
+LmjF.17.1470	LmjF.17.1470:mRNA	L. major strain Friedlin	LmjF.17: 680,810 - 681,541 (+)	hypothetical protein, conserved	
+LmjF.17.TRNAALA.01	LmjF.17.TRNAALA.01:tRNA	L. major strain Friedlin	LmjF.17: 344,273 - 344,345 (+)	tRNA-Ala	
+LmjF.17.TRNAASP.01	LmjF.17.TRNAASP.01:tRNA	L. major strain Friedlin	LmjF.17: 343,982 - 344,053 (-)	tRNA-Asp	
+LmjF.17.TRNASER.01	LmjF.17.TRNASER.01:tRNA	L. major strain Friedlin	LmjF.17: 344,131 - 344,214 (+)	tRNA-Ser	
+LmjF.17.ncRNA1	LmjF.17.ncRNA1:ncRNA	L. major strain Friedlin	LmjF.17: 655,128 - 656,138 (+)	unspecified product	

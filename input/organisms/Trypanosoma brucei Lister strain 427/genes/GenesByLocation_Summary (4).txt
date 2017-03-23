@@ -1,0 +1,480 @@
+[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
+Tb427.05.1000	Tb427.05.1000-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 328,581 - 329,027 (+)	ubiquitin carrier protein, putative	
+Tb427.05.1010	Tb427.05.1010-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 330,928 - 334,875 (+)	hypothetical protein, conserved	
+Tb427.05.1020	Tb427.05.1020-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 335,721 - 337,490 (+)	disulfide isomerase, putative	
+Tb427.05.1030	Tb427.05.1030-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 338,079 - 338,600 (+)	hypothetical protein, conserved	
+Tb427.05.1040	Tb427.05.1040-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 339,058 - 339,651 (+)	hypothetical protein	
+Tb427.05.1050	Tb427.05.1050-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 340,546 - 341,358 (+)	hypothetical protein	
+Tb427.05.1060	Tb427.05.1060-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 343,676 - 345,145 (+)	metallo-peptidase, Clan ME, Family M16	
+Tb427.05.1070	Tb427.05.1070-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 346,571 - 349,321 (+)	hypothetical protein, conserved	
+Tb427.05.1080	Tb427.05.1080-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 351,296 - 352,015 (+)	RNA-binding protein, putative	
+Tb427.05.1090	Tb427.05.1090-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 352,942 - 355,341 (+)	threonyl-tRNA synthetase, putative	
+Tb427.05.110	Tb427.05.110-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 3,148 - 4,176 (-)	unspecified product	
+Tb427.05.1100	Tb427.05.1100-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 358,717 - 360,684 (+)	peroxisome targeting signal 1 receptor	
+Tb427.05.1120	Tb427.05.1120-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 365,746 - 383,934 (+)	hypothetical protein, conserved	
+Tb427.05.1130	Tb427.05.1130-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 384,576 - 385,514 (+)	hypothetical protein, conserved	
+Tb427.05.1140	Tb427.05.1140-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 388,363 - 390,339 (+)	choline/ethanolamine kinase	
+Tb427.05.1150	Tb427.05.1150-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 393,390 - 395,594 (+)	RNA helicase Prp43	
+Tb427.05.1160	Tb427.05.1160-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 396,133 - 396,819 (+)	hypothetical protein, conserved	
+Tb427.05.1170	Tb427.05.1170-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 398,739 - 399,191 (+)	hypothetical protein, conserved	
+Tb427.05.1180	Tb427.05.1180-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 399,584 - 402,172 (+)	hypothetical protein, conserved	
+Tb427.05.120	Tb427.05.120-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 12,504 - 13,380 (-)	expression site-associated gene 9 (ESAG9) protein, putative	
+Tb427.05.1200	Tb427.05.1200-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 403,737 - 404,666 (+)	Csl4p homologue	
+Tb427.05.1210	Tb427.05.1210-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 405,312 - 406,247 (+)	short-chain dehydrogenase, putative	
+Tb427.05.1230	Tb427.05.1230-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 409,078 - 410,529 (+)	hypothetical protein, conserved	
+Tb427.05.1240	Tb427.05.1240-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 411,503 - 412,561 (+)	hypothetical protein, conserved	
+Tb427.05.1250	Tb427.05.1250-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 413,136 - 414,866 (+)	hypothetical protein, conserved	
+Tb427.05.1260	Tb427.05.1260-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 415,647 - 417,368 (+)	hypothetical protein, conserved	
+Tb427.05.1270	Tb427.05.1270-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 420,027 - 420,674 (+)	hypothetical protein, conserved	
+Tb427.05.1280	Tb427.05.1280-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 421,249 - 422,022 (+)	hypothetical protein, conserved	
+Tb427.05.1290	Tb427.05.1290-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 422,595 - 424,013 (+)	hypothetical protein, conserved	
+Tb427.05.130	Tb427.05.130-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 15,098 - 16,122 (-)	variant surface glycoprotein (VSG)-related, putative	
+Tb427.05.1300	Tb427.05.1300-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 424,929 - 427,280 (+)	vacuolar proton translocating ATPase subunit A, putative	
+Tb427.05.1310	Tb427.05.1310-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 428,165 - 429,280 (+)	protoheme IX farnesyltransferase, putative	
+Tb427.05.1320	Tb427.05.1320-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 430,144 - 433,109 (+)	hypothetical protein, conserved	
+Tb427.05.1330	Tb427.05.1330-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 433,634 - 436,591 (+)	hypothetical protein, conserved	
+Tb427.05.1340	Tb427.05.1340-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 436,931 - 439,393 (+)	hypothetical protein, conserved	
+Tb427.05.1350	Tb427.05.1350-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 440,314 - 441,324 (+)	hypothetical protein, conserved	
+Tb427.05.1360	Tb427.05.1360-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 441,679 - 442,140 (+)	nucleoside 2-deoxyribosyltransferase	
+Tb427.05.1370	Tb427.05.1370-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 443,139 - 443,855 (+)	cyclophilin-type peptidyl-prolyl cis-trans isomerase, putative	
+Tb427.05.1380	Tb427.05.1380-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 444,663 - 445,238 (+)	hypothetical protein	
+Tb427.05.1390	Tb427.05.1390-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 448,914 - 450,218 (-)	64 kDa invariant surface glycoprotein	
+Tb427.05.140	Tb427.05.140-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 18,227 - 18,895 (+)	hypothetical protein, conserved	
+Tb427.05.1400	Tb427.05.1400-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 450,657 - 451,181 (-)	hypothetical protein	
+Tb427.05.1410	Tb427.05.1410-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 451,845 - 453,152 (-)	64 kDa invariant surface glycoprotein	
+Tb427.05.1420	Tb427.05.1420-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 453,598 - 454,122 (-)	hypothetical protein	
+Tb427.05.1430	Tb427.05.1430-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 454,786 - 456,091 (-)	64 kDa invariant surface glycoprotein	
+Tb427.05.1440	Tb427.05.1440-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 456,544 - 457,452 (-)	hypothetical protein	
+Tb427.05.1450	Tb427.05.1450-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 459,739 - 463,488 (-)	receptor-type adenylate cyclase GRESAG 4, putative	
+Tb427.05.1460	Tb427.05.1460-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 464,857 - 465,837 (-)	hypothetical protein, conserved	
+Tb427.05.1470	Tb427.05.1470-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 467,286 - 468,170 (-)	NADH-cytochrome b5 reductase, putative	
+Tb427.05.1480	Tb427.05.1480-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 470,181 - 470,663 (-)	hypothetical protein	
+Tb427.05.1490	Tb427.05.1490-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 471,392 - 474,748 (-)	hypothetical protein, conserved	
+Tb427.05.150	Tb427.05.150-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 26,155 - 26,970 (+)	hypothetical protein, conserved	
+Tb427.05.1500	Tb427.05.1500-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 475,665 - 477,213 (-)	hypothetical protein, conserved	
+Tb427.05.1510	Tb427.05.1510-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 478,146 - 479,123 (-)	hypothetical protein, conserved	
+Tb427.05.1520	Tb427.05.1520-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 480,619 - 482,046 (-)	heat shock protein HslVU, ATPase subunit HslU, putative	
+Tb427.05.1530	Tb427.05.1530-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 482,594 - 484,210 (-)	hypothetical protein, conserved	
+Tb427.05.1540	Tb427.05.1540-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 484,499 - 486,706 (-)	hypothetical protein, conserved	
+Tb427.05.1550	Tb427.05.1550-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 488,024 - 488,956 (-)	mitochondrial carrier protein, putative	
+Tb427.05.1560	Tb427.05.1560-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 489,464 - 491,725 (-)	ATP-dependent DEAD/H RNA helicase, putative	
+Tb427.05.1570	Tb427.05.1570-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 494,813 - 495,316 (-)	hypothetical protein, conserved	
+Tb427.05.1580	Tb427.05.1580-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 497,000 - 498,700 (-)	hypothetical protein, conserved	
+Tb427.05.1590	Tb427.05.1590-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 505,584 - 506,348 (+)	hypothetical protein, conserved	
+Tb427.05.160	Tb427.05.160-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 30,148 - 30,805 (+)	retrotransposon hot spot protein (RHS), degenerate	
+Tb427.05.1600	Tb427.05.1600-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 508,285 - 510,141 (+)	hypothetical protein, conserved	
+Tb427.05.1610	Tb427.05.1610-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 511,466 - 512,134 (+)	60S ribosomal protein L13a, putative	
+Tb427.05.1620	Tb427.05.1620-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 512,620 - 513,423 (+)	hypothetical protein, conserved	
+Tb427.05.1630	Tb427.05.1630-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 514,032 - 514,511 (+)	hypothetical protein, conserved	
+Tb427.05.1640	Tb427.05.1640-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 515,075 - 517,066 (+)	hypothetical protein, conserved	
+Tb427.05.1650	Tb427.05.1650-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 518,165 - 520,216 (+)	protein kinase, putative	
+Tb427.05.1660	Tb427.05.1660-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 524,682 - 525,959 (+)	protein phosphatase 2C, putative	
+Tb427.05.1670	Tb427.05.1670-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 527,489 - 528,535 (+)	hypothetical protein, conserved	
+Tb427.05.1680	Tb427.05.1680-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 529,334 - 534,589 (+)	hypothetical protein, conserved	
+Tb427.05.1690	Tb427.05.1690-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 535,461 - 536,849 (+)	hypothetical protein, conserved	
+Tb427.05.170	Tb427.05.170-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 31,935 - 32,330 (-)	hypothetical protein, conserved	
+Tb427.05.1700	Tb427.05.1700-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 538,221 - 538,988 (+)	replication Factor A 28 kDa subunit, putative	
+Tb427.05.1710	Tb427.05.1710-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 541,265 - 541,831 (+)	ribonucleoprotein p18, mitochondrial precursor, putative	
+Tb427.05.1720	Tb427.05.1720-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 543,409 - 545,298 (+)	hypothetical protein, conserved	
+Tb427.05.1730	Tb427.05.1730-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 545,896 - 546,393 (+)	ecotin family (I11), putative	
+Tb427.05.1740	Tb427.05.1740-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 546,709 - 547,164 (+)	hypothetical protein	
+Tb427.05.1750	Tb427.05.1750-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 547,730 - 549,226 (+)	RNA-binding protein, putative	
+Tb427.05.1760	Tb427.05.1760-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 549,846 - 551,831 (+)	hypothetical protein, conserved	
+Tb427.05.1770	Tb427.05.1770-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 553,290 - 555,392 (+)	hypothetical protein, conserved	
+Tb427.05.1780	Tb427.05.1780-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 555,750 - 557,153 (+)	hypothetical protein, conserved	
+Tb427.05.1790	Tb427.05.1790-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 558,348 - 560,243 (+)	hypothetical protein, conserved	
+Tb427.05.180	Tb427.05.180-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 36,460 - 38,073 (+)	variant surface glycoprotein, degenerate	
+Tb427.05.1800	Tb427.05.1800-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 560,687 - 561,058 (+)	hypothetical protein, conserved	
+Tb427.05.1810	Tb427.05.1810-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 561,417 - 563,396 (+)	lysosomal/endosomal membrane protein p67	
+Tb427.05.1820	Tb427.05.1820-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 564,355 - 564,678 (+)	60S acidic ribosomal protein, putative	
+Tb427.05.1830	Tb427.05.1830-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 565,489 - 567,474 (+)	lysosomal/endosomal membrane protein p67	
+Tb427.05.1840	Tb427.05.1840-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 568,433 - 568,894 (+)	hypothetical protein, conserved	
+Tb427.05.1850	Tb427.05.1850-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 570,311 - 578,188 (+)	hypothetical protein, conserved	
+Tb427.05.1860	Tb427.05.1860-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 578,926 - 580,455 (+)	hypothetical protein, conserved	
+Tb427.05.1870	Tb427.05.1870-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 580,764 - 583,427 (+)	hypothetical protein, conserved	
+Tb427.05.1880	Tb427.05.1880-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 583,902 - 584,366 (+)	ecotin family (I11), putative	
+Tb427.05.1890	Tb427.05.1890-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 585,239 - 588,241 (+)	hypothetical protein, conserved	
+Tb427.05.190	Tb427.05.190-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 41,148 - 41,261 (+)	variant surface glycoprotein, degenerate	
+Tb427.05.1900	Tb427.05.1900-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 589,423 - 591,471 (+)	hypothetical protein, conserved	
+Tb427.05.1910	Tb427.05.1910-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 592,349 - 595,852 (+)	hypothetical protein, conserved	
+Tb427.05.1920	Tb427.05.1920-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 596,403 - 598,301 (+)	hypothetical protein, conserved	
+Tb427.05.1930	Tb427.05.1930-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 598,748 - 599,395 (+)	hypothetical protein, conserved	
+Tb427.05.1940	Tb427.05.1940-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 600,267 - 600,842 (+)	hypothetical protein, conserved	
+Tb427.05.1950	Tb427.05.1950-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 602,308 - 604,143 (+)	hypothetical protein, conserved	
+Tb427.05.1960	Tb427.05.1960-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 606,295 - 607,440 (+)	hypothetical protein, conserved	
+Tb427.05.1970	Tb427.05.1970-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 608,242 - 609,069 (+)	hypothetical protein	
+Tb427.05.1980	Tb427.05.1980-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 612,038 - 613,753 (+)	hypothetical protein, conserved	
+Tb427.05.1990	Tb427.05.1990-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 616,189 - 617,595 (+)	hypothetical protein, conserved	
+Tb427.05.2020	Tb427.05.2020-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 641,912 - 644,521 (-)	hypothetical protein, conserved	
+Tb427.05.2030	Tb427.05.2030-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 645,881 - 647,095 (-)	hypothetical protein, conserved	
+Tb427.05.2040	Tb427.05.2040-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 648,229 - 649,209 (-)	hypothetical protein, conserved	
+Tb427.05.2050	Tb427.05.2050-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 649,600 - 650,706 (-)	hypothetical protein, conserved	
+Tb427.05.2060	Tb427.05.2060-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 651,070 - 653,253 (-)	cell division control protein, putative	
+Tb427.05.2070	Tb427.05.2070-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 653,707 - 655,611 (-)	hypothetical protein, conserved	
+Tb427.05.2080	Tb427.05.2080-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 656,766 - 658,241 (-)	guanosine monophosphate reductase, putative	
+Tb427.05.2090	Tb427.05.2090-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 660,038 - 663,304 (-)	kinesin, putative	
+Tb427.05.2100	Tb427.05.2100-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 663,857 - 665,254 (-)	hypothetical protein, conserved	
+Tb427.05.2110	Tb427.05.2110-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 665,630 - 666,178 (-)	hypothetical protein, conserved	
+Tb427.05.2120	Tb427.05.2120-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 669,284 - 670,339 (-)	hypothetical protein, conserved	
+Tb427.05.2130	Tb427.05.2130-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 672,274 - 673,839 (-)	hypothetical protein, conserved	
+Tb427.05.2140	Tb427.05.2140-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 675,413 - 677,941 (-)	nonsense mRNA reducing factor 1, putative	
+Tb427.05.2150	Tb427.05.2150-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 678,939 - 680,528 (-)	hypothetical protein, conserved	
+Tb427.05.2160	Tb427.05.2160-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 691,249 - 691,653 (+)	hypothetical protein, conserved	
+Tb427.05.2170	Tb427.05.2170-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 692,722 - 693,126 (+)	hypothetical protein, conserved	
+Tb427.05.2190	Tb427.05.2190-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 695,233 - 696,573 (+)	hypothetical protein, conserved	
+Tb427.05.2200	Tb427.05.2200-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 696,905 - 697,309 (+)	hypothetical protein, conserved	
+Tb427.05.2210	Tb427.05.2210-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 697,737 - 699,167 (+)	hypothetical protein, conserved	
+Tb427.05.2220	Tb427.05.2220-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 699,416 - 700,756 (+)	hypothetical protein, conserved	
+Tb427.05.2230	Tb427.05.2230-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 701,088 - 701,492 (+)	hypothetical protein, conserved	
+Tb427.05.2240	Tb427.05.2240-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 701,920 - 703,350 (+)	hypothetical protein, conserved	
+Tb427.05.2250	Tb427.05.2250-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 703,599 - 704,939 (+)	hypothetical protein, conserved	
+Tb427.05.2260	Tb427.05.2260-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 705,271 - 705,675 (+)	hypothetical protein, conserved	
+Tb427.05.2270	Tb427.05.2270-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 706,202 - 707,638 (+)	hypothetical protein, conserved	
+Tb427.05.2280	Tb427.05.2280-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 708,010 - 709,314 (+)	acetyltransferase, putative	
+Tb427.05.2290	Tb427.05.2290-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 709,799 - 716,512 (+)	ATP-dependent RNA helicase, putative	
+Tb427.05.2300	Tb427.05.2300-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 717,572 - 720,403 (+)	formin, putative	
+Tb427.05.2310	Tb427.05.2310-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 721,796 - 723,931 (+)	hypothetical protein, conserved	
+Tb427.05.2320	Tb427.05.2320-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 725,322 - 727,532 (+)	hypothetical protein, conserved	
+Tb427.05.2330	Tb427.05.2330-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 730,304 - 743,560 (+)	hypothetical protein, conserved	
+Tb427.05.2340	Tb427.05.2340-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 744,126 - 745,763 (+)	hypothetical protein, conserved	
+Tb427.05.2350	Tb427.05.2350-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 746,675 - 748,177 (+)	hypothetical protein, conserved	
+Tb427.05.2360	Tb427.05.2360-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 749,629 - 751,734 (+)	hypothetical protein, conserved	
+Tb427.05.2370	Tb427.05.2370-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 755,370 - 756,575 (+)	hydrolase, alpha/beta fold family, putative	
+Tb427.05.2380	Tb427.05.2380-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 757,178 - 758,116 (+)	hydrolase, alpha/beta fold family, putative	
+Tb427.05.2390	Tb427.05.2390-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 758,658 - 759,686 (+)	hypothetical protein, conserved	
+Tb427.05.2400	Tb427.05.2400-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 762,232 - 765,192 (+)	cysteine peptidase, Clan CA, family C19, putative	
+Tb427.05.2410	Tb427.05.2410-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 768,399 - 772,418 (+)	kinesin, putative	
+Tb427.05.2420	Tb427.05.2420-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 773,871 - 776,678 (+)	hypothetical protein, conserved	
+Tb427.05.2430	Tb427.05.2430-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 777,499 - 779,070 (+)	membrane transporter protein, putative	
+Tb427.05.2440	Tb427.05.2440-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 780,438 - 783,971 (+)	hypothetical protein, conserved	
+Tb427.05.2450	Tb427.05.2450-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 786,376 - 789,486 (+)	5'-3' exonuclease, frameshift	
+Tb427.05.2460	Tb427.05.2460-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 790,207 - 791,685 (+)	hypothetical protein, conserved	
+Tb427.05.2470	Tb427.05.2470-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 792,146 - 793,549 (+)	hypothetical protein, conserved	
+Tb427.05.2480	Tb427.05.2480-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 795,306 - 796,340 (+)	unspecified product	
+Tb427.05.2490	Tb427.05.2490-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 800,635 - 802,542 (+)	hypothetical protein, conserved, frameshift	
+Tb427.05.2500	Tb427.05.2500-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 804,028 - 806,115 (+)	hypothetical protein, conserved	
+Tb427.05.2510	Tb427.05.2510-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 808,778 - 812,977 (+)	hypothetical protein, conserved	
+Tb427.05.2520	Tb427.05.2520-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 813,814 - 816,558 (+)	hypothetical protein, conserved	
+Tb427.05.2530	Tb427.05.2530-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 817,940 - 821,062 (+)	hypothetical protein, conserved	
+Tb427.05.2540	Tb427.05.2540-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 821,694 - 822,926 (+)	hypothetical protein, conserved	
+Tb427.05.2550	Tb427.05.2550-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 823,488 - 824,456 (+)	hypothetical protein, conserved	
+Tb427.05.2560	Tb427.05.2560-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 825,013 - 825,234 (+)	hypothetical protein, conserved	
+Tb427.05.2570	Tb427.05.2570-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 826,032 - 828,122 (+)	translation initiation factor, putative	
+Tb427.05.2580	Tb427.05.2580-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 828,815 - 829,978 (+)	hypothetical protein, conserved	
+Tb427.05.2590	Tb427.05.2590-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 831,278 - 832,075 (+)	hypothetical protein, conserved	
+Tb427.05.260	Tb427.05.260-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 57,748 - 58,815 (+)	expression site-associated gene 3 (ESAG3), degenerate	
+Tb427.05.2600	Tb427.05.2600-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 832,402 - 835,194 (+)	hypothetical protein, conserved	
+Tb427.05.2610	Tb427.05.2610-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 835,816 - 836,733 (+)	hypothetical protein, conserved	
+Tb427.05.2620	Tb427.05.2620-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 838,111 - 839,469 (+)	hypothetical protein, conserved	
+Tb427.05.2630	Tb427.05.2630-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 844,498 - 845,217 (+)	hypothetical protein, conserved	
+Tb427.05.2640	Tb427.05.2640-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 845,488 - 846,553 (+)	hypothetical protein, conserved	
+Tb427.05.2650	Tb427.05.2650-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 847,050 - 848,612 (+)	D-arabinonolactone oxidase	
+Tb427.05.2660	Tb427.05.2660-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 849,156 - 851,738 (+)	hypothetical protein, conserved	
+Tb427.05.2670	Tb427.05.2670-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 852,259 - 852,642 (+)	hypothetical protein, conserved	
+Tb427.05.2680	Tb427.05.2680-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 853,011 - 855,266 (+)	hypothetical protein, conserved	
+Tb427.05.2690	Tb427.05.2690-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 855,876 - 856,727 (+)	inositol-1(or 4)-monophosphatase 1, putative	
+Tb427.05.270	Tb427.05.270-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 58,984 - 60,168 (+)	variant surface glycoprotein, interrupted	
+Tb427.05.2700	Tb427.05.2700-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 857,132 - 857,938 (+)	otubain cysteine peptidase, Clan CA, family C65, putative	
+Tb427.05.2710	Tb427.05.2710-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 858,660 - 861,434 (+)	hypothetical protein, conserved	
+Tb427.05.2720	Tb427.05.2720-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 861,943 - 863,358 (+)	zinc-finger protein ZPR1, putative	
+Tb427.05.2730	Tb427.05.2730-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 864,331 - 865,134 (+)	hypothetical protein, conserved	
+Tb427.05.2740	Tb427.05.2740-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 865,847 - 867,473 (+)	hypothetical protein, conserved	
+Tb427.05.2750	Tb427.05.2750-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 868,479 - 869,759 (+)	hypothetical protein, conserved	
+Tb427.05.2760	Tb427.05.2760-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 871,125 - 872,279 (+)	UDP-Gal or UDP-GlcNAc-dependent glycosyltransferase, putative	
+Tb427.05.2765	Tb427.05.2765-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 874,784 - 874,855 (+)	tRNA Glutamic acid	
+Tb427.05.2770	Tb427.05.2770-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 877,147 - 878,370 (-)	hypothetical protein, conserved	
+Tb427.05.2780	Tb427.05.2780-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 879,976 - 881,199 (-)	mitochondrial DNA polymerase beta	
+Tb427.05.2790	Tb427.05.2790-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 882,873 - 885,314 (-)	mitochondrial DNA polymerase beta-PAK	
+Tb427.05.280	Tb427.05.280-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 65,128 - 66,358 (-)	retrotransposon hot spot protein 3 (RHS3), interrupted, degenerate	
+Tb427.05.2800	Tb427.05.2800-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 886,042 - 889,185 (-)	hypothetical protein, conserved	
+Tb427.05.2810	Tb427.05.2810-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 889,810 - 890,343 (-)	hypothetical protein, conserved	
+Tb427.05.2820	Tb427.05.2820-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 891,855 - 894,947 (-)	protein kinase, putative	
+Tb427.05.2830	Tb427.05.2830-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 895,389 - 895,943 (-)	hypothetical protein, conserved	
+Tb427.05.2840	Tb427.05.2840-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 896,261 - 896,677 (-)	hypothetical protein, conserved	
+Tb427.05.2850	Tb427.05.2850-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 897,578 - 899,134 (-)	radial spoke protein RSP2, putative	
+Tb427.05.2860	Tb427.05.2860-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 900,092 - 901,390 (-)	hypothetical protein, conserved	
+Tb427.05.2870	Tb427.05.2870-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 903,338 - 904,780 (-)	hypothetical protein	
+Tb427.05.2880	Tb427.05.2880-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 905,633 - 906,199 (-)	chaperone protein DNAj, putative	
+Tb427.05.2890	Tb427.05.2890-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 907,020 - 913,511 (-)	hypothetical protein, conserved	
+Tb427.05.290	Tb427.05.290-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 68,876 - 70,126 (+)	galactokinase, degenerate	
+Tb427.05.2900	Tb427.05.2900-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 914,442 - 916,202 (-)	histone deacetylase 4	
+Tb427.05.2910	Tb427.05.2910-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 923,881 - 924,420 (+)	hypothetical protein, conserved	
+Tb427.05.2920	Tb427.05.2920-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 924,655 - 926,034 (+)	hypothetical protein, conserved	
+Tb427.05.2930	Tb427.05.2930-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 926,252 - 927,364 (+)	hypothetical protein, conserved	
+Tb427.05.2940	Tb427.05.2940-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 927,685 - 929,337 (+)	stress-induced protein sti1, putative	
+Tb427.05.2950	Tb427.05.2950-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 929,868 - 932,207 (+)	hypothetical protein, conserved	
+Tb427.05.2960	Tb427.05.2960-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 932,914 - 934,074 (+)	phosphoribosylpyrophosphate synthetase, putative	
+Tb427.05.2970	Tb427.05.2970-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 934,797 - 937,289 (+)	suppressive immunomodulating factor	
+Tb427.05.2980	Tb427.05.2980-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 937,550 - 940,795 (+)	hypothetical protein, conserved	
+Tb427.05.2990	Tb427.05.2990-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 941,764 - 942,528 (+)	hypothetical protein, conserved	
+Tb427.05.300	Tb427.05.300-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 72,874 - 73,836 (-)	thymine-7-hydroxylase, putative	
+Tb427.05.3000	Tb427.05.3000-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 943,280 - 944,326 (+)	hypothetical protein, conserved	
+Tb427.05.3010	Tb427.05.3010-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 944,597 - 946,147 (+)	hypothetical protein, conserved	
+Tb427.05.3020	Tb427.05.3020-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 947,016 - 948,278 (+)	hypothetical protein, conserved	
+Tb427.05.3030	Tb427.05.3030-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 948,779 - 952,561 (+)	intraflagellar transport protein IFT122, putative	
+Tb427.05.3040	Tb427.05.3040-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 954,016 - 954,612 (+)	hypothetical protein, conserved	
+Tb427.05.3050	Tb427.05.3050-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 955,528 - 957,249 (+)	poly(ADP-ribose) polymerase, putative	
+Tb427.05.3060	Tb427.05.3060-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 958,077 - 959,081 (+)	hypothetical protein, conserved	
+Tb427.05.3070	Tb427.05.3070-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 959,628 - 961,244 (+)	hypothetical protein, conserved	
+Tb427.05.3080	Tb427.05.3080-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 961,952 - 962,956 (+)	hypothetical protein, conserved	
+Tb427.05.3090	Tb427.05.3090-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 963,429 - 963,734 (+)	hypothetical protein, conserved	
+Tb427.05.310	Tb427.05.310-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 76,411 - 77,634 (-)	hypothetical protein	
+Tb427.05.3100	Tb427.05.3100-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 967,891 - 968,655 (-)	hypothetical protein	
+Tb427.05.3110	Tb427.05.3110-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 969,263 - 969,919 (-)	hypothetical protein, conserved	
+Tb427.05.3120	Tb427.05.3120-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 970,899 - 971,840 (-)	translation initiation factor, putative	
+Tb427.05.3130	Tb427.05.3130-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 974,974 - 976,074 (-)	hypothetical protein	
+Tb427.05.3140	Tb427.05.3140-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 977,019 - 977,669 (-)	hypothetical protein, conserved	
+Tb427.05.3150	Tb427.05.3150-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 979,042 - 983,970 (-)	protein kinase , putative	
+Tb427.05.3160	Tb427.05.3160-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 985,339 - 989,613 (-)	protein kinase, putative	
+Tb427.05.3170	Tb427.05.3170-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 991,518 - 992,591 (-)	ribose-phosphate pyrophosphokinase, putative	
+Tb427.05.3180	Tb427.05.3180-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 994,517 - 995,101 (-)	hypothetical protein, conserved	
+Tb427.05.3190	Tb427.05.3190-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 995,391 - 996,017 (-)	hypothetical protein, conserved	
+Tb427.05.320	Tb427.05.320-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 80,142 - 83,852 (-)	adenylyl cyclase, putative	
+Tb427.05.3200	Tb427.05.3200-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 996,539 - 997,318 (-)	hypothetical protein, conserved	
+Tb427.05.3210	Tb427.05.3210-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 999,024 - 999,368 (-)	small ubiquitin-related modifier, putative	
+Tb427.05.3220	Tb427.05.3220-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,000,422 - 1,001,048 (-)	signal peptidase type I, putative	
+Tb427.05.3230	Tb427.05.3230-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,001,781 - 1,008,326 (-)	hypothetical protein, conserved	
+Tb427.05.3240	Tb427.05.3240-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,009,126 - 1,011,519 (-)	hypothetical protein, conserved	
+Tb427.05.3250	Tb427.05.3250-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,013,089 - 1,017,762 (-)	hypothetical protein, conserved	
+Tb427.05.3260	Tb427.05.3260-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,019,071 - 1,023,270 (-)	hypothetical protein, conserved	
+Tb427.05.3270	Tb427.05.3270-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,024,139 - 1,026,640 (-)	hypothetical protein, conserved	
+Tb427.05.3280	Tb427.05.3280-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,027,430 - 1,030,996 (-)	hypothetical protein, conserved	
+Tb427.05.3290	Tb427.05.3290-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,033,903 - 1,037,472 (-)	hypothetical protein, conserved	
+Tb427.05.330	Tb427.05.330-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 85,551 - 89,174 (-)	adenylyl cyclase, putative	
+Tb427.05.3300	Tb427.05.3300-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,038,842 - 1,039,333 (-)	hypothetical protein, conserved	
+Tb427.05.3310	Tb427.05.3310-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,040,486 - 1,041,559 (-)	hypothetical protein, conserved	
+Tb427.05.3320	Tb427.05.3320-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,042,787 - 1,046,548 (-)	protein kinase, putative	
+Tb427.05.3330	Tb427.05.3330-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,047,907 - 1,061,985 (-)	hypothetical protein, conserved	
+Tb427.05.3340	Tb427.05.3340-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,062,853 - 1,063,140 (-)	hypothetical protein, conserved	
+Tb427.05.3350	Tb427.05.3350-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,064,297 - 1,065,013 (-)	iron superoxide dismutase, putative	
+Tb427.05.3360	Tb427.05.3360-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,065,952 - 1,067,187 (-)	50S ribosomal protein L2, putative	
+Tb427.05.3370	Tb427.05.3370-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,067,825 - 1,069,525 (-)	hypothetical protein	
+Tb427.05.3380	Tb427.05.3380-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,070,458 - 1,072,041 (-)	ADG2, pseudogene	
+Tb427.05.3390	Tb427.05.3390-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,072,689 - 1,073,045 (-)	ADG1, pseudogene	
+Tb427.05.340	Tb427.05.340-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 97,949 - 99,412 (+)	expression site-associated gene 5 (ESAG5) protein, putative	
+Tb427.05.3400	Tb427.05.3400-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,074,804 - 1,077,839 (-)	calcium pump	
+Tb427.05.3410	Tb427.05.3410-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,078,308 - 1,079,099 (-)	hypothetical protein, conserved	
+Tb427.05.3420	Tb427.05.3420-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,079,935 - 1,081,521 (-)	hypothetical protein, conserved	
+Tb427.05.3430	Tb427.05.3430-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,082,360 - 1,084,750 (-)	ubiquitin-activating enzyme e1, putative	
+Tb427.05.3440	Tb427.05.3440-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,085,550 - 1,086,695 (-)	hypothetical protein, conserved	
+Tb427.05.3450	Tb427.05.3450-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,087,123 - 1,088,706 (-)	hypothetical protein, conserved	
+Tb427.05.3460	Tb427.05.3460-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,089,302 - 1,090,915 (-)	hypothetical protein, conserved	
+Tb427.05.3470	Tb427.05.3470-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,091,361 - 1,092,629 (-)	hypothetical protein, conserved	
+Tb427.05.3480	Tb427.05.3480-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,093,260 - 1,094,930 (-)	hypothetical protein, conserved	
+Tb427.05.3490	Tb427.05.3490-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,095,225 - 1,096,139 (-)	hypothetical protein, conserved	
+Tb427.05.350	Tb427.05.350-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 104,773 - 106,341 (-)	75 kDa invariant surface glycoprotein, putative	
+Tb427.05.3500	Tb427.05.3500-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,097,412 - 1,099,172 (-)	hypothetical protein, conserved	
+Tb427.05.3510	Tb427.05.3510-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,103,029 - 1,106,628 (+)	structural maintenance of chromosome 3 , putative	
+Tb427.05.3520	Tb427.05.3520-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,108,723 - 1,109,730 (+)	queuine tRNA-ribosyltransferase, putative	
+Tb427.05.3530	Tb427.05.3530-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,109,900 - 1,110,694 (+)	hypothetical protein, conserved	
+Tb427.05.3540	Tb427.05.3540-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,112,618 - 1,115,641 (+)	hypothetical protein, conserved	
+Tb427.05.3550	Tb427.05.3550-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,116,163 - 1,117,437 (+)	hypothetical protein, conserved	
+Tb427.05.3560	Tb427.05.3560-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,117,754 - 1,118,404 (+)	synaptobrevin, putative	
+Tb427.05.3570	Tb427.05.3570-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,120,141 - 1,120,962 (+)	hypothetical protein, conserved	
+Tb427.05.3580	Tb427.05.3580-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,122,214 - 1,122,771 (+)	phosphoglycerate mutase protein, putative	
+Tb427.05.3590	Tb427.05.3590-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,123,334 - 1,125,160 (+)	hypothetical protein, conserved	
+Tb427.05.360	Tb427.05.360-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 106,932 - 108,503 (-)	75 kDa invariant surface glycoprotein	
+Tb427.05.3600	Tb427.05.3600-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,125,784 - 1,128,630 (+)	ATP-dependent DEAD/H RNA helicase, putative	
+Tb427.05.3610	Tb427.05.3610-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,129,257 - 1,132,640 (+)	adaptor complex protein (AP) 3 delta subunit 1, putative	
+Tb427.05.3620	Tb427.05.3620-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,133,991 - 1,135,328 (+)	kinetoplastid-specific dual specificity phosphatase, putative	
+Tb427.05.3630	Tb427.05.3630-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,142,047 - 1,143,282 (+)	hypothetical protein, conserved	
+Tb427.05.3640	Tb427.05.3640-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,144,458 - 1,145,270 (+)	hypothetical protein, conserved	
+Tb427.05.3650	Tb427.05.3650-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,145,830 - 1,148,244 (+)	hypothetical protein, conserved	
+Tb427.05.3660	Tb427.05.3660-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,148,866 - 1,150,356 (+)	hypothetical protein, conserved	
+Tb427.05.3670	Tb427.05.3670-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,151,351 - 1,155,079 (+)	DNA repair protein, putative	
+Tb427.05.3680	Tb427.05.3680-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,155,625 - 1,156,686 (+)	hypothetical protein, conserved	
+Tb427.05.3690	Tb427.05.3690-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,157,281 - 1,157,958 (+)	hypothetical protein, conserved	
+Tb427.05.370	Tb427.05.370-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 109,100 - 110,671 (-)	75 kDa invariant surface glycoprotein, putative	
+Tb427.05.3700	Tb427.05.3700-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,158,977 - 1,159,855 (+)	hypothetical protein, conserved	
+Tb427.05.3710	Tb427.05.3710-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,161,088 - 1,162,830 (+)	essential neutral sphingomyelinase	
+Tb427.05.3720	Tb427.05.3720-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,163,454 - 1,164,092 (+)	hypothetical protein, conserved	
+Tb427.05.3730	Tb427.05.3730-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,165,046 - 1,166,779 (+)	hypothetical protein, conserved	
+Tb427.05.3740	Tb427.05.3740-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,167,034 - 1,167,513 (+)	hypothetical protein, conserved	
+Tb427.05.3750	Tb427.05.3750-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,168,866 - 1,170,428 (+)	RNA-binding protein, putative	
+Tb427.05.3760	Tb427.05.3760-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,170,874 - 1,172,169 (+)	meiotic recombination protein spo11, putative	
+Tb427.05.3770	Tb427.05.3770-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,173,912 - 1,175,057 (+)	hypothetical protein, conserved	
+Tb427.05.3780	Tb427.05.3780-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,176,199 - 1,177,419 (+)	hypothetical protein, conserved	
+Tb427.05.3790	Tb427.05.3790-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,179,266 - 1,180,057 (+)	hypothetical protein, conserved	
+Tb427.05.380	Tb427.05.380-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 111,042 - 112,859 (-)	75 kDa invariant surface glycoprotein, putative	
+Tb427.05.3800	Tb427.05.3800-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,182,409 - 1,187,910 (+)	glutamine hydrolysing (not ammonia-dependent) carbomoyl phosphate synthase, putative	
+Tb427.05.3810	Tb427.05.3810-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,189,809 - 1,191,185 (+)	OMPDCase-OPRTase, putative	
+Tb427.05.3820	Tb427.05.3820-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,192,297 - 1,193,280 (+)	aspartate carbamoyltransferase, putative	
+Tb427.05.3830	Tb427.05.3830-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,194,091 - 1,195,032 (+)	dihydroorotate oxidase	
+Tb427.05.3840	Tb427.05.3840-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,196,037 - 1,197,764 (+)	hypothetical protein, conserved	
+Tb427.05.3850	Tb427.05.3850-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,198,347 - 1,201,022 (+)	hypothetical protein, conserved	
+Tb427.05.3860	Tb427.05.3860-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,201,789 - 1,203,363 (+)	tubulin tyrosine ligase, putative	
+Tb427.05.3870	Tb427.05.3870-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,205,319 - 1,207,514 (+)	hypothetical protein, conserved	
+Tb427.05.3880	Tb427.05.3880-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,208,014 - 1,210,236 (+)	hypothetical protein, conserved	
+Tb427.05.3890	Tb427.05.3890-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,210,812 - 1,211,726 (+)	hypothetical protein, conserved	
+Tb427.05.390	Tb427.05.390-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 121,720 - 123,375 (+)	75 kDa invariant surface glycoprotein, putative	
+Tb427.05.3900	Tb427.05.3900-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,213,101 - 1,215,335 (+)	hypothetical protein, conserved	
+Tb427.05.3910	Tb427.05.3910-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,215,739 - 1,216,857 (+)	small nuclear RNA-activating protein	
+Tb427.05.3920	Tb427.05.3920-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,217,392 - 1,220,340 (+)	peroxisome assembly protein, putative	
+Tb427.05.3930	Tb427.05.3930-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,220,773 - 1,222,140 (+)	hypothetical protein, conserved	
+Tb427.05.3940	Tb427.05.3940-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,222,963 - 1,224,978 (+)	helicase, putative	
+Tb427.05.3950	Tb427.05.3950-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,225,291 - 1,226,247 (+)	hypothetical protein, conserved	
+Tb427.05.3960	Tb427.05.3960-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,226,708 - 1,227,814 (+)	arginine N-methyltransferase, type I	
+Tb427.05.3970	Tb427.05.3970-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,228,183 - 1,228,965 (+)	adenylate kinase, putative	
+Tb427.05.3980	Tb427.05.3980-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,229,508 - 1,230,632 (+)	hypothetical protein, conserved	
+Tb427.05.3990	Tb427.05.3990-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,236,987 - 1,238,420 (+)	variant surface glycoprotein (VSG, atypical), putative	
+Tb427.05.400	Tb427.05.400-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 123,879 - 125,447 (+)	75 kDa invariant surface glycoprotein, putative	
+Tb427.05.4000	Tb427.05.4000-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,239,025 - 1,239,519 (+)	hypothetical protein	
+Tb427.05.4010	Tb427.05.4010-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,239,823 - 1,240,737 (-)	hypothetical protein	
+Tb427.05.4020	Tb427.05.4020-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,242,706 - 1,243,524 (-)	hypothetical protein	
+Tb427.05.4030	Tb427.05.4030-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,243,842 - 1,244,120 (-)	U6 snRNA-associated Sm-like protein LSm7p	
+Tb427.05.4040	Tb427.05.4040-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,244,638 - 1,247,091 (-)	hypothetical protein, conserved	
+Tb427.05.4050	Tb427.05.4050-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,247,365 - 1,247,676 (-)	hypothetical protein, conserved	
+Tb427.05.4060	Tb427.05.4060-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,248,280 - 1,250,433 (-)	hypothetical protein, conserved	
+Tb427.05.4070	Tb427.05.4070-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,250,788 - 1,252,614 (-)	hypothetical protein, conserved	
+Tb427.05.4080	Tb427.05.4080-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,252,914 - 1,254,515 (-)	hypothetical protein, conserved	
+Tb427.05.4090	Tb427.05.4090-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,255,092 - 1,255,817 (-)	hypothetical protein, conserved	
+Tb427.05.410	Tb427.05.410-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 129,575 - 130,756 (-)	hypothetical protein	
+Tb427.05.4100	Tb427.05.4100-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,256,495 - 1,258,039 (-)	hypothetical protein, conserved	
+Tb427.05.4110	Tb427.05.4110-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,258,699 - 1,261,284 (-)	hypothetical protein, conserved	
+Tb427.05.4120	Tb427.05.4120-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,261,724 - 1,262,299 (-)	hypothetical protein, conserved	
+Tb427.05.4130	Tb427.05.4130-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,262,717 - 1,265,911 (-)	hypothetical protein, conserved	
+Tb427.05.4140	Tb427.05.4140-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,266,611 - 1,267,708 (-)	hypothetical protein, conserved	
+Tb427.05.4150	Tb427.05.4150-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,268,802 - 1,269,962 (-)	hypothetical protein, conserved	
+Tb427.05.4160	Tb427.05.4160-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,270,257 - 1,271,405 (-)	hypothetical protein, conserved	
+Tb427.05.4170	Tb427.05.4170-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,271,641 - 1,271,943 (-)	histone H4, putative	
+Tb427.05.4180	Tb427.05.4180-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,272,377 - 1,272,679 (-)	histone H4, putative	
+Tb427.05.4190	Tb427.05.4190-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,273,113 - 1,273,415 (-)	histone H4, putative	
+Tb427.05.420	Tb427.05.420-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 131,324 - 132,445 (-)	hypothetical protein	
+Tb427.05.4200	Tb427.05.4200-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,273,849 - 1,274,151 (-)	histone H4, putative	
+Tb427.05.4210	Tb427.05.4210-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,274,585 - 1,274,887 (-)	histone H4, putative	
+Tb427.05.4220	Tb427.05.4220-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,275,321 - 1,275,623 (-)	histone H4, putative	
+Tb427.05.4230	Tb427.05.4230-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,276,057 - 1,276,359 (-)	histone H4, putative	
+Tb427.05.4240	Tb427.05.4240-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,276,793 - 1,277,095 (-)	histone H4, putative	
+Tb427.05.4250	Tb427.05.4250-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,277,529 - 1,277,831 (-)	histone H4, putative	
+Tb427.05.4260	Tb427.05.4260-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,278,265 - 1,278,567 (-)	histone H4, putative	
+Tb427.05.4270	Tb427.05.4270-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,278,682 - 1,281,231 (-)	ATP-dependent DEAD/H RNA helicase, putative	
+Tb427.05.4280	Tb427.05.4280-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,281,828 - 1,283,054 (-)	hypothetical protein, conserved	
+Tb427.05.4290	Tb427.05.4290-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,283,435 - 1,284,520 (-)	hypothetical protein, conserved	
+Tb427.05.430	Tb427.05.430-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 133,464 - 134,597 (-)	hypothetical protein	
+Tb427.05.4300	Tb427.05.4300-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,284,931 - 1,288,017 (-)	prolyl oligopeptidase, putative	
+Tb427.05.4310	Tb427.05.4310-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,288,343 - 1,290,787 (-)	GTP-binding protein, putative	
+Tb427.05.4320	Tb427.05.4320-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,291,493 - 1,292,338 (-)	zinc finger protein family member, putative	
+Tb427.05.4330	Tb427.05.4330-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,292,972 - 1,294,291 (-)	dihydrolipoamide branched chain transacylase, putative	
+Tb427.05.4340	Tb427.05.4340-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,294,924 - 1,296,774 (-)	hypothetical protein, conserved	
+Tb427.05.4350	Tb427.05.4350-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,298,007 - 1,298,519 (-)	NUDIX hydrolase, putative	
+Tb427.05.4360	Tb427.05.4360-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,298,923 - 1,299,894 (-)	hypothetical protein, conserved	
+Tb427.05.4370	Tb427.05.4370-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,300,193 - 1,300,567 (-)	hypothetical protein, conserved	
+Tb427.05.4380	Tb427.05.4380-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,303,919 - 1,305,829 (-)	kinetoplastid-specific phospho-protein phosphatase, putative	
+Tb427.05.4390	Tb427.05.4390-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,306,989 - 1,307,396 (-)	hypothetical protein, conserved	
+Tb427.05.440	Tb427.05.440-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 135,261 - 137,588 (-)	trans-sialidase, putative	
+Tb427.05.4400	Tb427.05.4400-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,307,852 - 1,309,150 (-)	hypothetical protein, conserved	
+Tb427.05.4410	Tb427.05.4410-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,309,489 - 1,310,145 (-)	hypothetical protein, conserved	
+Tb427.05.4420	Tb427.05.4420-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,310,649 - 1,312,547 (-)	nucleolar RNA helicase Gu, putative	
+Tb427.05.4430	Tb427.05.4430-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,313,501 - 1,314,556 (-)	protein kinase, putative	
+Tb427.05.4440	Tb427.05.4440-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,314,927 - 1,315,199 (-)	dynein light chain, putative	
+Tb427.05.445	Tb427.05.445-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 138,672 - 138,743 (-)	tRNA Arginine	
+Tb427.05.4450	Tb427.05.4450-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,316,036 - 1,316,545 (-)	hypothetical protein, conserved	
+Tb427.05.4460	Tb427.05.4460-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,317,379 - 1,319,895 (-)	major vault protein, putative	
+Tb427.05.4470	Tb427.05.4470-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,321,241 - 1,323,778 (-)	hypothetical protein, conserved	
+Tb427.05.4480	Tb427.05.4480-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,324,259 - 1,325,998 (-)	paraflagellar rod component par4, putative	
+Tb427.05.4490	Tb427.05.4490-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,326,307 - 1,326,729 (-)	hypothetical protein, conserved	
+Tb427.05.450	Tb427.05.450-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 139,750 - 141,240 (-)	NADH-ubiquinone oxidoreductase, mitochondrial, putative	
+Tb427.05.4500	Tb427.05.4500-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,327,009 - 1,327,593 (-)	ras-like small GTPase, putative	
+Tb427.05.4510	Tb427.05.4510-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,327,822 - 1,328,241 (-)	hypothetical protein, conserved	
+Tb427.05.4520	Tb427.05.4520-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,328,526 - 1,331,306 (-)	hypothetical protein, conserved	
+Tb427.05.4530	Tb427.05.4530-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,331,545 - 1,332,303 (-)	fatty acid elongase, putative	
+Tb427.05.4540	Tb427.05.4540-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,341,867 - 1,345,598 (+)	adenylyl cyclase, putative	
+Tb427.05.4550	Tb427.05.4550-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,348,402 - 1,352,133 (+)	adenylyl cyclase, putative	
+Tb427.05.4560	Tb427.05.4560-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,354,412 - 1,355,962 (+)	guanase, putative	
+Tb427.05.4570	Tb427.05.4570-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,357,245 - 1,359,701 (+)	hypothetical protein, conserved	
+Tb427.05.4580	Tb427.05.4580-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,364,304 - 1,366,760 (+)	hypothetical protein, conserved	
+Tb427.05.4590	Tb427.05.4590-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,367,937 - 1,368,476 (+)	small GTP-binding rab protein, degenerate	
+Tb427.05.460	Tb427.05.460-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 142,721 - 143,056 (-)	hypothetical protein, conserved	
+Tb427.05.4600	Tb427.05.4600-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,368,910 - 1,370,097 (+)	expression site-associated gene 3 (ESAG3) protein, putative	
+Tb427.05.4610	Tb427.05.4610-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,374,756 - 1,376,174 (+)	variant surface glycoprotein-related protein, frameshift	
+Tb427.05.4620	Tb427.05.4620-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,376,824 - 1,377,711 (+)	expression site-associated gene 9 (ESAG9) protein, putative	
+Tb427.05.4630	Tb427.05.4630-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,380,769 - 1,381,743 (+)	expression site-associated gene 1 (ESAG1) protein, putative	
+Tb427.05.4640	Tb427.05.4640-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,383,852 - 1,384,538 (-)	unspecified product	
+Tb427.05.4650	Tb427.05.4650-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,387,976 - 1,388,317 (-)	variant surface glycoprotein, degenerate	
+Tb427.05.4670	Tb427.05.4670-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,391,600 - 1,392,301 (-)	variant surface glycoprotein (VSG, atypical), putative	
+Tb427.05.470	Tb427.05.470-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 145,725 - 147,368 (-)	monocarboxylate transporter-like protein	
+Tb427.05.4710	Tb427.05.4710-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,406,134 - 1,406,580 (-)	variant surface glycoprotein, degenerate	
+Tb427.05.4720	Tb427.05.4720-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,406,747 - 1,407,506 (-)	expression site-associated gene 3 (ESAG3), degenerate	
+Tb427.05.4730	Tb427.05.4730-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,409,275 - 1,410,345 (-)	unspecified product	
+Tb427.05.4750	Tb427.05.4750-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,420,480 - 1,422,375 (-)	variant surface glycoprotein, degenerate	
+Tb427.05.4760	Tb427.05.4760-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,422,829 - 1,422,885 (-)	expression site-associated gene 3 (ESAG3), degenerate	
+Tb427.05.480	Tb427.05.480-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 150,156 - 150,827 (-)	hypothetical protein, conserved	
+Tb427.05.4810	Tb427.05.4810-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,440,391 - 1,441,848 (-)	unspecified product	
+Tb427.05.4840	Tb427.05.4840-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,457,203 - 1,458,660 (-)	variant surface glycoprotein (VSG, atypical), putative	
+Tb427.05.490	Tb427.05.490-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 151,949 - 154,726 (-)	methyltransferase, putative	
+Tb427.05.4930	Tb427.05.4930-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,482,234 - 1,482,947 (-)	variant surface glycoprotein, point mutation	
+Tb427.05.4950	Tb427.05.4950-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,494,211 - 1,495,209 (-)	variant surface glycoprotein (VSG, atypical), putative	
+Tb427.05.4960	Tb427.05.4960-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,497,054 - 1,498,510 (-)	variant surface glycoprotein, degenerate	
+Tb427.05.4980	Tb427.05.4980-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,503,759 - 1,505,111 (-)	variant surface glycoprotein, frameshift	
+Tb427.05.4990	Tb427.05.4990-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,507,828 - 1,509,387 (-)	variant surface glycoprotein, degenerate	
+Tb427.05.500	Tb427.05.500-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 156,130 - 160,341 (-)	hypothetical protein, conserved	
+Tb427.05.5030	Tb427.05.5030-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,517,383 - 1,517,559 (-)	variant surface glycoprotein, truncated	
+Tb427.05.5040	Tb427.05.5040-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,518,594 - 1,520,213 (-)	variant surface glycoprotein, point mutation	
+Tb427.05.5050	Tb427.05.5050-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,521,434 - 1,523,035 (-)	unspecified product	
+Tb427.05.5090	Tb427.05.5090-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,531,568 - 1,533,094 (-)	variant surface glycoprotein, degenerate	
+Tb427.05.510	Tb427.05.510-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 162,394 - 162,777 (-)	hypothetical protein, conserved	
+Tb427.05.5100	Tb427.05.5100-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,535,297 - 1,536,726 (-)	variant surface glycoprotein, degenerate	
+Tb427.05.5130	Tb427.05.5130-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,546,521 - 1,546,883 (-)	variant surface glycoprotein, degenerate	
+Tb427.05.5140	Tb427.05.5140-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,547,047 - 1,547,529 (-)	UDP-Gal or UDP- GlcNAc-dependent glycosyltransferase, degenerate	
+Tb427.05.5150	Tb427.05.5150-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,549,196 - 1,550,727 (-)	variant surface glycoprotein, degenerate	
+Tb427.05.5170	Tb427.05.5170-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,554,698 - 1,556,833 (-)	variant surface glycoprotein, point mutation	
+Tb427.05.5180	Tb427.05.5180-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,557,022 - 1,558,119 (-)	UDP-Gal or UDP- GlcNAc-dependent glycosyltransferase, degenerate	
+Tb427.05.5190	Tb427.05.5190-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,560,560 - 1,560,838 (-)	variant surface glycoprotein, degenerate	
+Tb427.05.520	Tb427.05.520-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 165,240 - 166,835 (-)	stomatin-like protein, putative	
+Tb427.05.5200	Tb427.05.5200-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,560,560 - 1,562,043 (-)	variant surface glycoprotein, degenerate	
+Tb427.05.5210	Tb427.05.5210-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,563,540 - 1,564,985 (-)	variant surface glycoprotein (VSG, atypical), putative	
+Tb427.05.5220	Tb427.05.5220-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,567,715 - 1,567,849 (-)	variant surface glycoprotein, degenerate	
+Tb427.05.5250	Tb427.05.5250-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,574,472 - 1,574,772 (-)	variant surface glycoprotein, fragment, degenerate	
+Tb427.05.5260	Tb427.05.5260-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,575,285 - 1,576,865 (-)	variant surface glycoprotein, point mutation	
+Tb427.05.530	Tb427.05.530-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 167,560 - 169,545 (-)	hypothetical protein, conserved	
+Tb427.05.5310	Tb427.05.5310-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 1,591,268 - 1,591,414 (-)	variant surface glycoprotein, frameshift	
+Tb427.05.540	Tb427.05.540-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 169,736 - 170,354 (-)	hypothetical protein	
+Tb427.05.550	Tb427.05.550-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 171,529 - 172,680 (-)	vacuolar ATP synthase, putative	
+Tb427.05.560	Tb427.05.560-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 173,223 - 174,704 (-)	hypothetical protein, conserved	
+Tb427.05.570	Tb427.05.570-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 175,964 - 182,347 (-)	hypothetical protein, conserved	
+Tb427.05.580	Tb427.05.580-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 182,600 - 183,007 (-)	prefoldin subunit, putative	
+Tb427.05.590	Tb427.05.590-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 183,414 - 184,625 (-)	protein phosphatase 1, regulatory subunit, putative	
+Tb427.05.600	Tb427.05.600-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 184,817 - 185,200 (-)	hypothetical protein, conserved	
+Tb427.05.610	Tb427.05.610-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 203,733 - 205,019 (-)	acidic phosphatase, putative	
+Tb427.05.620	Tb427.05.620-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 206,912 - 208,177 (-)	hypothetical protein	
+Tb427.05.630	Tb427.05.630-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 209,485 - 210,690 (-)	acidic phosphatase, putative	
+Tb427.05.640	Tb427.05.640-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 219,280 - 221,729 (+)	neuraminidase, putative	
+Tb427.05.650	Tb427.05.650-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 224,054 - 227,803 (+)	receptor-type adenylate cyclase GRESAG 4, putative	
+Tb427.05.660	Tb427.05.660-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 230,121 - 231,593 (+)	hypothetical protein	
+Tb427.05.670	Tb427.05.670-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 238,290 - 241,178 (+)	hypothetical protein, conserved	
+Tb427.05.680	Tb427.05.680-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 241,394 - 243,151 (+)	hypothetical protein, conserved	
+Tb427.05.690	Tb427.05.690-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 243,526 - 243,981 (+)	hypothetical protein, conserved	
+Tb427.05.700	Tb427.05.700-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 245,895 - 247,958 (+)	hypothetical protein, conserved	
+Tb427.05.710	Tb427.05.710-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 249,174 - 252,071 (+)	hypothetical protein, conserved	
+Tb427.05.720	Tb427.05.720-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 252,648 - 253,373 (+)	hypothetical protein	
+Tb427.05.730	Tb427.05.730-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 253,780 - 254,484 (+)	hypothetical protein	
+Tb427.05.740	Tb427.05.740-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 255,485 - 256,114 (+)	hypothetical protein, conserved	
+Tb427.05.750	Tb427.05.750-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 256,673 - 257,328 (+)	hypothetical protein, conserved	
+Tb427.05.760	Tb427.05.760-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 258,174 - 260,396 (+)	hypothetical protein, conserved	
+Tb427.05.770	Tb427.05.770-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 263,932 - 266,112 (+)	hypothetical protein, conserved	
+Tb427.05.780	Tb427.05.780-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 266,660 - 268,222 (+)	hypothetical protein, conserved	
+Tb427.05.790	Tb427.05.790-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 269,617 - 270,609 (+)	casein kinase I isoform 1	
+Tb427.05.800	Tb427.05.800-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 272,707 - 273,705 (+)	unspecified product	
+Tb427.05.810	Tb427.05.810-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 278,336 - 279,429 (+)	hypothetical protein, conserved	
+Tb427.05.820	Tb427.05.820-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 283,705 - 284,334 (+)	hypothetical protein, conserved	
+Tb427.05.830	Tb427.05.830-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 285,226 - 287,016 (+)	hypothetical protein, conserved	
+Tb427.05.840	Tb427.05.840-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 288,101 - 291,082 (+)	hypothetical protein, conserved	
+Tb427.05.850	Tb427.05.850-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 291,587 - 292,762 (+)	hypothetical protein, conserved	
+Tb427.05.860	Tb427.05.860-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 294,562 - 295,341 (+)	selenoprotein, putative	
+Tb427.05.880	Tb427.05.880-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 296,728 - 296,997 (+)	hypothetical protein, conserved	
+Tb427.05.890	Tb427.05.890-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 297,405 - 299,810 (+)	oligosaccharyl transferase subunit, putative	
+Tb427.05.900	Tb427.05.900-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 300,706 - 303,183 (+)	oligosaccharyl transferase subunit, putative	
+Tb427.05.910	Tb427.05.910-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 304,010 - 306,475 (+)	oligosaccharyl transferase subunit, putative	
+Tb427.05.920	Tb427.05.920-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 307,491 - 309,006 (+)	hypothetical protein, conserved	
+Tb427.05.930	Tb427.05.930-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 309,692 - 313,120 (+)	NADH-dependent fumarate reductase	
+Tb427.05.940	Tb427.05.940-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 314,462 - 317,095 (+)	NADH-dependent fumarate reductase, putative	
+Tb427.05.950	Tb427.05.950-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 321,272 - 321,940 (+)	thioredoxin-like protein	
+Tb427.05.960	Tb427.05.960-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 323,423 - 324,430 (+)	hypothetical protein, conserved	
+Tb427.05.970	Tb427.05.970-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 324,547 - 325,119 (+)	class I transcription factor A, subunit 6	
+Tb427.05.980	Tb427.05.980-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 325,343 - 326,260 (+)	hypothetical protein, conserved	
+Tb427.05.990	Tb427.05.990-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 326,708 - 327,298 (+)	hypothetical protein, conserved	
+Tb427_05_v4.snoRNA.0001	Tb427_05_v4.snoRNA.0001-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 647,554 - 647,640 (-)	C/D snoRNA	
+Tb427_05_v4.snoRNA.0002	Tb427_05_v4.snoRNA.0002-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 746,273 - 746,359 (+)	C/D snoRNA	
+Tb427_05_v4.snoRNA.0003	Tb427_05_v4.snoRNA.0003-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 746,080 - 746,165 (+)	C/D snoRNA	
+Tb427tmp.28F8.200	Tb427tmp.28F8.200-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 346,055 - 346,564 (+)	hypothetical protein	
+Tb427tmp.30F7.410	Tb427tmp.30F7.410-t26_1	T. brucei Lister strain 427	Tb427_05_v4: 235,803 - 236,312 (-)	hypothetical protein	

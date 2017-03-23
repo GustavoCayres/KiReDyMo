@@ -1,0 +1,646 @@
+[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
+Tb3.NT.21	Tb3.NT.21:ncRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 503,720 - 504,365 (-)	Noncoding RNA, putative	
+Tb3.NT.36	Tb3.NT.36:ncRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 824,942 - 825,674 (-)	Noncoding RNA, putative	
+Tb3.NT.66	Tb3.NT.66:ncRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,420,898 - 1,421,096 (+)	Noncoding RNA, putative	
+Tb927.3.100	Tb927.3.100:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 27 - 1,183 (+)	hypothetical protein, pseudogene	
+Tb927.3.1000	Tb927.3.1000:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 245,482 - 246,148 (+)	frataxin-like, mitochondrial precursor, putative	
+Tb927.3.1010	Tb927.3.1010:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 246,717 - 249,385 (+)	hypothetical protein, conserved	
+Tb927.3.1020	Tb927.3.1020:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 250,863 - 252,492 (+)	Flagellum attachment zone protein 13	
+Tb927.3.1030	Tb927.3.1030:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 253,111 - 254,890 (+)	RNA-binding protein	
+Tb927.3.1050	Tb927.3.1050:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 261,163 - 262,371 (+)	transposase of Tn10	
+Tb927.3.1060	Tb927.3.1060:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 259,855 - 263,532 (+)	cAMP response protein, putative	
+Tb927.3.1070	Tb927.3.1070:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 263,815 - 265,161 (+)	Peptide chain release factor 1, mitochondrial, putative	
+Tb927.3.1080	Tb927.3.1080:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 265,291 - 266,383 (+)	Present in the outer mitochondrial membrane proteome 23	
+Tb927.3.1085	Tb927.3.1085:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 266,523 - 267,203 (+)	hypothetical protein	
+Tb927.3.1090	Tb927.3.1090:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 267,363 - 268,841 (+)	U1 small nuclear ribonucleoprotein 24 kDa	
+Tb927.3.110	Tb927.3.110:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 1,251 - 2,402 (+)	expression site-associated gene 3 (ESAG3), degenerate	
+Tb927.3.1100	Tb927.3.1100:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 268,941 - 270,153 (+)	exonuclease, putative	
+Tb927.3.1110	Tb927.3.1110:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 270,600 - 273,554 (+)	Putative intraflagellar transport protein A1	
+Tb927.3.1120	Tb927.3.1120:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 273,335 - 274,386 (+)	GTP-binding nuclear protein rtb2, putative	
+Tb927.3.1130	Tb927.3.1130:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 275,749 - 277,813 (+)	DNA polymerase delta subunit 2, putative	
+Tb927.3.1140	Tb927.3.1140:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 278,070 - 279,804 (+)	Surp module, putative	
+Tb927.3.1150	Tb927.3.1150:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 279,969 - 280,820 (+)	Conserved hypothetical ATP binding protein, putative	
+Tb927.3.1160	Tb927.3.1160:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 281,187 - 282,109 (+)	hypothetical protein, conserved	
+Tb927.3.1170	Tb927.3.1170:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 282,350 - 283,598 (+)	TAP42-like family, putative	
+Tb927.3.1180	Tb927.3.1180:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 284,386 - 287,722 (+)	hypothetical protein, conserved	
+Tb927.3.1190	Tb927.3.1190:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 287,854 - 295,302 (+)	hypothetical protein, conserved	
+Tb927.3.120	Tb927.3.120:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 2,458 - 4,221 (+)	variant surface glycoprotein (VSG), putative	
+Tb927.3.1200	Tb927.3.1200.1:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 296,864 - 299,602 (+)	hypothetical protein, conserved	
+Tb927.3.1200	Tb927.3.1200.2:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 295,449 - 299,602 (+)	hypothetical protein, conserved	
+Tb927.3.1210	Tb927.3.1210:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 299,844 - 303,697 (+)	protein transport protein Sec24	
+Tb927.3.1220	Tb927.3.1220:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 304,021 - 306,138 (+)	GIY-YIG catalytic domain containing protein, putative	
+Tb927.3.1230	Tb927.3.1230:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 306,258 - 309,165 (+)	Ribonuclease 3, putative	
+Tb927.3.1240	Tb927.3.1240:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 309,393 - 310,453 (+)	serine/threonine-protein phosphatase	
+Tb927.3.1250	Tb927.3.1250:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 311,302 - 312,114 (+)	DNA-directed RNA polymerase I subunit RPB10	
+Tb927.3.1260	Tb927.3.1260:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 312,251 - 312,852 (+)	hypothetical protein, conserved	
+Tb927.3.1270	Tb927.3.1270:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 313,144 - 315,082 (+)	PRP38 family, putative	
+Tb927.3.1280	Tb927.3.1280:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 315,192 - 316,662 (+)	NPL4 family, putative	
+Tb927.3.1290	Tb927.3.1290:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 317,030 - 320,311 (+)	cullin 4B, putative	
+Tb927.3.130	Tb927.3.130:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 5,468 - 5,881 (+)	variant surface glycoprotein, truncated	
+Tb927.3.1300	Tb927.3.1300:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 320,460 - 323,088 (+)	hypothetical protein, conserved	
+Tb927.3.1310	Tb927.3.1310.1:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 323,467 - 327,123 (+)	hypothetical protein, conserved	
+Tb927.3.1310	Tb927.3.1310.2:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 323,216 - 327,123 (+)	hypothetical protein, conserved	
+Tb927.3.1320	Tb927.3.1320:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 327,406 - 330,879 (+)	hypothetical protein, conserved	
+Tb927.3.1330	Tb927.3.1330:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 331,236 - 335,738 (+)	hypothetical protein, conserved	
+Tb927.3.1340	Tb927.3.1340:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 335,897 - 337,895 (+)	Nuclear cap-binding protein subunit 66	
+Tb927.3.1350	Tb927.3.1350:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 338,139 - 341,161 (+)	hypothetical protein, conserved	
+Tb927.3.1360	Tb927.3.1360:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 341,304 - 343,335 (+)	cytosine-specific DNA methylase, putative	
+Tb927.3.1370	Tb927.3.1370:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 343,599 - 344,181 (+)	40S ribosomal protein S25, putative	
+Tb927.3.1380	Tb927.3.1380:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 344,355 - 347,117 (+)	ATP synthase subunit beta, mitochondrial	
+Tb927.3.1390	Tb927.3.1390:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 347,223 - 349,483 (+)	LMBR1-like membrane protein, putative	
+Tb927.3.140	Tb927.3.140:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 6,998 - 8,472 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.1400	Tb927.3.1400:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 349,867 - 351,680 (+)	alpha-tubulin N-acetyltransferase, putative	
+Tb927.3.1410	Tb927.3.1410:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 352,754 - 353,633 (+)	cytochrome oxidase subunit VII	
+Tb927.3.1420	Tb927.3.1420:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 353,744 - 364,947 (+)	hypothetical protein, conserved	
+Tb927.3.1430	Tb927.3.1430:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 365,058 - 366,736 (+)	chaperone protein DnaJ, putative	
+Tb927.3.1440	Tb927.3.1440:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 366,880 - 369,911 (+)	Spastin, putative	
+Tb927.3.1450	Tb927.3.1450:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 370,027 - 371,329 (+)	CorA-like Mg2+ transporter protein, putative	
+Tb927.3.1460	Tb927.3.1460:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 372,935 - 373,981 (+)	hypothetical protein	
+Tb927.3.1470	Tb927.3.1470:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 374,515 - 375,629 (+)	variant surface glycoprotein (VSG)-related, putative	
+Tb927.3.1480	Tb927.3.1480:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 379,382 - 380,307 (+)	hypothetical protein, conserved	
+Tb927.3.1490	Tb927.3.1490:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 381,448 - 387,810 (+)	leucine-rich repeat protein (LRRP), putative	
+Tb927.3.150	Tb927.3.150:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 10,161 - 11,765 (+)	variant surface glycoprotein (VSG), putative	
+Tb927.3.1500	Tb927.3.1500:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 388,094 - 389,227 (-)	variant surface glycoprotein (VSG)-related, putative	
+Tb927.3.1510	Tb927.3.1510:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 393,867 - 395,296 (-)	variant surface glycoprotein (VSG)-related, putative	
+Tb927.3.1520	Tb927.3.1520:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 396,343 - 397,457 (-)	variant surface glycoprotein (VSG)-related, putative	
+Tb927.3.1525	Tb927.3.1525:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 398,622 - 399,045 (-)	hypothetical protein	
+Tb927.3.1530	Tb927.3.1530:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 399,670 - 401,365 (-)	CorA-like Mg2+ transporter protein, putative	
+Tb927.3.1540	Tb927.3.1540:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 401,481 - 403,335 (-)	CAAX amino terminal protease, putative	
+Tb927.3.1550	Tb927.3.1550:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 402,771 - 407,043 (-)	Rab3 GTPase-activating protein catalytic subunit, putative	
+Tb927.3.1560	Tb927.3.1560:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 407,164 - 409,440 (-)	TRF-Interacting Factor 2	
+Tb927.3.1570	Tb927.3.1570:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 409,345 - 412,681 (-)	protein kinase, putative	
+Tb927.3.1580	Tb927.3.1580:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 412,885 - 414,608 (-)	hypothetical protein, conserved	
+Tb927.3.1590	Tb927.3.1590:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 415,240 - 417,301 (-)	mitochondrial RNA binding complex 1 subunit	
+Tb927.3.160	Tb927.3.160:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 12,861 - 13,874 (+)	expression site-associated gene 3 (ESAG3), degenerate	
+Tb927.3.1600	Tb927.3.1600:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 417,775 - 418,332 (-)	Tim10/DDP family zinc finger, putative	
+Tb927.3.1610	Tb927.3.1610:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 419,800 - 422,046 (-)	protein kinase, putative	
+Tb927.3.1620	Tb927.3.1620:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 423,166 - 428,105 (-)	ER-golgi trafficking TRAPP I complex 85 kDa subunit, putative	
+Tb927.3.1630	Tb927.3.1630:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 428,454 - 433,034 (-)	casein kinase 1, putative	
+Tb927.3.1640	Tb927.3.1640:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 434,405 - 434,896 (-)	hypothetical protein	
+Tb927.3.1650	Tb927.3.1650:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 435,507 - 436,034 (-)	hypothetical protein	
+Tb927.3.1660	Tb927.3.1660:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 436,051 - 438,731 (-)	hypothetical protein, conserved	
+Tb927.3.1670	Tb927.3.1670:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 439,329 - 442,671 (-)	hypothetical protein, conserved	
+Tb927.3.1680	Tb927.3.1680:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 442,967 - 444,658 (-)	Eukaryotic translation initiation factor 3 subunit F	
+Tb927.3.1690	Tb927.3.1690:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 445,257 - 446,001 (-)	hypothetical protein, conserved	
+Tb927.3.170	Tb927.3.170:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 14,316 - 15,879 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.1700	Tb927.3.1700:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 446,049 - 448,336 (-)	diacylglycerol acyltransferase, putative	
+Tb927.3.1710	Tb927.3.1710:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 448,615 - 449,807 (-)	hypothetical protein, conserved	
+Tb927.3.1720	Tb927.3.1720:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 450,752 - 451,873 (-)	hypothetical protein, conserved	
+Tb927.3.1730	Tb927.3.1730:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 451,668 - 453,139 (-)	hypothetical protein, conserved	
+Tb927.3.1740	Tb927.3.1740:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 453,791 - 456,014 (-)	hypothetical protein, conserved	
+Tb927.3.1750	Tb927.3.1750:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 456,208 - 457,114 (-)	Mad2-like HORMA domain containing protein	
+Tb927.3.1760	Tb927.3.1760:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 457,291 - 458,329 (-)	chaperone protein DnaJ, putative	
+Tb927.3.1770	Tb927.3.1770:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 458,765 - 461,733 (-)	leucine-rich repeat protein (LRRP), putative	
+Tb927.3.1780	Tb927.3.1780:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 461,872 - 462,669 (-)	U6 snRNA-associated Sm-like protein LSm8p	
+Tb927.3.1790	Tb927.3.1790:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 462,844 - 465,285 (-)	pyruvate dehydrogenase E1 beta subunit, putative	
+Tb927.3.180	Tb927.3.180:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 17,916 - 19,466 (+)	variant surface glycoprotein (VSG, atypical), putative	
+Tb927.3.1800	Tb927.3.1800:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 465,205 - 470,148 (-)	hypothetical protein, conserved	
+Tb927.3.1810	Tb927.3.1810:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 470,285 - 471,813 (-)	hypothetical protein, conserved	
+Tb927.3.1820	Tb927.3.1820:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 471,969 - 474,256 (-)	mitochondrial RNA binding complex 1 subunit	
+Tb927.3.1830	Tb927.3.1830:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 474,527 - 476,028 (-)	hypothetical protein, conserved	
+Tb927.3.1840	Tb927.3.1840:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 477,766 - 479,137 (-)	3-oxo-5-alpha-steroid 4-dehydrogenase, putative	
+Tb927.3.1850	Tb927.3.1850:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 480,261 - 482,206 (-)	Protein kinase domain containing protein, putative	
+Tb927.3.1860	Tb927.3.1860:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 483,401 - 486,261 (-)	ATP-grasp domain containing protein, putative	
+Tb927.3.1870	Tb927.3.1870.1:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 486,395 - 487,951 (-)	CHAP domain containing protein, putative	
+Tb927.3.1870	Tb927.3.1870.2:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 486,395 - 488,138 (-)	CHAP domain containing protein, putative	
+Tb927.3.1880	Tb927.3.1880:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 488,289 - 490,601 (-)	hypothetical protein, conserved	
+Tb927.3.1890	Tb927.3.1890:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 490,837 - 492,278 (-)	cytochrome c oxidase assembly protein, putative	
+Tb927.3.1891	Tb927.3.1891:snoRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 494,224 - 494,301 (-)	C/D snoRNA, TB3C2C1	
+Tb927.3.1892	Tb927.3.1892:snoRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 494,356 - 494,433 (-)	C/D snoRNA, TB3C2C1	
+Tb927.3.1893	Tb927.3.1893:snoRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 494,488 - 494,539 (-)	C/D snoRNA, TB3C2C1	
+Tb927.3.1894	Tb927.3.1894:snoRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 494,596 - 494,673 (-)	C/D snoRNA, TB3C2C1	
+Tb927.3.1895	Tb927.3.1895:snoRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 494,728 - 494,805 (-)	C/D snoRNA, TB3C2C1	
+Tb927.3.1896	Tb927.3.1896:snoRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 494,860 - 494,965 (-)	C/D snoRNA, TB3C2C1	
+Tb927.3.190	Tb927.3.190:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 21,524 - 23,056 (+)	variant surface glycoprotein (VSG), putative	
+Tb927.3.1900	Tb927.3.1900:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 493,734 - 496,337 (-)	conserved protein, unknown function	
+Tb927.3.1905	Tb927.3.1905:snoRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 495,034 - 495,139 (-)	C/D snoRNA, TB3C2C1	
+Tb927.3.1910	Tb927.3.1910:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 497,029 - 503,599 (-)	Histone RNA hairpin-binding protein RNA-binding domain containing protein, putative	
+Tb927.3.1920	Tb927.3.1920:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 505,033 - 507,794 (-)	General negative regulator of transcription subunit 5	
+Tb927.3.1930	Tb927.3.1930:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 508,299 - 509,783 (-)	pre-mRNA splicing factor PRP17, putative	
+Tb927.3.1940	Tb927.3.1940:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 510,641 - 511,970 (-)	TLP18.3, Psb32 and MOLO-1 founding proteins of phosphatase, putative	
+Tb927.3.1955	Tb927.3.1955:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 513,487 - 514,034 (-)	Vacuolar protein sorting-associated protein 55 homolog	
+Tb927.3.1960	Tb927.3.1960:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 514,271 - 515,762 (-)	hypothetical protein, conserved	
+Tb927.3.1970	Tb927.3.1970:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 516,166 - 517,317 (-)	DNA / pantothenate metabolism flavoprotein, putative	
+Tb927.3.1980	Tb927.3.1980:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 517,473 - 518,492 (-)	hypothetical protein, conserved	
+Tb927.3.1990	Tb927.3.1990:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 518,617 - 520,892 (-)	Tetratricopeptide repeat, putative	
+Tb927.3.200	Tb927.3.200:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 23,761 - 24,077 (+)	variant surface glycoprotein, truncated, degenerate	
+Tb927.3.2000	Tb927.3.2000:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 521,498 - 522,203 (-)	RNA-binding protein, putative	
+Tb927.3.2010	Tb927.3.2010:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 522,343 - 524,255 (-)	hypothetical protein, conserved	
+Tb927.3.2020	Tb927.3.2020:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 524,836 - 527,296 (-)	kinesin, putative	
+Tb927.3.2030	Tb927.3.2030.1:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 527,456 - 528,163 (-)	acylphosphatase, putative	
+Tb927.3.2030	Tb927.3.2030.2:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 527,456 - 528,219 (-)	acylphosphatase, putative	
+Tb927.3.2040	Tb927.3.2040:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 528,394 - 532,752 (-)	kinesin, putative	
+Tb927.3.2050	Tb927.3.2050:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 534,065 - 539,224 (-)	hypothetical protein, conserved	
+Tb927.3.2060	Tb927.3.2060:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 539,717 - 542,646 (-)	protein kinase, putative	
+Tb927.3.2070	Tb927.3.2070:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 542,793 - 547,521 (-)	hypothetical protein, conserved	
+Tb927.3.2080	Tb927.3.2080:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 548,257 - 549,166 (-)	hypothetical protein, conserved	
+Tb927.3.2090	Tb927.3.2090:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 549,317 - 551,930 (-)	Xaa-Pro aminopeptidase, putative	
+Tb927.3.210	Tb927.3.210:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 24,407 - 32,719 (+)	variant surface glycoprotein (VSG, atypical), putative	
+Tb927.3.2100	Tb927.3.2100:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 552,061 - 554,173 (-)	hypothetical protein, conserved	
+Tb927.3.2110	Tb927.3.2110:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 556,358 - 557,917 (-)	TFIIF-stimulated CTD phosphatase, putative	
+Tb927.3.2120	Tb927.3.2120:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 558,218 - 560,058 (-)	hypothetical protein, conserved	
+Tb927.3.2130	Tb927.3.2130:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 560,389 - 562,683 (-)	RNA pseudouridylate synthase, putative	
+Tb927.3.2140	Tb927.3.2140:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 563,309 - 566,371 (-)	transcription activator, putative	
+Tb927.3.2150	Tb927.3.2150:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 566,516 - 567,960 (-)	protein phosphatase 2C, putative	
+Tb927.3.2160	Tb927.3.2160:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 568,114 - 569,864 (-)	Rieske-like [2Fe-2S] domain containing protein, putative	
+Tb927.3.2170	Tb927.3.2170:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 570,057 - 572,987 (-)	translation elongation factor EF-2, putative	
+Tb927.3.2180	Tb927.3.2180:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 573,104 - 574,120 (-)	hypothetical protein, conserved	
+Tb927.3.2190	Tb927.3.2190:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 574,254 - 575,227 (-)	Capping enzyme RNA triphosphatase 1	
+Tb927.3.220	Tb927.3.220:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 34,487 - 35,713 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.2200	Tb927.3.2200:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 575,334 - 576,611 (-)	TPR repeat, putative	
+Tb927.3.2210	Tb927.3.2210:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 576,772 - 579,140 (-)	KIF-1 binding protein C terminal, putative	
+Tb927.3.2220	Tb927.3.2220:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 579,399 - 580,100 (-)	eukaryotic translation initiation factor 3 subunit j	
+Tb927.3.2230	Tb927.3.2230:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 580,289 - 581,871 (-)	succinyl-CoA synthetase alpha subunit, putative	
+Tb927.3.2240	Tb927.3.2240:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 582,246 - 583,460 (-)	BRO1-like domain containing protein, putative	
+Tb927.3.2250	Tb927.3.2250:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 583,537 - 584,518 (-)	hypothetical protein, conserved	
+Tb927.3.2260	Tb927.3.2260:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 584,662 - 585,419 (-)	Ubiquitin family, putative	
+Tb927.3.2270	Tb927.3.2270:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 587,853 - 589,227 (+)	hypothetical protein, conserved	
+Tb927.3.2280	Tb927.3.2280:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 589,430 - 591,236 (+)	vacuolar sorting protein 33 , putative	
+Tb927.3.2290	Tb927.3.2290:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 591,399 - 592,520 (+)	chaperone protein DnaJ, putative	
+Tb927.3.230	Tb927.3.230:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 37,496 - 38,952 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.2300	Tb927.3.2300:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 592,641 - 593,317 (+)	DNL zinc finger, putative	
+Tb927.3.2310	Tb927.3.2310:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 593,403 - 594,691 (+)	PACRGA	
+Tb927.3.2320	Tb927.3.2320:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 594,894 - 597,350 (+)	COP9 signalosome complex subunit 2, putative	
+Tb927.3.2330	Tb927.3.2330:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 596,450 - 599,660 (+)	kinetoplastid kinetochore protein 17	
+Tb927.3.2340	Tb927.3.2340:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 599,796 - 600,844 (+)	Peroxisome biogenesis protein 2	
+Tb927.3.2350	Tb927.3.2350:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 601,303 - 601,909 (+)	hypothetical protein, conserved	
+Tb927.3.2360	Tb927.3.2360:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 602,053 - 603,548 (+)	hypothetical protein, conserved	
+Tb927.3.2370	Tb927.3.2370:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 603,846 - 604,470 (+)	hypothetical protein, conserved	
+Tb927.3.2380	Tb927.3.2380:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 604,751 - 605,127 (+)	hypothetical protein, conserved	
+Tb927.3.2390	Tb927.3.2390:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 605,441 - 606,956 (+)	hypothetical protein, conserved	
+Tb927.3.240	Tb927.3.240:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 40,291 - 41,801 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.2400	Tb927.3.2400:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 607,231 - 608,488 (+)	palmitoyl acyltransferase 10, putative	
+Tb927.3.2410	Tb927.3.2410:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 608,640 - 609,693 (+)	peroxisome assembly protein, putative	
+Tb927.3.2420	Tb927.3.2420:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 610,034 - 610,492 (+)	Microsomal signal peptidase 12 kDa subunit (SPC12), putative	
+Tb927.3.2430	Tb927.3.2430:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 610,796 - 614,054 (+)	Vacuolar sorting protein 9 (VPS9) domain containing protein, putative	
+Tb927.3.2440	Tb927.3.2440:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 614,177 - 615,758 (+)	AGC essential kinase 1	
+Tb927.3.2450	Tb927.3.2450:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 616,321 - 617,490 (+)	hypothetical protein, conserved	
+Tb927.3.2460	Tb927.3.2460:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 617,728 - 619,316 (+)	hypothetical protein, conserved	
+Tb927.3.2470	Tb927.3.2470:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 619,537 - 622,242 (+)	pumilio RNA binding protein, putative	
+Tb927.3.2475	Tb927.3.2475:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 622,107 - 623,480 (+)	hypothetical protein	
+Tb927.3.2477	Tb927.3.2477:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 623,714 - 625,006 (+)	hypothetical protein	
+Tb927.3.2480	Tb927.3.2480:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 625,117 - 626,269 (+)	Arv1-like family, putative	
+Tb927.3.2490	Tb927.3.2490:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 626,390 - 629,765 (+)	hypothetical protein, conserved	
+Tb927.3.250	Tb927.3.250:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 42,899 - 43,863 (+)	expression site-associated gene 3 (ESAG3), degenerate	
+Tb927.3.2500	Tb927.3.2500:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 629,822 - 632,433 (-)	Trypanosomal VSG domain containing protein, putative	
+Tb927.3.2510	Tb927.3.2510.1	T. brucei brucei TREU927	Tb927_03_v5.1: 632,832 - 634,215 (-)	expression site-associated gene 2 (ESAG2) protein, putative	
+Tb927.3.2510	Tb927.3.2510.2	T. brucei brucei TREU927	Tb927_03_v5.1: 632,832 - 633,916 (-)	expression site-associated gene 2 (ESAG2) protein, putative	
+Tb927.3.2520	Tb927.3.2520:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 635,419 - 636,395 (-)	expression site-associated gene 1 (ESAG1) protein, putative	
+Tb927.3.2530	Tb927.3.2530:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 636,520 - 637,494 (-)	expression site-associated gene 11 (ESAG11), degenerate	
+Tb927.3.2540	Tb927.3.2540.1:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 637,733 - 638,852 (-)	variant surface glycoprotein (VSG)-related, putative	
+Tb927.3.2540	Tb927.3.2540.2:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 637,733 - 640,294 (-)	variant surface glycoprotein (VSG)-related, putative	
+Tb927.3.2550	Tb927.3.2550:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 639,421 - 641,589 (-)	hypothetical protein, conserved	
+Tb927.3.2560	Tb927.3.2560:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 642,421 - 643,103 (-)	hypothetical protein, conserved	
+Tb927.3.2570	Tb927.3.2570:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 643,935 - 644,836 (-)	hypothetical protein, conserved	
+Tb927.3.2580	Tb927.3.2580:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 645,449 - 646,133 (-)	hypothetical protein, conserved	
+Tb927.3.2590	Tb927.3.2590:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 647,032 - 651,938 (-)	hypothetical protein	
+Tb927.3.260	Tb927.3.260:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 44,118 - 45,091 (+)	variant surface glycoprotein, fragment	
+Tb927.3.2600	Tb927.3.2600:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 652,232 - 659,249 (-)	ATP-dependent DEAD/H RNA helicase, putative	
+Tb927.3.2610	Tb927.3.2610:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 659,361 - 662,313 (-)	GPI inositol deacylase 2	
+Tb927.3.2620	Tb927.3.2620.1:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 662,470 - 668,733 (-)	hypothetical protein, conserved	
+Tb927.3.2620	Tb927.3.2620.2:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 662,470 - 669,988 (-)	hypothetical protein, conserved	
+Tb927.3.2630	Tb927.3.2630:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 669,277 - 672,597 (-)	hypothetical protein, conserved	
+Tb927.3.2640	Tb927.3.2640:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 673,016 - 674,173 (-)	hypothetical protein, conserved	
+Tb927.3.2650	Tb927.3.2650:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 674,328 - 674,967 (-)	cytochrome c oxidase copper chaperone, putative	
+Tb927.3.2660	Tb927.3.2660:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 675,093 - 677,416 (-)	TatD related DNase, putative	
+Tb927.3.2670	Tb927.3.2670:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 677,574 - 678,718 (-)	hypothetical protein, conserved	
+Tb927.3.2680	Tb927.3.2680:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 678,839 - 680,865 (-)	Ubiquitin-like domain containing protein, putative	
+Tb927.3.2690	Tb927.3.2690:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 682,253 - 686,686 (-)	AGC/RSK family serine/threonine kinase, putative	
+Tb927.3.270	Tb927.3.270:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 45,650 - 47,126 (+)	variant surface glycoprotein, frameshift	
+Tb927.3.2700	Tb927.3.2700:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 687,015 - 688,420 (-)	hypothetical protein, conserved	
+Tb927.3.2710	Tb927.3.2710:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 688,583 - 693,116 (-)	6-phosphofructo-2-kinase 1	
+Tb927.3.2720	Tb927.3.2720:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 693,525 - 695,303 (-)	hypothetical protein	
+Tb927.3.2730	Tb927.3.2730:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 695,723 - 701,068 (-)	hypothetical protein, conserved	
+Tb927.3.2740	Tb927.3.2740:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 701,310 - 702,850 (-)	hypothetical protein, conserved	
+Tb927.3.2750	Tb927.3.2750:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 702,954 - 706,131 (-)	hypothetical protein, conserved	
+Tb927.3.2760	Tb927.3.2760:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 706,555 - 711,329 (-)	hypothetical protein, conserved	
+Tb927.3.2770	Tb927.3.2770.1:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 711,457 - 715,336 (-)	hypothetical protein, conserved	
+Tb927.3.2770	Tb927.3.2770.2:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 711,457 - 715,363 (-)	hypothetical protein, conserved	
+Tb927.3.2780	Tb927.3.2780:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 716,118 - 719,483 (-)	hypothetical protein, conserved	
+Tb927.3.2790	Tb927.3.2790:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 720,110 - 723,646 (-)	leucine-rich repeat protein (LRRP), putative	
+Tb927.3.280	Tb927.3.280:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 49,532 - 51,098 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.2800	Tb927.3.2800:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 724,157 - 726,207 (-)	hypothetical protein	
+Tb927.3.2810	Tb927.3.2810:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 726,539 - 731,670 (-)	hypothetical protein, conserved	
+Tb927.3.2820	Tb927.3.2820:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 731,793 - 733,873 (-)	TFIIF-stimulated CTD phosphatase, putative	
+Tb927.3.2830	Tb927.3.2830:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 734,301 - 735,634 (-)	brix domain containing protein, putative	
+Tb927.3.2840	Tb927.3.2840:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 735,570 - 736,861 (-)	inorganic pyrophosphatase, putative	
+Tb927.3.2850	Tb927.3.2850:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 737,199 - 737,818 (-)	Got1/Sft2-like family, putative	
+Tb927.3.2860	Tb927.3.2860:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 738,680 - 739,591 (-)	hypothetical protein, conserved	
+Tb927.3.2870	Tb927.3.2870:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 739,808 - 742,549 (-)	multicopper oxidase, putative	
+Tb927.3.2880	Tb927.3.2880:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 742,652 - 743,803 (-)	hypothetical protein, conserved	
+Tb927.3.2890	Tb927.3.2890:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 744,287 - 745,481 (-)	radial spoke protein RSP10, putative	
+Tb927.3.290	Tb927.3.290:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 51,868 - 52,860 (+)	expression site-associated gene 3 (ESAG3), degenerate	
+Tb927.3.2900	Tb927.3.2900:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 746,517 - 748,191 (-)	Eukaryotic translation initiation factor 2 subunit alpha	
+Tb927.3.2910	Tb927.3.2910:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 749,404 - 749,959 (-)	hypothetical protein, conserved	
+Tb927.3.2920	Tb927.3.2920:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 750,359 - 751,943 (-)	hypothetical protein, conserved	
+Tb927.3.2930	Tb927.3.2930:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 752,088 - 757,611 (-)	RNA-binding protein RBP6, putative	
+Tb927.3.2940	Tb927.3.2940:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 758,043 - 759,665 (-)	hypothetical protein, conserved	
+Tb927.3.2950	Tb927.3.2950:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 759,963 - 762,893 (-)	ribonuclease inhibitor- like protein	
+Tb927.3.2960	Tb927.3.2960:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 763,029 - 764,745 (-)	inosine-adenosine-guanosine-nucleosidehydrolase	
+Tb927.3.2970	Tb927.3.2970:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 764,902 - 765,733 (-)	hypothetical protein, conserved	
+Tb927.3.2980	Tb927.3.2980:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 766,071 - 767,369 (-)	mitochondrial carrier protein	
+Tb927.3.2990	Tb927.3.2990:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 767,566 - 768,485 (-)	hypothetical protein, conserved	
+Tb927.3.300	Tb927.3.300:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 53,015 - 54,617 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.3000	Tb927.3.3000:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 769,018 - 771,460 (-)	Putative intraflagellar transport protein C3	
+Tb927.3.3010	Tb927.3.3010:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 771,611 - 772,205 (-)	hypothetical protein, conserved	
+Tb927.3.3020	Tb927.3.3020:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 772,495 - 773,519 (-)	actin-like protein, putative	
+Tb927.3.3030	Tb927.3.3030:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 774,516 - 775,881 (-)	START domain containing protein, putative	
+Tb927.3.3040	Tb927.3.3040:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 776,681 - 778,415 (-)	Right handed beta helix region, putative	
+Tb927.3.3050	Tb927.3.3050:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 778,577 - 781,798 (-)	hypothetical protein, conserved	
+Tb927.3.3060	Tb927.3.3060:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 784,857 - 785,818 (-)	hypothetical protein, conserved	
+Tb927.3.3070	Tb927.3.3070:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 787,225 - 790,021 (-)	3', 5'-cyclic nucleotide phosphodiesterase, putative	
+Tb927.3.3080	Tb927.3.3080:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 790,168 - 792,153 (-)	serine/threonine-protein kinase Nek, putative	
+Tb927.3.3090	Tb927.3.3090:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 792,279 - 795,364 (-)	helicase, putative	
+Tb927.3.310	Tb927.3.310:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 56,056 - 57,631 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.3100	Tb927.3.3100:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 795,477 - 796,466 (-)	peptidyl-prolyl cis-trans isomerase NIMA-interacting 4, putative	
+Tb927.3.3110	Tb927.3.3110:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 796,976 - 800,259 (-)	Nuclear condensing complex subunits, C-term domain containing protein, putative	
+Tb927.3.3120	Tb927.3.3120:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 800,708 - 802,148 (-)	hypothetical protein, conserved	
+Tb927.3.3130	Tb927.3.3130:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 803,152 - 808,398 (-)	Present in the outer mitochondrial membrane proteome 24	
+Tb927.3.3140	Tb927.3.3140:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 809,043 - 809,555 (-)	hypothetical protein, conserved	
+Tb927.3.3150	Tb927.3.3150:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 809,741 - 812,147 (-)	hypothetical protein, conserved	
+Tb927.3.3160	Tb927.3.3160:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 812,625 - 815,337 (-)	poly(A) polymerase, putative	
+Tb927.3.3170	Tb927.3.3170:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 815,548 - 817,930 (-)	hypothetical protein, conserved	
+Tb927.3.3180	Tb927.3.3180:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 818,056 - 821,694 (-)	Nucleoporin	
+Tb927.3.3190	Tb927.3.3190:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 823,161 - 824,826 (-)	serine/threonine-protein kinase, putative	
+Tb927.3.320	Tb927.3.320:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 58,910 - 60,421 (+)	variant surface glycoprotein, point mutation	
+Tb927.3.3200	Tb927.3.3200:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 825,970 - 828,146 (-)	Domain of unknown function (DUF4586), putative	
+Tb927.3.3210	Tb927.3.3210:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 828,264 - 829,704 (-)	hypothetical protein	
+Tb927.3.3220	Tb927.3.3220:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 830,050 - 832,906 (-)	RNA polymerase-associated protein CTR9, putative	
+Tb927.3.3230	Tb927.3.3230:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 833,221 - 835,110 (-)	NOL1/NOP2/sun family, putative	
+Tb927.3.3240	Tb927.3.3240:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 835,295 - 836,022 (-)	hypothetical protein, conserved	
+Tb927.3.3250	Tb927.3.3250:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 836,182 - 837,388 (-)	hypothetical protein, conserved	
+Tb927.3.3260	Tb927.3.3260:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 837,518 - 838,713 (-)	hypothetical protein, conserved	
+Tb927.3.3270	Tb927.3.3270:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 839,799 - 842,347 (-)	ATP-dependent 6-phosphofructokinase, glycosomal	
+Tb927.3.3280	Tb927.3.3280:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 843,271 - 844,991 (-)	vacuolar protein sorting-associated protein 4, putative	
+Tb927.3.3290	Tb927.3.3290:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 845,116 - 847,097 (-)	protein kinase, putative	
+Tb927.3.330	Tb927.3.330:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 62,229 - 63,688 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.3300	Tb927.3.3300:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 848,039 - 850,671 (-)	Flagellum attachment zone protein 19	
+Tb927.3.3310	Tb927.3.3310:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 850,858 - 851,567 (-)	60S ribosomal protein L13, putative	
+Tb927.3.3320	Tb927.3.3320:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 851,677 - 852,476 (-)	60S ribosomal protein L13, putative	
+Tb927.3.3330	Tb927.3.3330:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 852,931 - 853,633 (-)	heat shock protein 20, putative	
+Tb927.3.3340	Tb927.3.3340:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 853,569 - 857,434 (-)	3', 5'-cyclic nucleotide phosphodiesterase, putative	
+Tb927.3.3350	Tb927.3.3350:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 858,697 - 860,263 (-)	hypothetical protein, conserved	
+Tb927.3.3360	Tb927.3.3360:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 860,667 - 862,112 (-)	acyltransferase, putative	
+Tb927.3.3370	Tb927.3.3370:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 862,326 - 863,614 (-)	hypothetical protein, conserved	
+Tb927.3.3380	Tb927.3.3380:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 865,111 - 866,246 (-)	TFIIF-stimulated CTD phosphatase, putative	
+Tb927.3.3390	Tb927.3.3390:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 866,425 - 868,417 (-)	kinesin, putative	
+Tb927.3.340	Tb927.3.340:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 65,865 - 67,445 (+)	variant surface glycoprotein (VSG), putative	
+Tb927.3.3400	Tb927.3.3400:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 868,667 - 870,429 (-)	kinesin, putative	
+Tb927.3.3410	Tb927.3.3410:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 870,987 - 872,540 (-)	aspartyl aminopeptidase, putative	
+Tb927.3.3420	Tb927.3.3420:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 895,831 - 900,971 (-)	hypothetical protein, point mutation	
+Tb927.3.3421	Tb927.3.3421:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 902,861 - 905,111 (+)	18S ribosomal RNA	
+Tb927.3.3422	Tb927.3.3422:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 905,452 - 905,623 (+)	5.8S ribosomal RNA	
+Tb927.3.3423	Tb927.3.3423:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 906,206 - 908,032 (+)	28S alpha ribosomal RNA	
+Tb927.3.3424	Tb927.3.3424:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 908,228 - 908,442 (+)	M1 ribosomal RNA	
+Tb927.3.3425	Tb927.3.3425:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 908,519 - 910,003 (+)	28S beta ribosomal RNA	
+Tb927.3.3426	Tb927.3.3426:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 910,141 - 910,323 (+)	M2 ribosomal RNA	
+Tb927.3.3427	Tb927.3.3427:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 910,655 - 910,732 (+)	M6 ribosomal RNA	
+Tb927.3.3428	Tb927.3.3428:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 911,053 - 911,188 (+)	M4 ribosomal RNA	
+Tb927.3.3429	Tb927.3.3429:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 921,223 - 923,473 (+)	18S ribosomal RNA	
+Tb927.3.3430	Tb927.3.3430:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 967,381 - 972,686 (-)	hypothetical protein, conserved	
+Tb927.3.3431	Tb927.3.3431:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 923,814 - 923,985 (+)	5.8S ribosomal RNA	
+Tb927.3.3432	Tb927.3.3432:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 924,568 - 926,394 (+)	28S alpha ribosomal RNA	
+Tb927.3.3433	Tb927.3.3433:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 926,590 - 926,804 (+)	M1 ribosomal RNA	
+Tb927.3.3434	Tb927.3.3434:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 926,881 - 928,365 (+)	28S beta ribosomal RNA	
+Tb927.3.3435	Tb927.3.3435:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 928,503 - 928,685 (+)	M2 ribosomal RNA	
+Tb927.3.3436	Tb927.3.3436:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 929,008 - 929,085 (+)	M6 ribosomal RNA	
+Tb927.3.3437	Tb927.3.3437:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 929,408 - 929,543 (+)	M4 ribosomal RNA	
+Tb927.3.3438	Tb927.3.3438:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 939,578 - 941,828 (+)	18S ribosomal RNA	
+Tb927.3.3439	Tb927.3.3439:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 942,169 - 942,340 (+)	5.8S ribosomal RNA	
+Tb927.3.3440	Tb927.3.3440:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 977,882 - 979,380 (+)	phytanoyl-CoA dioxygenase (PhyH), putative	
+Tb927.3.3441	Tb927.3.3441:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 942,923 - 944,749 (+)	28S alpha ribosomal RNA	
+Tb927.3.3442	Tb927.3.3442:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 944,945 - 945,159 (+)	M1 ribosomal RNA	
+Tb927.3.3443	Tb927.3.3443:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 945,236 - 946,720 (+)	28S beta ribosomal RNA	
+Tb927.3.3444	Tb927.3.3444:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 946,858 - 947,040 (+)	M2 ribosomal RNA	
+Tb927.3.3445	Tb927.3.3445:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 947,368 - 947,445 (+)	M6 ribosomal RNA	
+Tb927.3.3446	Tb927.3.3446:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 947,768 - 947,903 (+)	M4 ribosomal RNA	
+Tb927.3.3447	Tb927.3.3447:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 957,940 - 960,190 (+)	18S ribosomal RNA	
+Tb927.3.3448	Tb927.3.3448:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 960,539 - 960,710 (+)	5.8S ribosomal RNA	
+Tb927.3.3449	Tb927.3.3449:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 961,295 - 963,123 (+)	28S alpha ribosomal RNA	
+Tb927.3.3450	Tb927.3.3450:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 979,492 - 980,186 (+)	ADP-ribosylation factor-like protein 3, putative	
+Tb927.3.3451	Tb927.3.3451:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 963,319 - 963,533 (+)	M1 ribosomal RNA	
+Tb927.3.3452	Tb927.3.3452:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 963,610 - 965,094 (+)	28S beta ribosomal RNA	
+Tb927.3.3453	Tb927.3.3453:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 965,232 - 965,414 (+)	M2 ribosomal RNA	
+Tb927.3.3454	Tb927.3.3454:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 965,735 - 965,812 (+)	M6 ribosomal RNA	
+Tb927.3.3455	Tb927.3.3455:rRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 966,132 - 966,267 (+)	M4 ribosomal RNA	
+Tb927.3.3460	Tb927.3.3460:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 980,289 - 982,444 (+)	hypothetical protein, conserved	
+Tb927.3.3470	Tb927.3.3470:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 982,571 - 983,178 (+)	cytochrome b5, putative	
+Tb927.3.3480	Tb927.3.3480:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 983,630 - 985,284 (+)	U2 small nuclear ribonucleoprotein B, putative	
+Tb927.3.3490	Tb927.3.3490:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 985,461 - 986,436 (+)	High mobility group protein TDP1	
+Tb927.3.350	Tb927.3.350:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 69,280 - 72,546 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.3500	Tb927.3.3500:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 987,656 - 988,804 (+)	hypothetical protein, conserved	
+Tb927.3.3510	Tb927.3.3510:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 989,171 - 990,675 (+)	hypothetical protein, conserved	
+Tb927.3.3520	Tb927.3.3520:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 991,295 - 992,641 (+)	Present in the outer mitochondrial membrane proteome 25	
+Tb927.3.3530	Tb927.3.3530:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 993,417 - 994,611 (+)	hypothetical protein, conserved	
+Tb927.3.3540	Tb927.3.3540:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 994,961 - 996,689 (+)	Nucleoporin	
+Tb927.3.3550	Tb927.3.3550:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 996,840 - 1,001,694 (+)	hypothetical protein, conserved	
+Tb927.3.3560	Tb927.3.3560:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,001,620 - 1,005,130 (+)	U-box domain containing protein, putative	
+Tb927.3.3570	Tb927.3.3570:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,005,367 - 1,005,898 (+)	hypothetical protein, conserved	
+Tb927.3.3580	Tb927.3.3580:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,006,267 - 1,009,763 (+)	heat shock protein 90, putative	
+Tb927.3.3590	Tb927.3.3590:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,009,870 - 1,012,640 (+)	U3 small nucleolar ribonucleoprotein protein MPP10, putative	
+Tb927.3.360	Tb927.3.360:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 72,974 - 74,506 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.3600	Tb927.3.3600:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,012,767 - 1,014,478 (+)	hypothetical protein	
+Tb927.3.3610	Tb927.3.3610:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,014,647 - 1,015,931 (+)	peroxisomal targeting signal 2 receptor, putative	
+Tb927.3.3620	Tb927.3.3620:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,016,602 - 1,018,084 (+)	hypothetical protein, conserved	
+Tb927.3.3630	Tb927.3.3630:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,018,237 - 1,019,582 (+)	Elongation factor Ts, mitochondrial, putative	
+Tb927.3.3640	Tb927.3.3640:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,020,031 - 1,022,710 (+)	bardet-biedl syndrome 7 protein	
+Tb927.3.3650	Tb927.3.3650:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,022,870 - 1,024,569 (+)	hypothetical protein, conserved	
+Tb927.3.3660	Tb927.3.3660:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,025,461 - 1,026,953 (+)	NADH-ubiquinone oxidoreductase complex I subunit, putative	
+Tb927.3.3670	Tb927.3.3670:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,027,081 - 1,029,265 (+)	Triple RNA binding domain protein 3	
+Tb927.3.3680	Tb927.3.3680:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,029,417 - 1,030,389 (+)	hypothetical protein, conserved	
+Tb927.3.3690	Tb927.3.3690:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,030,530 - 1,032,991 (+)	flagellar radial spoke protein-like, putative	
+Tb927.3.370	Tb927.3.370:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 76,227 - 77,962 (+)	variant surface glycoprotein (VSG, atypical), putative	
+Tb927.3.3700	Tb927.3.3700:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,033,145 - 1,033,898 (+)	hypothetical protein	
+Tb927.3.3710	Tb927.3.3710:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,034,037 - 1,034,901 (+)	Scavenger mRNA decapping enzyme C-term binding, putative	
+Tb927.3.3720	Tb927.3.3720:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,035,054 - 1,035,634 (+)	Golgi vesicular membrane trafficking protein, putative	
+Tb927.3.3730	Tb927.3.3730:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,036,205 - 1,043,888 (+)	ABC transporter, putative	
+Tb927.3.3740	Tb927.3.3740:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,044,045 - 1,047,503 (+)	Zinc-finger double-stranded RNA-binding, putative	
+Tb927.3.3750	Tb927.3.3750:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,047,416 - 1,048,145 (+)	paraflagellar rod component, putative	
+Tb927.3.3760	Tb927.3.3760:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,050,397 - 1,050,898 (+)	tryparedoxin 1b, putative	
+Tb927.3.3770	Tb927.3.3770:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,051,496 - 1,053,378 (+)	paraflagellar rod component, putative	
+Tb927.3.3780	Tb927.3.3780:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,053,516 - 1,054,471 (+)	tryparedoxin 1a, putative	
+Tb927.3.3790	Tb927.3.3790:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,054,615 - 1,055,847 (+)	hypothetical protein, conserved	
+Tb927.3.380	Tb927.3.380:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 78,807 - 79,421 (+)	variant surface glycoprotein, truncated, degenerate	
+Tb927.3.3800	Tb927.3.3800.1:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,056,047 - 1,059,074 (+)	hypothetical protein, conserved	
+Tb927.3.3800	Tb927.3.3800.2:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,055,982 - 1,059,074 (+)	hypothetical protein, conserved	
+Tb927.3.3810	Tb927.3.3810:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,059,287 - 1,060,571 (+)	Etoposide-induced protein 2.4 (EI24), putative	
+Tb927.3.3820	Tb927.3.3820:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,061,167 - 1,062,587 (+)	hypothetical protein, conserved	
+Tb927.3.3830	Tb927.3.3830:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,063,424 - 1,064,870 (+)	hypothetical protein, conserved	
+Tb927.3.3840	Tb927.3.3840:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,065,041 - 1,066,255 (+)	Family of unknown function (DUF572), putative	
+Tb927.3.3850	Tb927.3.3850:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,066,388 - 1,070,719 (+)	COPII coat assembly protein sec16	
+Tb927.3.3860	Tb927.3.3860:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,071,418 - 1,075,572 (+)	triacylglycerol lipase, putative	
+Tb927.3.3870	Tb927.3.3870:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,075,942 - 1,079,769 (+)	lipase domain protein, putative	
+Tb927.3.3880	Tb927.3.3880:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,080,706 - 1,081,663 (+)	hypothetical protein, conserved	
+Tb927.3.3890	Tb927.3.3890:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,081,904 - 1,082,956 (+)	hypothetical protein, conserved	
+Tb927.3.390	Tb927.3.390:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 80,676 - 82,214 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.3900	Tb927.3.3900:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,083,950 - 1,085,884 (+)	carnitine O-palmitoyltransferase II, putative	
+Tb927.3.3910	Tb927.3.3910:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,088,042 - 1,089,199 (+)	RNA polymerase Rpc34 subunit, putative	
+Tb927.3.3920	Tb927.3.3920:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,089,611 - 1,091,821 (+)	serine/threonine-protein kinase, putative	
+Tb927.3.3930	Tb927.3.3930:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,091,925 - 1,096,021 (+)	RNA-binding protein	
+Tb927.3.3940	Tb927.3.3940:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,096,380 - 1,107,530 (+)	RNA-binding protein, putative	
+Tb927.3.3950	Tb927.3.3950:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,107,175 - 1,109,585 (+)	hypothetical protein, conserved	
+Tb927.3.3960	Tb927.3.3960:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,110,200 - 1,113,671 (+)	Double RNA binding domain protein 6A	
+Tb927.3.3970	Tb927.3.3970:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,113,957 - 1,115,248 (+)	Cell growth-regulating nucleolar protein, putative	
+Tb927.3.3980	Tb927.3.3980:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,116,504 - 1,118,163 (+)	hypothetical protein, conserved	
+Tb927.3.3990	Tb927.3.3990:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,119,170 - 1,120,510 (+)	KREPB6	
+Tb927.3.400	Tb927.3.400:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 84,061 - 85,595 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.4000	Tb927.3.4000:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,121,011 - 1,121,645 (+)	clathrin coat assembly protein ap19, putative	
+Tb927.3.4005	Tb927.3.4005:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,123,626 - 1,123,844 (+)	hypothetical protein	
+Tb927.3.4010	Tb927.3.4010:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,124,707 - 1,126,831 (-)	hypothetical protein	
+Tb927.3.4020	Tb927.3.4020:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,127,210 - 1,134,341 (-)	phosphatidylinositol 4-kinase alpha, putative	
+Tb927.3.4030	Tb927.3.4030:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,135,385 - 1,139,035 (-)	hypothetical protein, conserved	
+Tb927.3.4040	Tb927.3.4040:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,139,215 - 1,142,352 (-)	Ankyrin repeats (3 copies), putative	
+Tb927.3.4050	Tb927.3.4050:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,142,546 - 1,143,211 (-)	hypothetical protein, conserved	
+Tb927.3.4060	Tb927.3.4060:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,143,388 - 1,147,796 (-)	asparagine synthase, putative	
+Tb927.3.4070	Tb927.3.4070:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,147,941 - 1,150,117 (-)	Nodulin-like, putative	
+Tb927.3.4080	Tb927.3.4080:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,150,361 - 1,152,378 (-)	Nodulin-like, putative	
+Tb927.3.4090	Tb927.3.4090:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,152,523 - 1,154,714 (-)	Nodulin-like, putative	
+Tb927.3.410	Tb927.3.410:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 87,860 - 89,384 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.4100	Tb927.3.4100:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,154,859 - 1,157,033 (-)	Nodulin-like, putative	
+Tb927.3.4110	Tb927.3.4110:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,157,178 - 1,159,419 (-)	Nodulin-like, putative	
+Tb927.3.4120	Tb927.3.4120:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,160,791 - 1,162,845 (-)	hypothetical protein, conserved	
+Tb927.3.4130	Tb927.3.4130:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,163,095 - 1,164,175 (-)	hypothetical protein, conserved	
+Tb927.3.4140	Tb927.3.4140:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,164,343 - 1,166,113 (-)	hypothetical protein, conserved	
+Tb927.3.4150	Tb927.3.4150:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,167,017 - 1,168,422 (-)	hypothetical protein, conserved	
+Tb927.3.4160	Tb927.3.4160:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,169,750 - 1,171,171 (-)	XPC-binding domain/UBA/TS-N domain containing protein, putative	
+Tb927.3.4170	Tb927.3.4170:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,171,342 - 1,172,125 (-)	CRK9-associated protein	
+Tb927.3.4180	Tb927.3.4180:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,173,210 - 1,174,771 (-)	hypothetical protein	
+Tb927.3.4190	Tb927.3.4190:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,176,215 - 1,178,210 (-)	endosomal integral membrane protein, putative	
+Tb927.3.420	Tb927.3.420:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 90,838 - 92,413 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.4200	Tb927.3.4200:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,178,327 - 1,179,642 (-)	Integral membrane protein S linking to the trans Golgi network, putative	
+Tb927.3.4210	Tb927.3.4210:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,179,578 - 1,185,224 (-)	hypothetical protein, conserved	
+Tb927.3.4220	Tb927.3.4220:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,185,640 - 1,189,068 (-)	Zn-finger domain protein, putative	
+Tb927.3.4230	Tb927.3.4230:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,190,317 - 1,194,927 (-)	serine peptidase, clan SB, family S8-like protein	
+Tb927.3.4240	Tb927.3.4240:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,195,175 - 1,195,833 (-)	thioredoxin, putative	
+Tb927.3.4250	Tb927.3.4250:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,195,959 - 1,197,732 (-)	hypothetical protein, conserved	
+Tb927.3.4260	Tb927.3.4260:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,197,849 - 1,200,217 (-)	Acyl-coenzyme A thioesterase, putative	
+Tb927.3.4270	Tb927.3.4270:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,202,789 - 1,205,668 (-)	hypothetical protein, conserved	
+Tb927.3.4280	Tb927.3.4280:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,205,814 - 1,208,549 (-)	mismatch repair protein MSH5, putative	
+Tb927.3.4290	Tb927.3.4290:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,208,659 - 1,210,764 (-)	Paraflagellar rod protein 1-1	
+Tb927.3.430	Tb927.3.430:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 94,159 - 94,786 (+)	expression site-associated gene 3 (ESAG3), truncated	
+Tb927.3.4300	Tb927.3.4300:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,210,898 - 1,212,927 (-)	Paraflagellar rod protein 1-2	
+Tb927.3.4310	Tb927.3.4310:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,213,061 - 1,215,090 (-)	Paraflagellar rod protein 1-3	
+Tb927.3.4320	Tb927.3.4320:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,215,224 - 1,217,253 (-)	Paraflagellar rod protein 1-4	
+Tb927.3.4330	Tb927.3.4330:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,217,387 - 1,219,341 (-)	Paraflagellar rod protein 1-5	
+Tb927.3.4340	Tb927.3.4340:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,219,486 - 1,220,572 (-)	diphthamide synthesis protein, putative	
+Tb927.3.4350	Tb927.3.4350:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,220,808 - 1,223,242 (-)	twin BRCT domain containing protein, putative	
+Tb927.3.4360	Tb927.3.4360:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,223,335 - 1,223,860 (-)	40S ribosomal protein S15A, putative	
+Tb927.3.4370	Tb927.3.4370:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,224,042 - 1,225,746 (-)	Vesicle coat protein involved in Golgi to plasma membrane transport, putative	
+Tb927.3.4380	Tb927.3.4380:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,225,916 - 1,227,511 (-)	Tob55, putative	
+Tb927.3.4390	Tb927.3.4390:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,227,814 - 1,229,349 (-)	dihydrolipoamide dehydrogenase, putative	
+Tb927.3.4393	Tb927.3.4393:tRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,233,524 - 1,233,604 (+)	tRNA Serine	
+Tb927.3.4396	Tb927.3.4396:tRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,233,810 - 1,233,891 (-)	tRNA Leucine	
+Tb927.3.4399	Tb927.3.4399:tRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,233,951 - 1,234,031 (-)	tRNA Serine	
+Tb927.3.440	Tb927.3.440:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 95,058 - 96,632 (+)	variant surface glycoprotein (VSG), putative	
+Tb927.3.4400	Tb927.3.4400:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,239,476 - 1,240,592 (-)	basal body component, putative	
+Tb927.3.4410	Tb927.3.4410:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,240,791 - 1,241,549 (-)	pre-RNA processing PIH1/Nop17, putative	
+Tb927.3.4420	Tb927.3.4420:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,241,845 - 1,243,238 (-)	hypothetical protein, conserved	
+Tb927.3.4430	Tb927.3.4430:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,243,455 - 1,245,315 (-)	hypothetical protein, conserved	
+Tb927.3.4440	Tb927.3.4440:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,245,769 - 1,247,011 (-)	hypothetical protein, conserved	
+Tb927.3.4450	Tb927.3.4450:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,247,046 - 1,248,640 (-)	hypothetical protein, conserved	
+Tb927.3.4460	Tb927.3.4460:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,248,752 - 1,250,049 (-)	hypothetical protein, conserved	
+Tb927.3.4470	Tb927.3.4470:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,250,893 - 1,252,761 (-)	hypothetical protein, conserved	
+Tb927.3.4480	Tb927.3.4480:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,252,839 - 1,254,091 (-)	hypothetical protein, conserved	
+Tb927.3.4490	Tb927.3.4490:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,253,602 - 1,256,295 (-)	protein farnesyltransferase alpha subunit, putative	
+Tb927.3.450	Tb927.3.450:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 97,480 - 98,052 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.4500	Tb927.3.4500:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,256,475 - 1,259,944 (-)	Fumarate hydratase class I, cytosolic	
+Tb927.3.4510	Tb927.3.4510:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,260,167 - 1,264,660 (-)	hypothetical protein, conserved	
+Tb927.3.4520	Tb927.3.4520:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,265,164 - 1,266,120 (-)	hypothetical protein, conserved	
+Tb927.3.4530	Tb927.3.4530:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,266,277 - 1,267,053 (-)	hypothetical protein, conserved	
+Tb927.3.4540	Tb927.3.4540:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,267,258 - 1,268,775 (-)	NOL1/NOP2/sun family, putative	
+Tb927.3.4550	Tb927.3.4550:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,269,073 - 1,271,242 (-)	hypothetical protein, conserved	
+Tb927.3.4560	Tb927.3.4560:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,271,986 - 1,276,431 (-)	5'-AMP-activated protein kinase catalytic subunit alpha, putative	
+Tb927.3.4570	Tb927.3.4570:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,276,960 - 1,279,395 (-)	N-acetylglucosamyl transferase component GPI1, putative	
+Tb927.3.4580	Tb927.3.4580:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,279,500 - 1,282,748 (-)	hypothetical protein, conserved	
+Tb927.3.4590	Tb927.3.4590:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,287,351 - 1,289,172 (-)	hypothetical protein, conserved	
+Tb927.3.460	Tb927.3.460:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 98,736 - 99,841 (+)	expression site-associated gene 3 (ESAG3), degenerate	
+Tb927.3.4600	Tb927.3.4600:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,289,776 - 1,293,047 (-)	hypothetical protein, conserved	
+Tb927.3.4610	Tb927.3.4610:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,293,531 - 1,303,027 (-)	Right handed beta helix region, putative	
+Tb927.3.4620	Tb927.3.4620:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,303,395 - 1,307,829 (-)	AAA domain containing protein, putative	
+Tb927.3.4630	Tb927.3.4630:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,308,295 - 1,313,623 (-)	UDP-glucose:glycoprotein glucosyltransferase, putative	
+Tb927.3.4640	Tb927.3.4640:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,315,276 - 1,316,362 (-)	VIT family, putative	
+Tb927.3.4650	Tb927.3.4650:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,316,508 - 1,318,041 (-)	C-8 sterol isomerase, putative	
+Tb927.3.4660	Tb927.3.4660:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,318,146 - 1,320,803 (-)	WD domain, G-beta repeat, putative	
+Tb927.3.4670	Tb927.3.4670:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,320,660 - 1,323,117 (-)	cdc2-related kinase 10, putative	
+Tb927.3.4680	Tb927.3.4680:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,323,390 - 1,325,471 (-)	RAB GDP dissociation inhibitor alpha, putative	
+Tb927.3.4690	Tb927.3.4690:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,325,430 - 1,327,284 (-)	DTW domain containing protein, putative	
+Tb927.3.470	Tb927.3.470:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 99,974 - 101,521 (+)	variant surface glycoprotein, point mutation	
+Tb927.3.4700	Tb927.3.4700.1	T. brucei brucei TREU927	Tb927_03_v5.1: 1,327,586 - 1,328,809 (-)	Domain of unknown function (DUF4379), putative	
+Tb927.3.4700	Tb927.3.4700.2	T. brucei brucei TREU927	Tb927_03_v5.1: 1,327,586 - 1,328,765 (-)	Domain of unknown function (DUF4379), putative	
+Tb927.3.4710	Tb927.3.4710:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,329,115 - 1,332,832 (-)	hypothetical protein, conserved	
+Tb927.3.4720	Tb927.3.4720:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,333,773 - 1,336,482 (-)	dynamin-1-like protein	
+Tb927.3.4730	Tb927.3.4730:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,336,586 - 1,337,962 (-)	leucine-rich repeat-containing protein	
+Tb927.3.4740	Tb927.3.4740:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,338,096 - 1,339,418 (-)	NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus, putative	
+Tb927.3.4750	Tb927.3.4750:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,339,545 - 1,342,389 (-)	Aminopeptidase M1, putative	
+Tb927.3.4760	Tb927.3.4760:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,342,630 - 1,346,506 (-)	dynamin-1-like protein	
+Tb927.3.4770	Tb927.3.4770:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,346,761 - 1,347,986 (-)	leucine-rich repeat-containing protein	
+Tb927.3.4780	Tb927.3.4780:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,348,120 - 1,349,442 (-)	NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus, putative	
+Tb927.3.4790	Tb927.3.4790:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,349,765 - 1,352,413 (-)	Aminopeptidase M1, putative	
+Tb927.3.480	Tb927.3.480:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 102,535 - 104,152 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.4800	Tb927.3.4800:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,352,639 - 1,354,592 (-)	hypothetical protein, conserved	
+Tb927.3.4810	Tb927.3.4810.1:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,354,950 - 1,355,766 (-)	dna replication complex gins protein sld5	
+Tb927.3.4810	Tb927.3.4810.2:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,354,950 - 1,356,515 (-)	dna replication complex gins protein sld5	
+Tb927.3.4820	Tb927.3.4820:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,355,989 - 1,358,388 (-)	acyltransferase, putative	
+Tb927.3.4830	Tb927.3.4830:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,358,917 - 1,361,420 (-)	hypothetical protein	
+Tb927.3.4840	Tb927.3.4840:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,362,003 - 1,365,220 (-)	ubiquitin carboxyl-terminal hydrolase, putative	
+Tb927.3.4850	Tb927.3.4850:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,364,414 - 1,368,019 (-)	enoyl-CoA hydratase, mitochondrial precursor, putative	
+Tb927.3.4860	Tb927.3.4860:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,368,289 - 1,369,499 (-)	mitogen-activated protein kinase kinase 1	
+Tb927.3.4870	Tb927.3.4870.1:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,369,724 - 1,370,695 (-)	hypothetical protein, conserved	
+Tb927.3.4870	Tb927.3.4870.2:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,369,724 - 1,370,764 (-)	hypothetical protein, conserved	
+Tb927.3.4880	Tb927.3.4880:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,372,191 - 1,372,755 (-)	nucleosome assembly protein (NAP), putative	
+Tb927.3.4890	Tb927.3.4890:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,372,947 - 1,373,571 (-)	ubiquinone biosynthesis protein COQ7 homolog, putative	
+Tb927.3.490	Tb927.3.490:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 105,461 - 106,990 (+)	variant surface glycoprotein (VSG), putative	
+Tb927.3.4900	Tb927.3.4900:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,376,018 - 1,377,455 (+)	tRNA isopentenyltransferase, putative	
+Tb927.3.4910	Tb927.3.4910:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,377,581 - 1,378,855 (+)	signal peptide peptidase, putative	
+Tb927.3.4920	Tb927.3.4920:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,378,996 - 1,380,959 (+)	LETM1 and EF-hand domain-containing protein 1, putative	
+Tb927.3.4930	Tb927.3.4930:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,382,454 - 1,383,148 (+)	hypothetical protein, conserved	
+Tb927.3.4940	Tb927.3.4940:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,383,288 - 1,386,855 (+)	5-histidylcysteine sulfoxide synthase, putative	
+Tb927.3.4950	Tb927.3.4950:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,386,977 - 1,388,502 (+)	hypothetical protein, conserved	
+Tb927.3.4960	Tb927.3.4960:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,388,719 - 1,395,086 (+)	kinesin, putative	
+Tb927.3.4970	Tb927.3.4970:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,395,259 - 1,398,792 (+)	hypothetical protein, conserved	
+Tb927.3.4980	Tb927.3.4980:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 1,399,175 - 1,401,010 (+)	hypothetical protein, conserved, frameshift	
+Tb927.3.4990	Tb927.3.4990:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,402,185 - 1,403,610 (+)	oxidoreductase, putative	
+Tb927.3.500	Tb927.3.500:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 108,301 - 111,728 (+)	variant surface glycoprotein, degenerate	
+Tb927.3.5000	Tb927.3.5000:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,403,982 - 1,405,842 (+)	hypothetical protein, conserved	
+Tb927.3.5010	Tb927.3.5010:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,405,984 - 1,407,746 (+)	hypothetical protein, conserved	
+Tb927.3.5020	Tb927.3.5020:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,407,902 - 1,412,485 (+)	Flagellar Member 6	
+Tb927.3.5030	Tb927.3.5030:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,412,930 - 1,415,199 (+)	KU70 protein	
+Tb927.3.5040	Tb927.3.5040:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,415,521 - 1,417,473 (+)	hypothetical protein, conserved	
+Tb927.3.5050	Tb927.3.5050:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,417,688 - 1,418,920 (+)	60S ribosomal protein L4	
+Tb927.3.5060	Tb927.3.5060:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,419,106 - 1,420,764 (+)	Ankyrin repeats (many copies)/Ankyrin repeats (3 copies), putative	
+Tb927.3.5070	Tb927.3.5070:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,421,164 - 1,424,174 (+)	hypothetical protein, conserved	
+Tb927.3.5080	Tb927.3.5080:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,423,885 - 1,428,969 (+)	PSP1 C-terminal conserved region, putative	
+Tb927.3.5090	Tb927.3.5090:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,428,758 - 1,429,640 (+)	tryparedoxin 2, putative	
+Tb927.3.510	Tb927.3.510:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 111,962 - 115,422 (+)	hypothetical protein, conserved	
+Tb927.3.5100	Tb927.3.5100:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,430,411 - 1,433,425 (+)	tfiih basal transcription factor complex helicase xpb subunit	
+Tb927.3.5110	Tb927.3.5110:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,433,760 - 1,435,292 (+)	hypothetical protein, conserved	
+Tb927.3.5120	Tb927.3.5120:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,435,679 - 1,438,022 (+)	Ankyrin repeats (3 copies), putative	
+Tb927.3.5130	Tb927.3.5130:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,438,351 - 1,440,624 (+)	exonuclease, putative	
+Tb927.3.5140	Tb927.3.5140:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,440,801 - 1,445,019 (+)	exonuclease, putative	
+Tb927.3.5150	Tb927.3.5150:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,445,701 - 1,447,128 (+)	exonuclease, putative	
+Tb927.3.5160	Tb927.3.5160:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,447,240 - 1,452,012 (+)	Basal body protein	
+Tb927.3.5170	Tb927.3.5170:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,452,140 - 1,453,632 (+)	hypothetical protein, conserved	
+Tb927.3.5180	Tb927.3.5180:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,453,785 - 1,455,250 (+)	cofilin/actin depolymerizing factor, putative	
+Tb927.3.5190	Tb927.3.5190:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,455,437 - 1,459,102 (+)	hypothetical protein, conserved	
+Tb927.3.520	Tb927.3.520:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 116,511 - 117,514 (-)	expression site-associated gene 1 (ESAG1) protein, putative	
+Tb927.3.5200	Tb927.3.5200:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,459,261 - 1,460,747 (+)	hypothetical protein, conserved	
+Tb927.3.5210	Tb927.3.5210:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,460,900 - 1,463,290 (+)	hypothetical protein, conserved	
+Tb927.3.5220	Tb927.3.5220:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,463,417 - 1,465,599 (+)	hypothetical protein, conserved	
+Tb927.3.5230	Tb927.3.5230:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,468,380 - 1,470,750 (+)	DNA repair protein, putative	
+Tb927.3.5240	Tb927.3.5240:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,470,928 - 1,472,888 (+)	hypothetical protein, conserved	
+Tb927.3.5250	Tb927.3.5250:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,473,200 - 1,477,510 (+)	Zinc finger CCCH domain-containing protein 8	
+Tb927.3.5260	Tb927.3.5260:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,479,700 - 1,481,437 (+)	hypothetical protein, conserved	
+Tb927.3.5270	Tb927.3.5270:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,481,538 - 1,482,494 (+)	DNA-directed RNA polymerases II subunit, putative	
+Tb927.3.5280	Tb927.3.5280:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,482,597 - 1,483,755 (+)	spliceosome-associated protein 49, putative	
+Tb927.3.5290	Tb927.3.5290:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,483,878 - 1,487,020 (+)	hypothetical protein, conserved	
+Tb927.3.530	Tb927.3.530:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 117,548 - 118,584 (-)	expression site-associated gene 11 (ESAG11), degenerate	
+Tb927.3.5300	Tb927.3.5300:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,487,507 - 1,488,316 (+)	hypothetical protein, conserved	
+Tb927.3.5310	Tb927.3.5310:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,488,474 - 1,495,456 (+)	paraflagellar rod protein	
+Tb927.3.5320	Tb927.3.5320:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,495,705 - 1,497,604 (+)	UBX domain-containing protein	
+Tb927.3.5330	Tb927.3.5330:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,497,756 - 1,498,827 (+)	centaurin beta 5	
+Tb927.3.5340	Tb927.3.5340:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,499,002 - 1,500,498 (+)	Hsc70-interacting protein (Hip), putative	
+Tb927.3.5350	Tb927.3.5350:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,500,661 - 1,502,104 (+)	hypothetical protein, conserved	
+Tb927.3.5360	Tb927.3.5360:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,502,268 - 1,503,097 (+)	FHA domain containing protein, putative	
+Tb927.3.5370	Tb927.3.5370:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,504,120 - 1,505,708 (+)	hypothetical protein, conserved	
+Tb927.3.5380	Tb927.3.5380:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,505,831 - 1,507,777 (+)	Tubulin-tyrosine ligase family, putative	
+Tb927.3.5390	Tb927.3.5390:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,508,164 - 1,511,945 (+)	Ring finger domain containing protein, putative	
+Tb927.3.540	Tb927.3.540:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 118,749 - 118,928 (-)	expression site-associated gene 1 (ESAG1), truncated	
+Tb927.3.5400	Tb927.3.5400:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,512,077 - 1,514,072 (+)	RIO1 family, putative	
+Tb927.3.5410	Tb927.3.5410:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,514,197 - 1,515,076 (+)	hypothetical protein, conserved	
+Tb927.3.5420	Tb927.3.5420:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,515,376 - 1,518,439 (+)	protein transport protein Sec24	
+Tb927.3.5430	Tb927.3.5430:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,519,471 - 1,520,580 (+)	hypothetical protein, conserved	
+Tb927.3.5440	Tb927.3.5440:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,521,306 - 1,526,051 (+)	SNF2 DNA repair protein, putative	
+Tb927.3.5450	Tb927.3.5450:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,526,191 - 1,529,718 (+)	Basal body protein	
+Tb927.3.5460	Tb927.3.5460:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,529,352 - 1,531,555 (+)	RNA-binding protein, putative	
+Tb927.3.5470	Tb927.3.5470:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,531,656 - 1,532,939 (+)	hypothetical protein, conserved	
+Tb927.3.5480	Tb927.3.5480:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,533,067 - 1,534,922 (+)	hypothetical protein, conserved	
+Tb927.3.5490	Tb927.3.5490:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,535,025 - 1,537,910 (+)	Putative intraflagellar transport protein B2	
+Tb927.3.550	Tb927.3.550:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 119,582 - 120,565 (-)	expression site-associated gene 1 (ESAG1), degenerate	
+Tb927.3.5500	Tb927.3.5500:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,538,179 - 1,539,265 (+)	DNA-directed RNA polymerase II subunit 3, putative	
+Tb927.3.5510	Tb927.3.5510:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,539,492 - 1,542,178 (+)	hypothetical protein, conserved	
+Tb927.3.5520	Tb927.3.5520:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,542,625 - 1,545,648 (+)	26S proteasome regulatory non-ATPase subunit	
+Tb927.3.5530	Tb927.3.5530:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,547,337 - 1,555,793 (+)	Tb-292 membrane associated protein	
+Tb927.3.5540	Tb927.3.5540:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,555,909 - 1,558,125 (+)	dynein intermediate chain WDRD34, putative	
+Tb927.3.5550	Tb927.3.5550:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,558,248 - 1,559,338 (+)	intraflagellar transport protein 27	
+Tb927.3.5560	Tb927.3.5560:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,559,566 - 1,560,194 (+)	hypothetical protein, conserved	
+Tb927.3.5570	Tb927.3.5570:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,560,358 - 1,561,512 (+)	syntaxin, putative	
+Tb927.3.5580	Tb927.3.5580:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,561,668 - 1,563,208 (+)	tryptophanyl-tRNA synthetase	
+Tb927.3.5590	Tb927.3.5590:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,563,363 - 1,565,502 (+)	hypothetical protein, conserved	
+Tb927.3.560	Tb927.3.560:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 120,686 - 121,796 (-)	expression site-associated gene 11 (ESAG11) protein, putative	
+Tb927.3.5600	Tb927.3.5600:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,565,890 - 1,566,861 (+)	hypothetical protein, conserved	
+Tb927.3.5610	Tb927.3.5610:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,566,997 - 1,568,423 (+)	ribosomal protein L3 mitochondrial, putative	
+Tb927.3.5620	Tb927.3.5620:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,568,664 - 1,572,607 (+)	Metallopeptidase family M24/FACT complex subunit (SPT16/CDC68)/Histone chaperone Rttp106-like, putative	
+Tb927.3.5630	Tb927.3.5630:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,572,749 - 1,573,724 (+)	3,2-trans-enoyl-CoA isomerase, mitochondrial precursor, putative	
+Tb927.3.5640	Tb927.3.5640:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,573,934 - 1,575,623 (+)	nuclear transcription factor, putative	
+Tb927.3.5650	Tb927.3.5650:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,575,993 - 1,580,457 (+)	serine/threonine protein kinase, putative	
+Tb927.3.5660	Tb927.3.5660:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,580,614 - 1,583,258 (+)	UDP-GlcNAc:alpha3-D-mannoside beta-1,2-N-acetylglucosaminyltransferase I	
+Tb927.3.5670	Tb927.3.5670:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,583,384 - 1,584,075 (+)	hypothetical protein	
+Tb927.3.5680	Tb927.3.5680:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,585,958 - 1,587,472 (+)	variant surface glycoprotein (VSG)-related, putative	
+Tb927.3.5690	Tb927.3.5690:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,589,037 - 1,593,944 (+)	hypothetical protein, conserved	
+Tb927.3.570	Tb927.3.570:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 121,971 - 126,087 (-)	expression site-associated gene 2 (ESAG2) protein, putative	
+Tb927.3.5700	Tb927.3.5700:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,594,758 - 1,595,829 (+)	hypothetical protein, conserved	
+Tb927.3.5710	Tb927.3.5710:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,596,636 - 1,597,707 (+)	hypothetical protein, conserved	
+Tb927.3.5720	Tb927.3.5720:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,598,448 - 1,599,522 (+)	hypothetical protein, conserved	
+Tb927.3.5730	Tb927.3.5730:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,600,328 - 1,601,399 (+)	hypothetical protein, conserved	
+Tb927.3.5740	Tb927.3.5740:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,601,609 - 1,602,329 (+)	hypothetical protein	
+Tb927.3.5750	Tb927.3.5750:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 1,603,691 - 1,605,543 (-)	retrotransposon hot spot protein (RHS, pseudogene), putative	
+Tb927.3.5760	Tb927.3.5760:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,605,884 - 1,608,396 (-)	hypothetical protein, conserved	
+Tb927.3.5770	Tb927.3.5770:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,608,770 - 1,612,137 (-)	hypothetical protein	
+Tb927.3.5780	Tb927.3.5780:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,613,228 - 1,618,931 (+)	hypothetical protein	
+Tb927.3.5790	Tb927.3.5790:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 1,620,335 - 1,622,149 (+)	expression site-associated gene 9 (ESAG9) (pseudogene)	
+Tb927.3.580	Tb927.3.580.1:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 126,588 - 128,725 (-)	leucine-rich repeat protein (LRRP), putative	
+Tb927.3.580	Tb927.3.580.2:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 126,588 - 132,470 (-)	leucine-rich repeat protein (LRRP), putative	
+Tb927.3.5800	Tb927.3.5800:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 1,623,201 - 1,625,552 (+)	expression site-associated gene 1 (ESAG1), degenerate	
+Tb927.3.5810	Tb927.3.5810:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 1,626,012 - 1,627,306 (+)	expression site-associated gene 2 (ESAG2) (pseudogene)	
+Tb927.3.5820	Tb927.3.5820:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 1,627,481 - 1,628,605 (+)	expression site-associated gene 11 (ESAG11), degenerate	
+Tb927.3.5830	Tb927.3.5830:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 1,628,732 - 1,629,709 (+)	expression site-associated gene 1 (ESAG1) protein, putative	
+Tb927.3.585	Tb927.3.585:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 132,747 - 133,153 (-)	hypothetical protein	
+Tb927.3.5850	Tb927.3.5850:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 1,637,900 - 1,639,342 (-)	variant surface glycoprotein, degenerate	
+Tb927.3.5860	Tb927.3.5860:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 1,641,295 - 1,642,892 (-)	variant surface glycoprotein, frameshift	
+Tb927.3.5870	Tb927.3.5870:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 1,644,624 - 1,645,145 (-)	variant surface glycoprotein, fragment	
+Tb927.3.5880	Tb927.3.5880:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 1,645,938 - 1,647,798 (-)	variant surface glycoprotein, point mutation	
+Tb927.3.5890	Tb927.3.5890:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 1,648,542 - 1,650,097 (-)	variant surface glycoprotein, point mutation	
+Tb927.3.590	Tb927.3.590:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 147,064 - 148,503 (+)	adenosine transporter, putative	
+Tb927.3.5900	Tb927.3.5900:pseudogenic_transcript	T. brucei brucei TREU927	Tb927_03_v5.1: 1,651,983 - 1,653,225 (-)	variant surface glycoprotein, frameshift	
+Tb927.3.600	Tb927.3.600:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 149,271 - 153,240 (-)	hypothetical protein	
+Tb927.3.610	Tb927.3.610:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 156,134 - 156,719 (-)	N-acetyltransferase complex ARD1 subunit, putative	
+Tb927.3.620	Tb927.3.620:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 156,847 - 159,552 (-)	ATP-dependent DEAD/H RNA helicase, putative	
+Tb927.3.630	Tb927.3.630:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 159,729 - 160,235 (-)	hypothetical protein, conserved	
+Tb927.3.640	Tb927.3.640:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 160,377 - 161,414 (-)	hypothetical protein, conserved	
+Tb927.3.650	Tb927.3.650:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 161,532 - 162,003 (-)	hypothetical protein, conserved	
+Tb927.3.660	Tb927.3.660:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 162,237 - 163,455 (-)	hypothetical protein, conserved	
+Tb927.3.670	Tb927.3.670:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 163,700 - 165,162 (-)	hypothetical protein	
+Tb927.3.680	Tb927.3.680:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 165,709 - 168,444 (-)	cytochrome P450, putative	
+Tb927.3.690	Tb927.3.690:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 168,318 - 171,009 (-)	protein kinase, putative	
+Tb927.3.700	Tb927.3.700:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 171,635 - 171,971 (-)	hypothetical protein, conserved	
+Tb927.3.710	Tb927.3.710:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 172,235 - 175,339 (-)	RING-variant domain containing protein, putative	
+Tb927.3.720	Tb927.3.720:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 176,506 - 177,482 (-)	zinc finger protein 3	
+Tb927.3.730	Tb927.3.730:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 177,312 - 179,131 (-)	hypothetical protein, conserved	
+Tb927.3.740	Tb927.3.740:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 180,970 - 182,057 (-)	ZFP family member, putative	
+Tb927.3.750	Tb927.3.750:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 181,871 - 183,449 (-)	SET domain containing protein, putative	
+Tb927.3.760	Tb927.3.760:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 183,811 - 185,490 (-)	hypothetical protein, conserved	
+Tb927.3.770	Tb927.3.770:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 185,626 - 186,488 (-)	hypothetical protein, conserved	
+Tb927.3.780	Tb927.3.780:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 187,245 - 188,055 (-)	proteasome alpha 7 subunit	
+Tb927.3.790	Tb927.3.790:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 188,200 - 189,339 (-)	zinc finger CCCH domain-containing protein 6, putative	
+Tb927.3.800	Tb927.3.800:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 189,558 - 191,349 (-)	Vacuolar iron transporter 1, putative	
+Tb927.3.810	Tb927.3.810:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 191,584 - 192,679 (-)	hypothetical protein, conserved	
+Tb927.3.820	Tb927.3.820:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 192,821 - 193,468 (-)	hypothetical protein, conserved	
+Tb927.3.830	Tb927.3.830:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 193,729 - 194,942 (-)	flap endonuclease-1 (FEN-1), putative	
+Tb927.3.840	Tb927.3.840:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 195,057 - 196,587 (-)	hypothetical protein, conserved	
+Tb927.3.850	Tb927.3.850:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 198,108 - 201,065 (-)	hypothetical protein, conserved	
+Tb927.3.860	Tb927.3.860:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 201,175 - 201,908 (-)	Acyl carrier protein, mitochondrial	
+Tb927.3.870	Tb927.3.870:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 206,155 - 207,529 (+)	Histone RNA hairpin-binding protein RNA-binding domain containing protein, putative	
+Tb927.3.880	Tb927.3.880:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 207,804 - 208,563 (+)	Ankyrin repeats (3 copies), putative	
+Tb927.3.890	Tb927.3.890:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 208,766 - 209,708 (+)	hypothetical protein, conserved	
+Tb927.3.900	Tb927.3.900:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 209,858 - 211,025 (+)	PUB domain containing protein, putative	
+Tb927.3.910	Tb927.3.910:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 211,151 - 212,683 (+)	tubulin gamma chain	
+Tb927.3.920	Tb927.3.920:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 213,261 - 216,961 (+)	hypothetical protein, conserved	
+Tb927.3.930	Tb927.3.930:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 217,061 - 232,068 (+)	dynein heavy chain, putative	
+Tb927.3.940	Tb927.3.940:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 231,840 - 232,851 (+)	Complex 1 protein (LYR family), putative	
+Tb927.3.945	Tb927.3.945:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 232,991 - 234,492 (+)	hypothetical protein	
+Tb927.3.950	Tb927.3.950:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 234,877 - 237,757 (+)	2OG-Fe(II) oxygenase superfamily, putative	
+Tb927.3.960	Tb927.3.960:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 237,656 - 238,496 (+)	protein transport protein Sec61 gamma subunit, putative	
+Tb927.3.970	Tb927.3.970:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 238,813 - 240,226 (+)	NAD binding domain of 6-phosphogluconate dehydrogenase/NAD-binding of NADP-dependent 3-hydroxyisobutyrate dehydrogenase, putative	
+Tb927.3.980	Tb927.3.980:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 240,358 - 242,646 (+)	hypothetical protein, conserved	
+Tb927.3.990	Tb927.3.990:mRNA	T. brucei brucei TREU927	Tb927_03_v5.1: 243,207 - 245,316 (+)	hypothetical protein, conserved	
+Tb927_03_v4.snoRNA.0100	Tb927_03_v4.snoRNA.0100.1	T. brucei brucei TREU927	Tb927_03_v5.1: 1,370,335 - 1,370,433 (+)	unspecified product	

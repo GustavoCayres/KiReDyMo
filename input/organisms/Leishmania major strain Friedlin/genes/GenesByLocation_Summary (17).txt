@@ -1,0 +1,222 @@
+[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
+LmjF.18.0010	LmjF.18.0010:mRNA	L. major strain Friedlin	LmjF.18: 1,694 - 4,702 (-)	kinetoplast polyadenylation/uridylation factor 1	
+LmjF.18.0020	LmjF.18.0020:mRNA	L. major strain Friedlin	LmjF.18: 6,788 - 7,939 (-)	mevalonate-diphosphate decarboxylase, putative	
+LmjF.18.0030	LmjF.18.0030:mRNA	L. major strain Friedlin	LmjF.18: 8,741 - 9,775 (-)	RNA-binding protein 27, putative	
+LmjF.18.0040	LmjF.18.0040:mRNA	L. major strain Friedlin	LmjF.18: 10,218 - 11,834 (-)	major facilitator superfamily protein (MFS), putative	
+LmjF.18.0050	LmjF.18.0050:mRNA	L. major strain Friedlin	LmjF.18: 12,709 - 15,630 (-)	hypothetical protein, conserved	
+LmjF.18.0060	LmjF.18.0060:mRNA	L. major strain Friedlin	LmjF.18: 16,445 - 16,918 (-)	hypothetical protein, conserved	
+LmjF.18.0070	LmjF.18.0070:mRNA	L. major strain Friedlin	LmjF.18: 19,126 - 21,297 (-)	zinc-finger of a C2HC-type/Double zinc ribbon, putative	
+LmjF.18.0080	LmjF.18.0080:mRNA	L. major strain Friedlin	LmjF.18: 22,425 - 23,864 (-)	3-beta hydroxysteroid dehydrogenase/isomerase family, putative	
+LmjF.18.0090	LmjF.18.0090:mRNA	L. major strain Friedlin	LmjF.18: 25,237 - 27,675 (-)	alpha glucosidase II subunit, putative	
+LmjF.18.0100	LmjF.18.0100:mRNA	L. major strain Friedlin	LmjF.18: 28,475 - 29,830 (-)	hypothetical protein, conserved	
+LmjF.18.0110	LmjF.18.0110:mRNA	L. major strain Friedlin	LmjF.18: 30,359 - 34,834 (-)	Protein of unknown function (DUF726), putative	
+LmjF.18.0120	LmjF.18.0120:mRNA	L. major strain Friedlin	LmjF.18: 36,384 - 36,767 (-)	ARF-like 2-binding protein, putative	
+LmjF.18.0130	LmjF.18.0130:mRNA	L. major strain Friedlin	LmjF.18: 37,769 - 39,835 (-)	Domain of unknown function DUF21, putative	
+LmjF.18.0140	LmjF.18.0140:mRNA	L. major strain Friedlin	LmjF.18: 41,951 - 44,191 (-)	Domain of unknown function DUF21, putative	
+LmjF.18.0150	LmjF.18.0150:mRNA	L. major strain Friedlin	LmjF.18: 46,564 - 47,973 (-)	serine/threonine protein phosphatase type 5, putative	
+LmjF.18.0160	LmjF.18.0160:mRNA	L. major strain Friedlin	LmjF.18: 48,813 - 50,930 (-)	Lipase (class 3), putative	
+LmjF.18.0170	LmjF.18.0170:mRNA	L. major strain Friedlin	LmjF.18: 59,930 - 60,973 (-)	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain), putative	
+LmjF.18.0180	LmjF.18.0180:mRNA	L. major strain Friedlin	LmjF.18: 70,601 - 71,647 (-)	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain), putative	
+LmjF.18.0190	LmjF.18.0190:mRNA	L. major strain Friedlin	LmjF.18: 87,422 - 88,450 (-)	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain), putative	
+LmjF.18.0200	LmjF.18.0200:mRNA	L. major strain Friedlin	LmjF.18: 99,021 - 100,496 (-)	UDP-galactopyranose mutase	
+LmjF.18.0210	LmjF.18.0210:mRNA	L. major strain Friedlin	LmjF.18: 101,888 - 102,943 (-)	Activator of Hsp90 ATPase, N-terminal/Activator of Hsp90 ATPase homolog 1-like protein, putative	
+LmjF.18.0220	LmjF.18.0220:mRNA	L. major strain Friedlin	LmjF.18: 104,850 - 106,079 (-)	RNA-binding protein 29, putative	
+LmjF.18.0230	LmjF.18.0230:mRNA	L. major strain Friedlin	LmjF.18: 108,589 - 109,485 (-)	60S ribosomal protein L7, putative	
+LmjF.18.0240	LmjF.18.0240:mRNA	L. major strain Friedlin	LmjF.18: 111,536 - 112,750 (-)	hypothetical protein, conserved	
+LmjF.18.0250	LmjF.18.0250:mRNA	L. major strain Friedlin	LmjF.18: 113,445 - 114,188 (-)	hypothetical protein, conserved	
+LmjF.18.0260	LmjF.18.0260:mRNA	L. major strain Friedlin	LmjF.18: 115,059 - 115,415 (-)	hypothetical protein, conserved	
+LmjF.18.0270	LmjF.18.0270:mRNA	L. major strain Friedlin	LmjF.18: 123,069 - 124,136 (-)	glycogen synthase kinase 3, putative	
+LmjF.18.0280	LmjF.18.0280:mRNA	L. major strain Friedlin	LmjF.18: 127,467 - 129,518 (-)	hypothetical protein, conserved	
+LmjF.18.0290	LmjF.18.0290:mRNA	L. major strain Friedlin	LmjF.18: 131,126 - 132,136 (-)	dephospho-CoA kinase, putative	
+LmjF.18.0300	LmjF.18.0300:mRNA	L. major strain Friedlin	LmjF.18: 133,918 - 135,018 (-)	hypothetical protein, conserved	
+LmjF.18.0310	LmjF.18.0310:mRNA	L. major strain Friedlin	LmjF.18: 136,577 - 136,885 (-)	hypothetical protein, conserved	
+LmjF.18.0320	LmjF.18.0320:mRNA	L. major strain Friedlin	LmjF.18: 137,701 - 138,483 (-)	Domain of unknown function (DUF4379), putative	
+LmjF.18.0330	LmjF.18.0330:mRNA	L. major strain Friedlin	LmjF.18: 139,836 - 140,570 (-)	DnaJ domain containing protein, putative	
+LmjF.18.0340	LmjF.18.0340:mRNA	L. major strain Friedlin	LmjF.18: 142,197 - 143,594 (-)	Domain of unknown function (DUF4475), putative	
+LmjF.18.0350	LmjF.18.0350:mRNA	L. major strain Friedlin	LmjF.18: 144,723 - 145,922 (-)	ATP12 chaperone protein, putative	
+LmjF.18.0360	LmjF.18.0360.1:mRNA	L. major strain Friedlin	LmjF.18: 146,659 - 147,480 (-)	GPI-anchor transamidase subunit 8 (GPI8), putative	
+LmjF.18.0360	LmjF.18.0360.2:mRNA	L. major strain Friedlin	LmjF.18: 146,659 - 147,865 (-)	GPI-anchor transamidase subunit 8 (GPI8), putative	
+LmjF.18.0370	LmjF.18.0370:mRNA	L. major strain Friedlin	LmjF.18: 149,636 - 151,030 (-)	tubulin tyrosine ligase protein, putative	
+LmjF.18.0380	LmjF.18.0380:mRNA	L. major strain Friedlin	LmjF.18: 151,795 - 155,625 (-)	hypothetical protein, conserved	
+LmjF.18.0390	LmjF.18.0390:mRNA	L. major strain Friedlin	LmjF.18: 157,835 - 163,123 (-)	hypothetical protein, conserved	
+LmjF.18.0400	LmjF.18.0400:mRNA	L. major strain Friedlin	LmjF.18: 165,716 - 167,401 (-)	UDP-galactose transporter	
+LmjF.18.0410	LmjF.18.0410:mRNA	L. major strain Friedlin	LmjF.18: 170,357 - 170,959 (-)	hypothetical protein, conserved	
+LmjF.18.0420	LmjF.18.0420:mRNA	L. major strain Friedlin	LmjF.18: 172,456 - 172,869 (-)	hypothetical protein, conserved	
+LmjF.18.0430	LmjF.18.0430:mRNA	L. major strain Friedlin	LmjF.18: 187,175 - 187,846 (-)	hypothetical protein, unknown function	
+LmjF.18.0440	LmjF.18.0440:mRNA	L. major strain Friedlin	LmjF.18: 189,254 - 190,525 (-)	phosphatidic acid phosphatase, putative	
+LmjF.18.0450	LmjF.18.0450:mRNA	L. major strain Friedlin	LmjF.18: 192,734 - 194,122 (-)	serine carboxypeptidase (CBP1), putative	
+LmjF.18.0460	LmjF.18.0460:mRNA	L. major strain Friedlin	LmjF.18: 195,993 - 196,691 (-)	tubulin-specific chaperone, putative	
+LmjF.18.0470	LmjF.18.0470:mRNA	L. major strain Friedlin	LmjF.18: 197,783 - 199,648 (-)	paralyzed flagella protein 20	
+LmjF.18.0480	LmjF.18.0480:mRNA	L. major strain Friedlin	LmjF.18: 200,607 - 201,773 (-)	uracil-DNA-glycosylase, putative	
+LmjF.18.0490	LmjF.18.0490:mRNA	L. major strain Friedlin	LmjF.18: 202,316 - 203,182 (-)	btb/poz domain containing protein, putative	
+LmjF.18.0500	LmjF.18.0500:mRNA	L. major strain Friedlin	LmjF.18: 204,049 - 205,311 (-)	hypothetical protein, conserved	
+LmjF.18.0510	LmjF.18.0510:mRNA	L. major strain Friedlin	LmjF.18: 209,236 - 211,926 (-)	aconitase, putative	
+LmjF.18.0520	LmjF.18.0520:mRNA	L. major strain Friedlin	LmjF.18: 213,788 - 216,025 (-)	hypothetical protein, conserved	
+LmjF.18.0530	LmjF.18.0530:mRNA	L. major strain Friedlin	LmjF.18: 219,027 - 220,595 (-)	tubulin cofactor C domain-containing protein RP2, putative (pseudogene)	
+LmjF.18.0540	LmjF.18.0540:mRNA	L. major strain Friedlin	LmjF.18: 224,368 - 225,909 (-)	hypothetical protein, conserved	
+LmjF.18.0550	LmjF.18.0550:mRNA	L. major strain Friedlin	LmjF.18: 226,574 - 227,902 (-)	hypothetical protein, conserved	
+LmjF.18.0560	LmjF.18.0560:mRNA	L. major strain Friedlin	LmjF.18: 228,469 - 229,611 (-)	vacuolar ATP synthase subunit c, putative	
+LmjF.18.0570	LmjF.18.0570:mRNA	L. major strain Friedlin	LmjF.18: 231,533 - 234,727 (+)	hypothetical protein, conserved	
+LmjF.18.0580	LmjF.18.0580:mRNA	L. major strain Friedlin	LmjF.18: 235,607 - 236,578 (+)	peroxisomal enoyl-coa hydratase, putative	
+LmjF.18.0590	LmjF.18.0590:mRNA	L. major strain Friedlin	LmjF.18: 241,349 - 242,602 (+)	RNA binding protein, putative	
+LmjF.18.0595	LmjF.18.0595:mRNA	L. major strain Friedlin	LmjF.18: 248,778 - 249,050 (+)	hypothetical protein	
+LmjF.18.0600	LmjF.18.0600:mRNA	L. major strain Friedlin	LmjF.18: 250,746 - 252,656 (+)	Zn-finger in Ran binding protein and others/FYVE zinc finger, putative	
+LmjF.18.0610	LmjF.18.0610:mRNA	L. major strain Friedlin	LmjF.18: 258,115 - 259,911 (+)	ATP-dependent zinc metallopeptidase, putative	
+LmjF.18.0620	LmjF.18.0620:mRNA	L. major strain Friedlin	LmjF.18: 261,282 - 261,926 (+)	60S ribosomal protein L10a, putative	
+LmjF.18.0630	LmjF.18.0630:mRNA	L. major strain Friedlin	LmjF.18: 264,602 - 266,290 (+)	hypothetical protein, unknown function	
+LmjF.18.0640	LmjF.18.0640:mRNA	L. major strain Friedlin	LmjF.18: 266,997 - 267,812 (+)	serine/threonine kinase-like protein, putative	
+LmjF.18.0650	LmjF.18.0650:mRNA	L. major strain Friedlin	LmjF.18: 272,175 - 276,098 (+)	PA26 p53-induced protein (sestrin), putative	
+LmjF.18.0670	LmjF.18.0670:mRNA	L. major strain Friedlin	LmjF.18: 293,991 - 295,355 (+)	citrate synthase, putative	
+LmjF.18.0680	LmjF.18.0680:mRNA	L. major strain Friedlin	LmjF.18: 287,997 - 289,409 (+)	citrate synthase, putative	
+LmjF.18.0690	LmjF.18.0690:mRNA	L. major strain Friedlin	LmjF.18: 284,369 - 286,846 (+)	hypothetical protein, conserved	
+LmjF.18.0700	LmjF.18.0700:mRNA	L. major strain Friedlin	LmjF.18: 279,661 - 281,796 (+)	HEAT repeats, putative	
+LmjF.18.0710	LmjF.18.0710:mRNA	L. major strain Friedlin	LmjF.18: 301,012 - 306,081 (+)	hypothetical protein, unknown function	
+LmjF.18.0720	LmjF.18.0720:mRNA	L. major strain Friedlin	LmjF.18: 308,766 - 312,068 (+)	hypothetical protein, conserved	
+LmjF.18.0730	LmjF.18.0730:mRNA	L. major strain Friedlin	LmjF.18: 312,801 - 313,553 (+)	dynein light chain Tctex-type, putative	
+LmjF.18.0740	LmjF.18.0740:mRNA	L. major strain Friedlin	LmjF.18: 314,646 - 316,046 (+)	Elongation factor Tu, mitochondrial, putative	
+LmjF.18.0750	LmjF.18.0750:mRNA	L. major strain Friedlin	LmjF.18: 317,633 - 319,330 (+)	hypothetical protein, unknown function	
+LmjF.18.0760	LmjF.18.0760:mRNA	L. major strain Friedlin	LmjF.18: 320,131 - 320,421 (+)	Zinc-finger double-stranded RNA-binding, putative	
+LmjF.18.0770	LmjF.18.0770:mRNA	L. major strain Friedlin	LmjF.18: 321,253 - 326,334 (+)	hypothetical protein, conserved	
+LmjF.18.0780	LmjF.18.0780:mRNA	L. major strain Friedlin	LmjF.18: 327,440 - 328,159 (+)	DNA-directed RNA polymerase II/III subunit, putative	
+LmjF.18.0790	LmjF.18.0790:mRNA	L. major strain Friedlin	LmjF.18: 328,835 - 329,863 (+)	DNA-directed RNA polymerase I subunit RPB5z, putative	
+LmjF.18.0800	LmjF.18.0800:mRNA	L. major strain Friedlin	LmjF.18: 330,714 - 331,649 (+)	Ribosomal protein S8, putative	
+LmjF.18.0810	LmjF.18.0810:mRNA	L. major strain Friedlin	LmjF.18: 333,077 - 334,324 (+)	ethanolamine phosphotransferase, putative	
+LmjF.18.0820	LmjF.18.0820:mRNA	L. major strain Friedlin	LmjF.18: 335,591 - 343,564 (+)	hypothetical protein, conserved	
+LmjF.18.0830	LmjF.18.0830:mRNA	L. major strain Friedlin	LmjF.18: 344,117 - 346,945 (+)	Periodic tryptophan protein 2 homolog, putative	
+LmjF.18.0840	LmjF.18.0840:mRNA	L. major strain Friedlin	LmjF.18: 348,339 - 354,494 (+)	hypothetical protein, conserved	
+LmjF.18.0850	LmjF.18.0850:mRNA	L. major strain Friedlin	LmjF.18: 356,125 - 364,731 (+)	hypothetical protein, conserved	
+LmjF.18.0860	LmjF.18.0860:mRNA	L. major strain Friedlin	LmjF.18: 366,269 - 369,040 (+)	hypothetical protein, conserved	
+LmjF.18.0870	LmjF.18.0870:mRNA	L. major strain Friedlin	LmjF.18: 369,750 - 371,360 (+)	hypothetical protein, conserved	
+LmjF.18.0880	LmjF.18.0880:mRNA	L. major strain Friedlin	LmjF.18: 372,669 - 376,175 (+)	cyclosporin 16, putative	
+LmjF.18.0890	LmjF.18.0890:mRNA	L. major strain Friedlin	LmjF.18: 376,760 - 377,431 (+)	rab7 GTP binding protein, putative	
+LmjF.18.0900	LmjF.18.0900:mRNA	L. major strain Friedlin	LmjF.18: 379,853 - 382,477 (+)	dolichyl-P-Man:GDP-ManGlcNAc2-PP-dolichyl beta-1,4-mannosyltransferase, putative	
+LmjF.18.0910	LmjF.18.0910:mRNA	L. major strain Friedlin	LmjF.18: 383,603 - 386,923 (+)	hypothetical protein, conserved	
+LmjF.18.0920	LmjF.18.0920:mRNA	L. major strain Friedlin	LmjF.18: 387,666 - 389,555 (+)	actin-related protein 2/3 complex subunit 1, putative	
+LmjF.18.0930	LmjF.18.0930:mRNA	L. major strain Friedlin	LmjF.18: 390,090 - 392,717 (+)	hypothetical protein, conserved	
+LmjF.18.0940	LmjF.18.0940:mRNA	L. major strain Friedlin	LmjF.18: 393,424 - 397,266 (+)	Nrap protein, putative	
+LmjF.18.0950	LmjF.18.0950:mRNA	L. major strain Friedlin	LmjF.18: 398,323 - 399,417 (+)	hypothetical protein, conserved	
+LmjF.18.0960	LmjF.18.0960:mRNA	L. major strain Friedlin	LmjF.18: 400,056 - 402,170 (+)	mannosyltransferase-II, putative	
+LmjF.18.0970	LmjF.18.0970:mRNA	L. major strain Friedlin	LmjF.18: 403,541 - 409,702 (+)	hypothetical protein, conserved	
+LmjF.18.0980	LmjF.18.0980:mRNA	L. major strain Friedlin	LmjF.18: 410,673 - 411,245 (+)	hypothetical protein, conserved	
+LmjF.18.0990	LmjF.18.0990:mRNA	L. major strain Friedlin	LmjF.18: 412,668 - 414,152 (+)	UDP-glucose pyrophosphorylase	
+LmjF.18.1000	LmjF.18.1000:mRNA	L. major strain Friedlin	LmjF.18: 415,030 - 416,373 (+)	mitochondrial carrier protein, putative	
+LmjF.18.1010	LmjF.18.1010:mRNA	L. major strain Friedlin	LmjF.18: 417,663 - 418,001 (+)	Outer arm dynein light chain 7	
+LmjF.18.1020	LmjF.18.1020:mRNA	L. major strain Friedlin	LmjF.18: 419,501 - 424,084 (+)	hypothetical protein, unknown function	
+LmjF.18.1030	LmjF.18.1030:mRNA	L. major strain Friedlin	LmjF.18: 429,733 - 432,186 (+)	hypothetical protein, conserved	
+LmjF.18.1040	LmjF.18.1040:mRNA	L. major strain Friedlin	LmjF.18: 434,093 - 438,127 (+)	5-oxoprolinase, putative	
+LmjF.18.1050	LmjF.18.1050:mRNA	L. major strain Friedlin	LmjF.18: 439,294 - 443,637 (+)	hypothetical protein, conserved	
+LmjF.18.1060	LmjF.18.1060:mRNA	L. major strain Friedlin	LmjF.18: 450,158 - 452,482 (+)	cysteine peptidase, Clan CA, family C2, putative	
+LmjF.18.1070	LmjF.18.1070:mRNA	L. major strain Friedlin	LmjF.18: 452,915 - 455,698 (+)	Vacuolar protein sorting-associated protein 16 homolog, putative	
+LmjF.18.1080	LmjF.18.1080:mRNA	L. major strain Friedlin	LmjF.18: 456,651 - 457,649 (+)	protein kinase A catalytic subunit 3	
+LmjF.18.1090	LmjF.18.1090:mRNA	L. major strain Friedlin	LmjF.18: 460,747 - 462,642 (+)	cAMP phosphodiesterase A, putative	
+LmjF.18.1100	LmjF.18.1100:mRNA	L. major strain Friedlin	LmjF.18: 464,717 - 465,652 (+)	Ankyrin repeats (3 copies), putative	
+LmjF.18.1110	LmjF.18.1110:mRNA	L. major strain Friedlin	LmjF.18: 466,459 - 469,008 (+)	Multisite-specific tRNA:(cytosine-C(5))-methyltransferase, putative	
+LmjF.18.1120	LmjF.18.1120:mRNA	L. major strain Friedlin	LmjF.18: 470,107 - 471,177 (+)	AN1-like zinc finger, putative	
+LmjF.18.1130	LmjF.18.1130:mRNA	L. major strain Friedlin	LmjF.18: 472,767 - 473,477 (+)	Ras-related protein Rab5A, putative	
+LmjF.18.1140	LmjF.18.1140:mRNA	L. major strain Friedlin	LmjF.18: 479,419 - 482,898 (+)	hypothetical protein, conserved	
+LmjF.18.1150	LmjF.18.1150:mRNA	L. major strain Friedlin	LmjF.18: 483,639 - 484,721 (+)	Zinc finger, C3HC4 type (RING finger), putative	
+LmjF.18.1160	LmjF.18.1160:mRNA	L. major strain Friedlin	LmjF.18: 492,329 - 492,658 (+)	hypothetical protein, conserved	
+LmjF.18.1170	LmjF.18.1170:mRNA	L. major strain Friedlin	LmjF.18: 495,553 - 496,161 (+)	hypothetical protein, conserved	
+LmjF.18.1180	LmjF.18.1180:mRNA	L. major strain Friedlin	LmjF.18: 497,766 - 502,427 (+)	hypothetical protein, conserved	
+LmjF.18.1190	LmjF.18.1190:mRNA	L. major strain Friedlin	LmjF.18: 503,423 - 507,238 (+)	hypothetical protein, conserved	
+LmjF.18.1200	LmjF.18.1200:mRNA	L. major strain Friedlin	LmjF.18: 507,837 - 508,652 (+)	Complex 1 protein (LYR family), putative	
+LmjF.18.1210	LmjF.18.1210:mRNA	L. major strain Friedlin	LmjF.18: 509,834 - 512,290 (+)	prolyl-tRNA synthetase, putative	
+LmjF.18.1220	LmjF.18.1220:mRNA	L. major strain Friedlin	LmjF.18: 514,549 - 516,744 (+)	bifunctional aminoacyl-tRNA synthetase, putative	
+LmjF.18.1230	LmjF.18.1230:mRNA	L. major strain Friedlin	LmjF.18: 517,755 - 519,614 (+)	SET domain containing protein, putative	
+LmjF.18.1240	LmjF.18.1240:mRNA	L. major strain Friedlin	LmjF.18: 521,392 - 523,707 (+)	pre-RNA processing PIH1/Nop17, putative	
+LmjF.18.1250	LmjF.18.1250:mRNA	L. major strain Friedlin	LmjF.18: 525,915 - 528,305 (+)	ttaggg binding factor, putative	
+LmjF.18.1260	LmjF.18.1260:mRNA	L. major strain Friedlin	LmjF.18: 529,837 - 530,799 (+)	mitochondrial carrier protein, putative	
+LmjF.18.1265	LmjF.18.1265:mRNA	L. major strain Friedlin	LmjF.18: 532,835 - 533,785 (+)	mitochondrial carrier protein, putative	
+LmjF.18.1270	LmjF.18.1270:mRNA	L. major strain Friedlin	LmjF.18: 535,818 - 536,768 (+)	mitochondrial carrier protein, putative	
+LmjF.18.1275	LmjF.18.1275:mRNA	L. major strain Friedlin	LmjF.18: 538,805 - 539,755 (+)	mitochondrial carrier protein, putative	
+LmjF.18.1280	LmjF.18.1280:mRNA	L. major strain Friedlin	LmjF.18: 541,790 - 542,740 (+)	mitochondrial carrier protein, putative	
+LmjF.18.1285	LmjF.18.1285:mRNA	L. major strain Friedlin	LmjF.18: 544,775 - 545,725 (+)	mitochondrial carrier protein, putative	
+LmjF.18.1290	LmjF.18.1290:mRNA	L. major strain Friedlin	LmjF.18: 547,763 - 548,713 (+)	mitochondrial carrier protein, putative	
+LmjF.18.1300	LmjF.18.1300:mRNA	L. major strain Friedlin	LmjF.18: 550,750 - 551,676 (+)	mitochondrial carrier protein, putative	
+LmjF.18.1310	LmjF.18.1310.1:mRNA	L. major strain Friedlin	LmjF.18: 554,929 - 557,206 (+)	Acetyltransferase (GNAT) family, putative	
+LmjF.18.1310	LmjF.18.1310.2:mRNA	L. major strain Friedlin	LmjF.18: 553,949 - 557,206 (+)	Acetyltransferase (GNAT) family, putative	
+LmjF.18.1320	LmjF.18.1320:mRNA	L. major strain Friedlin	LmjF.18: 558,187 - 562,596 (+)	hypothetical protein, conserved	
+LmjF.18.1330	LmjF.18.1330:mRNA	L. major strain Friedlin	LmjF.18: 566,424 - 568,202 (+)	cholinephosphate cytidylyltransferase A, putative	
+LmjF.18.1340	LmjF.18.1340:mRNA	L. major strain Friedlin	LmjF.18: 573,573 - 575,879 (+)	hypothetical protein, conserved	
+LmjF.18.1350	LmjF.18.1350:mRNA	L. major strain Friedlin	LmjF.18: 586,453 - 588,351 (+)	hypothetical protein, conserved	
+LmjF.18.1360	LmjF.18.1360:mRNA	L. major strain Friedlin	LmjF.18: 604,235 - 607,117 (+)	hypothetical protein, conserved	
+LmjF.18.1370	LmjF.18.1370:mRNA	L. major strain Friedlin	LmjF.18: 608,452 - 610,923 (+)	heat shock protein 110, putative	
+LmjF.18.1380	LmjF.18.1380:mRNA	L. major strain Friedlin	LmjF.18: 613,924 - 615,060 (+)	pyruvate dehydrogenase E1 component alpha subunit, putative	
+LmjF.18.1390	LmjF.18.1390:mRNA	L. major strain Friedlin	LmjF.18: 617,388 - 618,686 (+)	hypothetical protein, conserved	
+LmjF.18.1400	LmjF.18.1400:mRNA	L. major strain Friedlin	LmjF.18: 619,271 - 619,777 (+)	60S ribosomal protein L34, putative	
+LmjF.18.1410	LmjF.18.1410:mRNA	L. major strain Friedlin	LmjF.18: 620,964 - 624,074 (+)	hypothetical protein, conserved	
+LmjF.18.1420	LmjF.18.1420:mRNA	L. major strain Friedlin	LmjF.18: 626,121 - 628,793 (+)	pumilio protein 2, putative	
+LmjF.18.1430	LmjF.18.1430:mRNA	L. major strain Friedlin	LmjF.18: 640,281 - 643,640 (+)	chaperone DNAJ protein, putative	
+LmjF.18.1440	LmjF.18.1440:mRNA	L. major strain Friedlin	LmjF.18: 645,714 - 646,415 (+)	EF-hand domain pair, putative	
+LmjF.18.1450	LmjF.18.1450:mRNA	L. major strain Friedlin	LmjF.18: 652,795 - 658,917 (+)	Protein of unknown function (DUF3648), putative	
+LmjF.18.1460	LmjF.18.1460:mRNA	L. major strain Friedlin	LmjF.18: 663,599 - 666,325 (+)	hypothetical protein, conserved	
+LmjF.18.1470	LmjF.18.1470:mRNA	L. major strain Friedlin	LmjF.18: 667,125 - 668,174 (+)	hypothetical protein, conserved	
+LmjF.18.1480	LmjF.18.1480:mRNA	L. major strain Friedlin	LmjF.18: 669,774 - 670,688 (+)	NADH-ubiquinone oxidoreductase complex I subunit, putative	
+LmjF.18.1490	LmjF.18.1490:mRNA	L. major strain Friedlin	LmjF.18: 672,949 - 673,503 (+)	chaperone protein DNAj, putative	
+LmjF.18.1500	LmjF.18.1500:mRNA	L. major strain Friedlin	LmjF.18: 674,546 - 677,950 (+)	hypothetical protein, conserved	
+LmjF.18.1510	LmjF.18.1510:mRNA	L. major strain Friedlin	LmjF.18: 679,523 - 682,447 (+)	P-type H+-ATPase, putative	
+LmjF.18.1520	LmjF.18.1520:mRNA	L. major strain Friedlin	LmjF.18: 684,689 - 687,613 (+)	P-type H+-ATPase, putative	
+LmjF.18.1530	LmjF.18.1530:mRNA	L. major strain Friedlin	LmjF.18: 691,615 - 695,595 (+)	kinesin, putative	
+LmjF.18.1540	LmjF.18.1540:mRNA	L. major strain Friedlin	LmjF.18: 696,350 - 697,438 (+)	UAA transporter family, putative	
+LmjF.18.1550	LmjF.18.1550:mRNA	L. major strain Friedlin	LmjF.18: 698,047 - 699,306 (+)	hypothetical protein, unknown function	
+LmjF.18.1560	LmjF.18.1560:mRNA	L. major strain Friedlin	LmjF.18: 699,984 - 701,675 (+)	hypothetical protein, conserved	
+LmjF.18.1570	LmjF.18.1570:mRNA	L. major strain Friedlin	LmjF.18: 703,571 - 704,035 (+)	Zinc finger, C3HC4 type (RING finger), putative	
+LmjF.18.1580	LmjF.18.1580:mRNA	L. major strain Friedlin	LmjF.18: 706,392 - 707,336 (+)	nonspecific nucleoside hydrolase	
+LmjF.18.1590	LmjF.18.1590:mRNA	L. major strain Friedlin	LmjF.18: 709,770 - 710,411 (+)	hypothetical protein, unknown function	
+LmjF.18.1600	LmjF.18.1600:mRNA	L. major strain Friedlin	LmjF.18: 712,420 - 714,810 (+)	kinesin, putative	
+LmjF.18.1610	LmjF.18.1610:mRNA	L. major strain Friedlin	LmjF.18: 715,435 - 717,399 (+)	Noc2p family, putative	
+LmjF.18.1620	LmjF.18.1620:mRNA	L. major strain Friedlin	LmjF.18: 719,270 - 719,701 (+)	Got1/Sft2-like family, putative	
+LmjF.18.1625	LmjF.18.1625:mRNA	L. major strain Friedlin	LmjF.18: 720,682 - 721,359 (+)	hypothetical protein, conserved	
+LmjF.18.1630	LmjF.18.1630:mRNA	L. major strain Friedlin	LmjF.18: 723,697 - 724,467 (+)	hypothetical protein, conserved	
+LmjF.18.1640	LmjF.18.1640:mRNA	L. major strain Friedlin	LmjF.18: 725,300 - 725,656 (+)	hypothetical protein, conserved	
+LmjF.18.1650	LmjF.18.1650:mRNA	L. major strain Friedlin	LmjF.18: 726,872 - 728,614 (+)	chaperone protein DNAj, putative	
+LmjF.18.1660	LmjF.18.1660:mRNA	L. major strain Friedlin	LmjF.18: 729,902 - 731,965 (+)	gamma-glutamylcysteine synthetase, putative	
+LmjF.18.1670	LmjF.18.1670:mRNA	L. major strain Friedlin	LmjF.18: 735,997 - 737,718 (+)	hypothetical protein, unknown function	
+LmjF.18.snoRNA0097	LmjF.18.snoRNA0097:snoRNA	L. major strain Friedlin	LmjF.18: 174,711 - 174,778 (-)	H/ACA-like snoRNA	
+LmjF.18.snoRNA0098	LmjF.18.snoRNA0098:snoRNA	L. major strain Friedlin	LmjF.18: 175,721 - 175,788 (-)	H/ACA-like snoRNA	
+LmjF.18.snoRNA0099	LmjF.18.snoRNA0099:snoRNA	L. major strain Friedlin	LmjF.18: 176,731 - 176,798 (-)	H/ACA-like snoRNA	
+LmjF.18.snoRNA0100	LmjF.18.snoRNA0100:snoRNA	L. major strain Friedlin	LmjF.18: 177,719 - 177,786 (-)	H/ACA-like snoRNA	
+LmjF.18.snoRNA0101	LmjF.18.snoRNA0101:snoRNA	L. major strain Friedlin	LmjF.18: 178,717 - 178,784 (-)	H/ACA-like snoRNA	
+LmjF.18.snoRNA0102	LmjF.18.snoRNA0102:snoRNA	L. major strain Friedlin	LmjF.18: 179,703 - 179,770 (-)	H/ACA-like snoRNA	
+LmjF.18.snoRNA0103	LmjF.18.snoRNA0103:snoRNA	L. major strain Friedlin	LmjF.18: 180,695 - 180,762 (-)	H/ACA-like snoRNA	
+LmjF.18.snoRNA0104	LmjF.18.snoRNA0104:snoRNA	L. major strain Friedlin	LmjF.18: 181,681 - 181,748 (-)	H/ACA-like snoRNA	
+LmjF.18.snoRNA0105	LmjF.18.snoRNA0105:snoRNA	L. major strain Friedlin	LmjF.18: 182,667 - 182,734 (-)	H/ACA-like snoRNA	
+LmjF.18.snoRNA0106	LmjF.18.snoRNA0106:snoRNA	L. major strain Friedlin	LmjF.18: 183,659 - 183,726 (-)	H/ACA-like snoRNA	
+LmjF.18.snoRNA0107	LmjF.18.snoRNA0107:snoRNA	L. major strain Friedlin	LmjF.18: 184,641 - 184,708 (-)	H/ACA-like snoRNA	
+LmjF.18.snoRNA0108	LmjF.18.snoRNA0108:snoRNA	L. major strain Friedlin	LmjF.18: 307,454 - 307,521 (+)	H/ACA-like snoRNA	
+LmjF.18.snoRNA0109	LmjF.18.snoRNA0109:snoRNA	L. major strain Friedlin	LmjF.18: 307,133 - 307,217 (+)	C/D snoRNA	
+LmjF.18.snoRNA0110	LmjF.18.snoRNA0110:snoRNA	L. major strain Friedlin	LmjF.18: 174,293 - 174,391 (-)	C/D snoRNA	
+LmjF.18.snoRNA0111	LmjF.18.snoRNA0111:snoRNA	L. major strain Friedlin	LmjF.18: 175,283 - 175,381 (-)	C/D snoRNA	
+LmjF.18.snoRNA0112	LmjF.18.snoRNA0112:snoRNA	L. major strain Friedlin	LmjF.18: 176,293 - 176,391 (-)	C/D snoRNA	
+LmjF.18.snoRNA0113	LmjF.18.snoRNA0113:snoRNA	L. major strain Friedlin	LmjF.18: 177,303 - 177,401 (-)	C/D snoRNA	
+LmjF.18.snoRNA0114	LmjF.18.snoRNA0114:snoRNA	L. major strain Friedlin	LmjF.18: 178,291 - 178,389 (-)	C/D snoRNA	
+LmjF.18.snoRNA0115	LmjF.18.snoRNA0115:snoRNA	L. major strain Friedlin	LmjF.18: 179,289 - 179,387 (-)	C/D snoRNA	
+LmjF.18.snoRNA0116	LmjF.18.snoRNA0116:snoRNA	L. major strain Friedlin	LmjF.18: 180,275 - 180,373 (-)	C/D snoRNA	
+LmjF.18.snoRNA0117	LmjF.18.snoRNA0117:snoRNA	L. major strain Friedlin	LmjF.18: 181,267 - 181,365 (-)	C/D snoRNA	
+LmjF.18.snoRNA0118	LmjF.18.snoRNA0118:snoRNA	L. major strain Friedlin	LmjF.18: 182,253 - 182,351 (-)	C/D snoRNA	
+LmjF.18.snoRNA0119	LmjF.18.snoRNA0119:snoRNA	L. major strain Friedlin	LmjF.18: 183,239 - 183,337 (-)	C/D snoRNA	
+LmjF.18.snoRNA0120	LmjF.18.snoRNA0120:snoRNA	L. major strain Friedlin	LmjF.18: 184,231 - 184,329 (-)	C/D snoRNA	
+LmjF.18.snoRNA0121	LmjF.18.snoRNA0121:snoRNA	L. major strain Friedlin	LmjF.18: 174,026 - 174,110 (-)	C/D snoRNA	
+LmjF.18.snoRNA0122	LmjF.18.snoRNA0122:snoRNA	L. major strain Friedlin	LmjF.18: 175,016 - 175,100 (-)	C/D snoRNA	
+LmjF.18.snoRNA0123	LmjF.18.snoRNA0123:snoRNA	L. major strain Friedlin	LmjF.18: 176,026 - 176,110 (-)	C/D snoRNA	
+LmjF.18.snoRNA0124	LmjF.18.snoRNA0124:snoRNA	L. major strain Friedlin	LmjF.18: 177,036 - 177,120 (-)	C/D snoRNA	
+LmjF.18.snoRNA0125	LmjF.18.snoRNA0125:snoRNA	L. major strain Friedlin	LmjF.18: 178,024 - 178,108 (-)	C/D snoRNA	
+LmjF.18.snoRNA0126	LmjF.18.snoRNA0126:snoRNA	L. major strain Friedlin	LmjF.18: 179,022 - 179,106 (-)	C/D snoRNA	
+LmjF.18.snoRNA0127	LmjF.18.snoRNA0127:snoRNA	L. major strain Friedlin	LmjF.18: 180,008 - 180,092 (-)	C/D snoRNA	
+LmjF.18.snoRNA0128	LmjF.18.snoRNA0128:snoRNA	L. major strain Friedlin	LmjF.18: 181,000 - 181,084 (-)	C/D snoRNA	
+LmjF.18.snoRNA0129	LmjF.18.snoRNA0129:snoRNA	L. major strain Friedlin	LmjF.18: 181,986 - 182,070 (-)	C/D snoRNA	
+LmjF.18.snoRNA0130	LmjF.18.snoRNA0130:snoRNA	L. major strain Friedlin	LmjF.18: 182,972 - 183,056 (-)	C/D snoRNA	
+LmjF.18.snoRNA0131	LmjF.18.snoRNA0131:snoRNA	L. major strain Friedlin	LmjF.18: 183,964 - 184,048 (-)	C/D snoRNA	
+LmjF.18.snoRNA0132	LmjF.18.snoRNA0132:snoRNA	L. major strain Friedlin	LmjF.18: 184,946 - 185,030 (-)	C/D snoRNA	
+LmjF.18.snoRNA0133	LmjF.18.snoRNA0133:snoRNA	L. major strain Friedlin	LmjF.18: 176,498 - 176,589 (-)	C/D snoRNA	
+LmjF.18.snoRNA0134	LmjF.18.snoRNA0134:snoRNA	L. major strain Friedlin	LmjF.18: 177,508 - 177,599 (-)	C/D snoRNA	
+LmjF.18.snoRNA0135	LmjF.18.snoRNA0135:snoRNA	L. major strain Friedlin	LmjF.18: 178,496 - 178,587 (-)	C/D snoRNA	
+LmjF.18.snoRNA0136	LmjF.18.snoRNA0136:snoRNA	L. major strain Friedlin	LmjF.18: 180,480 - 180,571 (-)	C/D snoRNA	
+LmjF.18.snoRNA0137	LmjF.18.snoRNA0137:snoRNA	L. major strain Friedlin	LmjF.18: 181,472 - 181,563 (-)	C/D snoRNA	
+LmjF.18.snoRNA0138	LmjF.18.snoRNA0138:snoRNA	L. major strain Friedlin	LmjF.18: 182,458 - 182,549 (-)	C/D snoRNA	
+LmjF.18.snoRNA0139	LmjF.18.snoRNA0139:snoRNA	L. major strain Friedlin	LmjF.18: 183,444 - 183,535 (-)	C/D snoRNA	
+LmjF.18.snoRNA0140	LmjF.18.snoRNA0140:snoRNA	L. major strain Friedlin	LmjF.18: 184,436 - 184,527 (-)	C/D snoRNA	
+LmjF.18.snoRNA0141	LmjF.18.snoRNA0141:snoRNA	L. major strain Friedlin	LmjF.18: 174,498 - 174,589 (-)	C/D snoRNA	
+LmjF.18.snoRNA0142	LmjF.18.snoRNA0142:snoRNA	L. major strain Friedlin	LmjF.18: 175,488 - 175,579 (-)	C/D snoRNA	
+LmjF.18.snoRNA0143	LmjF.18.snoRNA0143:snoRNA	L. major strain Friedlin	LmjF.18: 179,494 - 179,585 (-)	C/D snoRNA	
+LmjF.18.snoRNA0144	LmjF.18.snoRNA0144:snoRNA	L. major strain Friedlin	LmjF.18: 307,619 - 307,710 (+)	C/D snoRNA	

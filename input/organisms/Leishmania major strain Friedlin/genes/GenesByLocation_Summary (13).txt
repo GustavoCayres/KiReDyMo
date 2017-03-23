@@ -1,0 +1,165 @@
+[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
+LmjF.14.0010	LmjF.14.0010:mRNA	L. major strain Friedlin	LmjF.14: 3,071 - 3,994 (+)	exosome complex exonuclease, putative	
+LmjF.14.0020	LmjF.14.0020:pseudogenic_transcript	L. major strain Friedlin	LmjF.14: 4,772 - 7,591 (+)	phosphatidylinositol 3-kinase 2, putative	
+LmjF.14.0030	LmjF.14.0030:mRNA	L. major strain Friedlin	LmjF.14: 8,111 - 8,923 (+)	hypothetical protein, conserved	
+LmjF.14.0040	LmjF.14.0040:mRNA	L. major strain Friedlin	LmjF.14: 9,578 - 12,874 (+)	J Biosynthesis Protein 2	
+LmjF.14.0050	LmjF.14.0050:mRNA	L. major strain Friedlin	LmjF.14: 14,310 - 16,511 (+)	hypothetical protein, conserved	
+LmjF.14.0060	LmjF.14.0060:mRNA	L. major strain Friedlin	LmjF.14: 17,072 - 17,647 (+)	hypothetical protein, conserved	
+LmjF.14.0070	LmjF.14.0070:mRNA	L. major strain Friedlin	LmjF.14: 18,340 - 19,179 (+)	DHHC palmitoyltransferase, putative	
+LmjF.14.0080	LmjF.14.0080:mRNA	L. major strain Friedlin	LmjF.14: 20,157 - 20,993 (+)	hypothetical protein, conserved	
+LmjF.14.0090	LmjF.14.0090:mRNA	L. major strain Friedlin	LmjF.14: 21,613 - 22,770 (+)	hypothetical protein, conserved	
+LmjF.14.0100	LmjF.14.0100:mRNA	L. major strain Friedlin	LmjF.14: 23,968 - 27,066 (+)	hypothetical protein, conserved	
+LmjF.14.0110	LmjF.14.0110:mRNA	L. major strain Friedlin	LmjF.14: 28,026 - 29,597 (+)	DnaJ domain containing protein, putative	
+LmjF.14.0120	LmjF.14.0120:mRNA	L. major strain Friedlin	LmjF.14: 30,393 - 31,463 (+)	hypothetical protein, conserved	
+LmjF.14.0130	LmjF.14.0130:mRNA	L. major strain Friedlin	LmjF.14: 32,354 - 33,412 (+)	inosine-guanine nucleoside hydrolase, putative	
+LmjF.14.0140	LmjF.14.0140:mRNA	L. major strain Friedlin	LmjF.14: 35,340 - 36,917 (+)	histone acetyltransferase, putative	
+LmjF.14.0150	LmjF.14.0150:mRNA	L. major strain Friedlin	LmjF.14: 37,761 - 38,306 (+)	60S ribosomal protein, putative	
+LmjF.14.0160	LmjF.14.0160:mRNA	L. major strain Friedlin	LmjF.14: 39,132 - 40,187 (+)	hypothetical protein, conserved	
+LmjF.14.0170	LmjF.14.0170:mRNA	L. major strain Friedlin	LmjF.14: 43,493 - 45,550 (+)	hypothetical protein, conserved	
+LmjF.14.0180	LmjF.14.0180:mRNA	L. major strain Friedlin	LmjF.14: 46,644 - 48,158 (+)	carboxypeptidase, putative	
+LmjF.14.0190	LmjF.14.0190:mRNA	L. major strain Friedlin	LmjF.14: 49,394 - 49,993 (+)	Thioredoxin-like, putative	
+LmjF.14.0200	LmjF.14.0200:mRNA	L. major strain Friedlin	LmjF.14: 51,605 - 52,177 (+)	Bardet-Biedl syndrome 18 protein	
+LmjF.14.0210	LmjF.14.0210:mRNA	L. major strain Friedlin	LmjF.14: 52,581 - 53,915 (+)	Domain of unknown function (DUF4201), putative	
+LmjF.14.0220	LmjF.14.0220:mRNA	L. major strain Friedlin	LmjF.14: 55,440 - 57,155 (+)	PX domain containing protein, putative	
+LmjF.14.0230	LmjF.14.0230:mRNA	L. major strain Friedlin	LmjF.14: 61,572 - 67,103 (+)	hypothetical protein, conserved	
+LmjF.14.0240	LmjF.14.0240:mRNA	L. major strain Friedlin	LmjF.14: 68,060 - 68,488 (+)	HIT domain containing protein, putative	
+LmjF.14.0250	LmjF.14.0250:mRNA	L. major strain Friedlin	LmjF.14: 69,164 - 69,682 (+)	hypothetical protein, conserved	
+LmjF.14.0260	LmjF.14.0260:mRNA	L. major strain Friedlin	LmjF.14: 71,973 - 74,141 (+)	von Willebrand factor type A domain containing protein, putative	
+LmjF.14.0270	LmjF.14.0270:mRNA	L. major strain Friedlin	LmjF.14: 75,306 - 76,790 (+)	hypothetical protein, conserved	
+LmjF.14.0280	LmjF.14.0280:mRNA	L. major strain Friedlin	LmjF.14: 77,879 - 80,773 (+)	hypothetical protein, conserved	
+LmjF.14.0290	LmjF.14.0290:mRNA	L. major strain Friedlin	LmjF.14: 81,795 - 82,826 (+)	hypothetical protein, conserved	
+LmjF.14.0300	LmjF.14.0300:mRNA	L. major strain Friedlin	LmjF.14: 83,609 - 84,331 (+)	hypothetical protein, conserved	
+LmjF.14.0310	LmjF.14.0310:mRNA	L. major strain Friedlin	LmjF.14: 85,092 - 85,949 (+)	proteasome alpha 3 subunit, putative	
+LmjF.14.0320	LmjF.14.0320:mRNA	L. major strain Friedlin	LmjF.14: 88,724 - 91,135 (+)	Polyamine transporter 1	
+LmjF.14.0330	LmjF.14.0330:mRNA	L. major strain Friedlin	LmjF.14: 92,563 - 94,413 (+)	transmembrane amino acid transporter protein, putative	
+LmjF.14.0340	LmjF.14.0340:mRNA	L. major strain Friedlin	LmjF.14: 99,176 - 102,436 (+)	inositol polyphosphate kinase-like protein, putative	
+LmjF.14.0350	LmjF.14.0350:mRNA	L. major strain Friedlin	LmjF.14: 104,841 - 106,871 (+)	threonine synthase, putative	
+LmjF.14.0360	LmjF.14.0360:mRNA	L. major strain Friedlin	LmjF.14: 108,685 - 111,804 (+)	hypothetical protein, conserved	
+LmjF.14.0370	LmjF.14.0370:mRNA	L. major strain Friedlin	LmjF.14: 113,187 - 121,952 (+)	hypothetical protein, conserved	
+LmjF.14.0380	LmjF.14.0380:mRNA	L. major strain Friedlin	LmjF.14: 123,258 - 125,081 (+)	Plasma-membrane choline transporter, putative	
+LmjF.14.0390	LmjF.14.0390:mRNA	L. major strain Friedlin	LmjF.14: 127,875 - 128,777 (+)	hypothetical protein, conserved	
+LmjF.14.0400	LmjF.14.0400:mRNA	L. major strain Friedlin	LmjF.14: 131,323 - 132,255 (+)	hypothetical protein, conserved	
+LmjF.14.0405	LmjF.14.0405:mRNA	L. major strain Friedlin	LmjF.14: 135,171 - 135,746 (+)	hypothetical protein, conserved	
+LmjF.14.0410	LmjF.14.0410:mRNA	L. major strain Friedlin	LmjF.14: 136,385 - 139,585 (+)	Protein of unknown function (DUF1253), putative	
+LmjF.14.0420	LmjF.14.0420:mRNA	L. major strain Friedlin	LmjF.14: 140,732 - 143,185 (+)	Iguana/Dzip1-like DAZ-interacting protein N-terminal, putative	
+LmjF.14.0430	LmjF.14.0430:mRNA	L. major strain Friedlin	LmjF.14: 144,127 - 145,329 (+)	mRNA capping enzyme, beta chain, putative	
+LmjF.14.0440	LmjF.14.0440:mRNA	L. major strain Friedlin	LmjF.14: 146,050 - 147,702 (+)	pyridine nucleotide-disulphide oxidoreductase, putative	
+LmjF.14.0450	LmjF.14.0450:mRNA	L. major strain Friedlin	LmjF.14: 150,379 - 151,365 (+)	N-terminal conserved domain of Nudc./CS domain containing protein, putative	
+LmjF.14.0460	LmjF.14.0460:mRNA	L. major strain Friedlin	LmjF.14: 152,095 - 153,615 (+)	cystathionine beta-lyase-like protein	
+LmjF.14.0470	LmjF.14.0470:pseudogenic_transcript	L. major strain Friedlin	LmjF.14: 156,254 - 157,510 (+)	UDP-glucoronosyl and UDP-glucosyl transferase, putative	
+LmjF.14.0480	LmjF.14.0480:mRNA	L. major strain Friedlin	LmjF.14: 166,987 - 167,814 (-)	hypothetical protein, unknown function	
+LmjF.14.0490	LmjF.14.0490:mRNA	L. major strain Friedlin	LmjF.14: 172,554 - 173,384 (-)	Amastin surface glycoprotein, putative	
+LmjF.14.0500	LmjF.14.0500:mRNA	L. major strain Friedlin	LmjF.14: 178,111 - 180,144 (-)	hypothetical protein, unknown function	
+LmjF.14.0510	LmjF.14.0510:mRNA	L. major strain Friedlin	LmjF.14: 184,088 - 185,491 (-)	stearic acid desaturase, putative	
+LmjF.14.0520	LmjF.14.0520:mRNA	L. major strain Friedlin	LmjF.14: 187,379 - 187,708 (-)	hypothetical protein, conserved	
+LmjF.14.0530	LmjF.14.0530:mRNA	L. major strain Friedlin	LmjF.14: 188,479 - 189,993 (-)	Ion channel, putative	
+LmjF.14.0540	LmjF.14.0540.1:mRNA	L. major strain Friedlin	LmjF.14: 191,497 - 193,248 (-)	ion transport protein-like protein	
+LmjF.14.0540	LmjF.14.0540.2:mRNA	L. major strain Friedlin	LmjF.14: 191,497 - 193,150 (-)	ion transport protein-like protein	
+LmjF.14.0550	LmjF.14.0550:mRNA	L. major strain Friedlin	LmjF.14: 196,113 - 197,201 (-)	hypothetical protein, unknown function	
+LmjF.14.0560	LmjF.14.0560:mRNA	L. major strain Friedlin	LmjF.14: 201,768 - 203,153 (-)	hypothetical protein, unknown function	
+LmjF.14.0570	LmjF.14.0570:mRNA	L. major strain Friedlin	LmjF.14: 206,100 - 209,639 (-)	WD domain, G-beta repeat, putative	
+LmjF.14.0580	LmjF.14.0580:mRNA	L. major strain Friedlin	LmjF.14: 210,896 - 211,276 (-)	hypothetical protein, conserved	
+LmjF.14.0590	LmjF.14.0590:mRNA	L. major strain Friedlin	LmjF.14: 211,859 - 216,535 (-)	hypothetical protein, conserved	
+LmjF.14.0600	LmjF.14.0600:mRNA	L. major strain Friedlin	LmjF.14: 217,534 - 219,060 (-)	hypothetical protein, conserved	
+LmjF.14.0610	LmjF.14.0610:mRNA	L. major strain Friedlin	LmjF.14: 219,733 - 221,145 (-)	hypothetical protein, conserved	
+LmjF.14.0620	LmjF.14.0620:mRNA	L. major strain Friedlin	LmjF.14: 221,924 - 223,360 (-)	hypothetical protein, conserved	
+LmjF.14.0625	LmjF.14.0625:mRNA	L. major strain Friedlin	LmjF.14: 224,673 - 225,353 (-)	LSD1 zinc finger, putative	
+LmjF.14.0630	LmjF.14.0630:mRNA	L. major strain Friedlin	LmjF.14: 228,957 - 229,874 (-)	fatty acid elongase, putative	
+LmjF.14.0640	LmjF.14.0640:mRNA	L. major strain Friedlin	LmjF.14: 231,875 - 232,717 (-)	fatty acid elongase, putative	
+LmjF.14.0650	LmjF.14.0650:mRNA	L. major strain Friedlin	LmjF.14: 235,918 - 236,775 (-)	fatty acid elongase, putative	
+LmjF.14.0660	LmjF.14.0660:mRNA	L. major strain Friedlin	LmjF.14: 238,373 - 239,227 (-)	fatty acid elongase, putative	
+LmjF.14.0665	LmjF.14.0665:pseudogenic_transcript	L. major strain Friedlin	LmjF.14: 240,345 - 241,988 (-)	fatty acid elongase, putative	
+LmjF.14.0670	LmjF.14.0670:mRNA	L. major strain Friedlin	LmjF.14: 244,332 - 245,216 (-)	fatty acid elongase, putative	
+LmjF.14.0680	LmjF.14.0680:mRNA	L. major strain Friedlin	LmjF.14: 250,240 - 251,139 (-)	fatty acid elongase, putative	
+LmjF.14.0690	LmjF.14.0690:mRNA	L. major strain Friedlin	LmjF.14: 254,654 - 255,736 (-)	fatty acid elongase, putative	
+LmjF.14.0700	LmjF.14.0700:mRNA	L. major strain Friedlin	LmjF.14: 260,122 - 261,099 (-)	fatty acid elongase, putative	
+LmjF.14.0705	LmjF.14.0705:mRNA	L. major strain Friedlin	LmjF.14: 266,794 - 267,765 (-)	fatty acid elongase, putative	
+LmjF.14.0710	LmjF.14.0710:mRNA	L. major strain Friedlin	LmjF.14: 272,256 - 273,383 (-)	fatty acid elongase, putative	
+LmjF.14.0720	LmjF.14.0720:mRNA	L. major strain Friedlin	LmjF.14: 275,534 - 276,727 (-)	fatty acid elongase, putative	
+LmjF.14.0730	LmjF.14.0730:mRNA	L. major strain Friedlin	LmjF.14: 279,453 - 280,655 (-)	fatty acid elongase, putative	
+LmjF.14.0740	LmjF.14.0740:mRNA	L. major strain Friedlin	LmjF.14: 286,543 - 287,448 (-)	fatty acid elongase, putative	
+LmjF.14.0750	LmjF.14.0750:mRNA	L. major strain Friedlin	LmjF.14: 288,660 - 294,533 (-)	hypothetical protein, conserved	
+LmjF.14.0760	LmjF.14.0760:mRNA	L. major strain Friedlin	LmjF.14: 295,418 - 296,668 (-)	guanine nucleotide-binding protein-like protein	
+LmjF.14.0770	LmjF.14.0770:mRNA	L. major strain Friedlin	LmjF.14: 299,260 - 300,543 (-)	hypothetical protein, unknown function	
+LmjF.14.0780	LmjF.14.0780:mRNA	L. major strain Friedlin	LmjF.14: 301,435 - 301,995 (-)	ribosomal protein L21, putative	
+LmjF.14.0790	LmjF.14.0790:mRNA	L. major strain Friedlin	LmjF.14: 302,671 - 315,168 (-)	hypothetical protein, conserved	
+LmjF.14.0800	LmjF.14.0800:mRNA	L. major strain Friedlin	LmjF.14: 317,815 - 319,104 (-)	hypothetical protein, conserved	
+LmjF.14.0810	LmjF.14.0810:mRNA	L. major strain Friedlin	LmjF.14: 321,571 - 325,518 (-)	kinesin, putative	
+LmjF.14.0820	LmjF.14.0820:mRNA	L. major strain Friedlin	LmjF.14: 326,790 - 328,523 (-)	Domain of unknown function (DUF4201), putative	
+LmjF.14.0830	LmjF.14.0830:mRNA	L. major strain Friedlin	LmjF.14: 329,977 - 332,949 (-)	protein kinase, putative	
+LmjF.14.0840	LmjF.14.0840:mRNA	L. major strain Friedlin	LmjF.14: 334,967 - 338,725 (-)	SNF2 family helicase-like protein, putative	
+LmjF.14.0850	LmjF.14.0850:mRNA	L. major strain Friedlin	LmjF.14: 341,599 - 341,946 (-)	small myristoylated protein-3, putative	
+LmjF.14.0870	LmjF.14.0870:pseudogenic_transcript	L. major strain Friedlin	LmjF.14: 343,656 - 346,251 (-)	hypothetical protein, conserved	
+LmjF.14.0880	LmjF.14.0880:mRNA	L. major strain Friedlin	LmjF.14: 347,516 - 350,779 (-)	hypothetical protein, conserved	
+LmjF.14.0890	LmjF.14.0890:mRNA	L. major strain Friedlin	LmjF.14: 351,868 - 353,853 (-)	hypothetical protein, conserved	
+LmjF.14.0900	LmjF.14.0900.1:mRNA	L. major strain Friedlin	LmjF.14: 357,200 - 362,326 (-)	protein phosphatase 2C-like protein	
+LmjF.14.0900	LmjF.14.0900.2:mRNA	L. major strain Friedlin	LmjF.14: 357,200 - 359,625 (-)	protein phosphatase 2C-like protein	
+LmjF.14.0910	LmjF.14.0910:mRNA	L. major strain Friedlin	LmjF.14: 367,392 - 369,212 (-)	glutathione synthetase, putative	
+LmjF.14.0920	LmjF.14.0920:mRNA	L. major strain Friedlin	LmjF.14: 370,124 - 375,430 (-)	mitochondrial DNA polymerase I protein C	
+LmjF.14.0930	LmjF.14.0930:mRNA	L. major strain Friedlin	LmjF.14: 377,768 - 380,353 (-)	tc40 antigen-like	
+LmjF.14.0940	LmjF.14.0940:mRNA	L. major strain Friedlin	LmjF.14: 383,038 - 386,466 (-)	hypothetical protein, conserved	
+LmjF.14.0950	LmjF.14.0950:mRNA	L. major strain Friedlin	LmjF.14: 388,233 - 388,739 (-)	Ribosomal protein L16p/L10e, putative	
+LmjF.14.0960	LmjF.14.0960:mRNA	L. major strain Friedlin	LmjF.14: 390,070 - 393,417 (-)	RNA editing 3' terminal uridylyl transferase 1	
+LmjF.14.0970	LmjF.14.0970.1:mRNA	L. major strain Friedlin	LmjF.14: 395,440 - 396,465 (-)	hypothetical protein, conserved	
+LmjF.14.0970	LmjF.14.0970.2:mRNA	L. major strain Friedlin	LmjF.14: 395,440 - 396,372 (-)	hypothetical protein, conserved	
+LmjF.14.0980	LmjF.14.0980:mRNA	L. major strain Friedlin	LmjF.14: 401,742 - 404,390 (-)	sodium/hydrogen exchanger, putative	
+LmjF.14.0990	LmjF.14.0990:mRNA	L. major strain Friedlin	LmjF.14: 405,655 - 406,785 (-)	ADP/ATP mitochondrial carrier-like protein	
+LmjF.14.1000	LmjF.14.1000:mRNA	L. major strain Friedlin	LmjF.14: 408,925 - 410,235 (-)	hypothetical protein, conserved	
+LmjF.14.1010	LmjF.14.1010:mRNA	L. major strain Friedlin	LmjF.14: 410,619 - 413,789 (-)	hypothetical protein, conserved	
+LmjF.14.1020	LmjF.14.1020:mRNA	L. major strain Friedlin	LmjF.14: 415,156 - 416,100 (-)	hypothetical protein, conserved	
+LmjF.14.1030	LmjF.14.1030:mRNA	L. major strain Friedlin	LmjF.14: 416,807 - 418,324 (-)	hypothetical protein, conserved	
+LmjF.14.1040	LmjF.14.1040:mRNA	L. major strain Friedlin	LmjF.14: 421,254 - 421,796 (-)	Domain of unknown function (DUF202), putative	
+LmjF.14.1045	LmjF.14.1045:mRNA	L. major strain Friedlin	LmjF.14: 422,433 - 423,056 (-)	hypothetical protein, conserved	
+LmjF.14.1050	LmjF.14.1050:mRNA	L. major strain Friedlin	LmjF.14: 425,205 - 426,017 (-)	COQ9, putative	
+LmjF.14.1060	LmjF.14.1060:mRNA	L. major strain Friedlin	LmjF.14: 428,203 - 441,009 (+)	dynein heavy chain, putative	
+LmjF.14.1070	LmjF.14.1070:mRNA	L. major strain Friedlin	LmjF.14: 443,959 - 447,084 (+)	protein kinase, putative	
+LmjF.14.1080	LmjF.14.1080:mRNA	L. major strain Friedlin	LmjF.14: 449,163 - 450,590 (+)	hypothetical protein, conserved	
+LmjF.14.1090	LmjF.14.1090:mRNA	L. major strain Friedlin	LmjF.14: 451,537 - 452,229 (+)	PQ loop repeat, putative	
+LmjF.14.1095	LmjF.14.1095:mRNA	L. major strain Friedlin	LmjF.14: 456,730 - 458,166 (+)	hypothetical protein, unknown function	
+LmjF.14.1100	LmjF.14.1100:mRNA	L. major strain Friedlin	LmjF.14: 460,358 - 468,655 (+)	kinesin K39, putative	
+LmjF.14.1110	LmjF.14.1110:mRNA	L. major strain Friedlin	LmjF.14: 470,573 - 474,472 (+)	kinesin K39, putative	
+LmjF.14.1120	LmjF.14.1120:mRNA	L. major strain Friedlin	LmjF.14: 477,221 - 486,358 (+)	kinesin K39, putative	
+LmjF.14.1130	LmjF.14.1130:mRNA	L. major strain Friedlin	LmjF.14: 489,029 - 491,818 (+)	hypothetical protein, conserved	
+LmjF.14.1140	LmjF.14.1140:mRNA	L. major strain Friedlin	LmjF.14: 494,116 - 495,663 (+)	hypothetical protein, conserved	
+LmjF.14.1150	LmjF.14.1150:mRNA	L. major strain Friedlin	LmjF.14: 496,953 - 498,503 (+)	tub family protein-like protein	
+LmjF.14.1155	LmjF.14.1155:mRNA	L. major strain Friedlin	LmjF.14: 500,823 - 501,863 (+)	hypothetical protein	
+LmjF.14.1160	LmjF.14.1160:mRNA	L. major strain Friedlin	LmjF.14: 502,845 - 504,134 (+)	enolase	
+LmjF.14.1170	LmjF.14.1170:mRNA	L. major strain Friedlin	LmjF.14: 506,448 - 509,045 (+)	ras-like small GTPases, putative	
+LmjF.14.1180	LmjF.14.1180:mRNA	L. major strain Friedlin	LmjF.14: 510,492 - 512,594 (+)	poly(A) polymerase, putative	
+LmjF.14.1190	LmjF.14.1190:mRNA	L. major strain Friedlin	LmjF.14: 513,479 - 515,161 (+)	Bifunctional NAD(P)H-hydrate repair enzyme	
+LmjF.14.1200	LmjF.14.1200:mRNA	L. major strain Friedlin	LmjF.14: 515,881 - 517,479 (+)	phosphatidylserine synthase, putative	
+LmjF.14.1210	LmjF.14.1210:mRNA	L. major strain Friedlin	LmjF.14: 518,761 - 519,546 (+)	NLI interacting factor-like phosphatase, putative	
+LmjF.14.1220	LmjF.14.1220:mRNA	L. major strain Friedlin	LmjF.14: 520,557 - 523,364 (+)	hypothetical protein, conserved	
+LmjF.14.1230	LmjF.14.1230:mRNA	L. major strain Friedlin	LmjF.14: 525,463 - 527,175 (+)	hypothetical protein, unknown function	
+LmjF.14.1240	LmjF.14.1240:mRNA	L. major strain Friedlin	LmjF.14: 528,535 - 529,443 (+)	hypothetical protein, conserved	
+LmjF.14.1250	LmjF.14.1250:mRNA	L. major strain Friedlin	LmjF.14: 530,323 - 530,940 (+)	hypothetical protein, unknown function	
+LmjF.14.1260	LmjF.14.1260:mRNA	L. major strain Friedlin	LmjF.14: 532,928 - 533,536 (+)	hypothetical protein, unknown function	
+LmjF.14.1270	LmjF.14.1270:mRNA	L. major strain Friedlin	LmjF.14: 534,803 - 535,261 (+)	ubiquitin/ribosomal protein S27a, putative	
+LmjF.14.1280	LmjF.14.1280:mRNA	L. major strain Friedlin	LmjF.14: 536,046 - 537,782 (+)	NADP oxidoreductase coenzyme F420-dependent, putative	
+LmjF.14.1290	LmjF.14.1290:mRNA	L. major strain Friedlin	LmjF.14: 538,740 - 541,145 (+)	hypothetical protein, conserved	
+LmjF.14.1300	LmjF.14.1300:mRNA	L. major strain Friedlin	LmjF.14: 542,751 - 545,765 (+)	protein kinase, putative	
+LmjF.14.1310	LmjF.14.1310:mRNA	L. major strain Friedlin	LmjF.14: 548,839 - 549,930 (+)	hypothetical protein, conserved	
+LmjF.14.1320	LmjF.14.1320:mRNA	L. major strain Friedlin	LmjF.14: 551,547 - 552,944 (+)	serine hydroxymethyltranferase (SHMT-S)	
+LmjF.14.1330	LmjF.14.1330:mRNA	L. major strain Friedlin	LmjF.14: 555,542 - 557,236 (+)	DnaJ domain containing protein, putative	
+LmjF.14.1340	LmjF.14.1340:mRNA	L. major strain Friedlin	LmjF.14: 559,415 - 560,701 (+)	delta-4 fatty acid desaturase	
+LmjF.14.1350	LmjF.14.1350:mRNA	L. major strain Friedlin	LmjF.14: 562,073 - 563,941 (+)	hypothetical protein, conserved	
+LmjF.14.1355	LmjF.14.1355:pseudogenic_transcript	L. major strain Friedlin	LmjF.14: 565,036 - 565,857 (+)	pteridine transporter	
+LmjF.14.1360	LmjF.14.1360:mRNA	L. major strain Friedlin	LmjF.14: 566,673 - 568,253 (+)	inositol-3-phosphate synthase	
+LmjF.14.1370	LmjF.14.1370.1:mRNA	L. major strain Friedlin	LmjF.14: 569,197 - 573,314 (+)	tyrosyl-tRNA synthetase, putative	
+LmjF.14.1370	LmjF.14.1370.2:mRNA	L. major strain Friedlin	LmjF.14: 571,072 - 573,314 (+)	tyrosyl-tRNA synthetase, putative	
+LmjF.14.1370	LmjF.14.1370.3:mRNA	L. major strain Friedlin	LmjF.14: 571,057 - 573,314 (+)	tyrosyl-tRNA synthetase, putative	
+LmjF.14.1380	LmjF.14.1380:mRNA	L. major strain Friedlin	LmjF.14: 574,187 - 575,425 (+)	hypothetical protein, unknown function	
+LmjF.14.1390	LmjF.14.1390:mRNA	L. major strain Friedlin	LmjF.14: 576,276 - 576,941 (+)	emp24/gp25L/p24 family/GOLD, putative	
+LmjF.14.1395	LmjF.14.1395:mRNA	L. major strain Friedlin	LmjF.14: 577,752 - 578,198 (+)	hypothetical protein, conserved	
+LmjF.14.1400	LmjF.14.1400:mRNA	L. major strain Friedlin	LmjF.14: 582,178 - 586,254 (+)	phosphoglycan beta 1,3 galactosyltransferase, putative	
+LmjF.14.1410	LmjF.14.1410:mRNA	L. major strain Friedlin	LmjF.14: 589,403 - 591,070 (+)	protein kinase, putative	
+LmjF.14.1420	LmjF.14.1420:mRNA	L. major strain Friedlin	LmjF.14: 592,774 - 594,786 (+)	hypothetical protein, conserved	
+LmjF.14.1430	LmjF.14.1430:mRNA	L. major strain Friedlin	LmjF.14: 595,596 - 600,863 (+)	hypothetical protein, conserved	
+LmjF.14.1440	LmjF.14.1440:mRNA	L. major strain Friedlin	LmjF.14: 602,725 - 605,601 (+)	cytoskeleton associated protein, putative	
+LmjF.14.1450	LmjF.14.1450:mRNA	L. major strain Friedlin	LmjF.14: 608,047 - 610,104 (+)	Vacuolar 14 Fab1-binding region/Vacuolar protein 14 C-terminal Fig4p binding, putative	
+LmjF.14.1460	LmjF.14.1460:mRNA	L. major strain Friedlin	LmjF.14: 610,835 - 611,257 (+)	Mitochondrial pyruvate carrier 2	
+LmjF.14.1470	LmjF.14.1470:mRNA	L. major strain Friedlin	LmjF.14: 612,671 - 614,125 (+)	hypothetical protein, conserved	
+LmjF.14.1480	LmjF.14.1480:mRNA	L. major strain Friedlin	LmjF.14: 614,886 - 615,821 (+)	glutathione-S-transferase/glutaredoxin, putative	
+LmjF.14.1490	LmjF.14.1490:mRNA	L. major strain Friedlin	LmjF.14: 617,185 - 619,722 (+)	synaptojanin (N-terminal domain), putative	
+LmjF.14.snoRNA0004	LmjF.14.snoRNA0004:snoRNA	L. major strain Friedlin	LmjF.14: 364,855 - 364,961 (-)	C/D snoRNA	
+LmjF.14.snoRNA0005	LmjF.14.snoRNA0005:snoRNA	L. major strain Friedlin	LmjF.14: 365,151 - 365,262 (-)	C/D snoRNA	

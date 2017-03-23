@@ -1,0 +1,181 @@
+[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
+LmjF.19.0010	LmjF.19.0010:mRNA	L. major strain Friedlin	LmjF.19: 1,553 - 2,440 (-)	Qb-SNARE protein, putative	
+LmjF.19.0020	LmjF.19.0020:mRNA	L. major strain Friedlin	LmjF.19: 3,727 - 4,842 (-)	hypothetical protein, conserved	
+LmjF.19.0030	LmjF.19.0030:mRNA	L. major strain Friedlin	LmjF.19: 5,559 - 5,882 (-)	histone H2B	
+LmjF.19.0040	LmjF.19.0040:mRNA	L. major strain Friedlin	LmjF.19: 6,427 - 6,750 (-)	histone H2B	
+LmjF.19.0050	LmjF.19.0050:mRNA	L. major strain Friedlin	LmjF.19: 7,295 - 7,618 (-)	histone H2B	
+LmjF.19.0060	LmjF.19.0060:mRNA	L. major strain Friedlin	LmjF.19: 8,204 - 9,001 (-)	40S ribosomal protein S2	
+LmjF.19.0070	LmjF.19.0070:mRNA	L. major strain Friedlin	LmjF.19: 10,647 - 11,918 (-)	peroxin 13, putative	
+LmjF.19.0080	LmjF.19.0080:mRNA	L. major strain Friedlin	LmjF.19: 12,937 - 14,235 (-)	DnaJ domain containing protein, putative	
+LmjF.19.0090	LmjF.19.0090:mRNA	L. major strain Friedlin	LmjF.19: 15,073 - 16,284 (-)	hypothetical protein, conserved	
+LmjF.19.0100	LmjF.19.0100:mRNA	L. major strain Friedlin	LmjF.19: 18,120 - 19,013 (-)	fibrillarin, putative	
+LmjF.19.0110	LmjF.19.0110:mRNA	L. major strain Friedlin	LmjF.19: 20,416 - 21,294 (-)	hypothetical protein, conserved	
+LmjF.19.0120	LmjF.19.0120:mRNA	L. major strain Friedlin	LmjF.19: 22,331 - 23,020 (-)	QA-SNARE protein putative	
+LmjF.19.0130	LmjF.19.0130:mRNA	L. major strain Friedlin	LmjF.19: 24,025 - 24,786 (-)	Der1-like family, putative	
+LmjF.19.0140	LmjF.19.0140:mRNA	L. major strain Friedlin	LmjF.19: 25,943 - 27,838 (-)	Associated kinase of Tb14-3-3, putative	
+LmjF.19.0150	LmjF.19.0150:mRNA	L. major strain Friedlin	LmjF.19: 30,207 - 31,049 (-)	mitogen-activated protein kinase kinase kinase, putative	
+LmjF.19.0160	LmjF.19.0160:mRNA	L. major strain Friedlin	LmjF.19: 33,351 - 34,493 (-)	metallo-peptidase, Clan MG, Family M24	
+LmjF.19.0170	LmjF.19.0170:mRNA	L. major strain Friedlin	LmjF.19: 36,013 - 40,488 (-)	hypothetical protein, conserved	
+LmjF.19.0180	LmjF.19.0180:mRNA	L. major strain Friedlin	LmjF.19: 45,260 - 46,483 (-)	mitogen-activated protein kinase 9, putative	
+LmjF.19.0190	LmjF.19.0190:mRNA	L. major strain Friedlin	LmjF.19: 48,084 - 48,575 (-)	multiprotein-bridging factor 1, putative	
+LmjF.19.0200	LmjF.19.0200:mRNA	L. major strain Friedlin	LmjF.19: 51,499 - 52,452 (-)	ADP,ATP carrier protein 1, mitochondrial precursor, putative	
+LmjF.19.0210	LmjF.19.0210:mRNA	L. major strain Friedlin	LmjF.19: 56,935 - 57,888 (-)	ADP,ATP carrier protein 1, mitochondrial precursor, putative	
+LmjF.19.0220	LmjF.19.0220:mRNA	L. major strain Friedlin	LmjF.19: 59,317 - 61,545 (-)	polyprenyl synthase, putative	
+LmjF.19.0230	LmjF.19.0230:mRNA	L. major strain Friedlin	LmjF.19: 68,955 - 71,030 (+)	Complex 1 protein (LYR family), putative	
+LmjF.19.0240	LmjF.19.0240:mRNA	L. major strain Friedlin	LmjF.19: 72,728 - 74,743 (+)	hypothetical protein, conserved	
+LmjF.19.0250	LmjF.19.0250:mRNA	L. major strain Friedlin	LmjF.19: 76,489 - 79,116 (+)	centrosomal protein of 104 kDa	
+LmjF.19.0260	LmjF.19.0260:mRNA	L. major strain Friedlin	LmjF.19: 81,590 - 84,109 (+)	C-terminal motor kinesin, putative	
+LmjF.19.0270	LmjF.19.0270:mRNA	L. major strain Friedlin	LmjF.19: 91,746 - 94,631 (+)	hypothetical protein, conserved	
+LmjF.19.0280	LmjF.19.0280:mRNA	L. major strain Friedlin	LmjF.19: 98,128 - 100,029 (+)	Sarcalumenin, putative	
+LmjF.19.0290	LmjF.19.0290:mRNA	L. major strain Friedlin	LmjF.19: 101,484 - 106,034 (+)	hypothetical protein, conserved	
+LmjF.19.0300	LmjF.19.0300:mRNA	L. major strain Friedlin	LmjF.19: 107,698 - 108,642 (+)	RNA binding protein, putative	
+LmjF.19.0310	LmjF.19.0310:mRNA	L. major strain Friedlin	LmjF.19: 112,663 - 113,421 (+)	membrane protein, putative	
+LmjF.19.0320	LmjF.19.0320:mRNA	L. major strain Friedlin	LmjF.19: 115,945 - 117,963 (+)	intraflagellar transport protein 52	
+LmjF.19.0330	LmjF.19.0330:mRNA	L. major strain Friedlin	LmjF.19: 119,552 - 121,906 (+)	intraflagellar transport protein 80, putative	
+LmjF.19.0340	LmjF.19.0340:mRNA	L. major strain Friedlin	LmjF.19: 123,313 - 124,689 (+)	hypothetical protein, conserved	
+LmjF.19.0350	LmjF.19.0350:mRNA	L. major strain Friedlin	LmjF.19: 126,910 - 128,166 (+)	lipoic acid synthetase, mitochondrial precursor, putative	
+LmjF.19.0360	LmjF.19.0360:mRNA	L. major strain Friedlin	LmjF.19: 131,071 - 136,653 (+)	protein kinase, putative	
+LmjF.19.0370	LmjF.19.0370:mRNA	L. major strain Friedlin	LmjF.19: 142,689 - 146,153 (+)	hypothetical protein, conserved	
+LmjF.19.0380	LmjF.19.0380:mRNA	L. major strain Friedlin	LmjF.19: 149,823 - 156,359 (+)	hypothetical protein, conserved	
+LmjF.19.0390	LmjF.19.0390:mRNA	L. major strain Friedlin	LmjF.19: 157,261 - 157,716 (+)	40S ribosomal protein S13, putative	
+LmjF.19.0400	LmjF.19.0400:mRNA	L. major strain Friedlin	LmjF.19: 159,426 - 160,268 (+)	Vesicle-trafficking protein SEC22, putative	
+LmjF.19.0410	LmjF.19.0410:mRNA	L. major strain Friedlin	LmjF.19: 161,547 - 161,921 (+)	proteasome maturation factor UMP1, putative	
+LmjF.19.0420	LmjF.19.0420:mRNA	L. major strain Friedlin	LmjF.19: 163,389 - 163,844 (+)	DNA-directed RNA polymerase III subunit C11, putative	
+LmjF.19.0430	LmjF.19.0430:mRNA	L. major strain Friedlin	LmjF.19: 164,943 - 168,332 (+)	hypothetical protein, conserved	
+LmjF.19.0440	LmjF.19.0440:mRNA	L. major strain Friedlin	LmjF.19: 169,114 - 170,166 (+)	nucleosome assembly protein, putative	
+LmjF.19.0450	LmjF.19.0450:mRNA	L. major strain Friedlin	LmjF.19: 171,615 - 174,464 (+)	hypothetical protein, conserved	
+LmjF.19.0460	LmjF.19.0460:mRNA	L. major strain Friedlin	LmjF.19: 176,423 - 177,310 (+)	Predicted coiled-coil domain-containing protein (DUF2360), putative	
+LmjF.19.0470	LmjF.19.0470:mRNA	L. major strain Friedlin	LmjF.19: 177,978 - 179,060 (+)	nuclear cap binding complex subunit CBP30, putative	
+LmjF.19.0480	LmjF.19.0480:mRNA	L. major strain Friedlin	LmjF.19: 180,344 - 181,114 (+)	hypothetical protein, unknown function	
+LmjF.19.0490	LmjF.19.0490:mRNA	L. major strain Friedlin	LmjF.19: 185,418 - 186,062 (+)	hypothetical protein, conserved	
+LmjF.19.0500	LmjF.19.0500:mRNA	L. major strain Friedlin	LmjF.19: 187,229 - 188,128 (+)	hypothetical protein, conserved	
+LmjF.19.0510	LmjF.19.0510:mRNA	L. major strain Friedlin	LmjF.19: 189,450 - 194,261 (+)	hypothetical protein, conserved	
+LmjF.19.0520	LmjF.19.0520:mRNA	L. major strain Friedlin	LmjF.19: 194,735 - 196,444 (+)	hypothetical protein, conserved	
+LmjF.19.0530	LmjF.19.0530:mRNA	L. major strain Friedlin	LmjF.19: 199,064 - 201,787 (+)	hypothetical protein, conserved	
+LmjF.19.0540	LmjF.19.0540:mRNA	L. major strain Friedlin	LmjF.19: 223,522 - 225,114 (+)	hypothetical protein, conserved	
+LmjF.19.0550	LmjF.19.0550:mRNA	L. major strain Friedlin	LmjF.19: 206,074 - 207,279 (+)	metallo- peptidase, Clan MG, Family M24	
+LmjF.19.0560	LmjF.19.0560:mRNA	L. major strain Friedlin	LmjF.19: 210,535 - 214,680 (+)	hypothetical protein, conserved	
+LmjF.19.0570	LmjF.19.0570:mRNA	L. major strain Friedlin	LmjF.19: 216,569 - 218,215 (+)	hypothetical protein, conserved	
+LmjF.19.0580	LmjF.19.0580:mRNA	L. major strain Friedlin	LmjF.19: 230,448 - 239,675 (+)	tubulin binding cofactor c, putative	
+LmjF.19.0590	LmjF.19.0590:mRNA	L. major strain Friedlin	LmjF.19: 244,684 - 249,753 (+)	protein kinase, putative	
+LmjF.19.0600	LmjF.19.0600:mRNA	L. major strain Friedlin	LmjF.19: 257,800 - 260,091 (+)	hypothetical protein, unknown function	
+LmjF.19.0610	LmjF.19.0610:mRNA	L. major strain Friedlin	LmjF.19: 264,964 - 265,245 (+)	hypothetical protein, conserved	
+LmjF.19.0620	LmjF.19.0620:mRNA	L. major strain Friedlin	LmjF.19: 266,634 - 268,871 (+)	hypothetical protein, conserved	
+LmjF.19.0630	LmjF.19.0630:mRNA	L. major strain Friedlin	LmjF.19: 270,430 - 270,864 (+)	histone H3 variant V	
+LmjF.19.0640	LmjF.19.0640:mRNA	L. major strain Friedlin	LmjF.19: 273,047 - 275,803 (+)	extracellular receptor, putative	
+LmjF.19.0650	LmjF.19.0650:mRNA	L. major strain Friedlin	LmjF.19: 277,193 - 283,003 (+)	hypothetical protein, conserved	
+LmjF.19.0660	LmjF.19.0660:mRNA	L. major strain Friedlin	LmjF.19: 284,098 - 285,426 (+)	DNA-directed RNA polymerases I and III subunit RPAC1, putative	
+LmjF.19.0670	LmjF.19.0670:mRNA	L. major strain Friedlin	LmjF.19: 286,457 - 287,542 (+)	U3 snoRNA-associated protein UTP11, putative	
+LmjF.19.0680	LmjF.19.0680:mRNA	L. major strain Friedlin	LmjF.19: 289,245 - 292,631 (+)	Flagellum attachment zone protein 7	
+LmjF.19.0690	LmjF.19.0690:mRNA	L. major strain Friedlin	LmjF.19: 298,518 - 301,817 (+)	Flagellum attachment zone protein 7	
+LmjF.19.0700	LmjF.19.0700:mRNA	L. major strain Friedlin	LmjF.19: 305,820 - 312,641 (+)	kinesin, putative	
+LmjF.19.0710	LmjF.19.0710:mRNA	L. major strain Friedlin	LmjF.19: 314,147 - 315,115 (+)	glycosomal malate dehydrogenase	
+LmjF.19.0720	LmjF.19.0720:mRNA	L. major strain Friedlin	LmjF.19: 316,992 - 317,906 (+)	hypothetical protein, conserved	
+LmjF.19.0730	LmjF.19.0730:mRNA	L. major strain Friedlin	LmjF.19: 319,883 - 321,040 (+)	methyltransferase domain containing protein, putative	
+LmjF.19.0740	LmjF.19.0740:mRNA	L. major strain Friedlin	LmjF.19: 323,009 - 324,349 (+)	Vacuolar protein sorting protein 36 Vps36/EAP30/Vps36 family, putative	
+LmjF.19.0750	LmjF.19.0750:mRNA	L. major strain Friedlin	LmjF.19: 325,226 - 326,794 (+)	hypothetical protein, conserved	
+LmjF.19.0760	LmjF.19.0760:mRNA	L. major strain Friedlin	LmjF.19: 328,674 - 330,149 (+)	transporter, putative	
+LmjF.19.0770	LmjF.19.0770:mRNA	L. major strain Friedlin	LmjF.19: 331,105 - 331,812 (+)	SNARE protein, putative	
+LmjF.19.0780	LmjF.19.0780:mRNA	L. major strain Friedlin	LmjF.19: 332,513 - 333,271 (+)	hypothetical protein, conserved	
+LmjF.19.0790	LmjF.19.0790:mRNA	L. major strain Friedlin	LmjF.19: 334,074 - 336,296 (+)	signal recognition particle protein, putative	
+LmjF.19.0800	LmjF.19.0800:mRNA	L. major strain Friedlin	LmjF.19: 336,892 - 338,730 (+)	ABC transport system ATP-binding protein, putative	
+LmjF.19.0810	LmjF.19.0810:mRNA	L. major strain Friedlin	LmjF.19: 341,537 - 344,146 (+)	vps53-like domain protein	
+LmjF.19.0820	LmjF.19.0820:mRNA	L. major strain Friedlin	LmjF.19: 345,240 - 345,605 (+)	ATG8/AUT7/APG8/PAZ2, putative	
+LmjF.19.0830	LmjF.19.0830:mRNA	L. major strain Friedlin	LmjF.19: 346,341 - 346,622 (+)	hypothetical protein	
+LmjF.19.0840	LmjF.19.0840:mRNA	L. major strain Friedlin	LmjF.19: 347,474 - 347,884 (+)	ATG8/AUT7/APG8/PAZ2, putative	
+LmjF.19.0842	LmjF.19.0842:mRNA	L. major strain Friedlin	LmjF.19: 350,262 - 350,627 (+)	ATG8/AUT7/APG8/PAZ2, putative	
+LmjF.19.0843	LmjF.19.0843:mRNA	L. major strain Friedlin	LmjF.19: 351,363 - 351,644 (+)	hypothetical protein	
+LmjF.19.0844	LmjF.19.0844:mRNA	L. major strain Friedlin	LmjF.19: 352,496 - 352,906 (+)	ATG8/AUT7/APG8/PAZ2, putative	
+LmjF.19.0846	LmjF.19.0846:mRNA	L. major strain Friedlin	LmjF.19: 355,239 - 355,604 (+)	ATG8/AUT7/APG8/PAZ2, putative	
+LmjF.19.0847	LmjF.19.0847:mRNA	L. major strain Friedlin	LmjF.19: 356,340 - 356,621 (+)	hypothetical protein	
+LmjF.19.0848	LmjF.19.0848:mRNA	L. major strain Friedlin	LmjF.19: 357,473 - 357,883 (+)	ATG8/AUT7/APG8/PAZ2, putative	
+LmjF.19.0850	LmjF.19.0850:mRNA	L. major strain Friedlin	LmjF.19: 360,253 - 360,618 (+)	ATG8/AUT7/APG8/PAZ2, putative	
+LmjF.19.0860	LmjF.19.0860:mRNA	L. major strain Friedlin	LmjF.19: 362,688 - 363,065 (+)	ATG8/AUT7/APG8/PAZ2, putative	
+LmjF.19.0870	LmjF.19.0870:mRNA	L. major strain Friedlin	LmjF.19: 363,752 - 364,129 (+)	ATG8/AUT7/APG8/PAZ2, putative	
+LmjF.19.0880	LmjF.19.0880:mRNA	L. major strain Friedlin	LmjF.19: 364,820 - 365,185 (+)	ATG8/AUT7/APG8/PAZ2, putative	
+LmjF.19.0900	LmjF.19.0900:mRNA	L. major strain Friedlin	LmjF.19: 367,254 - 367,631 (+)	ATG8/AUT7/APG8/PAZ2, putative	
+LmjF.19.0910	LmjF.19.0910:mRNA	L. major strain Friedlin	LmjF.19: 368,317 - 368,682 (+)	ATG8/AUT7/APG8/PAZ2, putative	
+LmjF.19.0920	LmjF.19.0920:mRNA	L. major strain Friedlin	LmjF.19: 370,484 - 372,502 (+)	folate/biopterin transporter, putative	
+LmjF.19.0930	LmjF.19.0930:mRNA	L. major strain Friedlin	LmjF.19: 376,543 - 379,275 (+)	hypothetical protein, conserved	
+LmjF.19.0940	LmjF.19.0940:mRNA	L. major strain Friedlin	LmjF.19: 379,998 - 381,965 (+)	CAP-Gly domain containing protein, putative	
+LmjF.19.0950	LmjF.19.0950:mRNA	L. major strain Friedlin	LmjF.19: 382,996 - 385,425 (+)	hypothetical protein, conserved	
+LmjF.19.0960	LmjF.19.0960:mRNA	L. major strain Friedlin	LmjF.19: 386,124 - 386,462 (+)	dynein light chain, putative	
+LmjF.19.0970	LmjF.19.0970:mRNA	L. major strain Friedlin	LmjF.19: 387,374 - 387,982 (+)	peptidyl-prolyl cis-trans isomerase, macrophage infectivity potentiator precursor, putative	
+LmjF.19.0980	LmjF.19.0980:mRNA	L. major strain Friedlin	LmjF.19: 390,590 - 393,493 (+)	FYVE zinc finger, putative	
+LmjF.19.0985	LmjF.19.0985:mRNA	L. major strain Friedlin	LmjF.19: 398,500 - 400,455 (+)	4-coumarate:coa ligase-like protein	
+LmjF.19.0995	LmjF.19.0995:mRNA	L. major strain Friedlin	LmjF.19: 403,627 - 405,531 (+)	4-coumarate:coa ligase-like protein	
+LmjF.19.1000	LmjF.19.1000:mRNA	L. major strain Friedlin	LmjF.19: 572,244 - 574,787 (+)	glycerol uptake protein, putative	
+LmjF.19.1005	LmjF.19.1005:mRNA	L. major strain Friedlin	LmjF.19: 410,569 - 412,560 (+)	4-coumarate:coa ligase-like protein	
+LmjF.19.1010	LmjF.19.1010:mRNA	L. major strain Friedlin	LmjF.19: 415,548 - 417,992 (+)	WD domain, G-beta repeat, putative	
+LmjF.19.1020	LmjF.19.1020:mRNA	L. major strain Friedlin	LmjF.19: 419,816 - 421,867 (+)	tRNA pseudouridine synthase A-like protein	
+LmjF.19.1030	LmjF.19.1030:mRNA	L. major strain Friedlin	LmjF.19: 423,069 - 423,929 (+)	hypothetical protein, conserved	
+LmjF.19.1040	LmjF.19.1040:mRNA	L. major strain Friedlin	LmjF.19: 424,848 - 426,749 (+)	phenylalanyl-tRNA synthetase, putative	
+LmjF.19.1050	LmjF.19.1050:mRNA	L. major strain Friedlin	LmjF.19: 429,043 - 433,092 (+)	hypothetical protein, unknown function	
+LmjF.19.1060	LmjF.19.1060:mRNA	L. major strain Friedlin	LmjF.19: 434,501 - 438,253 (+)	hypothetical protein, conserved	
+LmjF.19.1070	LmjF.19.1070:mRNA	L. major strain Friedlin	LmjF.19: 443,450 - 446,350 (+)	Diacylglycerol kinase catalytic domain containing protein, putative	
+LmjF.19.1080	LmjF.19.1080:mRNA	L. major strain Friedlin	LmjF.19: 448,100 - 459,403 (+)	hypothetical protein, conserved	
+LmjF.19.1090	LmjF.19.1090:mRNA	L. major strain Friedlin	LmjF.19: 459,788 - 460,438 (+)	hypothetical protein, unknown function	
+LmjF.19.1100	LmjF.19.1100:mRNA	L. major strain Friedlin	LmjF.19: 462,665 - 466,621 (+)	hypothetical protein, conserved	
+LmjF.19.1110	LmjF.19.1110:mRNA	L. major strain Friedlin	LmjF.19: 468,885 - 469,919 (+)	mitochondrial carrier protein, putative	
+LmjF.19.1120	LmjF.19.1120:mRNA	L. major strain Friedlin	LmjF.19: 471,124 - 472,362 (+)	proteasome regulatory non-ATP-ase subunit 9, putative	
+LmjF.19.1130	LmjF.19.1130:mRNA	L. major strain Friedlin	LmjF.19: 474,617 - 491,887 (+)	hypothetical protein, conserved	
+LmjF.19.1140	LmjF.19.1140:mRNA	L. major strain Friedlin	LmjF.19: 493,067 - 495,529 (+)	hypothetical protein, unknown function	
+LmjF.19.1150	LmjF.19.1150:mRNA	L. major strain Friedlin	LmjF.19: 497,252 - 505,222 (+)	hypothetical protein, conserved	
+LmjF.19.1160	LmjF.19.1160:mRNA	L. major strain Friedlin	LmjF.19: 506,941 - 508,050 (+)	hypothetical protein, conserved	
+LmjF.19.1170	LmjF.19.1170:mRNA	L. major strain Friedlin	LmjF.19: 510,943 - 513,729 (+)	hypothetical protein, unknown function	
+LmjF.19.1180	LmjF.19.1180:mRNA	L. major strain Friedlin	LmjF.19: 515,264 - 520,423 (+)	hypothetical protein, conserved	
+LmjF.19.1190	LmjF.19.1190:mRNA	L. major strain Friedlin	LmjF.19: 521,395 - 521,787 (+)	CHCH domain containing protein, putative	
+LmjF.19.1200	LmjF.19.1200:mRNA	L. major strain Friedlin	LmjF.19: 523,104 - 524,549 (+)	actin-related protein 2, putative	
+LmjF.19.1210	LmjF.19.1210:mRNA	L. major strain Friedlin	LmjF.19: 525,562 - 526,191 (+)	Fcf1, putative	
+LmjF.19.1220	LmjF.19.1220:mRNA	L. major strain Friedlin	LmjF.19: 527,173 - 528,054 (+)	hypothetical protein, conserved	
+LmjF.19.1230	LmjF.19.1230:mRNA	L. major strain Friedlin	LmjF.19: 530,246 - 531,406 (+)	hypothetical protein, conserved	
+LmjF.19.1240	LmjF.19.1240.1:mRNA	L. major strain Friedlin	LmjF.19: 533,814 - 539,393 (+)	hypothetical protein, conserved	
+LmjF.19.1240	LmjF.19.1240.2:mRNA	L. major strain Friedlin	LmjF.19: 532,193 - 539,393 (+)	hypothetical protein, conserved	
+LmjF.19.1250	LmjF.19.1250:mRNA	L. major strain Friedlin	LmjF.19: 540,594 - 541,979 (+)	peroxin 12, putative	
+LmjF.19.1260	LmjF.19.1260:mRNA	L. major strain Friedlin	LmjF.19: 543,273 - 543,788 (+)	hypothetical protein, conserved	
+LmjF.19.1270	LmjF.19.1270:mRNA	L. major strain Friedlin	LmjF.19: 544,444 - 545,127 (+)	RNA binding protein, putative	
+LmjF.19.1280	LmjF.19.1280:mRNA	L. major strain Friedlin	LmjF.19: 545,877 - 546,710 (+)	SPFH domain / Band 7 family, putative	
+LmjF.19.1290	LmjF.19.1290:mRNA	L. major strain Friedlin	LmjF.19: 548,689 - 549,540 (+)	SPFH domain / Band 7 family, putative	
+LmjF.19.1300	LmjF.19.1300:mRNA	L. major strain Friedlin	LmjF.19: 551,289 - 553,844 (+)	hypothetical protein, unknown function	
+LmjF.19.1310	LmjF.19.1310:mRNA	L. major strain Friedlin	LmjF.19: 557,293 - 560,223 (+)	hypothetical protein, conserved	
+LmjF.19.1315	LmjF.19.1315:mRNA	L. major strain Friedlin	LmjF.19: 565,792 - 566,160 (+)	hypothetical protein, conserved	
+LmjF.19.1320	LmjF.19.1320:mRNA	L. major strain Friedlin	LmjF.19: 568,605 - 569,741 (+)	glycerol uptake protein, putative	
+LmjF.19.1330	LmjF.19.1330:mRNA	L. major strain Friedlin	LmjF.19: 577,319 - 579,550 (+)	glycerol uptake protein, putative	
+LmjF.19.1340	LmjF.19.1340:mRNA	L. major strain Friedlin	LmjF.19: 580,595 - 582,928 (+)	glycerol uptake protein, putative	
+LmjF.19.1345	LmjF.19.1345:mRNA	L. major strain Friedlin	LmjF.19: 583,972 - 586,305 (+)	glycerol uptake protein, putative	
+LmjF.19.1347	LmjF.19.1347:mRNA	L. major strain Friedlin	LmjF.19: 588,698 - 591,530 (+)	membrane-bound O-acyltransferase, putative	
+LmjF.19.1350	LmjF.19.1350:mRNA	L. major strain Friedlin	LmjF.19: 596,669 - 597,871 (+)	phosphatidic acid phosphatase protein-like protein	
+LmjF.19.1360	LmjF.19.1360:mRNA	L. major strain Friedlin	LmjF.19: 599,404 - 599,670 (+)	hypothetical protein, unknown function	
+LmjF.19.1365	LmjF.19.1365:mRNA	L. major strain Friedlin	LmjF.19: 601,413 - 601,787 (+)	hypothetical protein, conserved	
+LmjF.19.1370	LmjF.19.1370:mRNA	L. major strain Friedlin	LmjF.19: 604,070 - 606,292 (+)	hypothetical protein, conserved	
+LmjF.19.1380	LmjF.19.1380:mRNA	L. major strain Friedlin	LmjF.19: 609,676 - 611,535 (+)	cation transporter, putative	
+LmjF.19.1390	LmjF.19.1390:mRNA	L. major strain Friedlin	LmjF.19: 612,673 - 613,554 (+)	TATA-box-binding protein	
+LmjF.19.1400	LmjF.19.1400:mRNA	L. major strain Friedlin	LmjF.19: 614,398 - 615,084 (+)	hypothetical protein, conserved	
+LmjF.19.1410	LmjF.19.1410:mRNA	L. major strain Friedlin	LmjF.19: 617,325 - 620,126 (+)	Cid1 family poly A polymerase, putative	
+LmjF.19.1420	LmjF.19.1420:mRNA	L. major strain Friedlin	LmjF.19: 621,270 - 622,334 (+)	cysteine peptidase A (CPA)	
+LmjF.19.1430	LmjF.19.1430:mRNA	L. major strain Friedlin	LmjF.19: 631,606 - 632,703 (+)	pre-RNA processing PIH1/Nop17, putative	
+LmjF.19.1440	LmjF.19.1440:mRNA	L. major strain Friedlin	LmjF.19: 632,989 - 634,080 (+)	mitogen-activated protein kinase 4	
+LmjF.19.1450	LmjF.19.1450:mRNA	L. major strain Friedlin	LmjF.19: 634,460 - 636,214 (+)	oxidoreductase-like protein	
+LmjF.19.1460	LmjF.19.1460:mRNA	L. major strain Friedlin	LmjF.19: 637,425 - 637,775 (+)	hypothetical protein, conserved	
+LmjF.19.1470	LmjF.19.1470:mRNA	L. major strain Friedlin	LmjF.19: 638,575 - 640,440 (+)	protein kinase, putative	
+LmjF.19.1480	LmjF.19.1480:mRNA	L. major strain Friedlin	LmjF.19: 642,557 - 643,402 (+)	eukaryotic translation initiation factor-like protein	
+LmjF.19.1490	LmjF.19.1490:mRNA	L. major strain Friedlin	LmjF.19: 645,899 - 646,864 (+)	Triose-phosphate Transporter family, putative	
+LmjF.19.1500	LmjF.19.1500:mRNA	L. major strain Friedlin	LmjF.19: 648,165 - 649,010 (+)	Eukaryotic translation initiation factor 4E-2	
+LmjF.19.1505	LmjF.19.1505:mRNA	L. major strain Friedlin	LmjF.19: 649,793 - 650,137 (+)	hypothetical protein, conserved	
+LmjF.19.1510	LmjF.19.1510:mRNA	L. major strain Friedlin	LmjF.19: 651,506 - 652,471 (+)	Triose-phosphate Transporter family, putative	
+LmjF.19.1520	LmjF.19.1520:mRNA	L. major strain Friedlin	LmjF.19: 657,095 - 659,842 (+)	hypothetical protein, conserved	
+LmjF.19.1530	LmjF.19.1530:mRNA	L. major strain Friedlin	LmjF.19: 660,939 - 662,237 (+)	FK506-binding protein (FKBP)-type peptidyl-prolyl isomerase, putative	
+LmjF.19.1540	LmjF.19.1540:mRNA	L. major strain Friedlin	LmjF.19: 666,735 - 669,332 (+)	choline/Carnitine o-acyltransferase-like protein	
+LmjF.19.1550	LmjF.19.1550:mRNA	L. major strain Friedlin	LmjF.19: 670,369 - 671,574 (+)	WD domain, G-beta repeat, putative	
+LmjF.19.1560	LmjF.19.1560:mRNA	L. major strain Friedlin	LmjF.19: 673,010 - 674,554 (+)	inosine-5'-monophosphate dehydrogenase	
+LmjF.19.1570	LmjF.19.1570:mRNA	L. major strain Friedlin	LmjF.19: 676,402 - 677,355 (+)	ELMO/CED-12 family, putative	
+LmjF.19.1580	LmjF.19.1580:mRNA	L. major strain Friedlin	LmjF.19: 678,253 - 679,437 (+)	hypothetical protein, unknown function	
+LmjF.19.1590	LmjF.19.1590:mRNA	L. major strain Friedlin	LmjF.19: 680,419 - 682,215 (+)	ATP-dependent zinc metallopeptidase, putative	
+LmjF.19.1600	LmjF.19.1600:mRNA	L. major strain Friedlin	LmjF.19: 683,048 - 683,548 (+)	SRP19 protein, putative	
+LmjF.19.1610	LmjF.19.1610:mRNA	L. major strain Friedlin	LmjF.19: 684,470 - 685,306 (+)	protein kinase, putative	
+LmjF.19.1620	LmjF.19.1620:mRNA	L. major strain Friedlin	LmjF.19: 685,775 - 686,701 (+)	potassium voltage-gated channel, putative	
+LmjF.19.1630	LmjF.19.1630:mRNA	L. major strain Friedlin	LmjF.19: 687,260 - 687,637 (+)	ATG8/AUT7/APG8/PAZ2, putative	
+LmjF.19.1640	LmjF.19.1640:mRNA	L. major strain Friedlin	LmjF.19: 691,621 - 693,882 (+)	Leucine Rich repeats (2 copies), putative	
+LmjF.19.1650	LmjF.19.1650:mRNA	L. major strain Friedlin	LmjF.19: 698,855 - 700,654 (+)	GIPL galf transferase, putative	
+LmjF.19.snoRNA0003	LmjF.19.snoRNA0003:snoRNA	L. major strain Friedlin	LmjF.19: 690,992 - 691,087 (+)	C/D snoRNA	
+LmjF.19.snoRNA0004	LmjF.19.snoRNA0004:snoRNA	L. major strain Friedlin	LmjF.19: 690,826 - 690,899 (+)	C/D snoRNA	
