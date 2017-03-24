@@ -50,7 +50,7 @@ class Simulation:
         done = False
         while not done:
             done = self.step()
-        # data for output
+
         return self.current_step,\
             self.collision_manager.head_collisions,\
             self.collision_manager.tail_collisions,\

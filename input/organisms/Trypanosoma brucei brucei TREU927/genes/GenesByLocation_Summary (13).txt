@@ -1,2 +1,0 @@
-[Gene ID]	[source_id]	[Organism]	[Genomic Location(s)]	[Product Description]	
-Tb927.11.18680	Tb927.11.18680:mRNA	T. brucei brucei TREU927	Tb927_11_Homologues_1_v5.1: 143 - 1,264 (-)	dynein light chain LC8, putative	

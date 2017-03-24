@@ -4,18 +4,19 @@ from random import Random
 from source.models.replication_origin import ReplicationOrigin
 
 
-def generate_origins(chromosome, replication_speed, replication_repair_duration):  # TODO
+def generate_origins(chromosome, number_of_sets, replication_repair_duration):
     d = chromosome.length
-    v = replication_speed
-    ts = 8 * 3600  # duration of S phase
-    minimum_origin_amount = math.ceil(d / (2 * v * ts))
+    origin_amount = math.ceil(float(d/260000))
 
-    origin_position = int(d / (1 + minimum_origin_amount))
-    origins = []
-    for i in range(minimum_origin_amount):
-        origins.append(ReplicationOrigin((i + 1) * origin_position, 1, replication_speed, replication_repair_duration))
+    list_of_origins_sets = []
+    for i in range(number_of_sets):
+        origins_set = []
+        for j in range(origin_amount):
+            origins_set.append(ReplicationOrigin(j * 260000, 1, chromosome.replication_speed,
+                                                 replication_repair_duration))
+        list_of_origins_sets.append(origins_set)
 
-    return origins
+    return list_of_origins_sets
 
 
 def generate_randomized_origins(chromosome, number_of_sets, replication_speed, replication_repair_duration):

@@ -18,7 +18,6 @@ def simulate(args):
     simulation = Simulation(chromosome)
     simulation_duration, head_collisions, tail_collisions, repair_duration,\
         transcription_delay, origins = simulation.run()
-
     result = "{}\t{}\t{}\t{}\t{}\t{}\t".format(simulation_duration,
                                                head_collisions, tail_collisions,
                                                repair_duration, transcription_delay,
@@ -58,7 +57,7 @@ def main(args):
 
     for chromosome in chromosomes:
         simulation_counter = 1
-        for replication_origins in generate_randomized_origins_in_inversions(chromosome, random_origins_amount, 67, 0):
+        for replication_origins in generate_origins(chromosome, random_origins_amount, 0):
             chromosome.update_attributes(replication_origins=replication_origins)
             for replication_repair_duration in range(*replication_repair_duration_range):
                 chromosome.update_attributes(replication_repair_duration=replication_repair_duration)

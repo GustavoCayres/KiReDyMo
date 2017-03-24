@@ -1,10 +1,11 @@
 class Chromosome:
     """ Model of each chromosome. """
 
-    def __init__(self, code, length, organism):
+    def __init__(self, code, length, replication_speed, organism):
         self.code = code
         self.length = length
         self.organism = organism
+        self.replication_speed = replication_speed
         self.replication_origins = []
         self.transcription_regions = []
 

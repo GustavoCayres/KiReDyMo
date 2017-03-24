@@ -20,20 +20,26 @@ class Database:
 
     def create_tables(self):
         cursor = self.db.cursor()
-        cursor.execute('''CREATE TABLE Chromosome
-                        (code text, length integer not null, organism text,
-                        PRIMARY KEY (code, organism))''')
-        cursor.execute('''CREATE TABLE ReplicationOrigin
-                        (position integer, start_probability real not null,
-                        replication_speed integer not null, replication_repair_duration integer not null,
-                        chromosome_code text, chromosome_organism text,
-                        PRIMARY KEY (position, chromosome_code, chromosome_organism)
-                        FOREIGN KEY (chromosome_code, chromosome_organism) REFERENCES Chromosome(code, organism))''')
-        cursor.execute('''CREATE TABLE TranscriptionRegion
-                        (start integer, end integer, speed integer not null, delay integer not null,
-                        chromosome_code text, chromosome_organism text,
-                        PRIMARY KEY (start, end, chromosome_code, chromosome_organism)
-                        FOREIGN KEY (chromosome_code, chromosome_organism) REFERENCES Chromosome(code, organism))''')
+        cursor.execute('''CREATE TABLE Chromosome(
+                            code TEXT PRIMARY KEY,
+                            length INTEGER NOT NULL,
+                            replication_speed INTEGER NOT NULL,
+                            organism TEXT)''')
+        cursor.execute('''CREATE TABLE ReplicationOrigin(
+                            position INTEGER,
+                            start_probability REAL NOT NULL,
+                            replication_repair_duration INTEGER NOT NULL,
+                            chromosome_code TEXT,
+                            PRIMARY KEY (position, chromosome_code),
+                            FOREIGN KEY (chromosome_code) REFERENCES Chromosome)''')
+        cursor.execute('''CREATE TABLE TranscriptionRegion(
+                            start INTEGER,
+                            end INTEGER,
+                            speed INTEGER NOT NULL,
+                            delay INTEGER NOT NULL,
+                            chromosome_code TEXT,
+                            PRIMARY KEY (start, end, chromosome_code),
+                            FOREIGN KEY (chromosome_code) REFERENCES Chromosome)''')
 
     def drop_tables(self):
         cursor = self.db.cursor()
@@ -41,7 +47,7 @@ class Database:
         cursor.execute('''DROP TABLE  IF EXISTS ReplicationOrigin''')
         cursor.execute('''DROP TABLE  IF EXISTS TranscriptionRegion''')
 
-    def insert_chromosomes(self, file_name):
+    def insert_chromosomes(self, file_name, replication_speed):
         """ Imports the chromosomes from txt file 'file_name'.
             The file format contain columns with headers [Length], [Description] and [Sequence ID]
             where the separation are TABs.                                                          """
@@ -58,7 +64,7 @@ class Database:
                     length_index = index
                 elif tag == "[Sequence ID]":
                     code_index = index
-                elif tag == "[Description]":
+                elif tag == "[Organism]":
                     organism_index = index
 
             chromosomes = []
@@ -67,12 +73,12 @@ class Database:
                 length = line_as_list[length_index].replace(',', '')
                 code = line_as_list[code_index]
                 organism = line_as_list[organism_index]
-                chromosomes.append((code, length, organism))
+                chromosomes.append((code, int(length), replication_speed, organism))
 
-        cursor.executemany('''INSERT INTO Chromosome VALUES (?, ?, ?)''', chromosomes)
+        cursor.executemany('''INSERT INTO Chromosome VALUES (?, ?, ?, ?)''', chromosomes)
         return len(chromosomes)
 
-    def insert_replication_origins(self, file_name, replication_speed, replication_repair_duration):
+    def insert_replication_origins(self, file_name, replication_repair_duration):
         """ Insert a replication origin with the specified
         {position, start_probability, chromosome}
         into the specified chromosome. """
@@ -80,27 +86,22 @@ class Database:
 
         cursor = self.db.cursor()
 
+        origins = []
         with open(file_name, 'r') as file:
             header_line_as_list = next(file).split("\t")
             code_index = -1  # let's find what column holds our desired data
-            organism_index = -1
 
             for index, tag in enumerate(header_line_as_list):
                 if tag == "[Code]":
                     code_index = index
-                elif tag == "[Organism]":
-                    organism_index = index
 
-            origins = []
             for line in file:
                 line_as_list = line.split("\t")
                 code = line_as_list[code_index]
-                organism = line_as_list[organism_index]
 
-                origins.append((-1, 1, replication_speed, replication_repair_duration,
-                                code, organism))
+                origins.append((-1, 1, replication_repair_duration, code))
 
-        cursor.executemany('''INSERT INTO ReplicationOrigin VALUES (?, ?, ?, ?, ?, ?)''', origins)
+        cursor.executemany('''INSERT INTO ReplicationOrigin VALUES (?, ?, ?, ?)''', origins)
         return len(origins)
 
     def insert_transcription_regions(self, file_name, speed, delay):
@@ -115,26 +116,23 @@ class Database:
         with open(file_name, 'r') as file:
             header_line_as_list = next(file).split("\t")
             region_index = -1               # let's find what column holds the region data
-            organism_index = -1             # let's find what column holds the organism data
             for index, tag in enumerate(header_line_as_list):
                 if tag == "[Genomic Location(s)]":
                     region_index = index
-                elif tag == "[Organism]":
-                    organism_index = index
 
             for line in file:
                 line_as_list = line.split("\t")
                 region = line_as_list[region_index].split()
-                organism = line_as_list[organism_index]
 
                 chromosome = region[0].replace(':', '')
                 start = region[1].replace(',', '')
                 end = region[3].replace(',', '')
                 direction = region[4]
-                genes.append((int(start), int(end), int(speed), int(delay), chromosome, organism, direction))
+                genes.append((int(start), int(end), int(speed), int(delay), chromosome, direction))
 
         regions = Database.convert_genes_to_regions(genes)
-        cursor.executemany('''INSERT INTO TranscriptionRegion VALUES (?, ?, ?, ?, ?, ?)''', regions)
+
+        cursor.executemany('''INSERT INTO TranscriptionRegion VALUES (?, ?, ?, ?, ?)''', regions)
         return len(regions)
 
     @staticmethod
@@ -149,16 +147,15 @@ class Database:
         region_start = previous_gene[0]
         region_end = previous_gene[1]
         for gene in genes[1:]:
-            if previous_gene[-1] != gene[-1]:  # different polycistronic region
+            if previous_gene[5] != gene[5]:  # different polycistronic region
                 start = region_start
                 end = region_end
                 speed = previous_gene[2]
                 delay = previous_gene[3]
                 chromosome_code = previous_gene[4]
-                chromosome_organism = previous_gene[5]
                 if previous_gene[-1] == "(-)":
                     start, end = region_end, region_start
-                regions.append((start, end, speed, delay, chromosome_code, chromosome_organism))
+                regions.append((start, end, speed, delay, chromosome_code))
                 region_start = gene[0]
 
             region_end = gene[1]  # update region's end
@@ -171,22 +168,26 @@ class Database:
         for key, value in kwargs.items():
             query = "SELECT * FROM Chromosome WHERE " + key + " = ?"
             cursor.execute(query, (value,))
-        chromosomes = [Chromosome(code=t[0], length=t[1], organism=t[2]) for t in cursor.fetchall()]
+        chromosomes = [Chromosome(code=t[0],
+                                  length=t[1],
+                                  replication_speed=t[2],
+                                  organism=t[3]) for t in cursor.fetchall()]
 
         for chromosome in chromosomes:
             cursor.execute('''SELECT *
                               FROM ReplicationOrigin
-                              WHERE chromosome_code = ? AND chromosome_organism = ?''',
-                           (chromosome.code, chromosome.organism))
+                              WHERE chromosome_code = ?''',
+                           (chromosome.code,))
             chromosome.replication_origins = [ReplicationOrigin(position=t[0],
-                                                                start_probability=t[1], replication_speed=t[2],
-                                                                replication_repair_duration=t[3])
+                                                                start_probability=t[1],
+                                                                replication_speed=chromosome.replication_speed,
+                                                                replication_repair_duration=t[2])
                                               for t in cursor.fetchall()]
 
             cursor.execute('''SELECT *
                               FROM TranscriptionRegion
-                              WHERE chromosome_code = ? AND chromosome_organism = ?''',
-                           (chromosome.code, chromosome.organism))
+                              WHERE chromosome_code = ?''',
+                           (chromosome.code,))
             chromosome.transcription_regions = [TranscriptionRegion(start=t[0], end=t[1], speed=t[2], delay=t[3])
                                                 for t in cursor.fetchall()]
 
