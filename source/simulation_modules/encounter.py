@@ -4,8 +4,9 @@ import itertools
 class Encounter:
     """ Controls the encounter's between two replication machineries. """
 
-    def __init__(self, chromosome_length):
-        self.chromosome_length = chromosome_length
+    def __init__(self, chromosome):
+        self.chromosome_length = chromosome.length
+        self.number_of_origins = len(chromosome.replication_origins)
         self.chromosome_start_done = False
         self.chromosome_end_done = False
         self.encounters = 0
@@ -40,4 +41,4 @@ class Encounter:
 
         replications[:] = [x for x in replications if x.is_active()]
 
-        return self.chromosome_start_done and self.chromosome_end_done
+        return self.chromosome_start_done and self.chromosome_end_done and self.encounters == self.number_of_origins - 1

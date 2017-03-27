@@ -10,7 +10,7 @@ class Simulation:
     def __init__(self, chromosome):
         self.current_step = 0
         self.collision_manager = Collision()
-        self.encounter_manager = Encounter(chromosome.length)
+        self.encounter_manager = Encounter(chromosome)
         self.chromosome = chromosome
 
         self.replication_triggers = [ReplicationTrigger(origin) for origin in chromosome.replication_origins]
