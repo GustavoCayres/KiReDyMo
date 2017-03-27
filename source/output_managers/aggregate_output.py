@@ -4,7 +4,7 @@ import os
 
 def aggregate_output():
     for file_name in os.listdir("output"):
-        regex = re.match("(TcChr([0-9]+)-S)_[0-9]", file_name)
+        regex = re.match("(.+)_[0-9]+_results", file_name)
         if regex is not None:
             output_path = "output/" + regex.group(1) + "_results.txt"
             with open(output_path, 'a') as output_file:
