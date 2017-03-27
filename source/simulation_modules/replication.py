@@ -26,7 +26,7 @@ class Replication:
         """ Pauses the replication for a certain duration to allow repairs. """
 
         self.current_repair_wait = self.origin.replication_repair_duration
-        if self.current_repair_wait > 0:
+        if self.origin.replication_repair_duration > 0:
             self.speed = 0
 
     def finish(self):
