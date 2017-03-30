@@ -9,7 +9,7 @@ from source.simulation_modules.replication import Replication
 class TestEncounter(TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.chromosome = Chromosome(code="c1", length=20, organism="TtChr1")
+        cls.chromosome = Chromosome(code="c1", length=20, organism="TtChr1", replication_speed=5)
         cls.chromosome.replication_origins.append(ReplicationOrigin(position=15, start_probability=0.1,
                                                                     replication_speed=5, replication_repair_duration=5))
         cls.chromosome.replication_origins.append(ReplicationOrigin(position=5, start_probability=0.1,
@@ -22,7 +22,7 @@ class TestEncounter(TestCase):
         self.replications.append(Replication(self.chromosome.replication_origins[1], -1))
         self.replications.append(Replication(self.chromosome.replication_origins[1], 1))
 
-        self.encounter = Encounter(self.chromosome.length)
+        self.encounter = Encounter(self.chromosome)
 
     def test_resolve(self):
         self.encounter.resolve(self.replications)

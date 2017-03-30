@@ -36,6 +36,7 @@ class Chromosome:
         text.append(origins)
 
         text.append("Length: " + str(self.length) + " bases")
+        text.append("Replication Speed: " + str(self.replication_speed) + " bases per second")
         text.append("Transcription Regions: ")
         regions = ""
         for region in self.transcription_regions:

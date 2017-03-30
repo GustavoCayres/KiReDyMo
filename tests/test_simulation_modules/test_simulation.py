@@ -9,7 +9,7 @@ from source.simulation_modules.simulation import Simulation
 class TestSimulation(TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.chromosome = Chromosome(code="c1", length=20, organism="TtChr1")
+        cls.chromosome = Chromosome(code="c1", length=20, organism="TtChr1", replication_speed=5)
         cls.chromosome.transcription_regions.append(TranscriptionRegion(start=2, end=6, speed=2, delay=10))
         cls.chromosome.transcription_regions.append(TranscriptionRegion(start=12, end=16, speed=2, delay=10))
         cls.chromosome.transcription_regions.append(TranscriptionRegion(start=7, end=9, speed=2, delay=10))

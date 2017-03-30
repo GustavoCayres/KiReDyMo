@@ -7,12 +7,12 @@ from source.models.transcription_region import TranscriptionRegion
 
 class TestChromosome(TestCase):
     def setUp(self):
-        self.chromosome = Chromosome(code="C1", length=10, organism="Test organism")
+        self.chromosome = Chromosome(code="C1", length=10, replication_speed=2, organism="Test organism")
 
     def test___str__(self):
         self.assertEqual(str(self.chromosome),
                          "Chromosome: C1\nOrganism: Test organism\nOrigins: \n\n"
-                         "Length: 10 bases\nTranscription Regions: \n\n")
+                         "Length: 10 bases\nReplication Speed: 2 bases per second\nTranscription Regions: \n\n")
 
     def test_update_attributes(self):
         self.assertEqual(self.chromosome.replication_origins, [])
