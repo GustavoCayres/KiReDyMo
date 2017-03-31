@@ -27,7 +27,7 @@ class Database:
                             organism TEXT)''')
         cursor.execute('''CREATE TABLE ReplicationOrigin(
                             position INTEGER,
-                            start_probability REAL NOT NULL,
+                            score REAL NOT NULL,
                             replication_repair_duration INTEGER NOT NULL,
                             chromosome_code TEXT,
                             PRIMARY KEY (position, chromosome_code),
@@ -55,7 +55,7 @@ class Database:
         cursor = self.db.cursor()
 
         with open(file_name, 'r') as file:
-            header_line_as_list = next(file).split("\t")
+            header_line_as_list = next(file).strip("\n").split("\t")
             code_index = -1         # let's find what column holds our desired data
             length_index = -1
             organism_index = -1
@@ -90,16 +90,24 @@ class Database:
         with open(file_name, 'r') as file:
             header_line_as_list = next(file).split("\t")
             code_index = -1  # let's find what column holds our desired data
+            score_index = -1
+            position_index = -1
 
             for index, tag in enumerate(header_line_as_list):
                 if tag == "[Code]":
                     code_index = index
+                elif tag == "[Position]":
+                    position_index = index
+                elif tag == "[Score]":
+                    score_index = index
 
             for line in file:
                 line_as_list = line.split("\t")
                 code = line_as_list[code_index]
+                position = line_as_list[position_index]
+                score = line_as_list[score_index]
 
-                origins.append((-1, 1, replication_repair_duration, code))
+                origins.append((position, score, replication_repair_duration, code))
 
         cursor.executemany('''INSERT INTO ReplicationOrigin VALUES (?, ?, ?, ?)''', origins)
         return len(origins)
