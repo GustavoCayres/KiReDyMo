@@ -1,2 +1,0 @@
-[Code]	[Organism]	
-Tb927_11_v5.1	Trypanosoma brucei brucei TREU927	
