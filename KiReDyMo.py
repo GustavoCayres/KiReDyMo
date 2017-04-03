@@ -14,17 +14,18 @@ from source.simulation_modules.simulation import Simulation
 def simulate(args):
     chromosome = args[0]
     simulation_number = args[1]
+    print("simulated" + str(simulation_number))
 
     simulation = Simulation(chromosome)
     simulation_duration, head_collisions, tail_collisions, repair_duration,\
         transcription_delay, origins = simulation.run()
-    result = "{}\t{}\t{}\t{}\t{}\t{}\t".format(simulation_duration,
-                                               head_collisions, tail_collisions,
-                                               repair_duration, transcription_delay,
-                                               [str(origin) for origin in origins])
+    result = "{}\t{}\t{}\t{}\t{}\t{}\t\n".format(simulation_duration,
+                                                 head_collisions, tail_collisions,
+                                                 repair_duration, transcription_delay,
+                                                 [str(origin) for origin in origins])
 
     with open("output/" + chromosome.code + "_" + str(simulation_number) + "_results.txt", 'w') as output_file:
-        print(result, file=output_file)
+        output_file.write(result)
 
 
 def parse_arguments(file_name):

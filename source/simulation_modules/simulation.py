@@ -18,7 +18,7 @@ class Simulation:
         self.collision_manager = Collision()
         self.encounter_manager = Encounter(chromosome)
 
-        self.replication_triggers = [ReplicationTrigger(origin) for origin in chromosome.replication_origins]
+        self.replication_trigger = ReplicationTrigger(chromosome.replication_origins)
         self.transcription_triggers = [TranscriptionTrigger(region) for region in chromosome.transcription_regions]
 
         self.current_step = 0
@@ -31,14 +31,13 @@ class Simulation:
                 self.transcriptions.append(transcription)
 
     def trigger_replications(self):
-        if self.random_generator.random() >= 1 - Simulation.PROBABILITY_OF_ORIGIN_START:
+        if self.random_generator.random() < 1 - Simulation.PROBABILITY_OF_ORIGIN_START:
             return
 
-        for trigger in self.replication_triggers:
-            left_replication, right_replication = trigger.try_to_start()
-            if left_replication is not None and right_replication is not None:
-                self.replications.append(left_replication)
-                self.replications.append(right_replication)
+        left_replication, right_replication = self.replication_trigger.start_random_origin()
+        if left_replication is not None and right_replication is not None:
+            self.replications.append(left_replication)
+            self.replications.append(right_replication)
 
     def step(self):
         """ Move one step forward in the simulation, updating the position of each machinery (both for replication and

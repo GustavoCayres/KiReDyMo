@@ -82,7 +82,6 @@ class Database:
         """ Insert a replication origin with the specified
         {position, start_probability, chromosome}
         into the specified chromosome. """
-        """ Currently inserting an invalid origin that will be replaced during the simulation. """
 
         cursor = self.db.cursor()
 
