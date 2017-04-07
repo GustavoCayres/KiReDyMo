@@ -1,4 +1,5 @@
 import itertools
+from source.simulation_modules.completition import Completition
 
 
 class Encounter:
@@ -10,6 +11,7 @@ class Encounter:
         self.chromosome_start_done = False
         self.chromosome_end_done = False
         self.encounters = 0
+        self.completition_manager = Completition()
 
     def verify(self, replication1, replication2):
         """ Verifies whether there is an imminent encounter between the replications' machineries. """
@@ -20,6 +22,7 @@ class Encounter:
 
         if 0 < -replication1.direction * replication1.fork_position +\
                 -replication2.direction * replication2.fork_position <= replication1.speed + replication2.speed:
+            self.completition_manager.save_replication_encountering_replication(replication1, replication2)
             self.encounters += 1
             replication1.finish()
             replication2.finish()
@@ -33,12 +36,12 @@ class Encounter:
         for replication in replications:
             if replication.is_active():
                 if replication.fork_position + replication.direction * replication.speed < 0:
-                    self.chromosome_start_done = True
+                    self.completition_manager.save_replication_encountering_end(replication)
                     replication.finish()
                 elif replication.fork_position + replication.direction * replication.speed >= self.chromosome_length:
-                    self.chromosome_end_done = True
+                    self.completition_manager.save_replication_encountering_end(replication)
                     replication.finish()
 
         replications[:] = [x for x in replications if x.is_active()]
 
-        return self.chromosome_start_done and self.chromosome_end_done and self.encounters == self.number_of_origins - 1
+        return self.completition_manager.done()

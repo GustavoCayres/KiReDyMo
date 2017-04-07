@@ -14,7 +14,6 @@ from source.simulation_modules.simulation import Simulation
 def simulate(args):
     chromosome = args[0]
     simulation_number = args[1]
-    print("simulated" + str(simulation_number))
 
     simulation = Simulation(chromosome)
     simulation_duration, head_collisions, tail_collisions, repair_duration,\

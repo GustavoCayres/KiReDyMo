@@ -7,6 +7,8 @@ class ReplicationTrigger:
     random_number_generator = Random()
     random_number_generator.seed()
 
+    MAIN_ORIGIN_PROBABILITY = .9
+
     @classmethod
     def set_seed(cls, seed):
         cls.random_number_generator.seed(seed)
@@ -19,8 +21,10 @@ class ReplicationTrigger:
             self.start_probabilities[origin] = origin.start_probability
 
     def start_random_origin(self):
-        if not self.update_start_probabilities():
+        if not self.update_start_probabilities() or\
+         self.random_float() < 1 - ReplicationTrigger.MAIN_ORIGIN_PROBABILITY:
             return None, None
+
         r = self.random_float()
         for origin in self.replication_origins:
             r -= self.start_probabilities[origin]
