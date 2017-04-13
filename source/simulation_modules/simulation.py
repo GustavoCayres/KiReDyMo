@@ -16,7 +16,7 @@ class Simulation:
         self.replications = []
         self.transcriptions = []
 
-        self.collision_manager = Collision()
+        self.collision_manager = Collision(chromosome)
         self.encounter_manager = Encounter(chromosome)
 
         self.replication_trigger = ReplicationTrigger(chromosome.replication_origins)
