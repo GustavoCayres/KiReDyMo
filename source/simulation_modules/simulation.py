@@ -9,6 +9,7 @@ class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
     PROBABILITY_OF_ORIGIN_START = .001
+    MAXIMUM_STEPS = 1000000
 
     def __init__(self, chromosome):
         self.chromosome = chromosome
@@ -36,7 +37,6 @@ class Simulation:
 
         left_replication, right_replication = self.replication_trigger.start_random_origin()
         if left_replication is not None and right_replication is not None:
-            print(left_replication)
             self.replications.append(left_replication)
             self.replications.append(right_replication)
 
@@ -57,7 +57,7 @@ class Simulation:
 
         self.current_step += 1
 
-        return done
+        return done or self.current_step > Simulation.MAXIMUM_STEPS
 
     def run(self):
         done = False

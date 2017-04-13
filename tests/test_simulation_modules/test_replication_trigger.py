@@ -7,7 +7,7 @@ from source.simulation_modules.replication_trigger import ReplicationTrigger
 class TestReplicationTrigger(TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.replication_origin = ReplicationOrigin(position=10, start_probability=.5,
+        cls.replication_origin = ReplicationOrigin(position=10, score=.5,
                                                    replication_repair_duration=10, replication_speed=5)
         ReplicationTrigger.set_seed(1)
 

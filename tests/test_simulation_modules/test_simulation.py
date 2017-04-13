@@ -13,7 +13,7 @@ class TestSimulation(TestCase):
         cls.chromosome.transcription_regions.append(TranscriptionRegion(start=2, end=6, speed=2, delay=10))
         cls.chromosome.transcription_regions.append(TranscriptionRegion(start=12, end=16, speed=2, delay=10))
         cls.chromosome.transcription_regions.append(TranscriptionRegion(start=7, end=9, speed=2, delay=10))
-        cls.chromosome.replication_origins.append(ReplicationOrigin(position=10, start_probability=0.1,
+        cls.chromosome.replication_origins.append(ReplicationOrigin(position=10, score=0.1,
                                                                     replication_speed=5, replication_repair_duration=5))
 
     def setUp(self):

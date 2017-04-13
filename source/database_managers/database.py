@@ -186,7 +186,7 @@ class Database:
                               WHERE chromosome_code = ?''',
                            (chromosome.code,))
             chromosome.replication_origins = [ReplicationOrigin(position=t[0],
-                                                                start_probability=t[1],
+                                                                score=t[1],
                                                                 replication_speed=chromosome.replication_speed,
                                                                 replication_repair_duration=t[2])
                                               for t in cursor.fetchall()]

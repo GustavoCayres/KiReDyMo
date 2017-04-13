@@ -10,9 +10,9 @@ class TestEncounter(TestCase):
     @classmethod
     def setUpClass(cls):
         cls.chromosome = Chromosome(code="c1", length=20, organism="TtChr1", replication_speed=5)
-        cls.chromosome.replication_origins.append(ReplicationOrigin(position=15, start_probability=0.1,
+        cls.chromosome.replication_origins.append(ReplicationOrigin(position=15, score=0.1,
                                                                     replication_speed=5, replication_repair_duration=5))
-        cls.chromosome.replication_origins.append(ReplicationOrigin(position=5, start_probability=0.1,
+        cls.chromosome.replication_origins.append(ReplicationOrigin(position=5, score=0.1,
                                                                     replication_speed=5, replication_repair_duration=5))
 
     def setUp(self):

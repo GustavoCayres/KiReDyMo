@@ -4,11 +4,13 @@ import errno
 import os
 import sys
 import time
+import math
 from multiprocessing import Pool
 
 from source.database_managers.database import Database
 from source.output_managers.aggregate_output import aggregate_output
 from source.simulation_modules.simulation import Simulation
+from source.parameter_managers.origin_generation import generate_origins
 
 
 def simulate(args):
@@ -41,6 +43,25 @@ def parse_arguments(file_name):
         return chromosomes, random_origins_amount, replication_repair_duration_range, transcription_start_delay_range
 
 
+def simulation_parameters(chromosomes, number_of_unique_simulations,
+                          replication_repair_duration_range, transcription_start_delay_range):
+    parameters = []
+    for chromosome in chromosomes:
+        simulation_counter = 1
+        for i in range(number_of_unique_simulations):
+            origins = generate_origins(chromosome, 260000)
+            replication_repair_duration = math.inf
+            for transcription_start_delay in range(*transcription_start_delay_range):
+                chromosome_copy = copy.deepcopy(chromosome)
+                chromosome_copy.replication_origins.extend(origins)
+                chromosome_copy.update_attributes(replication_repair_duration=replication_repair_duration)
+                chromosome_copy.update_attributes(transcription_start_delay=transcription_start_delay)
+                parameters.append((chromosome_copy, simulation_counter))
+                simulation_counter += 1
+
+    return parameters
+
+
 def main(args):
     start_time = time.time()
 
@@ -51,22 +72,8 @@ def main(args):
             raise
 
     cores = Pool()
-    simulation_parameters = []
 
-    chromosomes, number_of_randomizations, replication_repair_duration_range, transcription_start_delay_range =\
-        parse_arguments(args[1])
-
-    for chromosome in chromosomes:
-        simulation_counter = 1
-        for i in range(number_of_randomizations):
-            for replication_repair_duration in range(*replication_repair_duration_range):
-                chromosome.update_attributes(replication_repair_duration=replication_repair_duration)
-                for transcription_start_delay in range(*transcription_start_delay_range):
-                    chromosome.update_attributes(transcription_start_delay=transcription_start_delay)
-                    simulation_parameters.append((copy.deepcopy(chromosome), simulation_counter))
-                    simulation_counter += 1
-
-    cores.map(simulate, simulation_parameters)
+    cores.map(simulate, simulation_parameters(*parse_arguments(args[1])))
     aggregate_output()
     print("Simulation Finished in %f seconds" % (time.time() - start_time))
 

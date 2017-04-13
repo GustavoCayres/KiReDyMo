@@ -3,20 +3,21 @@ from random import Random
 
 from source.models.replication_origin import ReplicationOrigin
 
+random_number_generator = Random()
+random_number_generator.seed()
 
-def generate_origins(chromosome, number_of_sets, replication_repair_duration):
-    d = chromosome.length
-    origin_amount = math.ceil(float(d/260000))
 
-    list_of_origins_sets = []
-    for i in range(number_of_sets):
-        origins_set = []
-        for j in range(origin_amount):
-            origins_set.append(ReplicationOrigin(j * 260000, 1, chromosome.replication_speed,
-                                                 replication_repair_duration))
-        list_of_origins_sets.append(origins_set)
+def generate_origins(chromosome, interorigin_distance):
+    origin_amount = math.ceil(float(chromosome.length/interorigin_distance))
 
-    return list_of_origins_sets
+    origins = []
+    for i in range(origin_amount - len(chromosome.replication_origins)):
+        position = random_number_generator.randrange(0, chromosome.length)
+        while position in [origin.position for origin in chromosome.replication_origins]:
+            position = random_number_generator.randrange(0, chromosome.length)
+        origins.append(ReplicationOrigin(position, 0.1, chromosome.replication_speed, -1))
+
+    return origins
 
 
 def generate_randomized_origins(chromosome, number_of_sets, replication_speed, replication_repair_duration):

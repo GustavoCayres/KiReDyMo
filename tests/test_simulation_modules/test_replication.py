@@ -8,10 +8,10 @@ class TestReplication(TestCase):
 
     @classmethod
     def setUpClass(cls):
-        cls.replication_origin = ReplicationOrigin(position=5, start_probability=0.1,
+        cls.replication_origin = ReplicationOrigin(position=5, score=0.1,
                                                    replication_speed=2, replication_repair_duration=3)
         cls.replication_origin_with_instant_repair = ReplicationOrigin(position=5,
-                                                                       start_probability=1,
+                                                                       score=1,
                                                                        replication_speed=2,
                                                                        replication_repair_duration=0)
 

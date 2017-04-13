@@ -14,7 +14,7 @@ class TestCollision(TestCase):
         cls.transcription_regions = [TranscriptionRegion(start=2, end=6, speed=2, delay=10),
                                      TranscriptionRegion(start=12, end=16, speed=2, delay=10),
                                      TranscriptionRegion(start=7, end=9, speed=2, delay=10)]
-        cls.replication_origins = [ReplicationOrigin(position=10, start_probability=0.1, replication_speed=5,
+        cls.replication_origins = [ReplicationOrigin(position=10, score=0.1, replication_speed=5,
                                                      replication_repair_duration=5)]
 
     def setUp(self):
