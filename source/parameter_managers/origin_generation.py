@@ -15,9 +15,10 @@ def generate_origins(chromosome, interorigin_distance):
         viable_positions.append(i * interorigin_distance)
 
     origins = []
+    origins[:] = chromosome.replication_origins
     for i in range(origin_amount - len(chromosome.replication_origins)):
         position = random_number_generator.choice(viable_positions)
-        while position in [origin.position for origin in chromosome.replication_origins]:
+        while position in [origin.position for origin in origins]:
             position = random_number_generator.choice(viable_positions)
         origins.append(ReplicationOrigin(position, 0.1, chromosome.replication_speed, -1))
 
