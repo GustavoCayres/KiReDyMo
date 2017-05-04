@@ -1,6 +1,6 @@
 from random import Random
 
-from source.simulation_modules.replication import Replication
+from source.simulation_managers.replication import Replication
 
 
 class ReplicationTrigger:
@@ -13,7 +13,6 @@ class ReplicationTrigger:
 
     def __init__(self, replication_origins):
         self.replication_origins = replication_origins
-
         self.start_probabilities = {}
         for origin in self.replication_origins:
             self.start_probabilities[origin] = origin.score
@@ -25,7 +24,7 @@ class ReplicationTrigger:
         r = self.random_float()
         for origin in self.replication_origins:
             r -= self.start_probabilities[origin]
-            if r <= 0:
+            if r < 0:
                 origin.score = 0
                 return Replication(origin, -1), Replication(origin, 1)
 

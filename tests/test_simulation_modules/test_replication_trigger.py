@@ -1,7 +1,7 @@
 from unittest import TestCase
 
 from source.models.replication_origin import ReplicationOrigin
-from source.simulation_modules.replication_trigger import ReplicationTrigger
+from source.simulation_managers.replication_trigger import ReplicationTrigger
 
 
 class TestReplicationTrigger(TestCase):

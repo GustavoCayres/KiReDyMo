@@ -2,8 +2,8 @@ from unittest import TestCase
 
 from source.models.chromosome import Chromosome
 from source.models.replication_origin import ReplicationOrigin
-from source.simulation_modules.encounter import Encounter
-from source.simulation_modules.replication import Replication
+from source.simulation_managers.encounter import Encounter
+from source.simulation_managers.replication import Replication
 
 
 class TestEncounter(TestCase):

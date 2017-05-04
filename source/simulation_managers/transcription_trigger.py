@@ -1,4 +1,4 @@
-from source.simulation_modules.transcription import Transcription
+from source.simulation_managers.transcription import Transcription
 
 
 class TranscriptionTrigger:

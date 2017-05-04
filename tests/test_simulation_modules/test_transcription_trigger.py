@@ -1,8 +1,8 @@
 from unittest import TestCase
 
 from source.models.transcription_region import TranscriptionRegion
-from source.simulation_modules.transcription import Transcription
-from source.simulation_modules.transcription_trigger import TranscriptionTrigger
+from source.simulation_managers.transcription import Transcription
+from source.simulation_managers.transcription_trigger import TranscriptionTrigger
 
 
 class TestTranscriptionTrigger(TestCase):

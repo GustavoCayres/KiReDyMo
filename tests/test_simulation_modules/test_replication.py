@@ -1,7 +1,7 @@
 from unittest import TestCase
 
 from source.models.replication_origin import ReplicationOrigin
-from source.simulation_modules.replication import Replication
+from source.simulation_managers.replication import Replication
 
 
 class TestReplication(TestCase):

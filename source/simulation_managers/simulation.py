@@ -1,7 +1,7 @@
-from source.simulation_modules.collision import Collision
-from source.simulation_modules.encounter import Encounter
-from source.simulation_modules.replication_trigger import ReplicationTrigger
-from source.simulation_modules.transcription_trigger import TranscriptionTrigger
+from source.simulation_managers.collision import Collision
+from source.simulation_managers.encounter import Encounter
+from source.simulation_managers.replication_trigger import ReplicationTrigger
+from source.simulation_managers.transcription_trigger import TranscriptionTrigger
 from random import Random
 
 

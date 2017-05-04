@@ -3,7 +3,7 @@ from unittest import TestCase
 from source.models.chromosome import Chromosome
 from source.models.replication_origin import ReplicationOrigin
 from source.models.transcription_region import TranscriptionRegion
-from source.simulation_modules.simulation import Simulation
+from source.simulation_managers.simulation import Simulation
 
 
 class TestSimulation(TestCase):

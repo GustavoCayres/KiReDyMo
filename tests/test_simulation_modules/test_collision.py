@@ -3,9 +3,9 @@ from unittest import TestCase
 
 from source.models.replication_origin import ReplicationOrigin
 from source.models.transcription_region import TranscriptionRegion
-from source.simulation_modules.collision import Collision
-from source.simulation_modules.replication import Replication
-from source.simulation_modules.transcription import Transcription
+from source.simulation_managers.collision import Collision
+from source.simulation_managers.replication import Replication
+from source.simulation_managers.transcription import Transcription
 
 
 class TestCollision(TestCase):

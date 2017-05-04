@@ -1,5 +1,5 @@
 import itertools
-from source.simulation_modules.completition import Completition
+from source.simulation_managers.completition import Completition
 
 
 class Encounter:
