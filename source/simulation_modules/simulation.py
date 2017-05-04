@@ -10,13 +10,14 @@ class Simulation:
 
     PROBABILITY_OF_ORIGIN_START = 1
     MAXIMUM_STEPS = 1000000
+    G1_STEPS = 1000
 
     def __init__(self, chromosome):
         self.chromosome = chromosome
         self.replications = []
         self.transcriptions = []
 
-        self.collision_manager = Collision()
+        self.collision_manager = Collision(chromosome)
         self.encounter_manager = Encounter(chromosome)
 
         self.replication_trigger = ReplicationTrigger(chromosome.replication_origins)
@@ -32,7 +33,8 @@ class Simulation:
                 self.transcriptions.append(transcription)
 
     def trigger_replications(self):
-        if self.random_generator.random() < 1 - Simulation.PROBABILITY_OF_ORIGIN_START and self.current_step > 1000:
+        if self.random_generator.random() < 1 - Simulation.PROBABILITY_OF_ORIGIN_START or\
+           self.current_step < Simulation.G1_STEPS:
             return
 
         left_replication, right_replication = self.replication_trigger.start_random_origin()
@@ -64,7 +66,7 @@ class Simulation:
         while not done:
             done = self.step()
 
-        return self.current_step - 1000,\
+        return self.current_step - Simulation.G1_STEPS,\
             self.collision_manager.head_collisions,\
             self.collision_manager.tail_collisions,\
             self.chromosome.replication_origins[0].replication_repair_duration,\

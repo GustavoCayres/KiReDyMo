@@ -4,7 +4,9 @@ import math
 class Collision:
     """ Controls the collisions between replication's and transcriptions' machineries. """
 
-    def __init__(self):
+    def __init__(self, chromosome):
+        self.chromosome = chromosome
+
         self.head_collisions = 0
         self.tail_collisions = 0
 
@@ -47,6 +49,18 @@ class Collision:
 
         return None
 
+    def maximize_nearest_origins_scores(self, collision_position):
+        maximum_score = max([origin.score for origin in self.chromosome.replication_origins])
+        i = 0
+        for origin in self.chromosome.replication_origins:
+            if origin.position > collision_position:
+                break
+            i += 1
+        if i < len(self.chromosome.replication_origins):
+            self.chromosome.replication_origins[i].score = maximum_score
+        if i > 0:
+            self.chromosome.replication_origins[i - 1].score = maximum_score
+
     def resolve(self, replications, transcriptions):
         """ Solves confirmed collisions. """
 
@@ -54,6 +68,7 @@ class Collision:
             for replication in replications:
                 kind = self.verify(replication, transcription)
                 if kind == "head" and replication.speed > 0:
+                    self.maximize_nearest_origins_scores(replication.fork_position)
                     replication.pause()
                 if kind is not None or transcription.is_leaving_region():
                     transcription.finish()
