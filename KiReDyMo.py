@@ -50,7 +50,7 @@ def simulation_parameters(chromosomes, number_of_unique_simulations,
         simulation_counter = 1
         for i in range(number_of_unique_simulations):
             origins = generate_origins(chromosome, 260000)
-            replication_repair_duration = math.inf
+            replication_repair_duration = 0
             for transcription_start_delay in range(*transcription_start_delay_range):
                 chromosome_copy = copy.deepcopy(chromosome)
                 chromosome_copy.replication_origins.extend(origins)

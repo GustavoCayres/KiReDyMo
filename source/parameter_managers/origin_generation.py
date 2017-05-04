@@ -12,13 +12,14 @@ def generate_origins(chromosome, interorigin_distance):
 
     origins = []
     for i in range(origin_amount - len(chromosome.replication_origins)):
-        position = random_number_generator.randrange(0, chromosome.length)
+        position = interorigin_distance * random_number_generator.randrange(0, math.ceil(
+            chromosome.length/interorigin_distance))
         while position in [origin.position for origin in chromosome.replication_origins]:
-            position = random_number_generator.randrange(0, chromosome.length)
+            position = interorigin_distance * random_number_generator.randrange(0, int(
+                chromosome.length / interorigin_distance))
         origins.append(ReplicationOrigin(position, 0.1, chromosome.replication_speed, -1))
 
     return origins
-
 
 def generate_randomized_origins(chromosome, number_of_sets, replication_speed, replication_repair_duration):
     d = chromosome.length
