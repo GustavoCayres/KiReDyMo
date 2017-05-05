@@ -30,7 +30,6 @@ def generate_simulation_parameters(chromosomes, number_of_unique_simulations, in
                                    replication_repair_duration, transcription_start_delay_range):
     parameters = []
     for chromosome in chromosomes:
-        simulation_counter = 1
         for i in range(number_of_unique_simulations):
             origins = generate_origins(chromosome, interorigin_distance)
             for transcription_start_delay in range(*transcription_start_delay_range):
@@ -39,7 +38,6 @@ def generate_simulation_parameters(chromosomes, number_of_unique_simulations, in
                 chromosome_copy.replication_origins.sort()
                 chromosome_copy.update_attributes(replication_repair_duration=replication_repair_duration)
                 chromosome_copy.update_attributes(transcription_start_delay=transcription_start_delay)
-                parameters.append((chromosome_copy, simulation_counter))
-                simulation_counter += 1
+                parameters.append(chromosome_copy)
 
     return parameters

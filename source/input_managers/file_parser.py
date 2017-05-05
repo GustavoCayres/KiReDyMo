@@ -2,6 +2,7 @@ from source.database_managers.database import Database
 
 
 def parse_argument_file(file_path):
+    code = ""
     chromosomes = []
     number_of_simulations = -1
     replication_repair_duration = -1
@@ -12,8 +13,9 @@ def parse_argument_file(file_path):
         for line in argument_file:
             line_list = line.split('\t')
             if line_list[0] == '[code]':
-                with Database("db/simulation.sqlite") as db:
-                    for chromosome in db.select_chromosomes(code=line_list[1]):
+                code = line_list[1]
+                with Database('db/simulation.sqlite') as db:
+                    for chromosome in db.select_chromosomes(code=code):
                         chromosomes.append(chromosome)
             elif line_list[0] == '[number_of_simulations]':
                 number_of_simulations = int(line_list[1])
@@ -27,7 +29,8 @@ def parse_argument_file(file_path):
             elif line_list[0] == '[interorigin_distance]':
                 interorigin_distance = int(line_list[1])
 
-        return {'chromosomes': chromosomes,
+        return {'code': code,
+                'chromosomes': chromosomes,
                 'number_of_simulations': number_of_simulations,
                 'replication_repair_duration': replication_repair_duration,
                 'transcription_start_delay_range': transcription_start_delay_range,
