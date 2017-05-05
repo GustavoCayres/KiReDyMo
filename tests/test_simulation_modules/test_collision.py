@@ -3,7 +3,7 @@ from unittest import TestCase
 
 from source.models.replication_origin import ReplicationOrigin
 from source.models.transcription_region import TranscriptionRegion
-from source.simulation_managers.collision import Collision
+from source.simulation_managers.collision_verification import Collision
 from source.simulation_managers.replication import Replication
 from source.simulation_managers.transcription import Transcription
 
@@ -28,15 +28,15 @@ class TestCollision(TestCase):
         self.assertEqual(Collision.position(0, 100, 10, 50), 20)          # Same direction.
 
     def test_verify_no_collision(self):
-        kind = self.collision.verify(self.replications[0], self.transcriptions[0])
+        kind = self.collision.verify_collision_between(self.replications[0], self.transcriptions[0])
         self.assertIsNone(kind)
 
     def test_verify_tail_collision(self):
-        kind = self.collision.verify(self.replications[1], self.transcriptions[1])
+        kind = self.collision.verify_collision_between(self.replications[1], self.transcriptions[1])
         self.assertEqual(kind, "tail")
 
     def test_verify_head_collision(self):
-        kind = self.collision.verify(self.replications[0], self.transcriptions[2])
+        kind = self.collision.verify_collision_between(self.replications[0], self.transcriptions[2])
         self.assertEqual(kind, "head")
 
     def test_collision_with_stopped_replication(self):

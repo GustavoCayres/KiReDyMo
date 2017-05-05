@@ -1,4 +1,4 @@
-from source.simulation_managers.collision import Collision
+from source.simulation_managers.collision_verification import CollisionVerifier
 from source.simulation_managers.encounter import Encounter
 from source.simulation_managers.replication_trigger import ReplicationTrigger
 from source.simulation_managers.transcription_trigger import TranscriptionTrigger
@@ -20,7 +20,7 @@ class Simulation:
         self.replications = []
         self.transcriptions = []
 
-        self.collision_manager = Collision(chromosome)
+        self.collision_verifier = CollisionVerifier(chromosome, self.replications, self.transcriptions)
         self.encounter_manager = Encounter(chromosome)
 
         self.replication_trigger = ReplicationTrigger(chromosome.replication_origins)
@@ -51,27 +51,24 @@ class Simulation:
 
         self.trigger_transcriptions()
         self.trigger_replications()
-        done = self.encounter_manager.resolve(self.replications)
-        self.collision_manager.resolve(self.replications, self.transcriptions)
+
+        self.collision_verifier.verify_collisions()
 
         for replication in self.replications:
             replication.step()
 
         for transcription in self.transcriptions:
-            transcription.step()
+            transcription.step(collision_verifier=self.collision_verifier)
 
         self.current_step += 1
 
-        return done or self.current_step > Simulation.MAXIMUM_STEPS
-
     def run(self):
-        done = False
-        while not done:
-            done = self.step()
+        while not self.dna_strand.is_duplicated() and self.current_step < Simulation.MAXIMUM_STEPS:
+            self.step()
 
         return self.current_step - Simulation.G1_STEPS,\
-            self.collision_manager.head_collisions,\
-            self.collision_manager.tail_collisions,\
+            self.collision_verifier.head_collisions,\
+            self.collision_verifier.tail_collisions,\
             self.chromosome.replication_origins[0].replication_repair_duration,\
             self.chromosome.transcription_regions[0].delay,\
             [str(origin) for origin in self.chromosome.replication_origins]

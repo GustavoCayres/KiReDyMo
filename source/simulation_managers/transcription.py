@@ -6,21 +6,28 @@ class Transcription:
 
     def __init__(self, transcription_region):
         self.region = transcription_region
-        self.current_position = transcription_region.start                 # current position of this transcription
+        self.current_position = transcription_region.start
         self.direction = math.copysign(1, self.region.end - self.region.start)
         self.speed = transcription_region.speed
 
-    def step(self):
-        """ Takes a step in this transcription, taking into account the region's boundaries. """
+    def __eq__(self, other):
+        return type(self) == type(other) and self.current_position == other.current_position
 
-        self.current_position += self.direction * self.region.speed
+    def __hash__(self):
+        return hash(self.current_position)
+
+    def step(self, collision_verifier):
+        if collision_verifier.will_collide_with_replication(transcription=self):
+            self.finish()
+        elif self.will_reach_region_end():
+            self.finish()
+        else:
+            self.current_position += self.direction * self.region.speed
 
     def finish(self):
-        """ Ends this transcription. """
+        self.current_position = None
 
-        self.current_position = None       # end of transcription removes the machinery
-
-    def is_leaving_region(self):
+    def will_reach_region_end(self):
         return self.direction * self.current_position + self.speed > self.direction * self.region.end
 
     def is_active(self):
