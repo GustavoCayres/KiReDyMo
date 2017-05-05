@@ -29,9 +29,10 @@ def parse_argument_file(file_path):
             elif line_list[0] == '[interorigin_distance]':
                 interorigin_distance = int(line_list[1])
 
-        return {'code': code,
-                'chromosomes': chromosomes,
-                'number_of_simulations': number_of_simulations,
-                'replication_repair_duration': replication_repair_duration,
-                'transcription_start_delay_range': transcription_start_delay_range,
-                'interorigin_distance': interorigin_distance}
+        output_file_name = code + ".txt"
+
+        return output_file_name, {'chromosomes': chromosomes,
+                                  'number_of_simulations': number_of_simulations,
+                                  'replication_repair_duration': replication_repair_duration,
+                                  'transcription_start_delay_range': transcription_start_delay_range,
+                                  'interorigin_distance': interorigin_distance}

@@ -10,7 +10,6 @@ random_number_generator.seed()
 
 def generate_origins(chromosome, interorigin_distance):
     origin_amount = int(math.ceil(float(chromosome.length/interorigin_distance)))
-
     viable_positions = []
     for i in range(0, origin_amount):
         viable_positions.append(i * interorigin_distance)
@@ -26,11 +25,11 @@ def generate_origins(chromosome, interorigin_distance):
     return origins
 
 
-def generate_simulation_parameters(chromosomes, number_of_unique_simulations, interorigin_distance,
+def generate_simulation_parameters(chromosomes, number_of_simulations, interorigin_distance,
                                    replication_repair_duration, transcription_start_delay_range):
     parameters = []
     for chromosome in chromosomes:
-        for i in range(number_of_unique_simulations):
+        for i in range(number_of_simulations):
             origins = generate_origins(chromosome, interorigin_distance)
             for transcription_start_delay in range(*transcription_start_delay_range):
                 chromosome_copy = copy.deepcopy(chromosome)

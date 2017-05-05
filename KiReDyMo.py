@@ -10,11 +10,11 @@ from source.output_managers.results_output import write_results
 def main(args):
     start_time = time.time()
 
-    parsed_arguments = parse_argument_file(file_path=args[1])
+    output_file_name, parsed_arguments = parse_argument_file(file_path=args[1])
 
     results = run_parallel_simulations(parameter_generation_arguments=parsed_arguments)
 
-    write_results(file_name=parsed_arguments['code'], results=results)
+    write_results(file_name=output_file_name, results=results)
 
     print("Simulation Finished in %f seconds" % (time.time() - start_time))
 

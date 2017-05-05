@@ -2,6 +2,7 @@ from source.simulation_managers.collision import Collision
 from source.simulation_managers.encounter import Encounter
 from source.simulation_managers.replication_trigger import ReplicationTrigger
 from source.simulation_managers.transcription_trigger import TranscriptionTrigger
+from source.simulation_managers.dna_strand import DNAStrand
 from random import Random
 
 
@@ -14,6 +15,8 @@ class Simulation:
 
     def __init__(self, chromosome):
         self.chromosome = chromosome
+
+        self.dna_strand = DNAStrand(length=chromosome.length)
         self.replications = []
         self.transcriptions = []
 
@@ -71,4 +74,4 @@ class Simulation:
             self.collision_manager.tail_collisions,\
             self.chromosome.replication_origins[0].replication_repair_duration,\
             self.chromosome.transcription_regions[0].delay,\
-            self.chromosome.replication_origins
+            [str(origin) for origin in self.chromosome.replication_origins]
