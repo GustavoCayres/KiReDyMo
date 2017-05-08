@@ -10,7 +10,7 @@ class CollisionVerifier:
         self.replications = replications
         self.transcriptions = transcriptions
         self.collided = None
-        self.where_replication_collided = None
+        self.where_collision_occurred = None
         self.head_collisions = 0
         self.tail_collisions = 0
 
@@ -18,10 +18,10 @@ class CollisionVerifier:
         return self.collided[transcription]
 
     def will_collide_with_transcription(self, replication):
-        return self.where_replication_collided[replication] is not None
+        return self.where_collision_occurred[replication] is not None
 
     def resulting_position_after_collision(self, replication):
-        pass
+        return self.where_collision_occurred[replication]
 
     @staticmethod
     def position(replication_position, replication_speed, transcription_position, transcription_speed):
@@ -40,29 +40,30 @@ class CollisionVerifier:
     def verify_collision_between(self, replication, transcription):
         """ Verifies whether there is an imminent collision between a transcription and a replication. """
 
-        if self.collided[transcription]:  # TODO: And replication....
-            return None
+        if self.collided[transcription]:
+            return
+
+        if self.where_collision_occurred[replication] is not None:    # TODO: Not very elegant
+            replication_speed = 0
+        else:
+            replication_speed = replication.speed
 
         if 0 < replication.direction * (transcription.current_position - replication.fork_position) <=\
-                replication.speed - (replication.direction * transcription.direction) * transcription.speed:
+                replication_speed - (replication.direction * transcription.direction) * transcription.speed:
             final_position = CollisionVerifier.position(replication.fork_position,
-                                                        replication.direction * replication.speed,
+                                                        replication.direction * replication_speed,
                                                         transcription.current_position,
                                                         transcription.direction * transcription.speed)
             if transcription.direction * final_position > transcription.direction * transcription.region.end:
-                return None
+                return
 
-            return "collision"
-            # replication.fork_position = final_position
-            #if replication.direction == transcription.direction:
-             #   self.tail_collisions += 1
-              #  return "tail"
-            #else:
-             #   self.head_collisions += 1
-              #  self.maximize_nearest_origins_scores(final_position)
-               # return "head"
-
-        return None
+            self.collided[transcription] = True
+            if replication.direction == transcription.direction:
+                self.tail_collisions += 1
+            else:
+                self.head_collisions += 1
+                self.maximize_nearest_origins_scores(final_position)
+                self.where_collision_occurred[replication] = final_position
 
     def maximize_nearest_origins_scores(self, collision_position):
         maximum_score = max([origin.score for origin in self.chromosome.replication_origins])
@@ -78,12 +79,8 @@ class CollisionVerifier:
 
     def verify_collisions(self):
         self.collided = defaultdict(lambda: False)
+        self.where_collision_occurred = defaultdict(lambda: None)
 
         for transcription in self.transcriptions:
             for replication in self.replications:
-                kind = self.verify_collision_between(replication=replication, transcription=transcription)
-                if kind is not None:
-                    self.collided[transcription] = True
-
-        # TODO: And the replication...
-        self.transcriptions[:] = [transcription for transcription in self.transcriptions if transcription.is_active()]
+                self.verify_collision_between(replication=replication, transcription=transcription)

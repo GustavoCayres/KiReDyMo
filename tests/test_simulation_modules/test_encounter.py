@@ -2,7 +2,7 @@ from unittest import TestCase
 
 from source.models.chromosome import Chromosome
 from source.models.replication_origin import ReplicationOrigin
-from source.simulation_managers.encounter import Encounter
+from source.simulation_managers.encounter_verification import ReplicationVerifier
 from source.simulation_managers.replication import Replication
 
 
@@ -22,9 +22,9 @@ class TestEncounter(TestCase):
         self.replications.append(Replication(self.chromosome.replication_origins[1], -1))
         self.replications.append(Replication(self.chromosome.replication_origins[1], 1))
 
-        self.encounter = Encounter(self.chromosome)
+        self.encounter = ReplicationVerifier(self.chromosome)
 
     def test_resolve(self):
-        self.encounter.resolve(self.replications)
+        self.encounter.verify_replications(self.replications)
         self.assertEqual(self.replications[0].fork_position, 5)
         self.assertEqual(len(self.replications), 1)

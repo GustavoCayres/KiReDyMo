@@ -8,9 +8,9 @@ class DNAStrand:
 
     def duplicate_segment(self, start, end):
         if start < end:
-            self.strand[start:end] = True
+            self.strand[start:end + 1] = True
         else:
-            self.strand[end:start] = True
+            self.strand[end:start + 1] = True
 
     def is_duplicated(self):
         return self.strand.all()

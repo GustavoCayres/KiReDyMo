@@ -1,5 +1,5 @@
 from source.simulation_managers.collision_verification import CollisionVerifier
-from source.simulation_managers.encounter import Encounter
+from source.simulation_managers.encounter_verification import ReplicationVerifier
 from source.simulation_managers.replication_trigger import ReplicationTrigger
 from source.simulation_managers.transcription_trigger import TranscriptionTrigger
 from source.simulation_managers.dna_strand import DNAStrand
@@ -21,7 +21,7 @@ class Simulation:
         self.transcriptions = []
 
         self.collision_verifier = CollisionVerifier(chromosome, self.replications, self.transcriptions)
-        self.encounter_manager = Encounter(chromosome)
+        self.encounter_manager = ReplicationVerifier(chromosome)
 
         self.replication_trigger = ReplicationTrigger(chromosome.replication_origins)
         self.transcription_triggers = [TranscriptionTrigger(region) for region in chromosome.transcription_regions]
