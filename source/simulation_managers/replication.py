@@ -11,7 +11,7 @@ class Replication:
         self.current_repair_wait = 0
 
     def __str__(self):
-        return "Current position: " + str(self.fork_position)
+        return "Replication at base " + str(self.fork_position) + " with direction " + str(self.direction)
 
     def __eq__(self, other):
         return type(self) == type(other) and self.fork_position == other.fork_position

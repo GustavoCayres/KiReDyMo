@@ -10,6 +10,9 @@ class Transcription:
         self.direction = math.copysign(1, self.region.end - self.region.start)
         self.speed = transcription_region.speed
 
+    def __str__(self):
+        return "Transcription at base " + str(self.current_position) + " with direction " + str(self.direction)
+
     def __eq__(self, other):
         return type(self) == type(other) and self.current_position == other.current_position
 
