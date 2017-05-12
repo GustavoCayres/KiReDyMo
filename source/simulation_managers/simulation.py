@@ -10,7 +10,7 @@ class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
     PROBABILITY_OF_ORIGIN_START = 1
-    MAXIMUM_STEPS = 1000000
+    MAXIMUM_STEPS = 40000
     G1_STEPS = 1000
 
     def __init__(self, chromosome):
@@ -21,7 +21,7 @@ class Simulation:
         self.transcriptions = []
 
         self.collision_manager = Collision(chromosome)
-        self.encounter_manager = Encounter(chromosome)
+        self.encounter_manager = Encounter(chromosome, self.dna_strand)
 
         self.replication_trigger = ReplicationTrigger(chromosome.replication_origins)
         self.transcription_triggers = [TranscriptionTrigger(region) for region in chromosome.transcription_regions]
@@ -41,34 +41,32 @@ class Simulation:
             return
 
         left_replication, right_replication = self.replication_trigger.start_random_origin()
-        if left_replication is not None and right_replication is not None:
+        if left_replication is not None and right_replication is not None \
+                and not self.dna_strand[left_replication.fork_position]:
             self.replications.append(left_replication)
             self.replications.append(right_replication)
 
     def step(self):
         """ Move one step forward in the simulation, updating the position of each machinery (both for replication and
         for transcription). """
-
+        # print(self.dna_strand)
         self.trigger_transcriptions()
         self.trigger_replications()
-        done = self.encounter_manager.resolve(self.replications)
+        self.encounter_manager.resolve(self.replications)
         self.collision_manager.resolve(self.replications, self.transcriptions)
 
         for replication in self.replications:
-            replication.step()
+            replication.step(self.dna_strand)
 
         for transcription in self.transcriptions:
             transcription.step()
 
         self.current_step += 1
 
-        return done or self.current_step > Simulation.MAXIMUM_STEPS
-
     def run(self):
-        done = False
-        while not done:
-            done = self.step()
-
+        while not self.dna_strand.is_completely_duplicated() and self.current_step < self.MAXIMUM_STEPS:
+            self.step()
+        print(self.dna_strand)
         return self.current_step - Simulation.G1_STEPS,\
             self.collision_manager.head_collisions,\
             self.collision_manager.tail_collisions,\
