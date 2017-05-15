@@ -10,7 +10,7 @@ class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
     PROBABILITY_OF_ORIGIN_START = 1
-    MAXIMUM_STEPS = 40000
+    MAXIMUM_STEPS = 50000
     G1_STEPS = 1000
 
     def __init__(self, chromosome):
@@ -21,9 +21,9 @@ class Simulation:
         self.transcriptions = []
 
         self.collision_manager = Collision(chromosome)
-        self.encounter_manager = Encounter(chromosome, self.dna_strand)
+        self.encounter_manager = Encounter(chromosome)
 
-        self.replication_trigger = ReplicationTrigger(chromosome.replication_origins)
+        self.replication_trigger = ReplicationTrigger(chromosome.replication_origins, self.dna_strand)
         self.transcription_triggers = [TranscriptionTrigger(region) for region in chromosome.transcription_regions]
 
         self.current_step = 0
@@ -49,14 +49,14 @@ class Simulation:
     def step(self):
         """ Move one step forward in the simulation, updating the position of each machinery (both for replication and
         for transcription). """
-        # print(self.dna_strand)
+
         self.trigger_transcriptions()
         self.trigger_replications()
         self.encounter_manager.resolve(self.replications)
         self.collision_manager.resolve(self.replications, self.transcriptions)
 
         for replication in self.replications:
-            replication.step(self.dna_strand)
+            replication.step()
 
         for transcription in self.transcriptions:
             transcription.step()
@@ -66,7 +66,7 @@ class Simulation:
     def run(self):
         while not self.dna_strand.is_completely_duplicated() and self.current_step < self.MAXIMUM_STEPS:
             self.step()
-        print(self.dna_strand)
+
         return self.current_step - Simulation.G1_STEPS,\
             self.collision_manager.head_collisions,\
             self.collision_manager.tail_collisions,\

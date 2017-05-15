@@ -28,7 +28,7 @@ class Collision:
         """ Verifies whether there is an imminent collision between a transcription and a replication. """
 
         if not transcription.is_active() or not replication.is_active():
-            return None
+            return None, None
 
         if 0 < replication.direction * (transcription.current_position - replication.fork_position) <=\
                 replication.speed - (replication.direction * transcription.direction) * transcription.speed:
@@ -39,15 +39,14 @@ class Collision:
             if transcription.direction * final_position > transcription.direction * transcription.region.end:
                 return None
 
-            replication.fork_position = final_position
             if replication.direction == transcription.direction:
                 self.tail_collisions += 1
-                return "tail"
+                return "tail", None
             else:
                 self.head_collisions += 1
-                return "head"
+                return "head", final_position
 
-        return None
+        return None, None
 
     def maximize_nearest_origins_scores(self, collision_position):
         maximum_score = max([origin.score for origin in self.chromosome.replication_origins])
@@ -66,10 +65,10 @@ class Collision:
 
         for transcription in transcriptions:
             for replication in replications:
-                kind = self.verify(replication, transcription)
+                kind, position = self.verify(replication, transcription)
                 if kind == "head" and replication.speed > 0:
                     self.maximize_nearest_origins_scores(replication.fork_position)
-                    replication.pause()
+                    replication.pause(position)
                 if kind is not None or transcription.is_leaving_region():
                     transcription.finish()
                     break

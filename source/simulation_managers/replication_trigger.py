@@ -11,7 +11,8 @@ class ReplicationTrigger:
     def set_seed(cls, seed):
         cls.random_number_generator.seed(seed)
 
-    def __init__(self, replication_origins):
+    def __init__(self, replication_origins, strand):
+        self.dna_strand = strand
         self.replication_origins = replication_origins
         self.start_probabilities = {}
         for origin in self.replication_origins:
@@ -26,9 +27,7 @@ class ReplicationTrigger:
             r -= self.start_probabilities[origin]
             if r < 0:
                 origin.score = 0
-                return Replication(origin, -1), Replication(origin, 1)
-
-        return None, None
+                return Replication(origin, -1, self.dna_strand), Replication(origin, 1, self.dna_strand)
 
     def update_start_probabilities(self):
         denominator = 0
