@@ -48,17 +48,20 @@ class Collision:
 
         return None, None
 
-    def maximize_nearest_origins_scores(self, collision_position):
+    def maximize_nearest_origin_score(self, replication):
         maximum_score = max([origin.score for origin in self.chromosome.replication_origins])
         i = 0
         for origin in self.chromosome.replication_origins:
-            if origin.position > collision_position:
+            if origin.position > replication.fork_position:
                 break
             i += 1
-        if i < len(self.chromosome.replication_origins):
-            self.chromosome.replication_origins[i].score = maximum_score
-        if i > 0:
-            self.chromosome.replication_origins[i - 1].score = maximum_score
+
+        if replication.direction > 0:
+            if i < len(self.chromosome.replication_origins):
+                self.chromosome.replication_origins[i].score = maximum_score
+        else:
+            if i > 0:
+                self.chromosome.replication_origins[i - 1].score = maximum_score
 
     def resolve(self, replications, transcriptions):
         """ Solves confirmed collisions. """
@@ -67,8 +70,8 @@ class Collision:
             for replication in replications:
                 kind, position = self.verify(replication, transcription)
                 if kind == "head" and replication.speed > 0:
-                    self.maximize_nearest_origins_scores(replication.fork_position)
                     replication.pause(position)
+                    self.maximize_nearest_origin_score(replication)
                 if kind is not None or transcription.is_leaving_region():
                     transcription.finish()
                     break

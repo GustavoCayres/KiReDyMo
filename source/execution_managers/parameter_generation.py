@@ -1,5 +1,4 @@
 import copy
-import math
 from random import Random
 
 from source.models.replication_origin import ReplicationOrigin
@@ -9,18 +8,21 @@ random_number_generator.seed()
 
 
 def generate_origins(chromosome, interorigin_distance):
-    origin_amount = int(math.ceil(float(chromosome.length/interorigin_distance)))
-    viable_positions = []
-    for i in range(0, origin_amount):
-        viable_positions.append(i * interorigin_distance)
-
     origins = []
-    origins[:] = chromosome.replication_origins
-    for i in range(origin_amount - len(chromosome.replication_origins)):
-        position = random_number_generator.choice(viable_positions)
-        while position in [origin.position for origin in origins]:
-            position = random_number_generator.choice(viable_positions)
-        origins.append(ReplicationOrigin(position, 0.1, chromosome.replication_speed, -1))
+    origins[:] = sorted(chromosome.replication_origins)
+    i = 0
+    while i < len(origins):
+        origin_position = origins[i].position
+        if i + 1 >= len(origins):
+            if (chromosome.length - 1) - origin_position >= interorigin_distance:
+                origins.insert(i + 1, ReplicationOrigin(origin_position + interorigin_distance, 0.1,
+                                                        chromosome.replication_speed, -1))
+        else:
+            if origins[i + 1].position - origin_position >= 2 * interorigin_distance:
+                origins.insert(i + 1, ReplicationOrigin(origin_position + interorigin_distance, 0.1,
+                                                        chromosome.replication_speed, -1))
+
+        i += 1
 
     return origins
 

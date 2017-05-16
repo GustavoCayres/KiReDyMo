@@ -33,6 +33,7 @@ class Replication:
         if self.origin.replication_repair_duration > 0:
             previous_position = self.fork_position
             self.dna_strand.duplicate_segment(previous_position, position)
+            self.fork_position = position
             self.current_repair_wait = self.origin.replication_repair_duration
             self.speed = 0
 
