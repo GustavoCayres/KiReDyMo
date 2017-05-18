@@ -9,7 +9,7 @@ from random import Random
 class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
-    PROBABILITY_OF_ORIGIN_START = .0025
+    PROBABILITY_OF_ORIGIN_START = 1
     MAXIMUM_STEPS = 50000
     G1_STEPS = 1000
 

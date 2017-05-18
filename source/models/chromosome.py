@@ -1,11 +1,14 @@
 class Chromosome:
     """ Model of each chromosome. """
 
-    def __init__(self, code, length, replication_speed, organism):
-        self.code = code
-        self.length = length
-        self.organism = organism
-        self.replication_speed = replication_speed
+    def __init__(self, **kwargs):
+        self.code = kwargs['code']
+        self.length = kwargs['length']
+        self.organism = kwargs['organism']
+        self.replication_speed = kwargs['replication_speed']
+        self.transcription_speed = kwargs['transcription_speed']
+        self.replication_repair_duration = kwargs['replication_repair_duration']
+        self.transcription_start_delay = kwargs['transcription_start_delay']
         self.replication_origins = []
         self.transcription_regions = []
 

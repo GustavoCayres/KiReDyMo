@@ -1,4 +1,6 @@
+import os
 import sqlite3
+import sys
 
 from source.models.chromosome import Chromosome
 from source.models.replication_origin import ReplicationOrigin
@@ -178,6 +180,9 @@ class Database:
         chromosomes = [Chromosome(code=t[0],
                                   length=t[1],
                                   replication_speed=t[2],
+                                  transcription_speed=30,
+                                  replication_repair_duration=0,
+                                  transcription_start_delay=0,
                                   organism=t[3]) for t in cursor.fetchall()]
 
         for chromosome in chromosomes:
@@ -188,14 +193,17 @@ class Database:
             chromosome.replication_origins = [ReplicationOrigin(position=t[0],
                                                                 score=t[1],
                                                                 replication_speed=chromosome.replication_speed,
-                                                                replication_repair_duration=t[2])
+                                                                replication_repair_duration=chromosome.replication_repair_duration)
                                               for t in cursor.fetchall()]
 
             cursor.execute('''SELECT *
                               FROM TranscriptionRegion
                               WHERE chromosome_code = ?''',
                            (chromosome.code,))
-            chromosome.transcription_regions = [TranscriptionRegion(start=t[0], end=t[1], speed=t[2], delay=t[3])
+            chromosome.transcription_regions = [TranscriptionRegion(start=t[0],
+                                                                    end=t[1],
+                                                                    speed=chromosome.transcription_speed,
+                                                                    delay=chromosome.transcription_start_delay)
                                                 for t in cursor.fetchall()]
 
         return chromosomes
@@ -208,3 +216,27 @@ class Database:
         print("\nOrganisms currently in the database are:")
         for organism in cursor.fetchall():
             print("\t" + str(organism[0]))
+
+
+def main():
+    with Database('db/simulation.sqlite') as db:
+        if len(sys.argv) > 2:
+            db.drop_tables()
+            db.create_tables()
+
+        organism_path = "input/organisms/" + sys.argv[1]
+        for text_file in os.listdir(organism_path):
+            if text_file.endswith(".txt"):
+                db.insert_chromosomes(file_name=organism_path + "/" + text_file, replication_speed=62)
+
+        for gene_file in os.listdir(organism_path + "/genes"):
+            transcription_region_path = organism_path + "/genes/" + gene_file
+            db.insert_transcription_regions(file_name=transcription_region_path, speed=30, delay=1000)
+        for origin_file in os.listdir(organism_path + "/origins"):
+            replication_origin_path = organism_path + "/origins/" + origin_file
+            db.insert_replication_origins(file_name=replication_origin_path, replication_repair_duration=20)
+
+        db.commit()
+
+if __name__ == '__main__':
+    main()

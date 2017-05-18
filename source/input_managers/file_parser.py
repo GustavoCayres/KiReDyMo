@@ -35,4 +35,4 @@ def parse_argument_file(file_path):
                                   'number_of_simulations': number_of_simulations,
                                   'replication_repair_duration': replication_repair_duration,
                                   'transcription_start_delay_range': transcription_start_delay_range,
-                                  'interorigin_distance': interorigin_distance}
+                                  }

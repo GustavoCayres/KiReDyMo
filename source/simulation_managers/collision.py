@@ -1,4 +1,5 @@
 import math
+from source.models.replication_origin import ReplicationOrigin
 
 
 class Collision:
@@ -37,7 +38,7 @@ class Collision:
                                                 transcription.current_position,
                                                 transcription.direction * transcription.speed)
             if transcription.direction * final_position > transcription.direction * transcription.region.end:
-                return None
+                return None, None
 
             if replication.direction == transcription.direction:
                 self.tail_collisions += 1
@@ -50,18 +51,19 @@ class Collision:
 
     def maximize_nearest_origin_score(self, replication):
         maximum_score = max([origin.score for origin in self.chromosome.replication_origins])
-        i = 0
-        for origin in self.chromosome.replication_origins:
-            if origin.position > replication.fork_position:
-                break
-            i += 1
 
-        if replication.direction > 0:
-            if i < len(self.chromosome.replication_origins):
-                self.chromosome.replication_origins[i].score = maximum_score
-        else:
-            if i > 0:
-                self.chromosome.replication_origins[i - 1].score = maximum_score
+        new_origin_position = replication.fork_position + replication.direction * 2 * replication.speed
+        if new_origin_position < 0:
+            new_origin_position = 0
+        elif new_origin_position >= self.chromosome.length:
+            new_origin_position = self.chromosome.length - 1
+
+        new_origin = ReplicationOrigin(position=new_origin_position,
+                                       replication_repair_duration=self.chromosome.replication_repair_duration,
+                                       replication_speed=self.chromosome.replication_speed,
+                                       score=maximum_score)
+        if new_origin not in self.chromosome.replication_origins:
+            self.chromosome.replication_origins.append(new_origin)
 
     def resolve(self, replications, transcriptions):
         """ Solves confirmed collisions. """

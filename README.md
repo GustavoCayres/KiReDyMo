@@ -8,7 +8,7 @@
 
 Para realizar uma simulação, execute:
 
-> ** ./KyReDyMo.py **
+> **./KyReDyMo.py**
 
 Você receberá instruções de quais argumentos deverão ser utilizados, então rode novamente com os argumentos corretos
 
