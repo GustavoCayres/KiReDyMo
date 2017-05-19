@@ -11,7 +11,19 @@ class DNAStrand:
         return self.strand[item]
 
     def __str__(self):
-        return str(len(self.strand))
+        strand_state = []
+        current_value = self.strand[0]
+        start = 0
+        for index, value in enumerate(self.strand):
+            if current_value != value:
+                end = index - 1
+                strand_state.append((start, end, current_value))
+                start = index
+                current_value = value
+
+        end = len(self.strand) - 1
+        strand_state.append((start, end, current_value))
+        return str(strand_state)
 
     def duplicate_segment(self, start, end):
         if end < start:

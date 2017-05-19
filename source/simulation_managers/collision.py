@@ -52,7 +52,7 @@ class Collision:
     def activate_origin_nearby(self, replication):
         maximum_score = max([1, max([origin.score for origin in self.chromosome.replication_origins])])
 
-        new_origin_position = replication.fork_position + replication.direction * 20
+        new_origin_position = replication.fork_position + replication.direction * 5000
         if new_origin_position < 0:
             new_origin_position = 0
         elif new_origin_position >= self.chromosome.length:
@@ -71,8 +71,8 @@ class Collision:
             for replication in replications:
                 kind, position = self.verify(replication, transcription)
                 if kind == "head" and replication.speed > 0:
-                    print("collision at " + str(position))
                     replication.pause(position)
+                    print("collision at " + str(replication.direction * position))
                     self.activate_origin_nearby(replication)
                 if kind is not None or transcription.is_leaving_region():
                     transcription.finish()

@@ -9,9 +9,9 @@ from random import Random
 class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
-    PROBABILITY_OF_ORIGIN_START = 1
-    MAXIMUM_STEPS = 100
-    G1_STEPS = 0
+    PROBABILITY_OF_ORIGIN_START = .1
+    MAXIMUM_STEPS = 100000
+    G1_STEPS = 1000
 
     def __init__(self, chromosome):
         self.chromosome = chromosome
@@ -61,14 +61,12 @@ class Simulation:
         for transcription in self.transcriptions:
             transcription.step()
 
-        if not len(self.replications) == 0:
-            print(len(self.replications))
         self.current_step += 1
 
     def run(self):
         while not self.dna_strand.is_completely_duplicated() and self.current_step < self.MAXIMUM_STEPS:
             self.step()
-
+        print(self.dna_strand)
         return self.current_step - Simulation.G1_STEPS,\
             self.collision_manager.head_collisions,\
             self.collision_manager.tail_collisions,\

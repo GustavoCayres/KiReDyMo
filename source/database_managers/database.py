@@ -180,7 +180,7 @@ class Database:
         chromosomes = [Chromosome(code=t[0],
                                   length=t[1],
                                   replication_speed=t[2],
-                                  transcription_speed=5,
+                                  transcription_speed=30,
                                   replication_repair_duration=0,
                                   transcription_start_delay=0,
                                   organism=t[3]) for t in cursor.fetchall()]
