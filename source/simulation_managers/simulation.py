@@ -10,8 +10,8 @@ class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
     PROBABILITY_OF_ORIGIN_START = 1
-    MAXIMUM_STEPS = 50000
-    G1_STEPS = 1000
+    MAXIMUM_STEPS = 100
+    G1_STEPS = 0
 
     def __init__(self, chromosome):
         self.chromosome = chromosome
@@ -61,6 +61,8 @@ class Simulation:
         for transcription in self.transcriptions:
             transcription.step()
 
+        if not len(self.replications) == 0:
+            print(len(self.replications))
         self.current_step += 1
 
     def run(self):
@@ -70,6 +72,6 @@ class Simulation:
         return self.current_step - Simulation.G1_STEPS,\
             self.collision_manager.head_collisions,\
             self.collision_manager.tail_collisions,\
-            self.chromosome.replication_origins[0].replication_repair_duration,\
-            self.chromosome.transcription_regions[0].delay,\
+            self.chromosome.replication_repair_duration,\
+            self.chromosome.transcription_start_delay,\
             [str(origin) for origin in self.chromosome.replication_origins]

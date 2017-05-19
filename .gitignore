@@ -5,5 +5,5 @@ htmlcov
 nohup.out
 .idea/
 output/
-parameters
 script/
+input/

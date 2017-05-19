@@ -25,6 +25,8 @@ class ReplicationTrigger:
             if r < 0:
                 origin.score = 0
                 return Replication(origin, -1, self.dna_strand), Replication(origin, 1, self.dna_strand)
+        print(len(self.replication_origins))
+        print(len(self.start_probabilities))
 
     def update_start_probabilities(self):
         self.start_probabilities = {}

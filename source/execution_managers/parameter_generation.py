@@ -19,8 +19,7 @@ def generate_simulation_parameters(chromosomes, number_of_simulations,
             for transcription_start_delay in range(*transcription_start_delay_range):
                 chromosome_copy = copy.deepcopy(chromosome)
                 chromosome_copy.replication_origins = origins
-                chromosome_copy.replication_repair_duration = replication_repair_duration
-                chromosome_copy.transcription_start_delay = transcription_start_delay
+                chromosome_copy.update_attributes(replication_repair_duration=replication_repair_duration)
+                chromosome_copy.update_attributes(transcription_start_delay=transcription_start_delay)
                 parameters.append(chromosome_copy)
-
     return parameters
