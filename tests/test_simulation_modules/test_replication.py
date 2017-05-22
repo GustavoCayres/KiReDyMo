@@ -20,27 +20,27 @@ class TestReplication(TestCase):
 
     def test_step(self):
         self.replication.step()
-        self.assertEqual(self.replication.fork_position, 3)
+        self.assertEqual(self.replication.position, 3)
         self.replication.step()
         self.replication.step()
-        self.assertEqual(self.replication.fork_position, -1)
+        self.assertEqual(self.replication.position, -1)
 
     def test_pause(self):
         self.replication.step()
-        self.assertEqual(self.replication.fork_position, 3)
+        self.assertEqual(self.replication.position, 3)
         self.replication.pause()
         self.replication.step()
-        self.assertEqual(self.replication.fork_position, 3)
+        self.assertEqual(self.replication.position, 3)
         self.replication.step()
         self.replication.step()
         self.replication.step()
-        self.assertEqual(self.replication.fork_position, 1)
+        self.assertEqual(self.replication.position, 1)
 
     def test_pause_with_instant_resume(self):
         replication_with_instant_repair = Replication(self.replication_origin_with_instant_repair, -1)
 
         replication_with_instant_repair.step()
-        self.assertEqual(replication_with_instant_repair.fork_position, 3)
+        self.assertEqual(replication_with_instant_repair.position, 3)
         replication_with_instant_repair.pause()
         replication_with_instant_repair.step()
-        self.assertEqual(replication_with_instant_repair.fork_position, 1)
+        self.assertEqual(replication_with_instant_repair.position, 1)

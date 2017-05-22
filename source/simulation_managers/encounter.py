@@ -6,8 +6,6 @@ class Encounter:
 
     def __init__(self, chromosome):
         self.chromosome_length = chromosome.length
-        self.chromosome_start_done = False
-        self.chromosome_end_done = False
 
     @staticmethod
     def verify(replication1, replication2):
@@ -17,10 +15,10 @@ class Encounter:
                 replication1.direction == replication2.direction:
             return
 
-        if 0 < -replication1.direction * replication1.fork_position +\
-                -replication2.direction * replication2.fork_position <= replication1.speed + replication2.speed:
-            encounter_position = round((replication1.speed * replication2.fork_position + replication2.speed *
-                                        replication1.fork_position)/(replication1.speed + replication2.speed))
+        if 0 < -replication1.direction * replication1.position +\
+                -replication2.direction * replication2.position <= replication1.speed + replication2.speed:
+            encounter_position = round((replication1.speed * replication2.position + replication2.speed *
+                                        replication1.position)/(replication1.speed + replication2.speed))
             replication1.finish(encounter_position)
             replication2.finish(encounter_position)
 
@@ -32,9 +30,9 @@ class Encounter:
 
         for replication in replications:
             if replication.is_active():
-                if replication.fork_position + replication.direction * replication.speed < 0:
+                if replication.position + replication.direction * replication.speed < 0:
                     replication.finish(0)
-                elif replication.fork_position + replication.direction * replication.speed >= self.chromosome_length:
+                elif replication.position + replication.direction * replication.speed >= self.chromosome_length:
                     replication.finish(self.chromosome_length - 1)
 
         replications[:] = [x for x in replications if x.is_active()]

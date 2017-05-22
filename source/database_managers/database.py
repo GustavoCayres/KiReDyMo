@@ -180,24 +180,24 @@ class Database:
         chromosomes = [Chromosome(code=t[0],
                                   length=t[1],
                                   replication_speed=t[2],
-                                  transcription_speed=30,
-                                  replication_repair_duration=0,
-                                  transcription_start_delay=0,
-                                  organism=t[3]) for t in cursor.fetchall()]
+                                  transcription_speed=t[3],
+                                  replication_repair_duration=t[4],
+                                  transcription_start_delay=t[5],
+                                  organism=t[6]) for t in cursor.fetchall()]
 
         for chromosome in chromosomes:
             cursor.execute('''SELECT *
                               FROM ReplicationOrigin
                               WHERE chromosome_code = ?''',
                            (chromosome.code,))
-            chromosome.replication_origins = [ReplicationOrigin(position=t[0], score=t[1], chromosome=chromosome)
+            chromosome.replication_origins = [ReplicationOrigin(position=t[0], score=t[1])
                                               for t in cursor.fetchall()]
 
             cursor.execute('''SELECT *
                               FROM TranscriptionRegion
                               WHERE chromosome_code = ?''',
                            (chromosome.code,))
-            chromosome.transcription_regions = [TranscriptionRegion(start=t[0], end=t[1], chromosome=chromosome)
+            chromosome.transcription_regions = [TranscriptionRegion(start=t[0], end=t[1])
                                                 for t in cursor.fetchall()]
 
         return chromosomes

@@ -15,6 +15,6 @@ class TestTranscriptionTrigger(TestCase):
 
     def test_try_to_start(self):
         self.assertIsInstance(self.transcription_trigger.try_to_start(), Transcription)
-        self.assertEqual(self.transcription_trigger.start_delay, 5)
+        self.assertEqual(self.transcription_trigger.remaining_start_delay, 5)
         self.assertIsNone(self.transcription_trigger.try_to_start())
-        self.assertEqual(self.transcription_trigger.start_delay, 4)
+        self.assertEqual(self.transcription_trigger.remaining_start_delay, 4)
