@@ -15,7 +15,9 @@ def write_results(file_name, results):
                            "[Tail_Collision_Amount]\t"
                            "[Replication_Repair_Duration]\t"
                            "[Transcription_Start_Delay]\t"
-                           "[Origins]\t\n")
+                           "[Origins]\t"
+                           "[Final_Chromosome_State]\t"
+                           "\n")
 
         for result in results:
             result_line = ""

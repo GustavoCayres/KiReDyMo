@@ -11,6 +11,10 @@ class DNAStrand:
         return self.strand[item]
 
     def __str__(self):
+        return str(self.strand)
+
+    @property
+    def duplicated_segments(self):
         strand_state = []
         current_value = self.strand[0]
         start = 0
@@ -23,7 +27,7 @@ class DNAStrand:
 
         end = len(self.strand) - 1
         strand_state.append((start, end, current_value))
-        return str(strand_state)
+        return strand_state
 
     def duplicate_segment(self, start, end):
         if end < start:

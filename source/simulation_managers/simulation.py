@@ -70,4 +70,5 @@ class Simulation:
             self.collision_manager.tail_collisions,\
             self.chromosome.replication_repair_duration,\
             self.chromosome.transcription_start_delay,\
-            [str(origin) for origin in self.chromosome.replication_origins]
+            [str(origin) for origin in self.chromosome.replication_origins],\
+            self.dna_strand.duplicated_segments
