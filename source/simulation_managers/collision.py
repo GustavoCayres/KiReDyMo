@@ -6,6 +6,8 @@ from source.models.replication_origin import ReplicationOrigin
 class Collision:
     """ Controls the collisions between replication's and transcriptions' machineries. """
 
+    DISTANCE_TO_NEW_ORIGIN = 5000
+
     def __init__(self, chromosome):
         self.chromosome = chromosome
 
@@ -53,7 +55,7 @@ class Collision:
     def activate_origin_nearby(self, replication):
         maximum_score = max([1, max([origin.score for origin in self.chromosome.replication_origins])])
 
-        new_origin_position = replication.position + replication.direction * 5000
+        new_origin_position = replication.position + replication.direction * Collision.DISTANCE_TO_NEW_ORIGIN
         if new_origin_position < 0:
             new_origin_position = 0
         elif new_origin_position >= self.chromosome.length:
