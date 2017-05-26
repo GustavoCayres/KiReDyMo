@@ -16,6 +16,7 @@ class ReplicationTrigger:
         self.replication_origins = chromosome.replication_origins
         self.dna_strand = strand
 
+        self.triggered_origins = 0
         self.start_probabilities = {}
 
     def start_random_origin(self, replications):
@@ -27,6 +28,7 @@ class ReplicationTrigger:
             if r < 0:
                 origin.score = 0
                 if not self.dna_strand[origin.position]:
+                    self.triggered_origins += 1
                     replications.append(Replication(origin=origin,
                                                     direction=-1,
                                                     speed=self.chromosome.replication_speed,
