@@ -43,3 +43,6 @@ class DNAStrand:
 
     def is_duplicated(self, threshold):
         return float(self.amount_of_duplicated_bases / len(self.strand)) >= threshold
+
+    def is_position_duplicated(self, position):
+        return self.strand[position]

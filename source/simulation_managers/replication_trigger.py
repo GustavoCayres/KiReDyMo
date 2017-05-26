@@ -21,30 +21,35 @@ class ReplicationTrigger:
 
     def start_random_origin(self, replications):
         if not self.update_start_probabilities():
-            return None, None
+            return
+
         r = self.random_number_generator.random()
         for origin, probability in self.start_probabilities.items():
             r -= probability
             if r < 0:
                 origin.score = 0
-                if not self.dna_strand[origin.position]:
-                    self.triggered_origins += 1
-                    replications.append(Replication(origin=origin,
-                                                    direction=-1,
-                                                    speed=self.chromosome.replication_speed,
-                                                    repair_duration=self.chromosome.replication_repair_duration,
-                                                    strand=self.dna_strand))
-                    replications.append(Replication(origin=origin,
-                                                    direction=+1,
-                                                    speed=self.chromosome.replication_speed,
-                                                    repair_duration=self.chromosome.replication_repair_duration,
-                                                    strand=self.dna_strand))
+                self.triggered_origins += 1
+                replications.append(Replication(origin=origin,
+                                                direction=-1,
+                                                speed=self.chromosome.replication_speed,
+                                                repair_duration=self.chromosome.replication_repair_duration,
+                                                strand=self.dna_strand))
+                replications.append(Replication(origin=origin,
+                                                direction=+1,
+                                                speed=self.chromosome.replication_speed,
+                                                repair_duration=self.chromosome.replication_repair_duration,
+                                                strand=self.dna_strand))
+                return
 
     def update_start_probabilities(self):
         self.start_probabilities = {}
         denominator = 0
         for origin in self.replication_origins:
-            denominator += origin.score
+            if self.dna_strand.is_position_duplicated(origin.position):
+                origin.score = 0
+            else:
+                denominator += origin.score
+
         if denominator == 0:
             return False
         for origin in self.replication_origins:
