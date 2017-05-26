@@ -10,7 +10,7 @@ from source.simulation_managers.transcription_trigger import TranscriptionTrigge
 class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
-    PROBABILITY_OF_ORIGIN_START = .6
+    PROBABILITY_OF_ORIGIN_START = .003
     MAXIMUM_STEPS = 10000
     G1_STEPS = 0
 
@@ -32,7 +32,7 @@ class Simulation:
 
         self.current_step = 0
         self.random_generator = Random()
-        Simulation.G1_STEPS = self.random_generator.randrange(self.chromosome.transcription_start_delay)
+        Simulation.G1_STEPS = self.random_generator.randrange(2 * self.chromosome.transcription_start_delay)
         Simulation.MAXIMUM_STEPS += Simulation.G1_STEPS
 
     def trigger_transcriptions(self):
@@ -70,7 +70,7 @@ class Simulation:
         return self.current_step - Simulation.G1_STEPS,\
             self.collision_manager.head_collisions,\
             self.collision_manager.tail_collisions,\
-            len(self.chromosome)/len(self.chromosome.replication_origins),\
+            len(self.chromosome)/self.replication_trigger.triggered_origins,\
             self.chromosome.transcription_start_delay,\
             self.replication_trigger.triggered_origins,\
             self.dna_strand.duplicated_percentage
