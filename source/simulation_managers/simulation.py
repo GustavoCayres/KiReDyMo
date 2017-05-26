@@ -40,8 +40,8 @@ class Simulation:
             trigger.try_to_start(self.transcriptions)
 
     def trigger_replications(self):
-        if self.random_generator.random() < 1 - Simulation.PROBABILITY_OF_ORIGIN_START or\
-           self.current_step < Simulation.G1_STEPS:
+        if self.current_step < Simulation.G1_STEPS or \
+           self.random_generator.random() >= Simulation.PROBABILITY_OF_ORIGIN_START:
             return
 
         self.replication_trigger.start_random_origin(self.replications)
