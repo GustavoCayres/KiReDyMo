@@ -1,12 +1,8 @@
 import math
 
-from source.models.replication_origin import ReplicationOrigin
-
 
 class Collision:
     """ Controls the collisions between replication's and transcriptions' machineries. """
-
-    DISTANCE_TO_NEW_ORIGIN = 5000
 
     def __init__(self, chromosome):
         self.chromosome = chromosome
@@ -52,20 +48,6 @@ class Collision:
 
         return None, None
 
-    def activate_origin_nearby(self, replication):
-        maximum_score = max([1, max([origin.score for origin in self.chromosome.replication_origins])])
-
-        new_origin_position = replication.position + replication.direction * Collision.DISTANCE_TO_NEW_ORIGIN
-        if new_origin_position < 0:
-            new_origin_position = 0
-        elif new_origin_position >= self.chromosome.length:
-            new_origin_position = self.chromosome.length - 1
-
-        new_origin = ReplicationOrigin(position=new_origin_position,
-                                       score=maximum_score)
-        if new_origin not in self.chromosome.replication_origins:
-            self.chromosome.replication_origins.append(new_origin)
-
     def resolve(self, replications, transcriptions):
         """ Solves confirmed collisions. """
 
@@ -74,7 +56,6 @@ class Collision:
                 kind, position = self.verify(replication, transcription)
                 if kind == "head" and replication.speed > 0:
                     replication.pause(position)
-                    self.activate_origin_nearby(replication)
                 if kind is not None or transcription.is_leaving_region():
                     transcription.finish()
                     break
