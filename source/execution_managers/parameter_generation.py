@@ -23,7 +23,7 @@ def generate_simulation_parameters(chromosomes, number_of_simulations,
     parameters = []
     for chromosome in chromosomes:
         for i in range(number_of_simulations):
-            origins = generate_origins(chromosome=chromosome, number_of_origins=100, score_of_new_origins=.5)
+            origins = generate_origins(chromosome=chromosome, number_of_origins=300, score_of_new_origins=.5)
             for transcription_start_delay in range(*transcription_start_delay_range):
                 chromosome_copy = copy.deepcopy(chromosome)
                 chromosome_copy.replication_origins = origins

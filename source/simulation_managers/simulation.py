@@ -72,5 +72,5 @@ class Simulation:
             self.collision_manager.tail_collisions,\
             len(self.chromosome)/len(self.chromosome.replication_origins),\
             self.chromosome.transcription_start_delay,\
-            [str(origin) for origin in self.chromosome.replication_origins],\
+            len(self.chromosome.replication_origins),\
             self.dna_strand.duplicated_percentage
