@@ -13,7 +13,7 @@ def write_results(file_name, results):
         results_file.write("[Simulation_Duration]\t"
                            "[Head_Collision_Amount]\t"
                            "[Tail_Collision_Amount]\t"
-                           "[Replication_Repair_Duration]\t"
+                           "[Interorigin_Distance]\t"
                            "[Transcription_Start_Delay]\t"
                            "[Origins]\t"
                            "[Final_Chromosome_State]\t"

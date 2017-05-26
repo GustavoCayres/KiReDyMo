@@ -68,7 +68,7 @@ class Simulation:
         return self.current_step - Simulation.G1_STEPS,\
             self.collision_manager.head_collisions,\
             self.collision_manager.tail_collisions,\
-            self.chromosome.replication_repair_duration,\
+            self.chromosome.length/len(self.chromosome.replication_origins),\
             self.chromosome.transcription_start_delay,\
             [str(origin) for origin in self.chromosome.replication_origins],\
             self.dna_strand.duplicated_segments

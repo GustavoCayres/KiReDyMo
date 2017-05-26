@@ -12,6 +12,9 @@ class Chromosome:
         self.replication_origins = []
         self.transcription_regions = []
 
+    def __len__(self):
+        return self.length
+
     def update_attributes(self, **kwargs):
         for key in kwargs:
             value = kwargs[key]
