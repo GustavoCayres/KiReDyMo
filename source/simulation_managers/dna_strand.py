@@ -14,6 +14,10 @@ class DNAStrand:
         return str(self.strand)
 
     @property
+    def duplicated_percentage(self):
+        return float(self.amount_of_duplicated_bases/len(self.strand))
+
+    @property
     def duplicated_segments(self):
         strand_state = []
         current_value = self.strand[0]
