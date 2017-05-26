@@ -64,7 +64,7 @@ class Simulation:
         self.current_step += 1
 
     def run(self):
-        while not self.dna_strand.is_completely_duplicated() and self.current_step < self.MAXIMUM_STEPS:
+        while not self.dna_strand.is_duplicated(threshold=.9) and self.current_step < self.MAXIMUM_STEPS:
             self.step()
 
         return self.current_step - Simulation.G1_STEPS,\

@@ -7,6 +7,8 @@ random_number_generator = Random()
 
 
 def generate_origins(chromosome, number_of_origins, score_of_new_origins):
+    number_of_origins = min((len(chromosome), number_of_origins))
+
     origins = chromosome.replication_origins.copy()
     for i in range(number_of_origins - len(chromosome.replication_origins)):
         r = random_number_generator.randrange(len(chromosome))

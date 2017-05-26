@@ -41,5 +41,5 @@ class DNAStrand:
                 self.strand[i] = True
                 self.amount_of_duplicated_bases += 1
 
-    def is_completely_duplicated(self):
-        return self.amount_of_duplicated_bases == len(self.strand)
+    def is_duplicated(self, threshold):
+        return float(self.amount_of_duplicated_bases / len(self.strand)) >= threshold
