@@ -10,13 +10,13 @@ def write_results(file_name, results):
             raise
 
     with open("output/" + file_name, 'w') as results_file:
-        results_file.write("[Simulation_Duration]\t"
-                           "[Head_Collision_Amount]\t"
-                           "[Tail_Collision_Amount]\t"
-                           "[Interorigin_Distance]\t"
-                           "[Transcription_Start_Delay]\t"
-                           "[Origins]\t"
-                           "[Final_Chromosome_State]\t"
+        results_file.write("[Sim_Dur]\t"
+                           "[#_Head_Col]\t"
+                           "[Interorig_Dist]\t"
+                           "[Transcript_Start_Delay]\t"
+                           "[#_Orig_Trig]\t"
+                           "[#_Orig_Gen]\t"
+                           "[Duplic_%]\t"
                            "\n")
 
         for result in results:

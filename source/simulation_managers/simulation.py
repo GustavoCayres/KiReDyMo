@@ -10,23 +10,22 @@ from source.simulation_managers.transcription_trigger import TranscriptionTrigge
 class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
-    PROBABILITY_OF_ORIGIN_START = .007
+    def __init__(self, kwargs):
+        self.chromosome = kwargs['chromosome']
+        self.probability_of_origin_trigger = kwargs['probability_of_origin_trigger']
 
-    def __init__(self, chromosome):
-        self.chromosome = chromosome
-
-        self.dna_strand = DNAStrand(length=len(chromosome))
+        self.dna_strand = DNAStrand(length=len(self.chromosome))
         self.replications = []
         self.transcriptions = []
 
-        self.collision_manager = Collision(chromosome=chromosome)
-        self.encounter_manager = Encounter(chromosome=chromosome)
+        self.collision_manager = Collision(chromosome=self.chromosome)
+        self.encounter_manager = Encounter(chromosome=self.chromosome)
 
-        self.replication_trigger = ReplicationTrigger(chromosome=chromosome,
+        self.replication_trigger = ReplicationTrigger(chromosome=self.chromosome,
                                                       strand=self.dna_strand)
         self.transcription_triggers = [TranscriptionTrigger(transcription_region=region,
-                                                            chromosome=chromosome)
-                                       for region in chromosome.transcription_regions]
+                                                            chromosome=self.chromosome)
+                                       for region in self.chromosome.transcription_regions]
 
         self.current_step = 0
         self.random_generator = Random()
@@ -39,7 +38,7 @@ class Simulation:
 
     def trigger_replications(self):
         if self.current_step < self.g1_steps or \
-           self.random_generator.random() >= Simulation.PROBABILITY_OF_ORIGIN_START:
+           self.random_generator.random() >= self.probability_of_origin_trigger:
             return
 
         self.replication_trigger.start_random_origin(self.replications)
@@ -67,8 +66,8 @@ class Simulation:
 
         return self.current_step - self.g1_steps,\
             self.collision_manager.head_collisions,\
-            self.collision_manager.tail_collisions,\
             len(self.chromosome)/self.replication_trigger.triggered_origins,\
             self.chromosome.transcription_start_delay,\
             self.replication_trigger.triggered_origins,\
+            len(self.chromosome.replication_origins),\
             self.dna_strand.duplicated_percentage
