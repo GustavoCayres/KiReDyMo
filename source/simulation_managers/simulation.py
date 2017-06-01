@@ -64,9 +64,7 @@ class Simulation:
     def run(self):
         while not self.dna_strand.is_duplicated(threshold=1) and self.current_step < self.maximum_steps:
             self.step()
-        if self.replication_trigger.triggered_origins == 0:
-            print("shit")
-            exit()
+
         return self.current_step - self.g1_steps,\
             self.collision_manager.head_collisions,\
             self.collision_manager.tail_collisions,\

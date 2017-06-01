@@ -190,8 +190,8 @@ class Database:
                               FROM ReplicationOrigin
                               WHERE chromosome_code = ?''',
                            (chromosome.code,))
-            chromosome.replication_origins = [ReplicationOrigin(position=t[0], score=t[1])
-                                              for t in cursor.fetchall()]
+            chromosome.constitutive_origins = [ReplicationOrigin(position=t[0], score=t[1])
+                                               for t in cursor.fetchall()]
 
             cursor.execute('''SELECT *
                               FROM TranscriptionRegion
