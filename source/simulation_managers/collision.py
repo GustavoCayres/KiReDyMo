@@ -68,7 +68,7 @@ class Collision:
         for transcription in transcriptions:
             for replication in replications:
                 kind, position = self.verify(replication, transcription)
-                if kind == "head" and replication.speed > 0:
+                if kind == "head" and replication.speed > 0 and replication.repair_duration > 0:
                     replication.pause(position)
                     self.maximize_nearest_origin_score(replication)
                 if kind is not None or transcription.is_leaving_region():
