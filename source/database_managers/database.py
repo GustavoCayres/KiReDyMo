@@ -181,7 +181,7 @@ class Database:
                                   length=t[1],
                                   replication_speed=t[2],
                                   transcription_speed=t[3],
-                                  replication_repair_duration=t[4],
+                                  replication_repair_duration=float(t[4]),
                                   transcription_start_delay=t[5],
                                   organism=t[6]) for t in cursor.fetchall()]
 

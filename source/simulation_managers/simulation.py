@@ -24,7 +24,8 @@ class Simulation:
         self.replication_trigger = ReplicationTrigger(chromosome=self.chromosome,
                                                       strand=self.dna_strand)
         self.transcription_triggers = [TranscriptionTrigger(transcription_region=region,
-                                                            chromosome=self.chromosome)
+                                                            chromosome=self.chromosome,
+                                                            strand=self.dna_strand)
                                        for region in self.chromosome.transcription_regions]
 
         self.current_step = 0

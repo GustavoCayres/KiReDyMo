@@ -29,6 +29,7 @@ def generate_simulation_parameters(chromosomes,
 
     parameters = []
     for chromosome in chromosomes:
+        chromosome.replication_repair_duration = 0
         for i in range(number_of_simulations):
             for probability_of_origin_trigger in numpy.arange(*probability_of_origin_trigger_range):
                 for number_of_fl_origins in range(*number_of_flexible_origins_range):
