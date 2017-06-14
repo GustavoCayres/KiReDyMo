@@ -30,7 +30,7 @@ def parse_argument_file(file_path):
             elif line_list[0] == '[probability_of_origin_trigger]':
                 probability_of_origin_trigger_range = [float(line_list[1]), float(line_list[2]), float(line_list[3])]
             elif line_list[0] == '[replication_repair_duration]':
-                replication_repair_duration = int(line_list[1])
+                replication_repair_duration = int(line_list[1]) if line_list[1] != 'inf' else float('inf')
             elif line_list[0] == '[transcription_activity]':
                 is_transcription_active = True if line_list[1] == "Yes" else False
 
