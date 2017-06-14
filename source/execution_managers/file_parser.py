@@ -9,6 +9,7 @@ def parse_argument_file(file_path):
     number_of_flexible_origins_range = None
     probability_of_origin_trigger_range = None
     replication_repair_duration = None
+    is_transcription_active = None
 
     with open(file_path) as argument_file:
         for line in argument_file:
@@ -30,6 +31,8 @@ def parse_argument_file(file_path):
                 probability_of_origin_trigger_range = [float(line_list[1]), float(line_list[2]), float(line_list[3])]
             elif line_list[0] == '[replication_repair_duration]':
                 replication_repair_duration = int(line_list[1])
+            elif line_list[0] == '[transcription_activity]':
+                is_transcription_active = True if line_list[1] == "Yes" else is_transcription_active = False
 
         output_file_name = code + ".txt"
 
@@ -38,5 +41,6 @@ def parse_argument_file(file_path):
                                   'transcription_start_delay_range': transcription_start_delay_range,
                                   'number_of_flexible_origins_range': number_of_flexible_origins_range,
                                   'probability_of_origin_trigger_range': probability_of_origin_trigger_range,
-                                  'replication_repair_duration': replication_repair_duration
+                                  'replication_repair_duration': replication_repair_duration,
+                                  'is_transcription_active': is_transcription_active
                                   }

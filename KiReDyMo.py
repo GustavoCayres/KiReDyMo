@@ -2,8 +2,8 @@
 import sys
 import time
 
+from source.execution_managers.file_parser import parse_argument_file
 from source.execution_managers.simulation_parallelization import run_parallel_simulations
-from source.input_managers.file_parser import parse_argument_file
 from source.output_managers.results_output import write_results
 
 

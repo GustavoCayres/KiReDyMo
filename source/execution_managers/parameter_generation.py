@@ -26,12 +26,15 @@ def generate_simulation_parameters(chromosomes,
                                    transcription_start_delay_range,
                                    number_of_flexible_origins_range,
                                    probability_of_origin_trigger_range,
-                                   replication_repair_duration):
+                                   replication_repair_duration,
+                                   is_transcription_present):
 
     parameters = []
     for chromosome in chromosomes:
         if replication_repair_duration is not None:
             chromosome.replication_repair_duration = replication_repair_duration
+        if not is_transcription_present:
+            chromosome.transcription_regions = []
 
         for i in range(number_of_simulations):
             for probability_of_origin_trigger in numpy.arange(*probability_of_origin_trigger_range):
@@ -39,7 +42,7 @@ def generate_simulation_parameters(chromosomes,
                     for transcription_start_delay in range(*transcription_start_delay_range):
                         chromosome.flexible_origins = generate_origins(chromosome=chromosome,
                                                                        number_of_flexible_origins=number_of_fl_origins,
-                                                                       score_of_flexible_origins=.5)
+                                                                       score_of_flexible_origins=.1)
                         chromosome.transcription_start_delay = transcription_start_delay
                         parameters.append({'chromosome': copy.deepcopy(chromosome),
                                            'probability_of_origin_trigger': probability_of_origin_trigger})
