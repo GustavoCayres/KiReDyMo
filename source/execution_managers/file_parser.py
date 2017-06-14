@@ -32,7 +32,7 @@ def parse_argument_file(file_path):
             elif line_list[0] == '[replication_repair_duration]':
                 replication_repair_duration = int(line_list[1])
             elif line_list[0] == '[transcription_activity]':
-                is_transcription_active = True if line_list[1] == "Yes" else is_transcription_active = False
+                is_transcription_active = True if line_list[1] == "Yes" else False
 
         output_file_name = code + ".txt"
 

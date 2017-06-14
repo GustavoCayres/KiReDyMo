@@ -27,13 +27,13 @@ def generate_simulation_parameters(chromosomes,
                                    number_of_flexible_origins_range,
                                    probability_of_origin_trigger_range,
                                    replication_repair_duration,
-                                   is_transcription_present):
+                                   is_transcription_active):
 
     parameters = []
     for chromosome in chromosomes:
         if replication_repair_duration is not None:
             chromosome.replication_repair_duration = replication_repair_duration
-        if not is_transcription_present:
+        if not is_transcription_active:
             chromosome.transcription_regions = []
 
         for i in range(number_of_simulations):
