@@ -38,11 +38,10 @@ class Simulation:
             trigger.try_to_start(self.transcriptions)
 
     def trigger_replications(self):
-        if self.current_step < self.g1_steps or \
-           self.random_generator.random() >= self.probability_of_origin_trigger:
+        if self.current_step < self.g1_steps:
             return
 
-        self.replication_trigger.start_random_origin(self.replications)
+        self.replication_trigger.start_random_origin(self.replications, self.probability_of_origin_trigger)
 
     def step(self):
         """ Move one step forward in the simulation, updating the position of each machinery (both for replication and

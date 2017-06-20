@@ -4,17 +4,11 @@ from source.simulation_managers.replication import Replication
 
 
 class ReplicationTrigger:
-    random_number_generator = Random()
-    random_number_generator.seed()
-
-    @classmethod
-    def set_seed(cls, seed):
-        cls.random_number_generator.seed(seed)
-
     def __init__(self, chromosome, strand):
         self.chromosome = chromosome
         self.replication_origins = chromosome.replication_origins
         self.dna_strand = strand
+        self.random_generator = Random()
 
         self.triggered_origins = 0
         self.start_probabilities = {}
@@ -33,16 +27,14 @@ class ReplicationTrigger:
                                         repair_duration=self.chromosome.replication_repair_duration,
                                         strand=self.dna_strand))
 
-    def start_random_origin(self, replications):
+    def start_random_origin(self, replications, trigger_probability):
         if not self.update_start_probabilities():
             return
 
-        for origin in self.chromosome.constitutive_origins:
-            if self.start_probabilities[origin] > 0:
-                self.trigger_origin(replications, origin)
-                return
+        if self.random_generator.random() >= trigger_probability:
+            return
 
-        r = self.random_number_generator.random()
+        r = self.random_generator.random()
         for origin, probability in self.start_probabilities.items():
             r -= probability
             if r < 0:
