@@ -31,7 +31,7 @@ class Simulation:
         self.current_step = 0
         self.random_generator = Random()
         self.g1_steps = self.random_generator.randrange(2 * self.chromosome.transcription_start_delay)
-        self.maximum_steps = 7080 + self.g1_steps
+        self.maximum_steps = 100000 + self.g1_steps
 
     def trigger_transcriptions(self):
         for trigger in self.transcription_triggers:
