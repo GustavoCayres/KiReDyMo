@@ -9,7 +9,7 @@ def write_overall_results(file_name, results):
         if exception.errno != errno.EEXIST:
             raise
 
-    with open("output/" + file_name, 'w') as results_file:
+    with open("output/" + file_name + ".txt", 'w') as results_file:
         results_file.write("[Sim_Dur]\t"
                            "[#_Head_Col]\t"
                            "[Interorig_Dist]\t"
@@ -34,14 +34,15 @@ def write_origin_trigger_log(file_name, results):
         if exception.errno != errno.EEXIST:
             raise
 
-    with open("output/" + file_name, 'w') as results_file:
-        results_file.write("[Simulation_Time]\t"
-                           "[Triggered Origin]\t"
-                           "\n")
+    i = 0
+    for result in results:
+        i += 1
+        with open("output/" + file_name + "_" + str(i) + ".txt", 'w') as results_file:
+            results_file.write("[Simulation_Time]\t"
+                               "[Triggered Origin]\t"
+                               "\n")
 
-        for result in results:
-            result_line = ""
-            for data in result:
-                result_line += "{}\t".format(data)
-            result_line += "\n"
-            results_file.write(result_line)
+            for time, origin in result.items():
+                result_line = "{}\t{}\t".format(time, origin)
+                result_line += "\n"
+                results_file.write(result_line)

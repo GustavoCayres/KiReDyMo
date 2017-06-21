@@ -10,12 +10,12 @@ class ReplicationTrigger:
         self.dna_strand = strand
         self.random_generator = Random()
 
-        self.triggered_origins = 0
+        self.origin_trigger_log = {}
         self.start_probabilities = {}
 
-    def trigger_origin(self, replications, origin):
+    def trigger_origin(self, replications, origin, step):
         origin.score = 0
-        self.triggered_origins += 1
+        self.origin_trigger_log[step] = origin.position
         replications.append(Replication(origin=origin,
                                         direction=-1,
                                         speed=self.chromosome.replication_speed,
@@ -27,7 +27,7 @@ class ReplicationTrigger:
                                         repair_duration=self.chromosome.replication_repair_duration,
                                         strand=self.dna_strand))
 
-    def start_random_origin(self, replications, trigger_probability):
+    def start_random_origin(self, replications, trigger_probability, step):
         if not self.update_start_probabilities():
             return
 
@@ -38,8 +38,7 @@ class ReplicationTrigger:
         for origin, probability in self.start_probabilities.items():
             r -= probability
             if r < 0:
-                self.trigger_origin(replications=replications, origin=origin)
-                return
+                return self.trigger_origin(replications=replications, origin=origin, step=step)
 
     def update_start_probabilities(self):
         self.start_probabilities = {}

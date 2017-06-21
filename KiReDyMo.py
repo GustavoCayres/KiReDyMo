@@ -4,7 +4,7 @@ import time
 
 from source.execution_managers.file_parser import parse_argument_file
 from source.execution_managers.simulation_parallelization import run_parallel_simulations
-from source.output_managers.results_output import write_overall_results
+from source.output_managers.results_output import write_overall_results, write_origin_trigger_log
 
 
 def main(args):
@@ -14,7 +14,11 @@ def main(args):
 
     results = run_parallel_simulations(parameter_generation_arguments=parsed_arguments)
 
-    write_overall_results(file_name=output_file_name, results=results)
+    overall_results = [result[0:-1] for result in results]
+    write_overall_results(file_name=output_file_name, results=overall_results)
+
+    logs = [result[-1] for result in results]
+    write_origin_trigger_log(file_name="log_" + output_file_name, results=logs)
 
     print("Simulation Finished in %f seconds" % (time.time() - start_time))
 

@@ -34,7 +34,7 @@ def parse_argument_file(file_path):
             elif line_list[0] == '[transcription_activity]':
                 is_transcription_active = True if line_list[1] == "Yes" else False
 
-        output_file_name = code + ".txt"
+        output_file_name = code
 
         return output_file_name, {'chromosomes': chromosomes,
                                   'number_of_simulations': number_of_simulations,

@@ -28,20 +28,20 @@ class Simulation:
                                                             strand=self.dna_strand)
                                        for region in self.chromosome.transcription_regions]
 
-        self.current_step = 0
-        self.random_generator = Random()
-        self.g1_steps = self.random_generator.randrange(2 * self.chromosome.transcription_start_delay)
-        self.maximum_steps = 100000 + self.g1_steps
+        self.current_step = -Random().randrange(2 * self.chromosome.transcription_start_delay)
+        self.maximum_steps = 100000
 
     def trigger_transcriptions(self):
         for trigger in self.transcription_triggers:
             trigger.try_to_start(self.transcriptions)
 
     def trigger_replications(self):
-        if self.current_step < self.g1_steps:
+        if self.current_step < 0:
             return
 
-        self.replication_trigger.start_random_origin(self.replications, self.probability_of_origin_trigger)
+        self.replication_trigger.start_random_origin(self.replications,
+                                                     self.probability_of_origin_trigger,
+                                                     self.current_step)
 
     def step(self):
         """ Move one step forward in the simulation, updating the position of each machinery (both for replication and
@@ -64,10 +64,11 @@ class Simulation:
         while not self.dna_strand.is_duplicated(threshold=1) and self.current_step < self.maximum_steps:
             self.step()
 
-        return self.current_step - self.g1_steps,\
+        return self.current_step,\
             self.collision_manager.head_collisions,\
-            len(self.chromosome)/self.replication_trigger.triggered_origins,\
-            self.chromosome.transcription_start_delay,\
-            self.replication_trigger.triggered_origins,\
+            len(self.chromosome)/len(self.replication_trigger.origin_trigger_log),\
+            self.chromosome.transcription_start_delay, \
+            len(self.replication_trigger.origin_trigger_log),\
             len(self.chromosome.replication_origins),\
-            self.dna_strand.duplicated_percentage
+            self.dna_strand.duplicated_percentage, \
+            self.replication_trigger.origin_trigger_log
