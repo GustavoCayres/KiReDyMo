@@ -40,7 +40,7 @@ def generate_simulation_parameters(chromosomes,
             for probability_of_origin_trigger in numpy.arange(*probability_of_origin_trigger_range):
                 probability_of_origin_trigger = float(len(chromosome)/(260000 * 7080))
                 for number_of_fl_origins in range(*number_of_flexible_origins_range):
-                    n = int((number_of_fl_origins * len(chromosome))/1000)
+                    n = int(len(chromosome)/number_of_fl_origins)
                     for transcription_start_delay in range(*transcription_start_delay_range):
                         chromosome.flexible_origins = generate_origins(chromosome=chromosome,
                                                                        number_of_flexible_origins=n,
