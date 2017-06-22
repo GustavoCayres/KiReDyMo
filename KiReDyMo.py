@@ -10,15 +10,13 @@ from source.output_managers.results_output import write_overall_results, write_o
 def main(args):
     start_time = time.time()
 
-    output_file_name, parsed_arguments = parse_argument_file(file_path=args[1])
+    parsed_arguments = parse_argument_file(file_path=args[1])
 
     results = run_parallel_simulations(parameter_generation_arguments=parsed_arguments)
 
+    file_names = [result[0] for result in results]
     overall_results = [result[0:-1] for result in results]
-    write_overall_results(file_name=output_file_name, results=overall_results)
-
-    logs = [result[-1] for result in results]
-    write_origin_trigger_log(file_name="log_" + output_file_name, results=logs)
+    write_overall_results(file_names=file_names, results=overall_results)
 
     print("Simulation Finished in %f seconds" % (time.time() - start_time))
 

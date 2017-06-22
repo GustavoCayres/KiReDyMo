@@ -29,7 +29,7 @@ class Simulation:
                                        for region in self.chromosome.transcription_regions]
 
         self.current_step = -Random().randrange(2 * self.chromosome.transcription_start_delay)
-        self.maximum_steps = 100000
+        self.maximum_steps = 10000
 
     def trigger_transcriptions(self):
         for trigger in self.transcription_triggers:
@@ -64,7 +64,8 @@ class Simulation:
         while not self.dna_strand.is_duplicated(threshold=1) and self.current_step < self.maximum_steps:
             self.step()
 
-        return self.current_step,\
+        return self.chromosome.code,\
+            self.current_step,\
             self.collision_manager.head_collisions,\
             len(self.chromosome)/len(self.replication_trigger.origin_trigger_log),\
             self.chromosome.transcription_start_delay, \

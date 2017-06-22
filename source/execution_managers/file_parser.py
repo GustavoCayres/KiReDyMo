@@ -46,13 +46,11 @@ def parse_argument_file(file_path):
             elif line_list[0] == '[transcription_activity]':
                 is_transcription_active = True if line_list[1] == "Yes" else False
 
-        output_file_name = code
-
-        return output_file_name, {'chromosomes': chromosomes,
-                                  'number_of_simulations': number_of_simulations,
-                                  'transcription_start_delay_range': transcription_start_delay_range,
-                                  'number_of_flexible_origins_range': number_of_flexible_origins_range,
-                                  'probability_of_origin_trigger_range': probability_of_origin_trigger_range,
-                                  'replication_repair_duration': replication_repair_duration,
-                                  'is_transcription_active': is_transcription_active
-                                  }
+        return {'chromosomes': chromosomes,
+                'number_of_simulations': number_of_simulations,
+                'transcription_start_delay_range': transcription_start_delay_range,
+                'number_of_flexible_origins_range': number_of_flexible_origins_range,
+                'probability_of_origin_trigger_range': probability_of_origin_trigger_range,
+                'replication_repair_duration': replication_repair_duration,
+                'is_transcription_active': is_transcription_active
+                }

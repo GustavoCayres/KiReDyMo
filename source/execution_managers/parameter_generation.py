@@ -46,6 +46,7 @@ def generate_simulation_parameters(chromosomes,
                                                                        number_of_flexible_origins=n,
                                                                        score_of_flexible_origins=float(1/n))
                         chromosome.transcription_start_delay = transcription_start_delay
+
                         parameters.append({'chromosome': copy.deepcopy(chromosome),
                                            'probability_of_origin_trigger': probability_of_origin_trigger})
 
