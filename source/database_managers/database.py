@@ -197,7 +197,7 @@ class Database:
                               FROM TranscriptionRegion
                               WHERE chromosome_code = ?''',
                            (chromosome.code,))
-            chromosome.transcription_regions = [TranscriptionRegion(start=t[0], end=t[1])
+            chromosome.transcription_regions = [TranscriptionRegion(start=t[0]-1, end=t[1]-1)
                                                 for t in cursor.fetchall()]
 
         return chromosomes

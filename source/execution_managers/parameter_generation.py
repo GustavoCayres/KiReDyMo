@@ -38,11 +38,13 @@ def generate_simulation_parameters(chromosomes,
 
         for i in range(number_of_simulations):
             for probability_of_origin_trigger in numpy.arange(*probability_of_origin_trigger_range):
+                probability_of_origin_trigger = float(len(chromosome)/(260000 * 7080))
                 for number_of_fl_origins in range(*number_of_flexible_origins_range):
+                    n = int((number_of_fl_origins * len(chromosome))/1000)
                     for transcription_start_delay in range(*transcription_start_delay_range):
                         chromosome.flexible_origins = generate_origins(chromosome=chromosome,
-                                                                       number_of_flexible_origins=number_of_fl_origins,
-                                                                       score_of_flexible_origins=float(1/number_of_fl_origins))
+                                                                       number_of_flexible_origins=n,
+                                                                       score_of_flexible_origins=float(1/n))
                         chromosome.transcription_start_delay = transcription_start_delay
                         parameters.append({'chromosome': copy.deepcopy(chromosome),
                                            'probability_of_origin_trigger': probability_of_origin_trigger})
