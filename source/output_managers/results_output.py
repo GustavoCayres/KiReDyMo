@@ -34,14 +34,11 @@ def write_origin_trigger_log(file_name, results):
         if exception.errno != errno.EEXIST:
             raise
 
-    i = 0
-    for result in results:
-        i += 1
-        with open("output/" + file_name + "_" + str(i) + ".txt", 'w') as results_file:
-            results_file.write("[Simulation_Time]\t"
-                               "[Triggered Origin]\t"
-                               "\n")
-
+    with open("output/" + file_name + ".txt", 'w') as results_file:
+        results_file.write("[Simulation_Time]\t"
+                           "[Triggered Origin]\t"
+                           "\n")
+        for result in results:
             for time, origin in result.items():
                 result_line = "{}\t{}\t".format(time, origin)
                 result_line += "\n"
