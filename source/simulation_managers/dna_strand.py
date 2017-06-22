@@ -8,7 +8,6 @@ class DNAStrand:
         self.amount_of_duplicated_bases = 0
 
     def __getitem__(self, item):
-        print(len(self.strand))
         return self.strand[item]
 
     def __str__(self):

@@ -60,7 +60,7 @@ class Collision:
             i -= 1
 
         if 0 <= i < len(self.chromosome.replication_origins) and self.chromosome.replication_origins[i].score > 0:
-            self.chromosome.replication_origins[i].score = 10000
+            self.chromosome.replication_origins[i].score = 1000
 
     def resolve(self, replications, transcriptions):
         """ Solves confirmed collisions. """
