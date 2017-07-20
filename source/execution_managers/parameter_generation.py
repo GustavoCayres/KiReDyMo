@@ -8,7 +8,6 @@ random_number_generator = Random()
 
 def generate_origins(chromosome, number_of_flexible_origins, score_of_flexible_origins):
     number_of_flexible_origins = min(len(chromosome) - len(chromosome.constitutive_origins), number_of_flexible_origins)
-    print(number_of_flexible_origins)
     flexible_origins = []
     for i in range(number_of_flexible_origins):
         r = random_number_generator.randrange(len(chromosome))

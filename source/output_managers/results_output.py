@@ -22,17 +22,18 @@ def make_output_directory(simulation_number):
 
     return directory_path
 
+
 def write_overall_results(folder_path, results):
     for result in results:
         with open(folder_path + result[0] + ".txt", 'w') as output_file:
             output_file.write("[Sim_Dur]\t"
-                               "[#_Head_Col]\t"
-                               "[Interorig_Dist]\t"
-                               "[Transcript_Start_Delay]\t"
-                               "[#_Orig_Trig]\t"
-                               "[#_Orig_Gen]\t"
-                               "[Duplic_%]\t"
-                               "\n")
+                              "[#_Head_Col]\t"
+                              "[Interorig_Dist]\t"
+                              "[Transcript_Start_Delay]\t"
+                              "[#_Orig_Trig]\t"
+                              "[#_Orig_Gen]\t"
+                              "[Duplic_%]\t"
+                              "\n")
             result_line = ""
             for data in result[1:-1]:
                 result_line += "{}\t".format(data)

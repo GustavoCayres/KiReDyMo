@@ -1,6 +1,6 @@
 from multiprocessing import Pool
 
-from source.execution_managers.parameter_generation import generate_simulation_parameters
+from source.execution_managers.parameter_generation import generate_simulation_parameters, generate_origins
 from source.simulation_managers.simulation import Simulation
 from source.output_managers.results_output import make_output_directory, write_overall_results
 
