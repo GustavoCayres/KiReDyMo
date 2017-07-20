@@ -10,9 +10,9 @@ from source.simulation_managers.transcription_trigger import TranscriptionTrigge
 class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
-    def __init__(self, kwargs):
-        self.chromosome = kwargs['chromosome']
-        self.probability_of_origin_trigger = kwargs['probability_of_origin_trigger']
+    def __init__(self, chromosome, probability_of_origin_trigger):
+        self.chromosome = chromosome
+        self.probability_of_origin_trigger = probability_of_origin_trigger
 
         self.dna_strand = DNAStrand(length=len(self.chromosome))
         self.replications = []

@@ -50,7 +50,6 @@ def parse_argument_file(file_path):
                 'number_of_simulations': number_of_simulations,
                 'transcription_start_delay_range': transcription_start_delay_range,
                 'number_of_flexible_origins_range': number_of_flexible_origins_range,
-                'probability_of_origin_trigger_range': probability_of_origin_trigger_range,
                 'replication_repair_duration': replication_repair_duration,
                 'is_transcription_active': is_transcription_active
                 }
