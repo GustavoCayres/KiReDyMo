@@ -3,15 +3,20 @@ import os
 import shutil
 
 
-def make_output_directory(simulation_number):
-    directory_path = "output/"
+def make_simulation_directory(simulation_number):
+    directory_path = "output/simulation_" + str(simulation_number) + "/"
+    os.makedirs(directory_path)
+    return directory_path
+
+
+def make_output_directory():
     while True:
         try:
-            os.makedirs(directory_path)
+            os.makedirs("output/")
 
         except OSError as exception:
             if exception.errno == errno.EEXIST:
-                shutil.rmtree(directory_path)
+                shutil.rmtree("output/")
 
             else:
                 raise
@@ -19,10 +24,6 @@ def make_output_directory(simulation_number):
             continue
 
         break
-
-    directory_path += "simulation_" + str(simulation_number) + "/"
-    os.makedirs(directory_path)
-    return directory_path
 
 
 def write_overall_results(folder_path, results):
