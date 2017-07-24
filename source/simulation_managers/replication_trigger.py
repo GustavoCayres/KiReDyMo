@@ -33,8 +33,7 @@ class ReplicationTrigger:
 
         for origin in self.chromosome.constitutive_origins:
             if self.start_probabilities[origin] > 0:
-                self.trigger_origin(replications, origin, step)
-                return
+                return self.trigger_origin(replications=replications, origin=origin, step=step)
 
         if self.random_generator.random() >= trigger_probability:
             return

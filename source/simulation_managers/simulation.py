@@ -64,12 +64,12 @@ class Simulation:
         while not self.dna_strand.is_duplicated(threshold=1) and self.current_step < self.maximum_steps:
             self.step()
 
-        return self.chromosome.code,\
-            self.current_step,\
-            self.collision_manager.head_collisions,\
-            len(self.chromosome)/len(self.replication_trigger.origin_trigger_log),\
-            self.chromosome.transcription_start_delay, \
-            len(self.replication_trigger.origin_trigger_log),\
-            len(self.chromosome.replication_origins),\
-            self.dna_strand.duplicated_percentage, \
-            self.replication_trigger.origin_trigger_log
+        return [self.chromosome.code,
+                self.current_step,
+                self.collision_manager.head_collisions,
+                len(self.chromosome)/len(self.replication_trigger.origin_trigger_log),
+                self.chromosome.transcription_start_delay,
+                len(self.replication_trigger.origin_trigger_log),
+                len(self.chromosome.replication_origins),
+                self.dna_strand.duplicated_percentage,
+                self.replication_trigger.origin_trigger_log]

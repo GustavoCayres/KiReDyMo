@@ -6,7 +6,7 @@ def parse_argument_file(file_path):
     chromosomes = None
     number_of_simulations = None
     transcription_start_delay_range = None
-    number_of_flexible_origins_range = None
+    bases_between_origins_range = None
     probability_of_origin_trigger_range = None
     replication_repair_duration = None
     is_transcription_active = None
@@ -34,8 +34,8 @@ def parse_argument_file(file_path):
             elif line_list[0] == '[transcription_start_delay]':
                 transcription_start_delay_range = [int(line_list[1]), int(line_list[2]), int(line_list[3])]
 
-            elif line_list[0] == '[number_of_flexible_origins]':
-                number_of_flexible_origins_range = [int(line_list[1]), int(line_list[2]), int(line_list[3])]
+            elif line_list[0] == '[bases_between_origins]':
+                bases_between_origins_range = [int(line_list[1]), int(line_list[2]), int(line_list[3])]
 
             elif line_list[0] == '[probability_of_origin_trigger]':
                 probability_of_origin_trigger_range = [float(line_list[1]), float(line_list[2]), float(line_list[3])]
@@ -49,7 +49,7 @@ def parse_argument_file(file_path):
         return {'chromosomes': chromosomes,
                 'number_of_simulations': number_of_simulations,
                 'transcription_start_delay_range': transcription_start_delay_range,
-                'number_of_flexible_origins_range': number_of_flexible_origins_range,
+                'bases_between_origins_range': bases_between_origins_range,
                 'replication_repair_duration': replication_repair_duration,
                 'is_transcription_active': is_transcription_active
                 }
