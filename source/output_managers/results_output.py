@@ -34,6 +34,11 @@ def write_overall_results(folder_path, results):
     for chromosome_code in chromosome_code_set:
         os.makedirs(folder_path + chromosome_code + "_log/")
 
+    for i, result in enumerate(results):
+        write_origin_trigger_log(log_file_path=folder_path + result[0] + "_log/" + str(i) + ".txt", log=result[-1])
+        result[-1] = i
+
+    for chromosome_code in chromosome_code_set:
         with open(folder_path + chromosome_code + ".txt", 'w') as output_file:
             output_file.write("[Sim_Dur]\t"
                               "[#_Head_Col]\t"
@@ -45,13 +50,8 @@ def write_overall_results(folder_path, results):
                               "[Log]\t"
                               "\n")
 
-            i = 0
             for result in results:
                 if result[0] == chromosome_code:
-                    i += 1
-                    write_origin_trigger_log(log_file_path=folder_path + chromosome_code + "_log/" + str(i) + ".txt",
-                                             log=result[-1])
-                    result[-1] = i
                     result_line = ""
                     for data in result[1:]:
                         result_line += "{}\t".format(data)
