@@ -35,3 +35,4 @@ def run_parallel_simulations(chromosomes,
             simulation_counter += 1
             folder_path = make_simulation_directory(simulation_number=simulation_counter)
             write_overall_results(results=results, folder_path=folder_path)
+            simulation_parameters.clear()
