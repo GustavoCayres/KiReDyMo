@@ -58,7 +58,7 @@ def write_overall_results(folder_path, results):
 
                     result_line += "\n"
                     output_file.write(result_line)
-        output_file.flush()
+            output_file.flush()
 
 
 def write_origin_trigger_log(log_file_path, log):
@@ -70,4 +70,4 @@ def write_origin_trigger_log(log_file_path, log):
                 result_line = "{}\t{}\t".format(time, origin)
                 result_line += "\n"
                 results_file.write(result_line)
-        results_file.flush()
+            results_file.flush()
