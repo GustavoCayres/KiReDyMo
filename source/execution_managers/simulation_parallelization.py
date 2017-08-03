@@ -20,6 +20,7 @@ def run_parallel_simulations(chromosomes,
 
     make_output_directory()
     simulation_parameters = []
+    pool = Pool()
     for i in range(number_of_simulations):
         for chromosome in chromosomes:
             chromosome.flexible_origins = generate_origins(chromosome=chromosome,
@@ -29,7 +30,7 @@ def run_parallel_simulations(chromosomes,
                                                                     transcription_start_delay=transcription_start_delay,
                                                                     replication_repair_duration=replication_repair_duration,
                                                                     is_transcription_active=is_transcription_active)
-        results = Pool().map(run_simulation, simulation_parameters)
+        results = pool.map(run_simulation, simulation_parameters)
         folder_path = make_simulation_directory(simulation_number=i+1)
         write_overall_results(results=results, folder_path=folder_path)
         simulation_parameters = []
