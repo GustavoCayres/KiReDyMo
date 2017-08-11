@@ -8,3 +8,5 @@ output/
 script/
 input/
 venv/
+err.txt
+out.txt

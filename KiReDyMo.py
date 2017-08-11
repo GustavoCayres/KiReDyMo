@@ -8,12 +8,10 @@ from source.execution_managers.simulation_parallelization import run_parallel_si
 
 def main(args):
     start_time = time.time()
-    print("Started parsing...")
     parsed_arguments = parse_argument_file(file_path=args[1])
     print("Parsing complete.")
-    print("Started simulation...")
+    print("Started simulations...")
     run_parallel_simulations(**parsed_arguments)
-    print("Simulation complete.")
     print("Program finished in %f seconds" % (time.time() - start_time))
 
 if __name__ == "__main__":

@@ -28,13 +28,18 @@ def make_output_directory():
 
 def write_overall_results(folder_path, results):
     chromosome_code_set = set()
+    total_origins_triggered = 0
+    total_length = 0
     for result in results:
+        total_origins_triggered += result[5]
+        total_length += result[3]*result[5]
         chromosome_code_set.add(result[0])
 
     for chromosome_code in chromosome_code_set:
         os.makedirs(folder_path + chromosome_code + "_log/")
 
     for i, result in enumerate(results):
+        result[3] = float(total_length/total_origins_triggered)
         write_origin_trigger_log(log_file_path=folder_path + result[0] + "_log/" + str(i) + ".txt", log=result[-1])
         result[-1] = i
 

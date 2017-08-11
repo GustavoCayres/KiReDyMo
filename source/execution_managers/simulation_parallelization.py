@@ -19,18 +19,19 @@ def run_parallel_simulations(chromosomes,
                              is_transcription_active):
 
     make_output_directory()
-    simulation_parameters = []
+    simulation_number = 1
     pool = Pool()
     for i in range(number_of_simulations):
         for chromosome in chromosomes:
             chromosome.flexible_origins = generate_origins(chromosome=chromosome,
                                                            bases_between_origins=bases_between_origins_range[0])
         for transcription_start_delay in range(*transcription_start_delay_range):
-            simulation_parameters += generate_simulation_parameters(chromosomes=chromosomes,
-                                                                    transcription_start_delay=transcription_start_delay,
-                                                                    replication_repair_duration=replication_repair_duration,
-                                                                    is_transcription_active=is_transcription_active)
-        results = pool.map(run_simulation, simulation_parameters)
-        folder_path = make_simulation_directory(simulation_number=i+1)
-        write_overall_results(results=results, folder_path=folder_path)
-        simulation_parameters = []
+            simulation_parameters = generate_simulation_parameters(chromosomes=chromosomes,
+                                                                   transcription_start_delay=transcription_start_delay,
+                                                                   replication_repair_duration=replication_repair_duration,
+                                                                   is_transcription_active=is_transcription_active)
+            results = pool.map(run_simulation, simulation_parameters)
+            folder_path = make_simulation_directory(simulation_number=simulation_number)
+            write_overall_results(results=results, folder_path=folder_path)
+            print("Simulation " + str(simulation_number) + " complete.")
+            simulation_number += 1
