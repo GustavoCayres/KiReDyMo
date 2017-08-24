@@ -190,15 +190,21 @@ class Database:
                               FROM ReplicationOrigin
                               WHERE chromosome_code = ?''',
                            (chromosome.code,))
-            chromosome.constitutive_origins = [ReplicationOrigin(position=t[0], score=t[1])
-                                               for t in cursor.fetchall()]
+            origin_tuples = [t for t in cursor.fetchall()]
+            min_origin = min([t[0] for t in origin_tuples])
+            max_origin = max([t[0] for t in origin_tuples])
+            chromosome.constitutive_origins = [ReplicationOrigin(position=t[0] - min_origin, score=t[1])
+                                               for t in origin_tuples]
 
+            chromosome.length = (max_origin - min_origin + 1)
+            print(chromosome.length)
             cursor.execute('''SELECT *
                               FROM TranscriptionRegion
                               WHERE chromosome_code = ?''',
                            (chromosome.code,))
-            chromosome.transcription_regions = [TranscriptionRegion(start=t[0]-1, end=t[1]-1)
-                                                for t in cursor.fetchall()]
+            for t in cursor.fetchall():
+                if 0 <= t[0] - 1 < len(chromosome) and 0 <= t[1] - 1 < len(chromosome):
+                    chromosome.transcription_regions.append(TranscriptionRegion(start=t[0] - 1, end=t[1] - 1))
 
         return chromosomes
 

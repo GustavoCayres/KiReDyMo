@@ -10,3 +10,4 @@ input/
 venv/
 err.txt
 out.txt
+results/
