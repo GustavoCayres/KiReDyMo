@@ -11,3 +11,4 @@ venv/
 err.txt
 out.txt
 results/
+graphs/

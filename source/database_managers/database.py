@@ -191,13 +191,9 @@ class Database:
                               WHERE chromosome_code = ?''',
                            (chromosome.code,))
             origin_tuples = [t for t in cursor.fetchall()]
-            min_origin = min([t[0] for t in origin_tuples])
-            max_origin = max([t[0] for t in origin_tuples])
-            chromosome.constitutive_origins = [ReplicationOrigin(position=t[0] - min_origin, score=t[1])
+            chromosome.constitutive_origins = [ReplicationOrigin(position=t[0], score=t[1])
                                                for t in origin_tuples]
 
-            chromosome.length = (max_origin - min_origin + 1)
-            print(chromosome.length)
             cursor.execute('''SELECT *
                               FROM TranscriptionRegion
                               WHERE chromosome_code = ?''',
