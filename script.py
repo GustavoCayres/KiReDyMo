@@ -2,7 +2,7 @@ import os
 import sys
 
 
-output_path = "./output/"
+output_path = "./results/results_no_edges/"
 chromosome_code = sys.argv[1]
 with open(output_path + chromosome_code + "_results.txt", 'w') as chromosome_results_file:
     chromosome_results_file.write("Sim_Dur\tInter_Dist\tTrig_Orig\t\n")
