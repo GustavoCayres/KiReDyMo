@@ -34,9 +34,6 @@ class ReplicationTrigger:
         if not self.update_start_probabilities():
             return
 
-        for origin in self.chromosome.constitutive_origins:
-            if self.start_probabilities[origin] > 0:
-                return self.trigger_origin(replications=replications, origin=origin, step=step)
         for i in range(self.available_resources):
             if self.random_generator.random() >= trigger_probability:
                 return
@@ -58,6 +55,7 @@ class ReplicationTrigger:
 
         if denominator == 0:
             return False
+
         for origin in self.replication_origins:
             self.start_probabilities[origin] = float(origin.score/denominator)
 

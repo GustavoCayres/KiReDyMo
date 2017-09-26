@@ -8,10 +8,11 @@ from source.output_managers.results_output import make_output_directory, write_o
 
 def run_simulation(parameters):
 
-    return Simulation(parameters['chromosome'], parameters['probability_of_origin_trigger']).run()
+    return Simulation(**parameters).run()
 
 
 def run_parallel_simulations(chromosomes,
+                             N_range,
                              number_of_simulations,
                              bases_between_origins_range,
                              transcription_start_delay_range,
@@ -23,12 +24,15 @@ def run_parallel_simulations(chromosomes,
     pool = Pool()
     for i in range(number_of_simulations):
         for chromosome in chromosomes:
-            chromosome.flexible_origins = generate_origins(chromosome=chromosome,
-                                                           bases_between_origins=bases_between_origins_range[0])
-        for transcription_start_delay in range(*transcription_start_delay_range):
+            chromosome.flexible_origins = []
+            chromosome.flexible_origins += generate_origins(chromosome=chromosome,
+                                                            bases_between_origins=bases_between_origins_range[0])
+            chromosome.flexible_origins += chromosome.constitutive_origins
+        for available_resources in N_range:
             simulation_parameters = generate_simulation_parameters(chromosomes=chromosomes,
-                                                                   transcription_start_delay=transcription_start_delay,
+                                                                   transcription_start_delay=None,
                                                                    replication_repair_duration=replication_repair_duration,
+                                                                   available_resources=available_resources,
                                                                    is_transcription_active=is_transcription_active)
             results = pool.map(run_simulation, simulation_parameters)
             folder_path = make_simulation_directory(simulation_number=simulation_number)

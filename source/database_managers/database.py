@@ -193,6 +193,7 @@ class Database:
             origin_tuples = [t for t in cursor.fetchall()]
             chromosome.constitutive_origins = [ReplicationOrigin(position=t[0], score=t[1])
                                                for t in origin_tuples]
+            chromosome.flexible_origins = []
 
             cursor.execute('''SELECT *
                               FROM TranscriptionRegion

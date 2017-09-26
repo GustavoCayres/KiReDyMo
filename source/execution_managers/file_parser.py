@@ -8,6 +8,7 @@ def parse_argument_file(file_path):
     transcription_start_delay_range = None
     bases_between_origins_range = None
     probability_of_origin_trigger_range = None
+    N_range = None
     replication_repair_duration = None
     is_transcription_active = None
 
@@ -46,10 +47,14 @@ def parse_argument_file(file_path):
             elif line_list[0] == '[transcription_activity]':
                 is_transcription_active = True if line_list[1] == "Yes" else False
 
+            elif line_list[0] == '[N]':
+                N_range = [int(line_list[1]), int(line_list[2]), int(line_list[3])]
+
         return {'chromosomes': chromosomes,
                 'number_of_simulations': number_of_simulations,
                 'transcription_start_delay_range': transcription_start_delay_range,
                 'bases_between_origins_range': bases_between_origins_range,
                 'replication_repair_duration': replication_repair_duration,
-                'is_transcription_active': is_transcription_active
+                'is_transcription_active': is_transcription_active,
+                'N_range': N_range
                 }

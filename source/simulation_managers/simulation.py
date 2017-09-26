@@ -10,9 +10,10 @@ from source.simulation_managers.transcription_trigger import TranscriptionTrigge
 class Simulation:
     """ Class controlling the overall progress of the simulation. """
 
-    def __init__(self, chromosome, probability_of_origin_trigger):
+    def __init__(self, chromosome, probability_of_origin_trigger, available_resources):
         self.chromosome = chromosome
         self.probability_of_origin_trigger = probability_of_origin_trigger
+        self.available_resources = available_resources
 
         self.dna_strand = DNAStrand(length=len(self.chromosome))
         self.replications = []
@@ -22,13 +23,14 @@ class Simulation:
         self.encounter_manager = Encounter(chromosome=self.chromosome)
 
         self.replication_trigger = ReplicationTrigger(chromosome=self.chromosome,
-                                                      strand=self.dna_strand)
+                                                      strand=self.dna_strand,
+                                                      available_resources=self.available_resources)
         self.transcription_triggers = [TranscriptionTrigger(transcription_region=region,
                                                             chromosome=self.chromosome,
                                                             strand=self.dna_strand)
                                        for region in self.chromosome.transcription_regions]
 
-        self.current_step = -Random().randrange(2 * self.chromosome.transcription_start_delay)
+        self.current_step = -3000
         self.maximum_steps = 10000
 
     def trigger_transcriptions(self):
@@ -67,7 +69,7 @@ class Simulation:
         return [self.chromosome.code,
                 self.current_step,
                 self.collision_manager.head_collisions,
-                len(self.chromosome)/len(self.replication_trigger.origin_trigger_log),
+                len(self.chromosome)/(len(self.replication_trigger.origin_trigger_log) + 1),
                 self.chromosome.transcription_start_delay,
                 len(self.replication_trigger.origin_trigger_log),
                 len(self.chromosome.replication_origins),

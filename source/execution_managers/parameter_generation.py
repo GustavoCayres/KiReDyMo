@@ -23,6 +23,7 @@ def generate_origins(chromosome, bases_between_origins):
 
 def generate_simulation_parameters(chromosomes,
                                    transcription_start_delay,
+                                   available_resources,
                                    replication_repair_duration,
                                    is_transcription_active):
 
@@ -38,6 +39,7 @@ def generate_simulation_parameters(chromosomes,
         chromosome.transcription_start_delay = transcription_start_delay
 
         parameters.append({'chromosome': copy.deepcopy(chromosome),
-                           'probability_of_origin_trigger': probability_of_origin_trigger})
+                           'probability_of_origin_trigger': probability_of_origin_trigger,
+                           'available_resources': available_resources})
 
     return parameters
