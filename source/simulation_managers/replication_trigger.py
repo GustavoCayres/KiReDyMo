@@ -4,11 +4,12 @@ from source.simulation_managers.replication import Replication
 
 
 class ReplicationTrigger:
-    def __init__(self, chromosome, strand):
+    def __init__(self, chromosome, strand, available_resources=20):
         self.chromosome = chromosome
         self.replication_origins = chromosome.replication_origins
         self.dna_strand = strand
         self.random_generator = Random()
+        self.available_resources = available_resources
 
         self.origin_trigger_log = {}
         self.start_probabilities = {}
@@ -16,6 +17,7 @@ class ReplicationTrigger:
     def trigger_origin(self, replications, origin, step):
         origin.score = 0
         self.origin_trigger_log[step] = origin.position
+        self.available_resources -= 1
         replications.append(Replication(origin=origin,
                                         direction=-1,
                                         speed=self.chromosome.replication_speed,
@@ -26,6 +28,7 @@ class ReplicationTrigger:
                                         speed=self.chromosome.replication_speed,
                                         repair_duration=self.chromosome.replication_repair_duration,
                                         strand=self.dna_strand))
+        self.update_start_probabilities()
 
     def start_random_origin(self, replications, trigger_probability, step):
         if not self.update_start_probabilities():
@@ -34,15 +37,15 @@ class ReplicationTrigger:
         for origin in self.chromosome.constitutive_origins:
             if self.start_probabilities[origin] > 0:
                 return self.trigger_origin(replications=replications, origin=origin, step=step)
+        for i in range(self.available_resources):
+            if self.random_generator.random() >= trigger_probability:
+                return
 
-        if self.random_generator.random() >= trigger_probability:
-            return
-
-        r = self.random_generator.random()
-        for origin, probability in self.start_probabilities.items():
-            r -= probability
-            if r < 0:
-                return self.trigger_origin(replications=replications, origin=origin, step=step)
+            r = self.random_generator.random()
+            for origin, probability in self.start_probabilities.items():
+                r -= probability
+                if r < 0:
+                    return self.trigger_origin(replications=replications, origin=origin, step=step)
 
     def update_start_probabilities(self):
         self.start_probabilities = {}
