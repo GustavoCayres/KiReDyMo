@@ -1,5 +1,3 @@
-from random import Random
-
 from source.simulation_managers.collision import Collision
 from source.simulation_managers.dna_strand import DNAStrand
 from source.simulation_managers.encounter import Encounter
@@ -63,7 +61,7 @@ class Simulation:
         self.current_step += 1
 
     def run(self):
-        while not self.dna_strand.is_duplicated(threshold=1) and self.current_step < self.maximum_steps:
+        while not self.dna_strand.is_duplicated() and self.current_step < self.maximum_steps:
             self.step()
 
         return [self.chromosome.code,
