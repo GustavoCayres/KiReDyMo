@@ -46,6 +46,7 @@ class ReplicationTrigger:
                 if r < 0:
                     self.available_resources[i] = False
                     self.trigger_origin(replications=replications, origin=origin, step=step)
+                    break
 
     def update_start_probabilities(self):
         self.start_probabilities = {}
