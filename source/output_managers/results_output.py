@@ -48,7 +48,7 @@ def write_overall_results(folder_path, results):
             output_file.write("[Sim_Dur]\t"
                               "[#_Head_Col]\t"
                               "[Interorig_Dist]\t"
-                              "[Transcript_Start_Delay]\t"
+                              "[N]\t"
                               "[#_Orig_Trig]\t"
                               "[#_Orig_Gen]\t"
                               "[Duplic_%]\t"

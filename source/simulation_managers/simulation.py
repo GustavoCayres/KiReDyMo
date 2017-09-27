@@ -68,7 +68,7 @@ class Simulation:
                 self.current_step,
                 self.collision_manager.head_collisions,
                 len(self.chromosome)/(len(self.replication_trigger.origin_trigger_log) + 1),
-                self.chromosome.transcription_start_delay,
+                self.available_resources,
                 len(self.replication_trigger.origin_trigger_log),
                 len(self.chromosome.replication_origins),
                 self.dna_strand.duplicated_percentage,
