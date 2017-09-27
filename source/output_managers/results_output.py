@@ -71,8 +71,9 @@ def write_origin_trigger_log(log_file_path, log):
             results_file.write("[Simulation_Time]\t"
                                "[Triggered Origin]\t"
                                "\n")
-            for time, origin in log.items():
-                result_line = "{}\t{}\t".format(time, origin)
-                result_line += "\n"
-                results_file.write(result_line)
+            for time, origins in log.items():
+                for origin in origins:
+                    result_line = "{}\t{}\t".format(time, origin)
+                    result_line += "\n"
+                    results_file.write(result_line)
             results_file.flush()

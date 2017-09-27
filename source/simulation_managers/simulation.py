@@ -67,9 +67,9 @@ class Simulation:
         return [self.chromosome.code,
                 self.current_step,
                 self.collision_manager.head_collisions,
-                len(self.chromosome)/(len(self.replication_trigger.origin_trigger_log) + 1),
+                float(len(self.chromosome)/(self.replication_trigger.number_of_origins + 1)),
                 self.available_resources,
-                len(self.replication_trigger.origin_trigger_log),
+                self.replication_trigger.number_of_origins,
                 len(self.chromosome.replication_origins),
                 self.dna_strand.duplicated_percentage,
                 self.replication_trigger.origin_trigger_log]
