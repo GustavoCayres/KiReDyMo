@@ -13,7 +13,8 @@ for simulation_folder_name in next(os.walk(output_path))[1]:
         result_path = simulation_path + result_file_name
         with open(result_path) as result_file:
             result_file.readline()
-            if int(result_file.readline().split('\t')[0]) > 7080 and abs(int(result_file.readline().split('\t')[2]) - 260000) > 260000*.1:
+            split_line = result_file.readline().split('\t')
+            if int(split_line[0]) > 7080 or abs(float(split_line[2]) - 260000) > 260000*.1:
                 valid = False
 
     final_path = joined_logs_path + "valid/" if valid else joined_logs_path + "not_valid/"
