@@ -17,7 +17,7 @@ for simulation_folder_name in next(os.walk(output_path))[1]:
                 valid = False
 
     final_path = joined_logs_path + "valid/" if valid else joined_logs_path + "not_valid/"
-    with open(final_path + simulation_folder_name + ".txt", 'w') as joined_logs_file:
+    with open(final_path + "valid.txt", 'a') as joined_logs_file:
         for log_folder in next(os.walk(simulation_path))[1]:
             log_path = simulation_path + log_folder + "/"
             eteds = []
