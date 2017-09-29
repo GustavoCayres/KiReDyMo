@@ -13,11 +13,12 @@ for simulation_folder_name in next(os.walk(output_path))[1]:
         result_path = simulation_path + result_file_name
         with open(result_path) as result_file:
             result_file.readline()
-            if result_file.readline().split('\t')[0] == '10000':
+            split_line = result_file.readline().split('\t')
+            if int(split_line[0]) > 7080 or abs(float(split_line[2]) - 260000) > 260000*.1:
                 valid = False
 
     final_path = joined_logs_path + "valid/" if valid else joined_logs_path + "not_valid/"
-    with open(final_path + simulation_folder_name + ".txt", 'w') as joined_logs_file:
+    with open(final_path + "valid.txt", 'a') as joined_logs_file:
         for log_folder in next(os.walk(simulation_path))[1]:
             log_path = simulation_path + log_folder + "/"
             eteds = []

@@ -1,5 +1,6 @@
 *.pyc
 *.pyo
+joined_logs/
 *.coverage
 htmlcov
 nohup.out
