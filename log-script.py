@@ -1,8 +1,9 @@
 import os
+import sys
 
 
-output_path = "./output/"
-joined_logs_path = "./joined_logs/"
+output_path = sys.argv[1] + "/"
+joined_logs_path = output_path + "joined_logs/"
 for simulation_folder_name in next(os.walk(output_path))[1]:
     simulation_path = output_path + simulation_folder_name + "/"
     os.makedirs(joined_logs_path, exist_ok=True)
@@ -14,7 +15,7 @@ for simulation_folder_name in next(os.walk(output_path))[1]:
         with open(result_path) as result_file:
             result_file.readline()
             split_line = result_file.readline().split('\t')
-            if int(split_line[0]) > 7080 or abs(float(split_line[2]) - 260000) > 260000*.1:
+            if int(split_line[0]) > 7080:
                 valid = False
 
     final_path = joined_logs_path + "valid/" if valid else joined_logs_path + "not_valid/"
