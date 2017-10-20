@@ -22,21 +22,22 @@ def run_parallel_simulations(chromosomes,
     make_output_directory()
     simulation_number = 1
     pool = Pool()
-    for i in range(number_of_simulations):
-        for bases_between_origins in range(*bases_between_origins_range):
-            for chromosome in chromosomes:
-                chromosome.flexible_origins = []
-                chromosome.flexible_origins += generate_origins(chromosome=chromosome,
-                                                                bases_between_origins=bases_between_origins)
-                chromosome.flexible_origins += chromosome.constitutive_origins
-            for available_resources in N_range:
-                simulation_parameters = generate_simulation_parameters(chromosomes=chromosomes,
-                                                                       transcription_start_delay=None,
-                                                                       replication_repair_duration=replication_repair_duration,
-                                                                       available_resources=available_resources,
-                                                                       is_transcription_active=is_transcription_active)
-                results = pool.map(run_simulation, simulation_parameters)
-                folder_path = make_simulation_directory(simulation_number=simulation_number)
-                write_overall_results(results=results, folder_path=folder_path)
-                print("Simulation " + str(simulation_number) + " complete.")
-                simulation_number += 1
+    for bases_between_origins in range(*bases_between_origins_range):
+        for chromosome in chromosomes:
+            chromosome.flexible_origins = []
+            chromosome.flexible_origins += generate_origins(chromosome=chromosome,
+                                                            bases_between_origins=bases_between_origins)
+            chromosome.flexible_origins += chromosome.constitutive_origins
+
+        for available_resources in N_range:
+            simulation_parameters = generate_simulation_parameters(chromosomes=chromosomes,
+                                                                   transcription_start_delay=None,
+                                                                   replication_repair_duration=replication_repair_duration,
+                                                                   available_resources=available_resources,
+                                                                   is_transcription_active=is_transcription_active)
+            for i in range(number_of_simulations):
+
+                    results = pool.map(run_simulation, simulation_parameters)
+                    folder_path = make_simulation_directory(simulation_number=simulation_number)
+                    write_overall_results(results=results, folder_path=folder_path)
+                    simulation_number += 1
