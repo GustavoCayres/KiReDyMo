@@ -26,11 +26,12 @@ def make_output_directory():
         break
 
 
-def write_overall_results(folder_path, results):
+def write_overall_results(folder_path, results, bbo):
     chromosome_code_set = set()
     total_origins_triggered = 0
     total_length = 0
     for result in results:
+        result[6] = bbo
         total_origins_triggered += result[5]
         total_length += result[3]*result[5]
         chromosome_code_set.add(result[0])
@@ -50,7 +51,7 @@ def write_overall_results(folder_path, results):
                               "[Interorig_Dist]\t"
                               "[N]\t"
                               "[#_Orig_Trig]\t"
-                              "[#_Orig_Gen]\t"
+                              "[Bases_btw]\t"
                               "[Duplic_%]\t"
                               "[Log]\t"
                               "\n")
