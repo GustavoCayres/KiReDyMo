@@ -39,6 +39,6 @@ def run_parallel_simulations(chromosomes,
                                                                        is_transcription_active=is_transcription_active)
 
                 results = pool.map(run_simulation, simulation_parameters)
-                folder_path = make_simulation_directory(simulation_number=simulation_number)
+                folder_path = make_simulation_directory(simulation_number="{}.{}".format(i, simulation_number))
                 write_overall_results(results=results, folder_path=folder_path, bbo=bases_between_origins)
                 simulation_number += 1
