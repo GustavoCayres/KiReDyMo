@@ -40,7 +40,7 @@ def write_overall_results(folder_path, results):
 
     for i, result in enumerate(results):
         result[3] = float(total_length/total_origins_triggered)
-        write_origin_trigger_log(log_file_path=folder_path + result[0] + "_log/" + str(i) + ".txt", log=result[-1])
+        # write_origin_trigger_log(log_file_path=folder_path + result[0] + "_log/" + str(i) + ".txt", log=result[-1])
         result[-1] = i
 
     for chromosome_code in chromosome_code_set:
