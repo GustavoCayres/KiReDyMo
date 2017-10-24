@@ -62,12 +62,14 @@ class Collision:
         if 0 <= i < len(self.chromosome.replication_origins) and self.chromosome.replication_origins[i].score > 0:
             self.chromosome.replication_origins[i].score = 1000
 
-    def resolve(self, replications, transcriptions):
+    def resolve(self, replications, transcriptions, available_resources):
         """ Solves confirmed collisions. """
 
         for transcription in transcriptions:
             for replication in replications:
                 kind, position = self.verify(replication, transcription)
+                if kind is not None:
+                    available_resources[0] += 1
                 if kind == "head" and replication.speed > 0 and replication.repair_duration > 0:
                     replication.pause(position)
                     self.maximize_nearest_origin_score(replication)

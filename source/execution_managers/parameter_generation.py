@@ -34,7 +34,7 @@ def generate_simulation_parameters(chromosomes,
         if not is_transcription_active:
             chromosome.transcription_regions = []
 
-        probability_of_origin_trigger = float(len(chromosome)/(260000 * 7080))
+        probability_of_origin_trigger = float(len(chromosome)/(260000 * 8316))
 
         chromosome.transcription_start_delay = transcription_start_delay
 

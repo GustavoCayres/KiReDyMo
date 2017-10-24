@@ -13,7 +13,7 @@ class Encounter:
 
         if not replication1.is_active() or not replication2.is_active() or\
                 replication1.direction == replication2.direction:
-            return
+            return False
 
         if 0 < -replication1.direction * replication1.position +\
                 -replication2.direction * replication2.position <= replication1.speed + replication2.speed:
@@ -21,18 +21,22 @@ class Encounter:
                                         replication1.position)/(replication1.speed + replication2.speed))
             replication1.finish(encounter_position)
             replication2.finish(encounter_position)
+            return True
 
-    def resolve(self, replications):
+    def resolve(self, replications, available_resources):
         """ Verify encounters between all possible replication pairs. """
 
         for pair in itertools.combinations(replications, 2):
-            self.verify(*pair)
+            if self.verify(*pair):
+                available_resources[0] += 2
 
         for replication in replications:
             if replication.is_active():
                 if replication.position + replication.direction * replication.speed < 0:
                     replication.finish(0)
+                    available_resources[0] += 1
                 elif replication.position + replication.direction * replication.speed >= self.chromosome_length:
                     replication.finish(self.chromosome_length - 1)
+                    available_resources[0] += 1
 
         replications[:] = [x for x in replications if x.is_active()]
