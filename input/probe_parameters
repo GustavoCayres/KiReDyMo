@@ -1,0 +1,6 @@
+[organism]	Trypanosoma brucei brucei TREU927	
+[number_of_simulations]	1	
+[transcription_start_delay]	3000	9001	2000	
+[bases_between_origins]	2999	3000	500	
+[transcription_activity]	No		
+[N]	17	18	15	
