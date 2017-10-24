@@ -22,8 +22,6 @@
 #
 
 
-
-
 import sys
 import time
 
