@@ -11,7 +11,7 @@ class Simulation:
     def __init__(self, chromosome, probability_of_origin_trigger, available_resources):
         self.chromosome = chromosome
         self.probability_of_origin_trigger = probability_of_origin_trigger
-        self.available_resources = available_resources
+        self.available_resources = [available_resources]
 
         self.dna_strand = DNAStrand(length=len(self.chromosome))
         self.replications = []
@@ -21,8 +21,7 @@ class Simulation:
         self.encounter_manager = Encounter(chromosome=self.chromosome)
 
         self.replication_trigger = ReplicationTrigger(chromosome=self.chromosome,
-                                                      strand=self.dna_strand,
-                                                      available_resources=self.available_resources)
+                                                      strand=self.dna_strand)
         self.transcription_triggers = [TranscriptionTrigger(transcription_region=region,
                                                             chromosome=self.chromosome,
                                                             strand=self.dna_strand)
@@ -41,7 +40,8 @@ class Simulation:
 
         self.replication_trigger.start_random_origin(self.replications,
                                                      self.probability_of_origin_trigger,
-                                                     self.current_step)
+                                                     self.current_step,
+                                                     self.available_resources)
 
     def step(self):
         """ Move one step forward in the simulation, updating the position of each machinery (both for replication and
@@ -49,8 +49,8 @@ class Simulation:
 
         self.trigger_transcriptions()
         self.trigger_replications()
-        self.encounter_manager.resolve(self.replications)
-        self.collision_manager.resolve(self.replications, self.transcriptions)
+        self.encounter_manager.resolve(self.replications, self.available_resources)
+        self.collision_manager.resolve(self.replications, self.transcriptions, self.available_resources)
 
         for replication in self.replications:
             replication.step()
@@ -68,7 +68,7 @@ class Simulation:
                 self.current_step,
                 self.collision_manager.head_collisions,
                 float(len(self.chromosome)/(self.replication_trigger.number_of_origins + 1)),
-                self.available_resources,
+                self.available_resources[0],
                 self.replication_trigger.number_of_origins,
                 len(self.chromosome.replication_origins),
                 self.dna_strand.duplicated_percentage,

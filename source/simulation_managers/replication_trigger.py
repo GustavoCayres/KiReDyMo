@@ -5,12 +5,11 @@ from source.simulation_managers.replication import Replication
 
 
 class ReplicationTrigger:
-    def __init__(self, chromosome, strand, available_resources):
+    def __init__(self, chromosome, strand):
         self.chromosome = chromosome
         self.replication_origins = chromosome.replication_origins
         self.dna_strand = strand
         self.random_generator = Random()
-        self.available_resources = available_resources * [True]
 
         self.origin_trigger_log = defaultdict(list)
         self.number_of_origins = 0
@@ -32,19 +31,19 @@ class ReplicationTrigger:
                                         strand=self.dna_strand))
         self.update_start_probabilities()
 
-    def start_random_origin(self, replications, trigger_probability, step):
+    def start_random_origin(self, replications, trigger_probability, step, available_resources):
         if not self.update_start_probabilities():
             return
 
-        for i, resource in enumerate(self.available_resources):
-            if not resource or self.random_generator.random() >= trigger_probability:
+        for i in range(available_resources[0]):
+            if self.random_generator.random() >= trigger_probability:
                 continue
 
             r = self.random_generator.random()
             for origin, probability in self.start_probabilities.items():
                 r -= probability
                 if r < 0:
-                    self.available_resources[i] = False
+                    available_resources[0] -= 2
                     self.trigger_origin(replications=replications, origin=origin, step=step)
                     break
 

@@ -10,6 +10,7 @@ script/
 input/
 venv/
 err.txt
+big_sim/
 chart.txt
 out.txt
 results/
