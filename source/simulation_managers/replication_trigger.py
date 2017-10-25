@@ -32,7 +32,7 @@ class ReplicationTrigger:
         self.update_start_probabilities()
 
     def start_random_origin(self, replications, trigger_probability, step, available_resources):
-        if not self.update_start_probabilities():
+        if available_resources[0] < 2 or not self.update_start_probabilities():
             return
 
         for i in range(available_resources[0]):

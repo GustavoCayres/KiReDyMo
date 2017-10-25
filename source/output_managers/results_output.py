@@ -26,12 +26,13 @@ def make_output_directory():
         break
 
 
-def write_overall_results(folder_path, results, bbo):
+def write_overall_results(folder_path, results, avr, bbo):
     chromosome_code_set = set()
     total_origins_triggered = 0
     total_length = 0
     for result in results:
         result[6] = bbo
+        result[4] = avr
         total_origins_triggered += result[5]
         total_length += result[3]*result[5]
         chromosome_code_set.add(result[0])

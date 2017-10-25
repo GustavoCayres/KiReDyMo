@@ -40,5 +40,8 @@ def run_parallel_simulations(chromosomes,
 
                 results = pool.map(run_simulation, simulation_parameters)
                 folder_path = make_simulation_directory(simulation_number="{}.{}".format(i, simulation_number))
-                write_overall_results(results=results, folder_path=folder_path, bbo=bases_between_origins)
+                write_overall_results(results=results,
+                                      folder_path=folder_path,
+                                      avr=available_resources,
+                                      bbo=bases_between_origins)
                 simulation_number += 1
